@@ -43,4 +43,10 @@ task generateHymnals(type: JavaExec) {
     args projectDir
 }
 
+task deployPilotToProduction(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'com.solafide.service.DeployService'
+    args projectDir
+}
+
 build.dependsOn generateHymnals
