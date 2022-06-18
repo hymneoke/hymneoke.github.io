@@ -1,0 +1,161 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Intercession, LM"|Author:"Early Music for Church Choirs, 1853"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 363."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Deep in the dust be-fore Thy throne\nOur guilt and our dis-grace we own;\nGreat God! we own th’un-hap-py name\nWhence sprang our na-ture and our shame;\n"
+|Lyric2|Text:"2._Ad-am the sin-ner: at his fall\nDeath like a con-queror seized us all;\nA thou-sand new-born babes are dead\nBy fa-tal un-ion to their head.\n"
+|Lyric3|Text:"3._But whilst our spir-its, filled with awe,\nBe-hold the ter-rors of Thy law,\nWe sing the hon-ors of Thy grace,\nThat sent to save our ru-ined race.\n"
+|Lyric4|Text:"4._We sing Thine ev-er-last-ing Son,\nWho joined our na-ture to His own;\nAd-am the sec-ond from the dust\nRais-es the ru-ins of the first.\n"
+|Lyric5|Text:"5._By the re-bel-lion of one man\nThrough all his seed the mis-chief ran;\nAnd by one man’s o-be-dience now\nAre all his seed made right-eous, too.\n"
+|Lyric6|Text:"6._Where sin did reign, and death a-bound,\nThere have the sons of Ad-am found\nA-bound-ing life; there glo-rious grace\nReigns through the Lord our right-eous-ness.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:1
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,-2|Opts:Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Intercession, LM"|Label:"Intercession, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:3,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:6|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:8|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:7|Opts:Stem=Up,Tie=Downward
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:6|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:4,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:5,7|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:4|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:6|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:3,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:#0,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:1,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,#3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,7|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:6|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-4,5|Opts:Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

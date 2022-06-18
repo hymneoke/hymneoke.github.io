@@ -1,0 +1,122 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Alstone, LM"|Author:"Christopher Edwin Willing, 1868"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient & Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 331."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._By var-ious max-ims, forms and rules,\nThat pass for wis-dom in the schools,\nI strove my pas-sion to re-strain;\nBut all my ef-forts proved in vain.\n"
+|Lyric2|Text:"2._But since the Sav-ior I have known\nMy rules are all re-duced to one:\nTo keep my Lord, by faith, in view;\nThis strength sup-plies, and mo-tives too.\n"
+|Lyric3|Text:"3._I see Him lead a suf-fering life,\nSo pa-tient midst re-proach and strife;\nAnd from His pat-tern cour-age take\nTo bear, and suf-fer, for His sake.\n"
+|Lyric4|Text:"4._Up-on the cross I see Him bleed,\nAnd by the fight from guilt am freed;\nThis sight de-stroys the life of sin,\nAnd quick-ens heav’n-ly life with-in.\n"
+|Lyric5|Text:"5._To look to Je-sus as He rose\nCon-firms my faith, dis-arms my foes;\nI Sa-tan shame and o-ver-come,\nBy point-ing to my Sav-ior’s tomb.\n"
+|Lyric6|Text:"6._Ex-alt-ed on His glo-rious throne,\nI see Him make my cause His own;\nThen all my anx-ious cares sub-side,\nFor Je-sus lives, and will pro-vide.\n"
+|Lyric7|Text:"7._I see Him look with pit-y down,\nAnd hold in view the con-queror’s crown;\nIf pressed with griefs and cares be-fore,\nMy soul re-vives, and asks no more.\n"
+|Lyric8|Text:"8._By faith I see the hour at hand\nWhen in His pres-ence I shall stand;\nThen it will be my end-less bliss,\nTo see Him where, and as He is.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Alstone, LM"|Label:"Alstone, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-1,1
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

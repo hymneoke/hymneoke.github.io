@@ -1,0 +1,123 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Abschied, LM"|Author:"Wenzel Müller, 1828"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 39. From Müller\'s \"Abschied von der Heimat\" (Farewell to the Homeland)."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Je-su! the ver-y thought is sweet!\nIn that dear name all heart-joys meet;\nBut sweet-er than the hon-ey far\nThe glimps-es of His pres-ence are.\n"
+|Lyric2|Text:"2._No word is sung more sweet than this:\nNo name is heard more full of bliss;\nNo thought brings sweet-er com-fort nigh,\nThan Je-sus, Son of God most high.\n"
+|Lyric3|Text:"3._Je-su! the hope of souls for-lorn!\nHow good to them for sin that mourn!\nTo them that seek Thee, O how kind!\nBut what art Thou to them that find?\n"
+|Lyric4|Text:"4._Je-su, Thou sweet-ness, pure and blest,\nTruth’s foun-tain, light of souls dis-tressed,\nSur-pas-sing all that heart re-quires,\nEx-ceed-ing all that soul de-sires!\n"
+|Lyric5|Text:"5._No tongue of mor-tal can ex-press,\nNo let-ters write His bless-ed-ness,\nA-lone who hath Thee in his heart\nKnows, love of Je-sus! what Thou art.\n"
+|Lyric6|Text:"6._O Je-su! King of won-drous might!\nO Vic-tor, glo-rious from the fight!\nSweet-ness that may not be ex-pressed,\nAnd al-to-geth-er love-li-est!\n"
+|Lyric7|Text:"7._Re-main with us, O Lord, to-day!\nIn eve-ry heart Thy grace dis-play;\nThat now the shades of night are fled,\nOn Thee our spir-its may be fed.\n"
+|Lyric8|Text:"8._All hon-or, laud and glo-ry be,\nO Je-su, vir-gin-born, to Thee!\nAll glo-ry, as is ev-er meet,\nTo Fa-ther and to Par-a-clete.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,n-1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:#-3,n-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:#-3,n-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:b-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Abschied"|Label:"Abschied"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,#2
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:n-2,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-5,6
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

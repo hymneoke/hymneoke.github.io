@@ -1,0 +1,141 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:40|CaretPos:-2
+|SongInfo|Title:"Elim (Greatorex), CM"|Author:"Henry Wellington Greatorex, 1849"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Methodist Hymn and Tune Book (Toronto, Canada: Methodist Book & Publishing House, 1894), # 623. Original publication date found at http://www.hymnary.org."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._How bright these glo-rious spir-its shine!\nWhence all their white ar-ray?\nHow came they to the bliss-ful seats\nOf ev-er-last-ing day?\n"
+|Lyric2|Text:"2._Lo! these are they from suf-ferings great\nWho came to realms of light;\nAnd in the blood of Christ have washed\nThose robes which shine so bright.\n"
+|Lyric3|Text:"3._Now with tri-um-phal palms they stand\nBe-fore the throne on high,\nAnd serve the God they love a-midst\nThe glo-ries of the sky.\n"
+|Lyric4|Text:"4._His pres-ence fills each heart with joy,\nTunes eve-ry mouth to sing:\nBy day, by night, the sac-red courts\nWith glad ho-san-nas ring.\n"
+|Lyric5|Text:"5._Hun-ger and thirst are felt no more,\nNor suns with scorch-ing ray;\nGod is their sun, whose cheer-ing beams\nDif-fuse e-ter-nal day.\n"
+|Lyric6|Text:"6._The Lamb, which dwells a-midst the throne\nShall over them still pre-side,\nFeed them with nour-ish-ment di-vine,\nAnd all their foot-steps guide.\n"
+|Lyric7|Text:"7._Midst pas-tures green He’ll lead His flock\nWhere liv-ing streams ap-pear;\nAnd God the Lord from eve-ry eye\nShall wipe off eve-ry tear.\n"
+|Lyric8|Text:"8._To Fa-ther, Son and Ho-ly Ghost,\nThe God whom we a-dore,\nBe glo-ry, as it was, is now,\nAnd shall be ev-er-more.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:n-4,0
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3,0
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Elim, CM"|Label:"Elim, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:8|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:8|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:9|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,8
+|Bar
+|Chord|Dur:Half|Pos:-2,7
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

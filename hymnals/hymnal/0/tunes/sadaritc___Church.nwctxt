@@ -1,0 +1,144 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:42|CaretPos:-1
+|SongInfo|Title:"Church, CM"|Author:"Joseph Perry Holbrook, 1868"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Psalter Hymnal (Pittsburgh, Pennsylvania: United Presbyterian Board of Publication & Bible School Work, 1927), # 242."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Shall a-theists dare in-sult the cross\nOf our Re-deem-er, God?\nShall in-fi-dels re-proach His laws,\nOr tram-ple on His blood?\n"
+|Lyric2|Text:"2._What if He choose mys-te-rious ways\nTo cleanse us from our faults?\nMay not the works of sov-ereign grace\nTran-scend our fee-ble thoughts?\n"
+|Lyric3|Text:"3._What if His Gos-pel bids us fight\nWith flesh, and self, and sin,\nThe prize is most di-vine-ly bright\nThat we are called to win.\n"
+|Lyric4|Text:"4._What if the fool-ish and the poor\nHis glo-rious grace par-take,\nThis but con-firms His truth the more,\nFor so the proph-ets spake.\n"
+|Lyric5|Text:"5._Do some that own His sac-red name\nIn-dulge their souls in sin?\nJe-sus should nev-er bear the blame,\nHis laws are pure and clean.\n"
+|Lyric6|Text:"6._Then let our faith grow firm and strong,\nOur lips pro-fess His Word;\nNor blush nor fear to walk a-mong\nThe men that love the Lord.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:b-2,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-6,-1|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Church, CM, Joseph Holbrook"|Label:"Church, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:2,n4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

@@ -1,0 +1,169 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Long Mott, 11.11.11.11"|Author:"Herbert Stephen Irons, 1894"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Carols for Use in Church, by Richard R. Chope (London: William Clowes & Sons, 1894), # 13."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Chris-tians, car-ol sweet-ly,\nUp to-day and sing!\n’Tis the hap-py birth-day\nOf our ho-ly king:\nHaste we then to greet Him,\nHum-bly fall-ing down,\nWhile our hands en-twine Him,\nDear-est Babe, a crown.\n"
+|Lyric2|Text:"2._Crowds of snow-white an-gels\nThrong the gold-en stair;\nAll things are de-light-ful,\nAll things pass-ing fair;\nBells, clear mu-sic mak-ing,\nPeal the news to earth;\nChimes with-in make an-swer,\nAll is glee and mirth.\n"
+|Lyric3|Text:"3._Mi-chael, at the man-ger,\nBows his roy-al face;\nGa-bri-el, with lil-y,\nHides tran-scend-ent grace:\nFor, dear friends, the glo-ry\nOf that low-ly bed\nO-ver-powers the beau-ty\nOn arch-an-gels shed.\n"
+|Lyric4|Text:"4._Shall I tell of Jo-seph,\nWho, with rapt sur-prise,\nSees the light from God-head\nFill those in-fant eyes?\nShall I sing of Mar-y,\nWho, up-on her breast,\nCra-dles her cre-a-tor,\nSoothes Him to His rest?\n"
+|Lyric5|Text:"5._An-gels, Mar-y, Jo-seph,\nYes, I greet you all!\nFall-ing down in wor-ship\nAt the man-ger stall!\nFor you hail our mon-arch,\nBorn a child to-day;\nSo with you I wor-ship\nAnd my hom-age pay.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:115|Pos:13|Justify:Right
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:n-3,2
+|Bar
+|Chord|Dur:Whole|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-4,n-2
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:#-5,-3
+|Bar
+|Chord|Dur:Whole|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:-2,4
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Whole|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:n-2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Whole|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Staff 2"|Label:"Staff 2"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Whole|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,#4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,#4
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:#0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:4,5
+|Bar
+|Chord|Dur:Whole|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-3,7
+|Chord|Dur:Half|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Half,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:0
+|Note|Dur:Half|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:#1,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,n8
+|Bar
+|Chord|Dur:4th,Slur|Pos:8|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:4,6|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Whole|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

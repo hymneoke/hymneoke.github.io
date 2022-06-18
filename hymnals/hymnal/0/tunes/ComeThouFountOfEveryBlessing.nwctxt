@@ -1,0 +1,214 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Come, Thou Fount of Every Blessing"|Author:"John Wyeth, 1813"|Lyricist:"Robert Robinson, 1758"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 400."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.29|Right:2.54|Bottom:2.29|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Come, Thou fount of ev-ery bless-ing,\nTune my heart to sing Thy grace;\nStreams of mer-cy, ne-ver ceas-ing,\nCall for songs of loud-est praise.\nTeach me some me-lo-dious son-net,\nSung by flam-ing tongues a-bove.\nPraise the mount! I’m fixed up-on it,\nMount of Thy re-deem-ing love.\n"
+|Lyric2|Text:"2._Sor-rowing I shall be in spir-it,\nTill re-leased from flesh and sin,\nYet from what I do in-her-it,\nHere Thy prais-es I’ll be-gin;\nHere I raise my E-be-ne-zer;\nHere by Thy great help I’ve come;\nAnd I hope, by Thy good plea-sure,\nSafe-ly to ar-rive at home.\n"
+|Lyric3|Text:"3._Je-sus sought me when a strang-er,\nWan-dering from the fold of God;\nHe, to res-cue me from dan-ger,\nIn-te-rposed His pre-cious blood;\nHow His kind-ness yet pur-sues me\nMort-al tongue can ne-ver tell,\nClothed in flesh, till death shall loose me\nI can-not pro-claim it well.\n"
+|Lyric4|Text:"4._O to grace how great a debt-or\nDai-ly I’m con-strained to be!\nLet Thy good-ness, like a fet-ter,\nBind my wan-dering heart to Thee.\nProne to wan-der, Lord, I feel it,\nProne to leave the God I love;\nHere’s my heart, O take and seal it,\nSeal it for Thy courts a-bove.\n"
+|Lyric5|Text:"5._O that day when freed from sin-ning,\nI shall see Thy love-ly face;\nCloth-èd then in blood washed li-nen\nHow I’ll sing Thy sov-ereign grace;\nCome, my Lord, no long-er tar-ry,\nTake my ran-somed soul a-way;\nSend Thine an-gels now to ca-rry\nMe to realms of end-less day.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:16th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Note|Dur:16th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:16th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Note|Dur:16th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Spacer|Width:525
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Bar
+|Boundary|Style:NewSize|Upper:21
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:5,7
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-2,4
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

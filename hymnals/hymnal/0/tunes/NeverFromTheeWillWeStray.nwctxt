@@ -1,0 +1,229 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Never from Thee Will We Stray"|Author:"George Frederick Root"|Lyricist:"Sophia Taylor Griswold, 1870"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Prize, edited by George F. Root (Chicago, Illinois: Root & Cady, 1870), number 60. Also in  Winnowed Songs for Sunday Schools, edited by Ira D. Sankey (New York: Biglow & Main, 1890), # 128."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Ten-der-ly guide us, O Shep-herd of Love,\nTo the green pas-tures and wa-ters a-bove,\nGuard-ing us ev-er by night and by day,\nNe-ver from Thee will we stray.\n\nNe-ver, ne-ver,\nNe-ver, oh, ne-ver for Thou art the way;\nNe-ver, ne-ver,\nNe-ver from Thee will we stray.\n"
+|Lyric2|Text:"2._What tho’ the hea-vens with clouds be o’er-cast,\nFear-ful the tem-pest and bit-ter the blast;\nWhat tho’ the ri-ver of death bar the way,\nNe-ver from Thee will we stray.\n\nNe-ver, ne-ver,\nNe-ver, oh, ne-ver for Thou art the way;\nNe-ver, ne-ver,\nNe-ver from Thee will we stray.\n"
+|Lyric3|Text:"3._O-ver our weak-ness Thy strength hath been cast,\nKeep us in meek-ness, Thine own till the last;\nThen, safe-ly fold-ed, where Thou art the day,\nNe-ver from Thee will we stray.\n\nNe-ver, ne-ver,\nNe-ver, oh, ne-ver for Thou art the way;\nNe-ver, ne-ver,\nNe-ver from Thee will we stray.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:88|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Bar
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2^
+|Chord|Dur:4th|Pos:-5,-2
+|Rest|Dur:8th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:12
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4^,1^|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:4th|Pos:-5^,0^
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4^,1^
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5^,0^
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2^
+|Chord|Dur:4th|Pos:-5,-2
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Never from Thee Will WeStra"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,4
+|Chord|Dur:8th|Pos:-4,5
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,6
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Bar
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,4
+|Chord|Dur:8th|Pos:-4,5
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,5^
+|Chord|Dur:4th|Pos:3,5
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-4,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:-4,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-4,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:-4,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,5^
+|Chord|Dur:4th|Pos:3,5
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

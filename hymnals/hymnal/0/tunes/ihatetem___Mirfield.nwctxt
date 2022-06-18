@@ -1,0 +1,124 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:26|CaretPos:5
+|SongInfo|Title:"Mirfield, CM"|Author:"Arthur Cottman, 1872"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Junior Church School Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Christian Education, 1930), # 3. Also in The Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Publication & Sabbath-School Work, 1907), # 296, 653."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._I hate the tempt-er and his charms,\nI hate his flat-tering breath;\nThe ser-pent takes a thou-sand forms\nTo cheat our souls to death.\n"
+|Lyric2|Text:"2._He feeds our hope with air-y dreams\nOr kills with slav-ish fear;\nAnd holds us still in wide ex-tremes,\nPre-sump-tion or de-spair.\n"
+|Lyric3|Text:"3._Now he per-suades, “How eas-y ’tis\nTo walk the road to Heav’n”;\nA-non he swells our sins, and cries,\n“They can-not be for-giv’n.”\n"
+|Lyric4|Text:"4._He bids young sin-ners, “Yet for-bear\nTo think of God, or death;\nFor pray-er and de-vo-tion are\nBut mel-an-chol-y breath.”\n"
+|Lyric5|Text:"5._He tells the a-ged, they must die,\nAnd ’tis too late to pray;\nIn vain for mer-cy now they cry,\nFor they have lost their day.\n"
+|Lyric6|Text:"6._Thus he sup-ports his cru-el throne\nBy mis-chief and de-ceit,\nAnd drags the sons of Ad-am down\nTo dark-ness and the pit.\n"
+|Lyric7|Text:"7._Al-might-y God, cut short his power;\nLet him in dark-ness dwell;\nAnd that he vex the earth no more,\nCon-fine him down to hell.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Slur|Pos:-7|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,0|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:#-3,2
+|Chord|Dur:4th|Pos:n-3,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:#-3,2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Base Clef"|Label:"Base Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Slur|Pos:5,7|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down,Beam=End
+|Boundary|Style:NewSize|Upper:13
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:4th|Pos:3,n5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,n5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:-5,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

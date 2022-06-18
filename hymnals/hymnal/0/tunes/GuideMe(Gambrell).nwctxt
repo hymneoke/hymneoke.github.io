@@ -1,0 +1,196 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Guide Me"|Author:"Charles Hutchinson Gabriel"|Lyricist:"Eric Gambrell, 1911"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The New Evangel, by Robert H. Coleman (Philadelphia, Pennsylvania: American Baptist Publication Society, 1911), # 9."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:27|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Hide not Thy face, O Lord of Grace;\nThou who hast tast-ed woe;\nThro’ er-ror’s night lend Thou Thy light\nTo guide me as I go!\nGuide me, guide me, in this world of woe;\nThro’ er-ror’s night lend Thou Thy light\nTo guide me as I go!\n"
+|Lyric2|Text:"2._On Cal-v’ry’s tree a thief to Thee\nTurned his re-pent-ant eyes,\nAnd for the gloom of death’s dark doom\nThou gav-est Par-a-dise!\nGuide me, guide me, guard me with Thine eyes,\nAnd for the gloom of death’s dark doom\nThou gav-est Par-a-dise!\n"
+|Lyric3|Text:"3._E’en so thro’ tears of bur-dened years\nEarth’s child-ren cry to Thee,\nWhose blood was spilt that hu-man guilt\nBe par-doned, full and free!\nGuide me, guide me, hear my cry to Thee,\nWhose blood was spilt that hu-man guilt\nBe par-doned, full and free!\n"
+|Lyric4|Text:"4._Con-trite they plead their ev-ery need,\nThy grace will e’en ful-fill,\nTo life’s last breath, thro’ gloom of death,\nGuide Thou the way-ward still!\nGuide me, guide me, that I do Thy will,\nTo life’s last breath, thro’ gloom of death,\nGuide Thou the way-ward still!\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:90|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-4
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-5,2
+|Chord|Dur:4th|Pos:-2,0
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Rest|Dur:4th
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-4
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,0
+|Spacer|Width:175
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-3
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:#-2,0
+|Chord|Dur:8th|Pos:-2,2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-2,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-1,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Guide Me"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,#3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,8
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:2,8
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:2,n6
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:4th|Pos:3,b5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,191 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:72|CaretPos:0
+|SongInfo|Title:"I See Thee Standing"|Author:"Anonymous"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Psalter Hymnal (Grand Rapids, Michigan: Board of Publications of the Christian Reformed Church, 1976), # 131."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Come all who love the slaugh-tered Lamb,\nAnd suf-fer for His cause;\nEn-joy with us His sac-red shame,\nAnd glo-ry in His cross;\nHis wel-come cross we dai-ly bear,\nHat-ed, re-viled, op-pressed;\nWe on-ly can His truths de-clare\nWho calls the suf-ferers blessed.\n"
+|Lyric2|Text:"2._Our Mas-ter’s bur-den we sus-tain,\nAf-flict-ed for His sake,\nIn loss, re-proach, dis-tress and pain,\nA strange de-light we take.\nWe drink the con-se-crat-ed cup\nOur Sav-ior drank be-fore,\nAnd fill our Lord’s af-flic-tions up,\nAnd tri-umph in His power.\n"
+|Lyric3|Text:"3._His power is in our weak-ness shown,\nAnd per-fect-ly dis-played;\nThe strength we feel is not our own,\nBut flows from Christ our Head.\nWith con-so-la-tions from a-bove\nHe fills our rav-ished breast;\nThe Spir-it of His glo-rious Love\nOn eve-ry soul doth rest.\n"
+|Lyric4|Text:"4._He takes His suf-fering peo-ple’s part,\nAnd sheds His Love a-broad,\nAnd wit-ness-es with eve-ry heart,\n“Thou art a child of God.”\nSure-ly we now be-lieve and feel\nOur sins are all for-given;\nThe out-ward and the in-ward seal\nCon-firm us heirs of Heaven.\n"
+|Lyric5|Text:"5._Then let us all our bur-den bear,\nTo Christ our souls com-mend,\nJoy-ful His lot on earth to share\nAnd pa-tient to the end.\n“Be faith-ful un-to death,” He cries,\n“And I the crown will give”;\n“A-men,” the glo-rious Spirit re-plies,\n“We die with Thee to live.”\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:170|Pos:12|Justify:Right
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:-4,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:Half|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Rest|Dur:4th
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Rest|Dur:4th
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:Half|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:Half|Pos:-4,n-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Rest|Dur:4th
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"I See Thee Standing"|Label:"I See Thee Standing"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:n-2,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:0,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Rest|Dur:4th
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:-4,5
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Rest|Dur:4th
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half|Pos:-1,4
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:Half|Pos:2,7
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Rest|Dur:4th
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:-4,5
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,4
+|Bar
+|Chord|Dur:Whole|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

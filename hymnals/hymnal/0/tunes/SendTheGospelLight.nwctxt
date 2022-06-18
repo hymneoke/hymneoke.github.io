@@ -1,0 +1,203 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Send the Gospel Light"|Author:"Ira David Sankey"|Lyricist:"Frances Jane (Fanny) Crosby, 1899"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sacred Songs No. 2, by Ira Sankey, James McGranahan & George C. Stebbins (New York: Biglow & Main, 1899), # 2.\r\n"
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Send the light, oh, send it quick-ly\nFar a-cross the heav-ing main;\nSpeed the news of full sal-va-tion,\nThro’ a dear Re-deem-er’s name.\n\nSend the light, oh, send it quick-ly\nTo the isles be-yond the sea;\nLet them hear the wond-rous stor-y—\nLove is bound-less, grace is free!\n"
+|Lyric2|Text:"2._Send the light, where souls are dy-ing\nIn their dark-ness, gloom, and night;\nHaste, oh haste! the days are fleet-ing,\nAnd the hours— how swift their flight.\n\nSend the light, oh, send it quick-ly\nTo the isles be-yond the sea;\nLet them hear the wond-rous stor-y—\nLove is bound-less, grace is free!\n"
+|Lyric3|Text:"3._Send the light— the Lord com-mands it!\nTo His Ho-ly Word at-tend:\n“Go ye forth and preach My Gos-pel;\nLo! I’m with you to the end.”\n\nSend the light, oh, send it quick-ly\nTo the isles be-yond the sea;\nLet them hear the wond-rous stor-y—\nLove is bound-less, grace is free!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Chord|Dur:8th,Dotted|Pos:-2,1
+|Chord|Dur:16th|Pos:-2,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,0
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-5,1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:n-3,2
+|Bar
+|Chord|Dur:4th|Pos:n-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-6,-3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-7,-2
+|Spacer|Width:350
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:22
+|Chord|Dur:8th,Dotted|Pos:-5,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,2
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-1,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,#1
+|Chord|Dur:16th|Pos:-2,1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:n-3,2
+|Bar
+|Chord|Dur:4th|Pos:n-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-7,-2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Send the Gospel Light"|Label:"Send the Gospel Light"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,8
+|Chord|Dur:16th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,6
+|Chord|Dur:16th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,3
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Bar|Style:Double
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:2,#7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:-3,8
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Boundary|Style:NewSize|Upper:5
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,3
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

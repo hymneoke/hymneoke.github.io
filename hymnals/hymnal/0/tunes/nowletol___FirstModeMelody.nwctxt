@@ -1,0 +1,134 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:48|CaretPos:-8
+|SongInfo|Title:"First Mode Melody, CMD"|Author:"Thomas Tallis (1505-1585)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The English Hymnal (London: Oxford University Press, 1906), # 78."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Now let our lips with ho-ly fear\nAnd mourn-ful pleas-ure sing\nThe suf-ferings of our great high priest,\nThe sor-rows of our king.\n"
+|Lyric2|Text:"2._He sinks in floods of deep dis-tress,\nHow high the wa-ters rise!\nWhile to His heaven-ly Fa-ther’s ear\nHe sends per-pet-ual cries.\n"
+|Lyric3|Text:"3._“Hear me, O Lord, and save Thy Son,\nNor hide Thy shin-ing face;\nWhy should Thy fa-vorite look like one\nFor-sak-en of Thy grace?\n"
+|Lyric4|Text:"4._“With rage they per-se-cute the man\nThat groans be-neath Thy wound,\nWhile for a sac-ri-fice I pour\nMy life up-on the ground.\n"
+|Lyric5|Text:"5._“They tread my hon-or to the dust,\nAnd laugh when I com-plain;\nTheir sharp in-sult-ing slan-ders add\nFresh an-guish to my pain.\n"
+|Lyric6|Text:"6._“All my re-proach is known to Thee,\nThe scan-dal and the shame;\nRe-proach has broke My bleed-ing heart,\nAnd lies de-filed My name.\n"
+|Lyric7|Text:"7._“I looked for pit-y, but in vain;\nMy kin-dred are my grief:\nI ask my friends for com-fort round,\nBut meet with no re-lief.\n"
+|Lyric8|Text:"8._“With vin-e-gar they mock My thirst,\nThey give Je gall for food;\nAnd sport-ing with My dy-ing groans,\nThey tri-umph in My blood.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-8,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-6,n-4
+|Chord|Dur:4th|Pos:-8,-3
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:n-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:n-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:n0
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-4,-2,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:n-5,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-6,n-4
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:n-5,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,n-4
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-8,-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"First Mode Melody, CMD"|Label:"First Mode Melody, CMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half|Pos:3,n7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:Half|Pos:3,n7
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:10.5|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:2
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

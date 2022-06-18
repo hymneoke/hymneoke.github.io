@@ -1,0 +1,195 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:15|CaretPos:9
+|SongInfo|Title:"Christ Lag in Todes Banden"|Author:"Johann Walther, 1524"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Kern Des Deutschen Kirchengesangs, by Friedrich Layriz, Part 1, (Nördlingen, Germany: C. H. Beck\'schen Buchhandlung, 1849), # 16."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Christ in the bands of death was laid,\nFor our trans-gres-sions giv-en:\nHe rose: the way He o-pen made\nTo life, the life of Heav-en.\nThere-fore we will now re-joice,\nAnd praise our God with thank-ful voice,\nAnd raise our hal-le-lu-jah! Hal-le-lu-jah!\n"
+|Lyric2|Text:"2._By none of all the sons of men\nCould death’s dark realm be shak-en:\nSin made our strength all weak and vain:\nAll have of guilt par-tak-en.\nThus came death up-on us all,\nAnd bound the fall-en world in thrall\nBe-neath his dread do-min-ion. Hal-le-lu-jah!\n"
+|Lyric3|Text:"3._But Je-sus Christ, God’s on-ly Son,\nHath in our stead de-scend-ed:\nO’er death our Lord the vic-tory won,\nWhen He trans-gres-sion end-ed.\nHe de-stroyed death’s power and claim,\nAnd left to death an emp-ty name:\nA-way his sting has tak-en. Hal-le-lu-jah!\n"
+|Lyric4|Text:"4._How great, how won-drous was the strife!\nLife was by death as-sail-èd!\nBut Je-sus Christ, the Prince of Life,\nWith con-quering arm pre-vail-èd.\nThis of old the seers did say,\nThat death should make of death a prey:\nSo death hath scorn en-dur-èd. Hal-le-lu-jah!\n"
+|Lyric5|Text:"5._This is the true, the Pas-chal Lamb,\nAs-signed to us from Heav-en:\nHis life to love’s con-sum-ing flame\nUp-on the cross was giv-en.\nIf on us His blood ap-pear,\nFaith holds by this, though death be near:\nSub-dued is the de-stroy-er! Hal-le-lu-jah!\n"
+|Lyric6|Text:"6._So let us keep our ho-ly day,\nHigh joy our hearts o’er-flow-ing;\nThe Lord Him-self with heav-en-ly ray\nThis day on us be-stowing.\nHe Him-self our sun doth shine\nUp-on our hearts with grace di-vine:\nThe night of sin fast fad-eth. Hal-le-lu-jah\n"
+|Clef|Type:Treble
+|Tempo|Tempo:108|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:#-6,-1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:#-6,-4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:#-6,-1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:#-6,-4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Slur|Pos:b-7|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:#-6,-1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-4^,3
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:#-6,-1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:#-6,-4
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:#-6,-4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Christ Lag (Walther)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:1,#3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:b-2,b5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th|Pos:-5,6
+|Chord|Dur:8th,Slur|Pos:b5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,#2
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:1,#3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:b-2,b5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th|Pos:-5,6
+|Chord|Dur:8th,Slur|Pos:b5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,#2
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:b-2,b5
+|Chord|Dur:4th|Pos:-4,6
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:b-2,0
+|Chord|Dur:4th|Pos:-3,1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,#3
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half|Pos:0,#2
+|Bar
+|Chord|Dur:4th|Pos:-5,6
+|Chord|Dur:8th,Slur|Pos:b5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,#2|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

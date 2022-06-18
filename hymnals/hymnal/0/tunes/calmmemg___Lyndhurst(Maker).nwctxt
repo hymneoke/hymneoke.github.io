@@ -1,0 +1,127 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:47|CaretPos:0
+|SongInfo|Title:"Lyndhurst (Maker), CM"|Author:"Frederick Charles Maker, 1876"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Publication & Sabbath-School Work, 1907), # 719."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Calm me, my God, and keep me calm,\nWhile these hot breez-es blow,\nBe like the night-dew’s cool-ing balm\nUp-on earth’s fe-vered brow.\n"
+|Lyric2|Text:"2._Calm me, my God, and keep me calm,\nSoft rest-ing on Thy breast;\nSooth me with ho-ly hymn and psalm,\nAnd bid my spir-it rest.\n"
+|Lyric3|Text:"3._Calm me, my God, and keep me calm;\nLet Thine out-stretch-èd wing\nBe like the shade of El-im’s palm\nBe-side her de-sert spring.\n"
+|Lyric4|Text:"4._Yes, keep me calm, tho’ loud and rude\nThe sounds my ear that greet,\nCalm in the clos-et’s sol-i-tude,\nCalm in the bus-tling street;\n"
+|Lyric5|Text:"5._Calm in the hour of buoy-ant health,\nCalm in my hour of pain;\nCalm in my pov-er-ty or wealth\nCalm in my loss or gain.\n"
+|Lyric6|Text:"6._Calm in the suf-fer-ance of wrong,\nLike Him who bore my shame,\nCalm ’mid the threat-ening, taunt-ing throng\nWho hate Thy ho-ly name;\n"
+|Lyric7|Text:"7._Calm when the great world’s news with power\nMy lis-tening spir-it stir;\nLet not the tid-ings of the hour\nE’er find too fond an ear.\n"
+|Lyric8|Text:"8._Calm as the ray of sun or star\nWhich storms as-sail in vain;\nMov-ing un-ruf-fled through earth’s war,\nThe_e-ter-nal calm to gain.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,#-3
+|Chord|Dur:4th|Pos:b-4,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,#-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:b-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,#-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:#-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:#-3,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Lyndhurst (Maker), CM"|Label:"Lyndhurst (Maker), CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:2,7
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half|Pos:5,7
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4,#6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,b8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

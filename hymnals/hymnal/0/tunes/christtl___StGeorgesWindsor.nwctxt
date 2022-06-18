@@ -1,0 +1,183 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:43|CaretPos:3
+|SongInfo|Title:"St. George’s Windsor, 77.77 D"|Author:"George Job Elvey, 1858"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 694."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Christ the Lord is risen to-day;\nChris-tians, haste your vows to pay;\nOf-fer ye your prais-es meet\nAt the Pas-chal Vic-tim’s feet.\nFor the sheep the Lamb hath bled,\nSin-less in the sin-ner’s stead;\n“Christ is risen,” to-day we cry;\nNow He lives no more to die.\n"
+|Lyric2|Text:"2._Christ, the vic-tim un-de-filed,\nMan to God hath rec-on-ciled;\nWhilst in strange and aw-ful strife\nMet to-geth-er Death and Life:\nChris-tians, on this hap-py day\nHaste with joy your vows to pay;\n“Christ is risen,” to-day we cry;\nNow He lives no more to die.\n"
+|Lyric3|Text:"3._Christ, who once for sin-ners bled,\nNow the first born from the dead,\nThroned in end-less might and power,\nLives and reigns for-ev-er-more.\nHail, e-ter-nal Hope on high!\nHail, Thou King of vic-to-ry!\nHail, Thou Prince of life a-dored!\nHelp and save us, gra-cious Lord.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:#-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,n0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:n-7,-5|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-8,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:b-4,1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:#-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-3|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"St. George’s Windsor"|Label:"St. George’s Windsor"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-5,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-5,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:b1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:#2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

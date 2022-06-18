@@ -1,0 +1,192 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Robbins, 87.87 D"|Author:"Della Byers, harmonized by Andrew Byers, 1907"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Truth in Song, edited by Barney E. Warren, Andrew L. Byers, Clarence E. Hunter & Daniel O. Teasley (Anderson, Indiana: Gospel Trumpet, 1907), # 19."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._As sweet strains of heav’n-ly mu-sic\nBlend in one har-mo-nious sound,\nSo the mem-bers of Christ’s bod-y\nIn blest u-ni-ty are found:\nOne in mind and one in spir-it,\nOne in doc-trine, faith and love;\nOne in name— O pre-cious un-ion,\nLike the an-gel hosts a-bove.\n"
+|Lyric2|Text:"2._Not like waves up-on the o-cean,\nToss-ing wild-ly, roll-ing high,\nOr the tem-pest’s great com-mo-tion,\nAs it sweeps a-cross the sky;\nBut like twi-light, gen-tly steal-ing\nO’er the ver-dant, shad-y lea,\nSo the ho-ly saints in Zi-on\nRest— from all their sins set free.\n"
+|Lyric3|Text:"3._Blood-washed pil-grims on the high-way\nChant the sweet, me-lo-dious strain\nOf their free-dom from con-fu-sion,\nAn-gels join the glad re-frain:\nOne with all the hosts of Heav-en,\nThere their names are writ-ten down;\nJe-sus on-ly, Je-sus ev-er,\nIn their hearts as king they crown.\n"
+|Lyric4|Text:"4._Love, the theme of all their prais-es,\nDoth in ho-ly bond u-nite\nAll their hearts, in Him made per-fect,\nTurned from dark-ness in-to light.\nThus the saved in Christ to-geth-er\nDwell in sac-red u-ni-ty\nIn the se-cret of His pres-ence— \nHid a-way, dear Lord, in Thee.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:108|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th,Dotted|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-7,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th,Dotted|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:Half|Pos:-7,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th,Dotted|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:Half|Pos:-7,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,3
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:0,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:Half|Pos:-4,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

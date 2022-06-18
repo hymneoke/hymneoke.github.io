@@ -1,0 +1,228 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"When I See the Blood"|Author:"John Grier Foote & E. A. H, 19th Century"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1940), # 70."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:15|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-18
+|Lyric1|Text:"1._Christ our Re-deem-er died on the cross,\nDied for the sin-ner, paid all his due.\nAll who re-ceive Him need ne-ver fear,\nYes, He will pass, will pass o-ver you.\n\nWhen I see the blood, when I see the blood,\nWhen I see the blood,\nI will pass, I will pass o-ver you.\n"
+|Lyric2|Text:"2._Chief-est of sin-ners, Je-sus will save;\nAs He has prom-ised, so He will do;\nOh, sin-ner, hear Him, trust in His Word,\nThen He will pass, will pass o-ver you.\n\nWhen I see the blood, when I see the blood,\nWhen I see the blood,\nI will pass, I will pass o-ver you.\n"
+|Lyric3|Text:"3._Judg-ment is com-ing, all will be there.\nWho have re-ject-ed, who have re-used?\nOh, sin-ner, hast-en, let Je-sus in,\nOh, He will pass, will pass o-ver you.\n\nWhen I see the blood, when I see the blood,\nWhen I see the blood,\nI will pass, I will pass o-ver you.\n"
+|Lyric4|Text:"4._O great com-pass-ion! O bound-less love!\nJe-sus hath pow-er, Je-sus is true;\nAll who be-lieve are safe from the storm,\nOh, He will pass, will pass o-ver you.\n\nWhen I see the blood, when I see the blood,\nWhen I see the blood,\nI will pass, I will pass o-ver you.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,-2|Opts:Stem=Up
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Spacer|Width:250
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:5
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up
+|Bar
+|TempoVariance|Style:Ritenuto|Pos:8|Justify:Right
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:Half|Pos:-4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"When I See the Blood"|Label:"When I See the Blood"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:29|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:10
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nWhen I see the blood,\nWhen I see the blood,\nWhen I see the blood,\n_ _ _ _ _ _ _ _ _\no-ver you.\n\nWhen I see the blood, when I see the blood,\nWhen I see the blood,\nI will pass, I will pass o-ver you.\n"
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:8th,Dotted|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,3|Opts:Stem=Down
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Down
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,6|Opts:Stem=Down
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Note|Dur:8th,Dotted|Pos:3|Opts:Stem=Down
+|Note|Dur:16th|Pos:3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,3|Opts:Stem=Down
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:23
+|Rest|Dur:4th|Opts:Stem=Up
+|Bar
+|Rest|Dur:4th|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Rest|Dur:4th|Opts:Stem=Down
+|Bar
+|Rest|Dur:4th|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Rest|Dur:4th|Opts:Stem=Down
+|Spacer|Width:325
+|Bar
+|Rest|Dur:4th|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Rest|Dur:4th|Opts:Stem=Down
+|Bar
+|Rest|Dur:4th|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Rest|Dur:4th|Opts:Stem=Down
+|Spacer|Width:350
+|Bar
+|Rest|Dur:4th|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Rest|Dur:4th|Opts:Stem=Down
+|Bar
+|Rest|Dur:4th|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,#3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Note|Dur:Half|Pos:3|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

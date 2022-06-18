@@ -1,0 +1,119 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"St. James, CM"|Author:"Raph Courteville, 1696"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 199."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._For all Thy saints, a no-ble throng,\nWho fell by fire and sword,\nWho soon were called, or wait-ed long,\nWe praise Thy name, O Lord!\n"
+|Lyric2|Text:"2._For him who left his fa-ther’s side,\nNor lin-gered by the shore,\nWhen, soft-er than the wel-tering tide,\nThy sum-mons glid-ed o’er.\n"
+|Lyric3|Text:"3._Who stood be-side the maid-en dead,\nWho climbed the mount with Thee,\nAnd saw the glo-ry round Thy head,\nOne of Thy cho-sen three.\n"
+|Lyric4|Text:"4._Who knelt be-neath the ol-ive shade,\nWho drank Thy cup of pain,\nAnd passed from Her-od’s flash-ing blade\nTo see Thy face a-gain.\n"
+|Lyric5|Text:"5._Lord, give us grace, and give us love,\nLike him to leave be-hind\nEarth’s cares and joys, and look a-bove\nWith true and ear-nest mind.\n"
+|Lyric6|Text:"6._So shall we learn to drink Thy cup,\nSo meek and firm be found,\nWhen Thou shalt come to take us up\nWhere Thine e-lect are crowned.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:110|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:#-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"St. James, CM"|Label:"St. James, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:5
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,8
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

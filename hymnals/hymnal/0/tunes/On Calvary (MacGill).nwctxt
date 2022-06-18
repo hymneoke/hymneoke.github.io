@@ -1,0 +1,242 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:2|CaretPos:0
+|SongInfo|Title:"On Calvary (MacGill)"|Author:"Jacob Wakefield MacGill"|Lyricist:"Jacob Wakefield MacGill (1829-1902)"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Redemption Songs (London: Pickering & Inglis, undated, probably early 20th Century), # 727."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,110,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._It pleased the Lord to bruise His on-ly Son\nOn Cal-va-ry,\nThat He might ran-som sin-ners such as you,\nAnd set you free;\nHe hid His face from Je-sus, whom He loved\nSo ten-der-ly,\nWith all His heart in yearn-ings deep and true\nOn Cal-va-ry.\n"
+|Lyric2|Text:"2._Al-though the pierc-ing wail went up on high\nFrom Cal-va-ry,\n“My God, O why hast Thou for-sak-en Me\nOn Cal-va-ry?”\nThe heav’ns re-turned nor ech-o, groan nor sigh\nOn that dark day,\nAnd all that He might free-ly par-don me\nOn Cal-va-ry.\n"
+|Lyric3|Text:"3._And canst thou, sin-ner, stand be-neath the cross\nOf Cal-va-ry,\nTo see His life’s blood drop-ping sure-ly down\nUn-heed-ing-ly;\nAnd treat His cru-el suf-fer-ing as dross\nOn Cal-va-ry,\nWhile He is wear-ing sor-row’s hea-vy crown\nIn ag-o-ny?\n"
+|Lyric4|Text:"4._The cross un-folds the won-drous love di-vine\nOn Cal-va-ry,\nAnd shows in woe love’s ma-jes-ty su-preme\nOn Cal-va-ry;\nThen yield to Him that bur-dened heart of thine\nAt Cal-va-ry,\nAnd then the cross will be thy theme through-out\nE-ter-ni-ty.\n"
+|Tempo|Tempo:100|Pos:10
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Text|Text:"Solo"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Dynamic|Style:pp|Opts:Volume=110|Pos:9|Justify:Right
+|Chord|Dur:4th|Pos:-6,-3
+|Text|Text:"Quartet"|Font:StaffItalic|Pos:9
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Rest|Dur:8th
+|Chord|Dur:8th,Slur|Pos:1,3,8|Opts:Stem=Down,Lyric=Never
+|Bar
+|Chord|Dur:8th,Slur|Pos:3,5,8|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th,Slur|Pos:3,5,7|Opts:Stem=Down,Lyric=Never,Beam=End
+|Chord|Dur:4th|Pos:3,5,7|Opts:Lyric=Never
+|Dynamic|Style:mf|Opts:Velocity=127|Pos:15|Visibility:Never
+|Text|Text:"Solo"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Down|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Down|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:4th|Pos:-6,-4
+|Dynamic|Style:pp|Opts:Volume=110|Pos:9|Justify:Right
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Spacer|Width:250
+|Text|Text:"Quartet"|Font:StaffItalic|Pos:9|Justify:Center
+|Bar
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,#-2
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:8th
+|Chord|Dur:8th,Slur|Pos:2,7|Opts:Stem=Down,Lyric=Never
+|Bar
+|Chord|Dur:8th,Slur|Pos:1,6,8|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th,Slur|Pos:n0,5,b7|Opts:Stem=Down,Lyric=Never,Beam=End
+|Chord|Dur:4th|Pos:1,6,8|Opts:Lyric=Never
+|Dynamic|Style:mf|Opts:Velocity=127|Pos:15|Visibility:Never
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Text|Text:"Solo"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Dynamic|Style:pp|Opts:Volume=110|Pos:9|Justify:Right
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down|Dur2:4th|Pos2:-3
+|Text|Text:"Quartet"|Font:StaffItalic|Pos:9
+|Bar
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Rest|Dur:8th
+|Chord|Dur:8th,Slur|Pos:2,9|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th,Slur|Pos:3,7,10|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th,Slur|Pos:2,7,9|Opts:Stem=Down,Lyric=Never,Beam=End
+|Chord|Dur:4th|Pos:2,7,9|Opts:Lyric=Never
+|Dynamic|Style:mf|Opts:Velocity=127|Pos:15|Visibility:Never
+|Text|Text:"Solo"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Dynamic|Style:pp|Opts:Volume=110|Pos:9|Justify:Right
+|Chord|Dur:4th|Pos:-6,-4
+|Text|Text:"Quartet"|Font:StaffItalic|Pos:9
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:4th|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"On Calvary (MacGill)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,110,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:2,4
+|Spacer|Width:475
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Dynamic|Style:pp|Opts:Volume=110|Pos:-7|Justify:Right|Visibility:Never
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Rest|Dur:4th
+|Bar
+|Note|Dur:4th,Slur|Pos:-1
+|Chord|Dur:4th|Pos:4,6
+|Dynamic|Style:mf|Opts:Velocity=127|Pos:-8|Justify:Right|Visibility:Never
+|Chord|Dur:4th|Pos:-1,6
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,3
+|Dynamic|Style:pp|Opts:Volume=110|Pos:-10|Justify:Right|Visibility:Never
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,n5
+|Chord|Dur:4th|Pos:2,6
+|Rest|Dur:4th
+|Bar
+|Note|Dur:4th,Slur|Pos:2
+|Chord|Dur:4th|Pos:4,6
+|Boundary|Style:NewSize|Upper:16
+|Dynamic|Style:mf|Opts:Velocity=127|Pos:-8|Justify:Right|Visibility:Never
+|Chord|Dur:4th|Pos:2,4
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:5,8
+|Chord|Dur:8th|Pos:4,9
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down|Dur2:4th|Pos2:6
+|Dynamic|Style:pp|Opts:Volume=110|Pos:-10|Justify:Right|Visibility:Never
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Rest|Dur:4th
+|Bar
+|Note|Dur:4th,Slur|Pos:-2
+|Chord|Dur:4th|Pos:0,3,5
+|Dynamic|Style:mf|Opts:Velocity=127|Pos:15|Visibility:Never
+|Chord|Dur:4th|Pos:3,5
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:#2,7
+|Chord|Dur:8th|Pos:3,7
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:-2,5
+|Dynamic|Style:pp|Opts:Volume=110|Pos:-10|Justify:Right|Visibility:Never
+|Chord|Dur:4th|Pos:-1,5
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

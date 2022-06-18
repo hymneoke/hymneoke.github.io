@@ -1,0 +1,230 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:4|CaretIndex:46|CaretPos:-6
+|SongInfo|Title:"Arfau, LMD"|Author:"Carmina Sacra, by Lowell Mason, 1844"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Carmina Sacra, by Lowell Mason (Boston, Massachusetts: John Hubbard Wilkins & Richard B. Carter, 1844), pp. 52-53."
+|PgSetup|StaffSize:21|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|WithNextStaff:Brace|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._A-rise in all Thy splen-dor, Lord,\nLet power at-tend Thy gra-cious word;\nUn-veil the beau-ties of Thy face,\nAnd show the glo-ries of Thy grace.\n"
+|Lyric2|Text:"2._Dif-fuse Thy light and truth a-broad,\nAnd be Thou known th’al-might-y God;\nMake bare Thine arm, Thy power dis-play,\nWhile truth and grace Thy scep-ter sway.\n"
+|Lyric3|Text:"3._Send forth Thy mes-sen-gers of peace,\nMake Sa-tan’s reign and em-pire cease;\nLet Thy sal-va-tion, Lord, be known,\nThat all the world Thy power may own.\n"
+|Lyric4|Text:"4._Tho’ dark-ness o’er the earth per-vades,\nAnd men are plunged in dis-mal shades;\nGod will a-rise, at the set time,\nOn Zi-on, with a light di-vine.\n"
+|Lyric5|Text:"5._Then na-tions, with His grace re-plete,\nShall spread their tro-phies at His feet;\nClothed with im-mor-tal bliss, to prove,\nThe power and great-ness of His love.\n"
+|Lyric6|Text:"6._O may the tri-umphs of Thy grace\nA-bound, while right-eous-ness and peace\nIn mild and love-ly forms dis-play\nThe glo-ries of the lat-ter day.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:102|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:8th|Pos:#-2
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Note|Dur:4th,Dotted|Pos:-3
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:8th|Pos:#-2
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Note|Dur:4th,Dotted|Pos:-3
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Staff-1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|WithNextStaff:Brace|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:6
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th,Dotted|Pos:-3
+|Note|Dur:8th|Pos:-4
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th,Dotted|Pos:-5
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-6
+|Note|Dur:4th,Dotted|Pos:-5
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th,Dotted|Pos:-3
+|Note|Dur:8th|Pos:-4
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th,Dotted|Pos:-5
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-6
+|Note|Dur:4th,Dotted|Pos:-5
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Staff-2"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|WithNextStaff:Brace|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:7
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble|OctaveShift:Octave Down
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th,Dotted|Pos:-5
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th,Dotted|Pos:-5
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Arfau, LMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:12|Lines:5|WithNextStaff:Brace|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Note|Dur:8th|Pos:4
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th,Dotted|Pos:-2
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th|Pos:3
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:5
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:8th|Pos:4
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th,Dotted|Pos:-2
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th|Pos:3
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:5
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th,Dotted|Pos:0
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

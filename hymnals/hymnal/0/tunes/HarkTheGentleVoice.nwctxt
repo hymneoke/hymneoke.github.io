@@ -1,0 +1,224 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Hark, the Gentle Voice"|Author:"Asa Brooks Everett "|Lyricist:"Mary Bridges Canedy Slade, 1876"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Church Gospel Songs and Hymns (West Monroe, Louisiana: Central Printers & Publishers, 1978, 1983), # 71."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Treble Clef"|Label:"Treble Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:31|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Hark! the gen-tle voice of Je-sus fall-eth\nTen-der-ly up-on your ear;\nSweet His cry of love and pi-ty call-eth;\nTurn and list-en, stay and hear.\n\nYe that la-bor and are hea-vy-lad-en,\nLean up-on your dear Lord’s breast;\nYe that la-bor and are hea-vy-la-den,\nCome, and I will give you rest.\n"
+|Lyric2|Text:"2._Take His yoke, for He is meek and low-ly;\nBear His bur-den, to Him turn;\nHe who call-eth is the Mas-ter ho-ly:\nHe will teach if you will learn.\n\nYe that la-bor and are hea-vy-lad-en,\nLean up-on your dear Lord’s breast;\nYe that la-bor and are hea-vy-la-den,\nCome, and I will give you rest.\n"
+|Lyric3|Text:"3._Then, His lov-ing, ten-der voice o-bey-ing,\nBear His yoke, His bur-den take;\nFind the yoke His hand is on you lay-ing,\nLight and ea-sy for His sake.\n\nYe that la-bor and are hea-vy-lad-en,\nLean up-on your dear Lord’s breast;\nYe that la-bor and are hea-vy-la-den,\nCome, and I will give you rest.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-4
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-6,-4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-4
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Spacer|Width:400
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:24
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-6,-4
+|Spacer|Width:525
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-4
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Hark, the Gentle Voice"|Label:"Hark, the Gentle Voice"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:10
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:Half|Pos:0,2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:7
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Boundary|Style:NewSize|Upper:9
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:Half|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

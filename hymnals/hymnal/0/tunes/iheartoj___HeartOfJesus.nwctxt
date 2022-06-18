@@ -1,0 +1,160 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Heart of Jesus, 11.11.11.11"|Author:"Carles Henry Forrest, circa 1897"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Seventh-day Adventist Hymnal (Hagerstown, Maryland: Review and Herald® Publishing Association, 1985), # 577."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._In the heart of Je-sus,\nThere is love for you,\nLove most pure and ten-der,\nLove most deep and true;\nWhy should you be lone-ly,\nWhy for friend-ship sigh,\nWhen the heart of Je-sus\nHas a full sup-ply?\n"
+|Lyric2|Text:"2._In the mind of Je-sus\nThere is thought for you,\nWarm as sum-mer sun-shine,\nSweet as morn-ing dew;\nWhy should you be fear-ful,\nWhy take anx-ious thought,\nSince the mind of Je-sus\nCares for those He bought?\n"
+|Lyric3|Text:"3._In the field of Je-sus\nThere is work for you;\nSuch as e-ven an-gels\nMight re-joice to do;\nWhy stand i-dly sigh-ing\nFor some life-work grand,\nWhile the field of Je-sus\nSeeks your reap-ing hand?\n"
+|Lyric4|Text:"4._In the home of Je-sus\nThere’s a place for you;\nGlo-rious, bright, and joy-ous,\nCalm and peace-ful, too;\nWhy then, like a wan-derer,\nRoam with wea-ry pace,\nIf the home of Je-sus\nHolds for you a place?\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:12|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:n-7,-2
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half|Pos:-7,-3
+|Chord|Dur:Half|Pos:-7,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Whole|Pos:-8,-6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:n-7,-2
+|Chord|Dur:4th|Pos:-7,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,1
+|Chord|Dur:Half|Pos:-6,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:n-7,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:b-4,1
+|Bar
+|Chord|Dur:Half|Pos:b-4,1
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-5
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Whole|Pos:-7,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,0
+|Chord|Dur:8th|Pos:-7,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,1
+|Chord|Dur:Half|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:n-7,-5
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:4th,Dotted|Pos:b-7,-2
+|Chord|Dur:8th|Pos:-8,-3
+|Bar
+|Chord|Dur:Whole|Pos:-8,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Heart of Jesus, 11.11.11"|Label:"Heart of Jesus, 11.11.11"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Whole|Pos:-5,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:4th|Pos:2,3
+|Chord|Dur:4th|Pos:2,3
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:3
+|Note|Dur:Half|Pos:-2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:4th|Pos:-5,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:0,#2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Whole|Pos:-4,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-5,2
+|Bar
+|Chord|Dur:Whole|Pos:-5,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,109 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:22|CaretPos:8
+|SongInfo|Title:"Lasst Uns Alle, 76.76"|Author:"Gesangbuch, Ander Teil (Dresden, Germany: 1632)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Lutheran Hymnal (St. Louis, Missouri: Concordia Publishing House, 1941),# 97."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Un-to us a boy is born,\nKing of all cre-a-tion:\nCame He to a world for-lorn,\nLord of eve-ry na-tion.\n"
+|Lyric2|Text:"2._Cra-dled in a stall was He\n’Midst the cows and as-ses;\nBut the ver-y beasts could see\nHe all men sur-pass-es.\n"
+|Lyric3|Text:"3._Herod then with fear was filled:\n“A prince,” he said, “in Jew-ry!”\nAll the lit-tle boys he killed\nAt Bethl’em in his fu-ry.\n"
+|Lyric4|Text:"4._Now may Mar-y’s son, who came\nLong a-go to love us,\nLead us all with hearts a-flame\nTo the joys a-bove us.\n"
+|Lyric5|Text:"5._Al-pha and O-me-ga He!\nLet the or-gan thun-der,\nWhile the choir with peals of glee\nRends the air a-sun-der.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Lasst uns alle frölich"|Label:"Lasst uns alle frölich"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:n5|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-5,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-5,4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

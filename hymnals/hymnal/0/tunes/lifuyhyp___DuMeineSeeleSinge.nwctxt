@@ -1,0 +1,181 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:37|CaretPos:3
+|SongInfo|Title:"Du Meine Seele, Singe, 76.76 D"|Author:"Johan Georg Ebeling, 1666"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Pilgrim Hymnal (Boston, Massachusetts: Pilgrim Press, 1959), # 189."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Lift up your hearts, ye peo-ple,\nIn songs of glad ac-cord,\nAnd in your ad-o-ra-tion\nPraise Christ, your ris-en Lord.\nFor He hath won the vic-tory,\nO’er sin and death’s dark night,\nAnd filled the gloom and dark-ness\nWith res-ur-rec-tion light.\n"
+|Lyric2|Text:"2._Now let the earth be joy-ful\nIn spring-time’s bright ar-ray,\nLet hearts down-cast and lone-ly\nRe-joice this East-er day;\nThe grave hast lost its tri-umph,\nAnd death has lost its sting,\nO, sing in ex-ul-ta-tion\nTo Christ, your ris-en king!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-7|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-8
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-8
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-7
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,0
+|Bar|Style:LocalRepeatClose|Repeat:2
+|AddStaff|Name:"Du Meine Seele, Singe"|Label:"Du Meine Seele, Singe"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,#2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,7
+|Bar|Style:LocalRepeatClose|Repeat:2
+!NoteWorthyComposer-End

@@ -1,0 +1,254 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:7
+|SongInfo|Title:"He That Winneth Souls"|Author:"John Millard Harris"|Lyricist:"Eliza Edmunds Hewitt, 1904"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Light and Life Songs, edited by William B. Olmstead & T. Harris (Chicagoi, Illinois: W. B. Rose, 1904), # 3."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:1.27|Right:2.29|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Bless-èd is the ser-vice of our Lord and king,\nPre-cious are the jew-els we may help to bring;\nDown the pass-ing ag-es words of coun-sel ring,\nHe that win-neth souls is wise.\n\nHe that win-neth souls is wise;\nIn the home be-yond the skies,\nThere’s a crown of glo-ry, oh, the won-drous prize!\nHe that win-neth souls is wise.\n"
+|Lyric2|Text:"2._In the qui-et home life, show-ing love’s bright ray,\nMore and more like Je-sus, liv-ing ev-ery day,\nWe may guide a dear one to the heav’n-ward way,\nHe that win-neth souls is wise.\n\nHe that win-neth souls is wise;\nIn the home be-yond the skies,\nThere’s a crown of glo-ry, oh, the won-drous prize!\nHe that win-neth souls is wise.\n"
+|Lyric3|Text:"3._Out up-on the high-way, go-ing forth with prayer,\nFor the lost and stray-ing, seek-ing ev-ery-where,\nClose be-side the Shep-herd, we His joy may share,\nHe that win-neth souls is wise.\n\nHe that win-neth souls is wise;\nIn the home be-yond the skies,\nThere’s a crown of glo-ry, oh, the won-drous prize!\nHe that win-neth souls is wise.\n"
+|Lyric4|Text:"4._Sow be-side all wa-ters, sow the Gos-pel seed,\nHere a word in sea-son, there a lov-ing deed;\nSin-ners to the Sav-ior, be it ours to lead,\nHe that win-neth souls is wise.\n\nHe that win-neth souls is wise;\nIn the home be-yond the skies,\nThere’s a crown of glo-ry, oh, the won-drous prize!\nHe that win-neth souls is wise.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:Half|Pos:-6,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,n-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:n-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,2
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Down
+|Text|Text:"rit. ad lib."|Font:StaffItalic|Pos:9|Justify:Center
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:8th,Dotted|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Rest|Dur:4th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Note|Dur:16th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Note|Dur:8th,Dotted|Pos:-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:Half|Pos2:1^
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:16th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Note|Dur:16th|Pos:2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:b-3|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:Half,Dotted|Pos2:1^
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:16th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Boundary|Style:NewSize|Lower:17
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-6,-4
+|Text|Text:"rit. ad lib."|Font:StaffItalic|Pos:9|Justify:Center
+|Chord|Dur:16th|Pos:-4,-1|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"He That Winneth Souls"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-2
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nHe that win-neth, win-neth souls is wise,\nIn the home be-yond, be-yond the skies,\n\nHe that win-neth souls is wise;\nIn the home be-yond the skies,\nThere’s a crown of glo-ry, oh, the won-drous prize!\nHe that win-neth souls is wise.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:Half|Pos:-3,4
+|Spacer|Width:500
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,#2
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:n2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:Half|Pos:1,3
+|Spacer|Width:500
+|Bar
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:16th|Pos:4,5
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-1,4
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:16th|Pos:1,6
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Slur|Pos:-3,1|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:1,3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:4
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Rest|Dur:8th
+|Bar
+|Boundary|Style:NewSize|Upper:8
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:16th|Pos:1,6
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

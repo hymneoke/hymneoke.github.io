@@ -1,0 +1,197 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:45|SelectIndex:46|CaretPos:-6
+|SongInfo|Title:"Brightness, CMD"|Author:"Frederick Arthur Gore-Ouseley, 1889"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 476."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Be-hold the sun, that seem’d but now\nEn-thron-èd o-ver-head,\nBe-gin-neth to de-cline be-low\nThe globe where-on we tread;\nAnd he, whom yet we look up-on\nWith com-fort and de-light,\nWill quite de-part from hence a-non,\nAnd leave us to the night.\n"
+|Lyric2|Text:"2._Thus time, un-heed-ed, steals a-way\nThe life which na-ture gave;\nThus are our bod-ies eve-ry day\nDe-clin-ing to the grave;\nThus from us all our pleas-ures fly\nWhere-on we set our heart;\nAnd when the night of death draws nigh,\nThus will they all de-part.\n"
+|Lyric3|Text:"3._Lord! though the sun for-sake our sight,\nAnd mor-tal hopes are vain,\nLet still Thine ev-er-last-ing light\nWith-in our souls re-main;\nAnd in the nights of our dis-tress\nVouch-safe those rays di-vine\nWhich from the Sun of Right-eous-ness\nFor ev-er bright-ly shine.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,n-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,n-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:b-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:n-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,b2
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Brightness, CMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:2,n4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:3,b7
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,n5
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:n1,3
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,n4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:b0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:3,5
+|Boundary|Style:NewSize|Upper:20
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:3,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:3,b7
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,n5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-4,b7
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

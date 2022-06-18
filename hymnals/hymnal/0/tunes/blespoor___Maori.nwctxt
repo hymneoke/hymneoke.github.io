@@ -1,0 +1,194 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:64|CaretPos:0
+|SongInfo|Title:"Maori, 10.10.10.10"|Author:"Arranged by J. Edwin Orr, 1936"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns for the Family of God (Nashville, Tennessee: Paragon Associates, 1976), # 425. Also in Melodies of Praise (Springfield, Missouri: Gospel Publishing House, 1957), # 91.\r\nTune is said to have originated with Clement Scott, a missionary in Chi Nyanja, Africa."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Blest are the poor,\nWhose spir-its know their need;\nGod’s heav’n-ly king-dom\nWill be theirs in-deed.\nBlest, those who mourn;\nGod’s com-fort will be known.\nBlest are the meek;\nThe world will be their own.\n"
+|Lyric2|Text:"2._Blest, those who seek\nGod’s right-eous-ness each day;\nThey will be filled\nAnd nev-er turned a-way.\nBlest are the kind,\nFor mer-cy will be giv’n.\nBlest are the pure in heart;\nThey’ll see God_in Heav’n.\n"
+|Lyric3|Text:"3._Blest, men of peace;\nThey will God’s sons be named.\nBlest, those who suf-fer\nSlan-der and much shame.\nBlest, faith-ful ones,\nEn-dur-ing for your Lord.\nRe-joice, be glad,\nFor great is your re-ward.\n"
+|Lyric4|Text:"4._I see my need\nAnd hum-bly seek Your face.\nShow me Your mer-cy;\nAll my cares e-rase.\nKeep my heart pure;\nI long for right-eous-ness.\nI know that as\nYour child I’m ful-ly blest.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:170|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,-1^
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6^,-3^
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,#-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4^,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,#-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,-1^
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6^,-3^
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,#-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6^,-3^
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Maori, 10.10.10.10"|Label:"Maori, 10.10.10.10"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:-2,b7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2^,6^
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5^,4^
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:n-2,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-4,n5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half|Pos:-4,n5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1^,6^
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:-2,b7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2^,6^
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5^,4^
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:n-2,2
+|Bar
+|Chord|Dur:Half|Pos:-1,2
+|Chord|Dur:4th|Pos:b1,4
+|Bar
+|Chord|Dur:Half|Pos:0,#2
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,n5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5^,4^
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

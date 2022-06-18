@@ -1,0 +1,127 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:25|CaretPos:1
+|SongInfo|Title:"Hanford (Sullivan), 88.84"|Author:"Arthur Seymour Sullivan, 1874"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Publication & Sabbath-School Work, 1907), # 350."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Je-sus, my Sav-ior, look on me,\nFor I am wea-ry and op-pressed;\nI come to cast my-self on Thee:\nThou art my rest.\n"
+|Lyric2|Text:"2._Look down on me, for I am weak;\nI feel the toil-some jour-ney’s length;\nThine aid om-nip-o-tent I seek:\nThou art my strength.\n"
+|Lyric3|Text:"3._I am be-wil-dered on my way,\nDark and tem-pes-tuous is the night;\nO send Thou forth some cheer-ing ray:\nThou art my light.\n"
+|Lyric4|Text:"4._I hear the storms a-round me rise;\nBut when I dread th’im-pend-ing shock,\nMy spir-it to the ref-uge flies:\nThou art my rock.\n"
+|Lyric5|Text:"5._When Sa-tan flings his fier-y darts,\nI look to Thee; my ter-rors cease;\nThy cross a hid-ing place im-parts:\nThou art my peace.\n"
+|Lyric6|Text:"6._Stand-ing a-lone on Jor-dan’s brink,\nIn that tre-men-dous lat-est strife,\nThou will not suf-fer me to sink:\nThou art my life.\n"
+|Lyric7|Text:"7._Thou wilt my eve-ry want sup-ply,\nE’en to the end, what-e’er be-fall;\nThrough life, in death, e-ter-nal-ly,\nThou art my all.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:170|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:n-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:n-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Hanford (Sullivan)"|Label:"Hanford (Sullivan)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:4,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,8|Opts:Stem=Down
+|Chord|Dur:Half|Pos:0,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:3,n5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:4,6|Opts:Stem=Down
+|Note|Dur:Half|Pos:6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-2,5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:1,3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

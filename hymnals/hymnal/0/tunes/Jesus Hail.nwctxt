@@ -1,0 +1,219 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Jesus Hail"|Author:"Henry S. Thompson, 1852"|Lyricist:"Lewis Conger Lockwood, 1858, alt."|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Love and Praise No. 3, edited by John R. Sweney, William J. Kirkpatrick & Henry L. Gilmour (Philadelphia, Pennsylvania: John J. Hood, 1896), p. 15."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.54|Right:2.29|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._’Tis_a calm, still night,\nWith the moon’s pale light\nShining soft o-ver hill and vale;\nBut my heart, mute with grief,\nLooks up for re-lief,\nAnd a friend I in Je-sus hail.\n\nO Je-sus! dear Je-sus! dear Je-sus, hail!\nNow my ach-ing bo-som has balm for woe,\nAs I pass through life’s lone-ly vale.\n"
+|Lyric2|Text:"2._O_the cheek that glowed,\nAs the rose tint blowed,\nSee_the hand of dis-ease turn pale;\nAnd the death damp falls now,\nOn my fe-vered brow,\nYet a friend I in Je-sus hail.\n\nO Je-sus! dear Je-sus! dear Je-sus, hail!\nNow my ach-ing bo-som has balm for woe,\nAs I pass through life’s lone-ly vale.\n"
+|Lyric3|Text:"3._With_Him I’ll be blest,\nIn the land of rest,\nWhen_my heart and my flesh shall fail;\nWhen this dust li-eth low,\nI to Heav’n shall go,\nAnd a friend in my Je-sus hail.\n\nO Je-sus! dear Je-sus! dear Je-sus, hail!\nNow my ach-ing bo-som has balm for woe,\nAs I pass through life’s lone-ly vale.\n"
+|Lyric4|Text:"4._When o’er my grave,\nFlow-ers gent-ly wave,\nAs_the stream rip-ples through the vale,\nThen with an-gels I’ll sing,\nAnd make Heav-en ring,\nAs a friend I in Je-sus hail.\n\nO Je-sus! dear Je-sus! dear Je-sus, hail!\nNow my ach-ing bo-som has balm for woe,\nAs I pass through life’s lone-ly vale.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:108|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Slur|Pos:-8,-6|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-8,-6
+|Chord|Dur:8th|Pos:-7,-5
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Whole|Pos:-6,-1
+|Spacer|Width:225
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:23
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9|Placement:AsStaffSignature
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-8,-6
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"O Eden, Dear Eden"|Label:"O Eden, Dear Eden"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-12
+|Lyric1|Text:"O Je-sus! dear Je-sus! dear Je-sus, hail!\nNow my ach-ing bo-som has balm for woe,\nAs I pass through life’s lone-ly vale.\n\nO Je-sus! dear Je-sus! dear Je-sus, hail!\nNow my ach-ing bo-som has balm for woe,\nAs I pass through life’s lone-ly vale.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Slur|Pos:-3,1|Opts:Stem=Up,Lyric=Never,Beam=First
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up,Lyric=Never,Beam=End
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:0,4|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Lyric=Never,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,Lyric=Never,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,1|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,1|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,n3|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:n2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Lyric=Never,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Lyric=Never,Beam=End
+|Bar
+|Chord|Dur:Whole|Pos:-3,1|Opts:Lyric=Never
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:2
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-1,n3
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:n2,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

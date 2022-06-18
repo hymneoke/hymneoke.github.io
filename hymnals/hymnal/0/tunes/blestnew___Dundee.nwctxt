@@ -1,0 +1,115 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:33|CaretPos:0
+|SongInfo|Title:"Dundee, CM"|Author:"Scottish Psalter, 1615"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal (New York: Methodist Publishing House, 1939), # 68. Also in The English Hymnal (London: Oxford University Press, 1906), # 43."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Blest news! To us a child is born,\nTo us a son is given;\nEm-ma-nuel He, the God with us,\nThe choic-est gift of Heaven.\n"
+|Lyric2|Text:"2._With trans-port view this won-drous Child,\nOf pur-est vir-gin born;\nIn your best songs the ti-tles sing\nWhich His great name a-dorn.\n"
+|Lyric3|Text:"3._The bright-est rays of heaven-ly truth\nFrom Him re-flect-ed shine;\nThe Fa-ther’s wis-dom dwells in Him,\nOur coun-se-lor di-vine.\n"
+|Lyric4|Text:"4._To u-ni-ver-sal em-pire born,\nThe charge He well sus-tains;\nNa-tions re-joice, the might-y Lord,\nYour king Mes-si-ah reigns.\n"
+|Lyric5|Text:"5._With grow-ing hon-ors He shall sit\nOn Da-vid’s an-cient throne;\nThere shall He ev-er reign, and thence\nShall make His jus-tice known.\n"
+|Lyric6|Text:"6._Lord of the fu-ture glo-rious age\nBy Heaven’s un-changed de-cree;\nGen-tiles and Jews shall own His sway,\nAnd an-gels bow the knee.\n"
+|Lyric7|Text:"7._Blest news! to us a child is born;\nThe Prince of Peace is given;\nHe brings down heaven-ly peace to earth,\nAnd makes our peace with Heaven.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:108|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-7,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-6,0
+|Chord|Dur:4th|Pos:-6,n-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Dundee, CM"|Label:"Dundee, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-6,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-5,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

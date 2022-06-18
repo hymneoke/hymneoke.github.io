@@ -1,0 +1,211 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I Am Healed"|Author:"E. E. Byrum & Barney Elliott Warren"|Lyricist:"Enoch Edwin Byrum, 1893"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Echoes from Glory, edited by Barney  E. Warren & Daniel S. Warner (Grand Junction, Michigan: Gospel Trumpet Publishing, 1893), # 170."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:26|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._With af-flict-ions great and sore,\nAs if bound by Sa-tan’s hand,\nFor Thy heal-ing mer-cy to im-plore,\nLord, I came at Thy com-mand.\n\nI am healed, I know I am,\nI am healed this ve-ry hour,\nFor my Je-sus says I am,\nAnd I feel His migh-ty pow’r.\n"
+|Lyric2|Text:"2._Tho’ my faith was ve-ry weak,\nJe-sus said so sweet and kind,\n“I will sure-ly heal you ev-ery whit,\nAnd will break the chains that bind.”\n\nI am healed, I know I am,\nI am healed this ve-ry hour,\nFor my Je-sus says I am,\nAnd I feel His migh-ty pow’r.\n"
+|Lyric3|Text:"3._Then His pro-ferred hand I took,\nAnd the vic-t’ry soon was won,\nI re-ceived the per-fect heal-ing touch,\nAnd the work was quick-ly done.\n\nI am healed, I know I am,\nI am healed this ve-ry hour,\nFor my Je-sus says I am,\nAnd I feel His migh-ty pow’r.\n"
+|Lyric4|Text:"4._Praise His name for ev-er-more!\nI will tell to all a-round,\nHow the pre-cious gift of heal-ing pow’r,\nThro’ the Spir-it, we have found.\n\nI am healed, I know I am,\nI am healed this ve-ry hour,\nFor my Je-sus says I am,\nAnd I feel His migh-ty pow’r.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:#-4,#-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-5
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:16
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Down
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"1 am healed, I’m healed, I know I am,\nI am healed, I’m healed this ve-ry day,\nFor my Je-sus tells me that I am,\n\nI am healed, I know I am,\nI am healed this ve-ry hour,\nFor my Je-sus says I am,\nAnd I feel His migh-ty pow’r.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:0,3|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:0,4|Opts:Lyric=Never
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,3|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,7
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

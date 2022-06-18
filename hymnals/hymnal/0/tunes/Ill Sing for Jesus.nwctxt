@@ -1,0 +1,242 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:37|CaretPos:-29
+|SongInfo|Title:"I’ll Sing for Jesus"|Author:"J. Harvy Anderson"|Lyricist:"Thaddeus Constantine Reade, 1876"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of the Cross, edited by Edmund S. Lorenz (Dayton, Ohio: United Brethren Publishing House, 1876), # 114."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:22|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._I’ll sing for Je-sus while I’ve breath,\nI’ll praise Him when I die;\nHis lov-ing-kind-ness af-ter death,\nI’ll her-ald to the sky.\n\nSweet Sav-ior mine,\nI’ll sing of Thy won-drous love,\nI’ll serve Thee still,\nAnd I’ll praise Thee up a-bove.\n"
+|Lyric2|Text:"2._When sink-ing un-der sin and grief,\nNo o-ther help was nigh;\n’Twas Je-sus came to my re-lief,\n’Twas He who heard my cry.\n\nSweet Sav-ior mine,\nI’ll sing of Thy won-drous love,\nI’ll serve Thee still,\nAnd I’ll praise Thee up a-bove.\n"
+|Lyric3|Text:"3._My trou-bled soul found sweet re-pose,\nWhile trust-ing in His blood,\nAnd from the depths of sin a-rose,\nTo dwell with Christ in God.\n\nSweet Sav-ior mine,\nI’ll sing of Thy won-drous love,\nI’ll serve Thee still,\nAnd I’ll praise Thee up a-bove.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Slur|Pos:-8,-6|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up,Beam=End
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th,Slur|Pos:-6,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:8th,Slur|Pos:-4,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Stem=Down
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9|Justify:Right
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Slur|Pos:1|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,3
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:375
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-4,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:b-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:13|Placement:AtNextNote
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:12|Placement:AtNextNote
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward|Dur2:Half|Pos2:-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Note|Dur:8th,Dotted,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Note|Dur:16th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"I’ll Sing for Jesus"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nSweet Sav-ior, Sav-ior mine,\nI’ll sing of Thy won-drous love, won-drous love,\nI’ll serve, yes, I’ll serve Thee still,\nserve Thee still,\nAnd I’ll praise Thee up a-bove, up a-bove.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam=End
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:4
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5,8
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Boundary|Style:NewSize|Upper:23
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Spacer|Width:250
+|Bar|Style:Double
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:4,8|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:8|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,8
+|Chord|Dur:4th|Pos:3,8
+|Chord|Dur:4th|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,8
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:8
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Beam=End
+|Bar|Style:Double
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th,Dotted|Pos:-3,6
+|Chord|Dur:16th|Pos:-3,6
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Upward,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:1,3
+|Bar|Style:Double
+|Chord|Dur:4th|Pos:-3,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th,Dotted|Pos:0,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:16th|Pos:0,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

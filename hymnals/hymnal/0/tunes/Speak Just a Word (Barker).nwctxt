@@ -1,0 +1,215 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Speak Just a Word"|Author:"Daniel Brink Towner"|Lyricist:"Katherine Osbourne Barker, 1903"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Gospel Hymn Book, edited by Daniel B. Towner (Dayton, Ohio: Lorenz Publishing Company/ New York: 1903), # 21."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:29|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Speak just a word for Je-sus,\nTell how He died for you;\nOft-en re-peat the sto-ry,\nWon-der-ful, glad and true.\n\nSpeak just a word,\nEv-er to Him be true;\nSpeak just a word,\nTell what He’s do-ing for you.\n"
+|Lyric2|Text:"2._Speak just a word for Je-sus,\nTell how He helps you live;\nTell of the strength and com-fort\nWhich He will free-ly give.\n\nSpeak just a word,\nEv-er to Him be true;\nSpeak just a word,\nTell what He’s do-ing for you.\n"
+|Lyric3|Text:"3._Speak just a word for Je-sus,\nDo not for oth-ers wait;\nGlad-ly pro-claim your mes-sage\nEre it shall be too late.\n\nSpeak just a word,\nEv-er to Him be true;\nSpeak just a word,\nTell what He’s do-ing for you.\n"
+|Lyric4|Text:"4._Speak just a word for Je-sus,\nWhy should you doubt or fear?\nSure-ly His love will bless it;\nSome-one will glad-ly hear.\n\nSpeak just a word,\nEv-er to Him be true;\nSpeak just a word,\nTell what He’s do-ing for you.\n"
+|Lyric5|Text:"5._Speak just a word for Je-sus,\nTell of His love for men;\nSome-one dis-tressed may lis-ten,\nWill-ing to trust Him then.\n\nSpeak just a word,\nEv-er to Him be true;\nSpeak just a word,\nTell what He’s do-ing for you.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:104|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:Half|Pos:-6,-4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th,Dotted|Pos:-6,-3
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-5
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:Half|Pos:-6,-4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Rest|Dur:4th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:12
+|Boundary|Style:NewSize|Lower:20
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:4th,Slur|Pos:-2|Opts:Stem=Down
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:4th,Slur|Pos:-2|Opts:Stem=Down
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Boundary|Style:NewSize|Upper:6|Lower:17
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Speak Just a Word"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nSpeak just a word, just a word for Je-sus,\n_ _ _ _ _ _\nSpeak just a word, just a word for Je-sus,\n\nSpeak just a word,\nEv-er to Him be true;\nSpeak just a word,\nTell what He’s do-ing for you.\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down|Dur2:16th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:Half|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down|Dur2:16th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:Half|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,7
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3,5
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:8th,Dotted|Pos:6|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:6
+|Chord|Dur:16th|Pos:5,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,6
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:8th,Dotted|Pos:6|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:6
+|Chord|Dur:16th|Pos:5,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Boundary|Style:NewSize|Upper:9
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3,5
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

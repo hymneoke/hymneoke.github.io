@@ -1,0 +1,116 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Llandaff, CM"|Author:"Edwin Moss (1838-1919)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal (New York: Methodist Book Concern, 1905), # 358."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Je-su, Re-deem-er of man-kind,\nHow lit-tle art Thou known\nBy sin-ners of a car-nal mind,\nWho claim Thee for their own.\n"
+|Lyric2|Text:"2._Who blas-phe-mous-ly call Thee Lord\nWith lips and hearts un-clean,\nBut make Thee, while they slight Thy Word,\nThe min-is-ter of sin.\n"
+|Lyric3|Text:"3._Who mad-ly plead for sin’s re-mains;\nWhile full of slav-ish fears,\nThey fan-cy Thou hast purged their stains,\nAnd false-ly call Thee theirs.\n"
+|Lyric4|Text:"4._O wretch-ed man who dares di-vide\nThe par-don, and the peace!\nIn vain for thee the Sav-ior died,\nUn-less He seal thee His.\n"
+|Lyric5|Text:"5._O wretch-ed man, from guilt to dream\nThy har-dened con-science freed!\nWhen Je-sus doth a soul re-deem,\nHe makes it free in-deed.\n"
+|Lyric6|Text:"6._The guilt and power with all thy art\nCan nev-er be dis-joined,\nNor will God bid the guilt de-part,\nAnd leave the power be-hind.\n"
+|Lyric7|Text:"7._Faith, when it comes, breaks eve-ry chain,\nAnd makes us tru-ly free,\nBut Christ hath died for thee in vain.\nUn-less He lives in thee.\n"
+|Lyric8|Text:"8._What is re-demp-tion in His blood,\nBut lib-er-ty with-in?\nA lib-er-ty to serve my God,\nAnd to es-chew my sin.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#,D#|Tonic:E
+|Tempo|Tempo:112|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:#-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:n-5,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:#-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Llandaff, CM"|Label:"Llandaff, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#,D#|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

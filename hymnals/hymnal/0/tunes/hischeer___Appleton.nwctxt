@@ -1,0 +1,125 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Appleton, LM"|Author:"William Boyce (1710-1779)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Psalter (Pittsburgh, Pennsylvania: United Presbyterian Board of Publication, 1912), # 320."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._His cheer-ing mes-sage from the grave\nAn an-gel to the wom-en gave:\n“Full soon your Mas-ter ye shall see;\nHe goes be-fore to Gal-i-lee.”\n"
+|Lyric2|Text:"2._But while with fly-ing steps they press\nTo bear the news, all ea-ger-ness,\nTheir Lord, the liv-ing Lord, they meet,\nAnd pros-trate fall to kiss His feet.\n"
+|Lyric3|Text:"3._So when His mourn-ing fol-lowers heard\nThe tid-ings of that faith-ful word,\nQuick went they forth to Gal-i-lee,\nTheir loved and lost once more to see.\n"
+|Lyric4|Text:"4._On that fair day of Pas-chal joy\nThe sun-shine was with-out al-loy,\nWhen to their ver-y eyes re-stored\nThey looked up-on the ris-en Lord.\n"
+|Lyric5|Text:"5._The wounds be-fore their eyes dis-played\nThey see in liv-ing light ar-rayed,\nAnd that they see they tes-ti-fy\nIn o-pen wit-ness fear-less-ly.\n"
+|Lyric6|Text:"6._O Christ, the King of gen-tle-ness,\nOur sev-eral hearts do Thou pos-sess,\nThey we may ren-der all our days\nThy meed of thank-ful-ness and praise.\n"
+|Lyric7|Text:"7._Mak-er of all, to Thee we pray,\nFul-fill in us Thy joy to-day;\nWhen death as-sails, grant, Lord, that we\nMay share Thy Pas-chal vic-to-ry.\n"
+|Lyric8|Text:"8._To Thee who, dead, a-gain dost live,\nAll glo-ry, Lord, Thy peo-ple give;\nAll glo-ry, as is ev-er meet,\nTo Fa-ther and to Par-a-clete.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Appleton, LM"|Label:"Appleton"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:n5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:3,n5
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:5,8
+|Chord|Dur:4th,Dotted|Pos:4,9
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

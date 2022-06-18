@@ -1,0 +1,233 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:6|CaretPos:10
+|SongInfo|Title:"Xi’an, 10.10.10.10 D"|Author:"Henry Southwick Perkins, 1875"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Sunny Side, edited by Charles W. Wendté & Henry S. Perkins (New York: William A. Pond, 1875), pp. 48–49. Note: Frontspiece spells editor name as \"Wendté,\" but his tombstone says \"Wendte.\" "
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:1.78|Top:2.54|Right:1.78|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Let us be ten-der, and trust-y, and true— \nHere is a thought, dear-est chil-dren, for you;\nWher-e’er we go, and what-ev-er we do,\nLet us be ten-der, and trust-y, and true.\n\nBrave to the bat-tle of life we will go,\nTen-der and trust-y in all that we do;\nHelp-ful, and thought-ful to all we will prove,\nWin-ning all hearts by our good-ness and love.\n"
+|Lyric2|Text:"2._Let us be trust-y, and ten-der, and true— \nChil-dren, I pray you to keep this in view;\nBless-ing each oth-er, our bless-ing we find,\nThere-fore be help-ful, and thought-ful and kind.\n\nBrave to the bat-tle of life we will go,\nTen-der and trust-y in all that we do;\nHelp-ful, and thought-ful to all we will prove,\nWin-ning all hearts by our good-ness and love.\n"
+|Lyric3|Text:"3._Let us be cheer-ful, and hap-py as well,\nThat all our life-ser-vice dou-bly may tell;\nGod loves the cheer-ful heart sing-ing its lay,\nLet us then joy-ous-ly keep on our way.\n\nBrave to the bat-tle of life we will go,\nTen-der and trust-y in all that we do;\nHelp-ful, and thought-ful to all we will prove,\nWin-ning all hearts by our good-ness and love.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:97|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,#-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,n0
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,n0
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,n0
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Xi’an, Henry S Perkins, 1875"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,n5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,#3
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th,Dotted|Pos:1,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:8th,Dotted|Pos:-4,3
+|Chord|Dur:16th|Pos:-4,3
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,n5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,#3
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,5
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,5
+|Chord|Dur:Half|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

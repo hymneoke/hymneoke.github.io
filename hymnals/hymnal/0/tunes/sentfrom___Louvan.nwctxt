@@ -1,0 +1,154 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:54|CaretPos:1
+|SongInfo|Title:"Louvan, LM"|Author:"Virgil Corydon Taylor, 1850"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal, Evangelical & Reformed Church (St. Louis, Missouri: Eden Publishing House, 1941), # 375."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Sent from His heav’n-ly throne on high,\nLet all the world be-neath the sky\nA-dore the Sav-ior new-ly come,\nThe Prince_born to-day of vir-gin womb.\n"
+|Lyric2|Text:"2._He who cre-at-ed Heaven and earth\nIs clothèd in frame of mor-tal birth;\nThat flesh by flesh may be set free,\nNor His own crea-tures ru-ined be.\n"
+|Lyric3|Text:"3._The Word which ere time’s course be-gan,\nForth from His Fa-ther’s bos-om ran,\nO-be-dient now to time and_to death\nA help-less In-fant draws its breath.\n"
+|Lyric4|Text:"4._On straw the_Al-might-y lays His head,\nNor spurns the man-ger for His bed;\nAnd He who all cre-a-tion feeds\nThe milk of hu-man moth-er needs.\n"
+|Lyric5|Text:"5._They guide the star-ry spheres, those hands\nThat now are wrapped in swath-ing bands;\nAll weak and weep-ing there He lies,\nThat He may raise us to the skies.\n"
+|Lyric6|Text:"6._Hope of the whole wide earth, that Child,\nWho calls us to His cra-dle mild,\nHow of such love our fit-ness prove\nSave by re-turn of an-swering love?\n"
+|Lyric7|Text:"7._All hon-or, laud and glo-ry be\nO Je-sus, Mar-y’s Son, to Thee;\nTo Fa-ther and the Spir-it praise\nNow and through end-less length of days.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:125|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-6,-4|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-1,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-1,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-1,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:0,2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-1,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,-1|Opts:Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Louvan, LM"|Label:"Louvan, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-3,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:6|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:1,8|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:4,8|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:2|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:-3,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:1|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:4
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:6|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:1,8|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:4,8|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:4,8|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:4,8|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,7|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,9|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-1,8|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,7|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-3,6|Opts:Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

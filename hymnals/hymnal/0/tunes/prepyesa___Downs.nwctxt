@@ -1,0 +1,114 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Downs, CM"|Author:"Lowell Mason, 1832"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Publication & Sabbath-School Work, 1907), # 115."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Pre-pare, ye saints, to meet your Lord,\nNor sleep nor slum-ber more;\nBright be your lamps, your ves-sels filled\nTo feed the wast-ing store.\n"
+|Lyric2|Text:"2._“He comes, He comes,” may be the cry\nIn mid-night’s deep-est gloom;\nShould then our lamps be void of oil,\nHow sad must be our doom?\n"
+|Lyric3|Text:"3._In vain, when ’tis too late, we seek\nA fresh sup-ply to get;\nIn vain, when once the door is shut,\nOur fol-ly we re-gret.\n"
+|Lyric4|Text:"4._“O-pen, Lord, o-pen,” we may cry,\nBut then can’t move His heart;\n“I know you not,” the Judge will say,\n“De-part from Me, de-part.”\n"
+|Lyric5|Text:"5._Lord, for Thy com-ing may I wait\nWith loins well girt a-bout;\nIn heaven-ly vir-tues may I shine,\nNor let my lamp go out.\n"
+|Lyric6|Text:"6._Then will the Bride-groom me ad-mit,\nAnd own me for His friend;\nMy soul shall feast on heaven-ly love,\nNor shall the ban-quet end.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,n-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Downs, CM"|Label:"Downs, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

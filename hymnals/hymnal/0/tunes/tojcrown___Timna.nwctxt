@@ -1,0 +1,136 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Timna, LM"|Author:"Lowell Mason, 1841"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The American Sabbath School Singing Book, edited by Lowell Mason (Philadelphia, Pennsylvania: Perkins & Purves, 1843), # 57."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._To Je-sus, the crown of my hope,\nMy soul is in haste to be gone:\nO bear me, ye cher-u-bim, up,\nAnd waft me a-way to His throne.\n"
+|Lyric2|Text:"2._My Sav-ior, whom ab-sent, I love;\nWhom, not hav-ing seen, I a-dore;\nWhose name is ex-alt-ed a-bove\nAll glo-ry, do-min-ion, and power:\n"
+|Lyric3|Text:"3._Dis-solve Thou these bonds that de-tain\nMy soul from her por-tion in Thee;\nAh! strike off this ad-a-mant chain,\nAnd make me e-ter-nal-ly free.\n"
+|Lyric4|Text:"4._When that hap-py e-ra be-gins,\nWhen clad in Thy glo-ries I shine,\nNor grieve an-y more, by my sins,\nThe bos-om on which I re-cline:\n"
+|Lyric5|Text:"5._O then shall the veil be re-moved,\nAnd round me Thy bright-ness be poured:\nI’ll meet Him whom ab-sent I loved,\nAnd see whom un-seen I a-dored.\n"
+|Lyric6|Text:"6._And then, nev-er more shall the fears,\nThe tri-als, temp-ta-tions, and woes,\nWhich dark-en this val-ley of tears,\nIn-trude on my bliss-ful re-pose.\n"
+|Lyric7|Text:"7._Or, if yet re-mem-bered a-bove,\nRe-mem-brance no sad-ness shall raise;\nThey’ll be but new signs of Thy love,\nNew themes for my won-der and praise.\n"
+|Lyric8|Text:"8._Thus strokes which from sin and from pain\nShall set me e-ter-nal-ly free,\nBut strength-en and riv-et the chain\nWhich binds me, my Sav-ior, to Thee.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:120|Pos:13|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:#-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:#-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Timna, Lowell Mason, 1841"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

@@ -1,0 +1,113 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:19|SelectIndex:20|CaretPos:-3
+|SongInfo|Title:"Ben Rhydding, SM"|Author:"Alexander Robert Reinagle, 1866"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal (New York: Methodist Book Concern, 1905), # 94. Also in Hymns Ancient and Modern, 1904."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._When man grows bold in sin,\nMy heart with-in me cries,\n“He hath no fear of God with-in,\nNor fear be-fore his eyes.”\n"
+|Lyric2|Text:"2._He walks a-while con-cealed\nIn a self flat-tering dream,\nTill his dark crimes at once re-vealed\nEx-pose his hate-ful name.\n"
+|Lyric3|Text:"3._His heart is false and foul,\nHis words are smooth and fair;\nWis-dom is ban-ished from his soul,\nAnd leaves no good-ness there.\n"
+|Lyric4|Text:"4._He plots up-on his bed\nNew mis-chiefs to ful-fill;\nHe sets his heart, and hand, and head,\nTo prac-tice all that’s ill.\n"
+|Lyric5|Text:"5._But there’s a dread-ful God,\nThough men re-nounce His fear;\nHis jus-tice, hid be-hind the cloud,\nShall one great day ap-pear.\n"
+|Lyric6|Text:"6._His truth tran-scends the sky,\nIn Heav’n His mer-cies dwell;\nDeep as the sea His judg-ments lie,\nHis an-ger burns to hell.\n"
+|Lyric7|Text:"7._How ex-cel-lent His love,\nWhence all our safe-ty springs!\nO nev-er let my soul re-move\nFrom un-der-neath His wings!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:112|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-7,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:n-1
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:b-5,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,n-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Ben Rhydding, SM"|Label:"Ben Rhydding, SM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,9
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,8
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,#2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,2
+|Note|Dur:4th|Pos:1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

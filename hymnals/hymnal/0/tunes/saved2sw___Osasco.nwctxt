@@ -1,0 +1,181 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Osasco, 77.77 D"|Author:"James McGranahan, 1895"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sacred Songs No. 1, Christian Endeavor Edition, edited by Ira D. Sankey, James McGranahan & George C. Stebbins (New York/Chicago, Illinois: Biglow & Main, 1897), # 113."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Go-ing forth at Christ’s com-mand,\nGo-ing forth to eve-ry land;\nFull sal-va-tion mak-ing known,\nThro’ the blood of God’s dear Son.\n\n“Saved to serve!” the watch-word ring,\nSaved to serve our glo-rious king!\nTell the sto-ry o’er and o’er,\nSaved to serve for-ev-er-more.\n"
+|Lyric2|Text:"2._Serv-ing God through all our days,\nToil-ing not for purse or praise;\nBut to mag-ni-fy His name,\nWhile the Gos-pel we pro-claim.\n\n“Saved to serve!” the watch-word ring,\nSaved to serve our glo-rious king!\nTell the sto-ry o’er and o’er,\nSaved to serve for-ev-er-more.\n"
+|Lyric3|Text:"3._Seek-ing on-ly souls to win,\nFrom the dead-ly power of sin;\nWe would guide their steps a-right,\nOut of dark-ness in-to light.\n\n“Saved to serve!” the watch-word ring,\nSaved to serve our glo-rious king!\nTell the sto-ry o’er and o’er,\nSaved to serve for-ev-er-more.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:n-3,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:#-2,0
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:Half|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:Half|Pos:0,6
+|Bar
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:Half|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:6,7
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:Half|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:6,8
+|Chord|Dur:4th|Pos:5,8
+|Chord|Dur:Half|Pos:4,8
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:Half|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

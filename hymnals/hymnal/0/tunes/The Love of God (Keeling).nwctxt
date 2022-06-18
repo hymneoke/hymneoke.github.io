@@ -1,0 +1,237 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Love of God (Keeling)"|Author:"Barney Elliott Warren"|Lyricist:"George P. Keeling, 1897"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of the Evening Light, edited by Barney E. Warren & Andrew L. Byers (Grand Junction, Michigan: Gospel Trumpet Publishing, 1897), # 19. Fixed some chord errors."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._The love of God flows deep and wide\nThro’ Christ who bled for us and died;\nIts widen-ing stretch we can-not see,\nIt reach-es far be-yond the sea.\n\nOh love, oh, love, oh, love of God so free;\nHe proved His love for you and me\nUp-on dark Cal-va-ry.\n"
+|Lyric2|Text:"2._Tho’ men have gone in sin so deep\nThat hell would blush and an-gels weep,\nYet, God so loved each guilt-y one\nHe gave for them His on-ly Son.\n\nOh love, oh, love, oh, love of God so free;\nHe proved His love for you and me\nUp-on dark Cal-va-ry.\n"
+|Lyric3|Text:"3._The heart that is so hard in sin\nThat this great love can nev-er win,\nIs tru-ly fit for no-thing less\nThan end-less hell and wretch-ed-ness.\n\nOh love, oh, love, oh, love of God so free;\nHe proved His love for you and me\nUp-on dark Cal-va-ry.\n"
+|Lyric4|Text:"4._But tho’ your sins be black and deep,\nAnd aw-ful dark-ness ’round you creep,\nYet, God so loves your guilt-y soul,\nHe’ll save you from all hell’s con-trol.\n\nOh love, oh, love, oh, love of God so free;\nHe proved His love for you and me\nUp-on dark Cal-va-ry.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:100|Pos:11|Justify:Right
+|TimeSig|Signature:9/8
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:n-7,n-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:b-5,-3
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:n-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:b-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:-7,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:n-7,n-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:b-5,-3
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:b-2,3
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:17
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Spacer|Width:375
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,0^
+|Chord|Dur:4th|Pos:-2,0
+|Rest|Dur:8th
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:b-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:24|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"Oh, love of God, oh, love of God, pure and free;\n\nOh love, oh, love, oh, love of God so free;\nHe proved His love for you and me\nUp-on dark Cal-va-ry.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:9/8
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-3,1|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Lyric=Never,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Lyric=Never,Beam=End
+|Chord|Dur:8th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:1,3|Opts:Lyric=Never
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Lyric=Never,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Lyric=Never,Beam=End
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Lyric=Never,Beam=First|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Lyric=Never,Beam
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Lyric=Never,Beam=End
+|Boundary|Style:NewSize|Upper:16
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-3,1|Opts:Lyric=Never
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1,4|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Lyric=Never,Beam=End
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-1,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Lyric=Never
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Rest|Dur:8th
+|Bar|Style:Double
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,6|Opts:Lyric=Never
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:4th,Dotted|Pos2:8
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:2,n7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down|Dur2:Half|Pos2:8
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:1
+|Rest|Dur:8th
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Bar
+|Boundary|Style:NewSize|Upper:7
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

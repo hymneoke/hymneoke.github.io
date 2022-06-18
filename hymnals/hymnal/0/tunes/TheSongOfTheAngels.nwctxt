@@ -1,0 +1,224 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Song of the Angels"|Author:"Clarence Milton Seamans"|Lyricist:"Clarence Milton Seamans, 1905"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Carols of Hope, edited by Clarence M. Seamans, Frederick S. Stanton & Francis A. Blackmer (Boston, Massachusetts: Advent Christian Publication Society, 1906), p. 168."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:32|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Violin"|Patch:40|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"1._“Glo-ry to God!” the ho-ly an-gels sing,\nWith peals of joy the heav’n-ly arch-es ring;\n“Peace on the earth,” how sweet the strains of love,\nPeace and good will from Him who reigns a-bove.\n"
+|Lyric2|Text:"2._“Glo-ry to God!” the King of Peace is born,\nLet prais-es ring to God this hap-py morn;\nBright Star of Hope, we hail thy wel-come light,\nDay dawns at last to drive a-way our night.\n"
+|Lyric3|Text:"3._“Glo-ry to God!” how sweet the heav’n-ly strain,\nLet earth re-ply, and join the glad re-frain;\nAll hail the King, the Christ of Beth-le-hem,\nPlace on His head the roy-al di-a-dem.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|Tempo|Tempo:92|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:8th,Dotted|Pos:-2
+|Note|Dur:16th|Pos:n-2
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:2
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:0
+|Note|Dur:4th,Slur|Pos:-1
+|Note|Dur:4th|Pos:-2
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th,Dotted|Pos:3
+|Note|Dur:16th|Pos:2
+|Note|Dur:4th,Dotted|Pos:1
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Note|Dur:4th|Pos:-3
+|Rest|Dur:4th
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:8th,Dotted|Pos:-2
+|Note|Dur:16th|Pos:n-2
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:2
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:n-1
+|Note|Dur:4th,Slur|Pos:1
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:2
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Placement:AsStaffSignature
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:8th|Pos:-1
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Placement:AsStaffSignature
+|Note|Dur:4th,Dotted|Pos:4
+|Note|Dur:8th|Pos:2
+|Note|Dur:4th,Dotted|Pos:3
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:Half,Dotted|Pos:2
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Staff-1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:6|BoundaryBottom:13|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:6
+|StaffInstrument|Name:"French Horn"|Patch:60|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,n-4,n-2
+|Chord|Dur:4th,Dotted|Pos:-5,-3,-1
+|Chord|Dur:8th|Pos:-5,-3,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Slur=Upward,Beam
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Dotted|Pos:-4
+|Note|Dur:16th|Pos:n-4|Opts:Stem=Up
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Rest|Dur:8th
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-6,-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up,Beam=End
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Rest|Dur:8th
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Rest|Dur:8th
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Dotted|Pos:-4
+|Note|Dur:16th|Pos:n-4
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Rest|Dur:8th
+|Note|Dur:8th,Slur|Pos:-7|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=End
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-8,-5,-3
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:Half|Pos:-8,-5,-3
+|Chord|Dur:Half|Pos:-8,-6,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-5,-3
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:v-2,v5
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:0,2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:-7,0
+|Chord|Dur:Half|Pos:-7,0
+|Bar
+|Chord|Dur:Half|Pos:-7,0
+|Chord|Dur:Half|Pos:-10,-3
+|Bar
+|Note|Dur:Half|Pos:-10
+|Note|Dur:Half|Pos:-10
+|Bar
+|Note|Dur:Half|Pos:-10
+|Chord|Dur:Half|Pos:-7,0
+|Bar
+|Chord|Dur:Half|Pos:-7,0
+|Chord|Dur:Half|Pos:-7,0
+|Bar
+|Chord|Dur:Half|Pos:-7,0
+|Chord|Dur:Half|Pos:-14,-6
+|Bar
+|Chord|Dur:Half|Pos:-14,-6
+|Chord|Dur:4th,Dotted|Pos:-14,-6
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:Half|Pos:-14,-6
+|Chord|Dur:Half|Pos:-14,-6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,0
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

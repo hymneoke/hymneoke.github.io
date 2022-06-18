@@ -1,0 +1,161 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:46|CaretPos:0
+|SongInfo|Title:"Pilot, 77.77.77"|Author:"John Edgar Gould, 1871"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Book of Worship for United States Forces (Washington, DC: US Government Printing Office, 1974), # 116."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Vi-tal spark of heaven-ly flame,\nQuit, O quit this mor-tal frame!\nTrem-bling, hop-ing, lin-gering flying,\nO the pain, the bliss of dying!\nCease, fond na-ture, cease thy strife,_And\nlet me lan-guish in-to life.\n"
+|Lyric2|Text:"2._Hark! they whis-per; an-gels say,\n“Sis-ter spir-it, come a-way!”\nWhat is this ab-sorbs me quite—\nSteals my sens-es, shuts my sight,\nDrowns my spir-it, draws my breath?_Tell\nme, my soul, can this be death?\n"
+|Lyric3|Text:"3._The world re-cedes— it dis-ap-pears;\nHeav’n o-pens on my eyes; my ears\nWith sounds se-raphic ring!\nLend, lend your wings! I mount! I_fly!\n“O grave! where is thy vic-tory!\nO _ death! where is thy sting?”\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:93|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th,Triplet=First,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th,Grace|Pos:8|Opts:Stem=Up,Muted|Visibility:Never
+|Note|Dur:8th,Triplet|Pos:0|Opts:Stem=Up,Beam
+|Chord|Dur:8th,Triplet=End|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-3|Opts:Stem=Up,ArticulationsOnStem
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,ArticulationsOnStem
+|Chord|Dur:8th|Pos:-4,-3|Opts:Stem=Up,ArticulationsOnStem
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-3|Opts:Stem=Up,ArticulationsOnStem
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,ArticulationsOnStem
+|Chord|Dur:8th|Pos:-4,-3|Opts:Stem=Up,ArticulationsOnStem
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:8th,Triplet=First,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th,Grace|Pos:8|Opts:Stem=Up,Muted|Visibility:Never
+|Note|Dur:8th,Triplet|Pos:0|Opts:Stem=Up,Beam
+|Note|Dur:8th,Triplet=End|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Pilot, 77.77.77"|Label:"Pilot, 77.77.77"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-2,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,#2|Opts:Stem=Down
+|Chord|Dur:4th,Triplet=First,Slur|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th,Triplet=End|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Boundary|Style:NewSize|Upper:20
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-2,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,#2|Opts:Stem=Down
+|Chord|Dur:4th,Triplet=First|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th,Triplet=End|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

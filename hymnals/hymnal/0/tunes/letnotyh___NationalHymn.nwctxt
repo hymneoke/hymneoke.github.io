@@ -1,0 +1,183 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:76|CaretPos:2
+|SongInfo|Title:"National Hymn, 10.10.10.10"|Author:"George William Warren, 1888"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 498."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._“Let not your hearts be trou-bled or cast down;\nYou trust in God, trust in the Son al-so.\nMy Fa-ther’s house is filled with man-y rooms;\nIf it weren’t so, I would have let you know.\n"
+|Lyric2|Text:"2._“I go a-way to make a place for you;\nAnd if I go, I will for you re-turn.\nI’ll take you there so you can be with Me;\nYou know the way— just fol-low Me and learn.\n"
+|Lyric3|Text:"3._“I am the on-ly way, the truth, the life;\nNone comes to God un-less he comes through Me.\nIf you know Me, you’ll know My Fa-ther, too;\nI am in Him, and He a-bides in Me.\n"
+|Lyric4|Text:"4._“These words I speak, they are not just My own;\nGod is the one who does His work through Me.\nBe-lieve that I am in My Fa-ther God,\nOr just be-lieve the mir-a-cles you see.\n"
+|Lyric5|Text:"5._“If you have faith, you’ll do what I have done;\nI tell the truth, e’en great-er things you’ll do.\nYou’ll do these things be-cause I go to God;\nThus it is good I go a-way from you.\n"
+|Lyric6|Text:"6._“I will do an-y-thing you ask of Me,\nSo that the Son to God may glo-ry bring.\nAsk in My name, ask an-y-thing you please;\nYou need but ask, and I will do each thing.”\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Instrument|Name:"[#057]"|Patch:56|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:11
+|Chord|Dur:Half,Dotted,Slur|Pos:-4,-2,0|Opts:Lyric=Never
+|Chord|Dur:8th,Triplet=First,Slur|Pos:-4,-2,0|Opts:Stem=Up,Lyric=Never,Beam=First
+|Chord|Dur:8th,Triplet,Slur|Pos:-4,-2,0|Opts:Stem=Up,Lyric=Never,Beam
+|Chord|Dur:8th,Triplet=End,Slur|Pos:-4,-2,0|Opts:Stem=Up,Lyric=Never,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,-2,0|Opts:Lyric=Never
+|Chord|Dur:4th,Slur|Pos:-4,-2,0|Opts:Lyric=Never
+|Chord|Dur:4th,Slur|Pos:-4,-2,0|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-4,-2,0|Opts:Lyric=Never
+|Instrument|Name:"[#001]"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:11
+|Bar
+|Chord|Dur:Half|Pos:-7,-4|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Whole|Pos2:-7,-4
+|Chord|Dur:8th,Triplet=First,Slur|Pos:-4,-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Triplet,Slur|Pos:-4,-2,0|Opts:Stem=Up,Beam
+|Chord|Dur:8th,Triplet=End,Slur|Pos:-4,-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Slur|Pos:-4,-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:n-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,n-1|Opts:Stem=Up
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Whole|Pos2:-3,0
+|Chord|Dur:8th,Triplet=First,Slur|Pos:-7,0|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Triplet,Slur|Pos:-7,0|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Triplet=End,Slur|Pos:-7,0|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:-7,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-7,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Chord|Dur:4th,Dotted|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,b-5,b-2,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:n-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,b2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,n-1|Opts:Stem=Up
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Whole|Pos2:-3,0
+|Chord|Dur:8th,Triplet=First,Slur|Pos:-7,0|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Triplet,Slur|Pos:-7,0|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Triplet=End,Slur|Pos:-7,0|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:-7,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-7,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-4,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"National Hymn"|Label:"National Hymn"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:1,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:3
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:b-4,b3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:5,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,b7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-2,7|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:n1,b7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:1,3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

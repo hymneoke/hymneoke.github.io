@@ -1,0 +1,260 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Mercy for All"|Author:"Gabriel P. Benjamin"|Lyricist:"Frances Jane (Fanny) Crosby, 1869"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Great Joy!, edited by William W. Bentley, Mrs. M. E. Willson, & Alfred Beirly (Cincinnati, Ohio: George D. Newhall, 1881), # 86."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._We are bought with a price by the Lamb that was slain;\nHe has con-quered the grave— He liv-eth a-gain!\nAt the foot of the cross He will an-swer our call:\nBless-èd be the Lord! there is mer-cy for all!\n\nMer-cy for all! Mer-cy for all!\nBless-èd be the Lord! there is mer-cy for all!\nMer-cy for all! Mer-cy for all!\nBless-èd be the Lord! there is mer-cy for all!\n"
+|Lyric2|Text:"2._We may drink if we will of the foun-tain so free\nThat is flow-ing to-day for you and for me;\nWith our bur-den of sin at its brink we may fall:\nBless-èd be the Lord! there is mer-cy for all!\n\nMer-cy for all! Mer-cy for all!\nBless-èd be the Lord! there is mer-cy for all!\nMer-cy for all! Mer-cy for all!\nBless-èd be the Lord! there is mer-cy for all!\n"
+|Lyric3|Text:"3._O the rich-es of grace that in Je-sus a-bound!\nWith the full-ness of joy His peo-ple are crowned.\nAt the door of His love He will an-swer our call:\nBless-èd be the Lord! there is mer-cy for all!\n\nMer-cy for all! Mer-cy for all!\nBless-èd be the Lord! there is mer-cy for all!\nMer-cy for all! Mer-cy for all!\nBless-èd be the Lord! there is mer-cy for all!\n"
+|Lyric4|Text:"4._If we walk in the path that our Mas-ter has trod—\nIf we die un-to sin, but live un-to God,\nWhen we pass the dark vale He will ans-wer our call:\nBless-èd be the Lord! there is mer-cy for all!\n\nMer-cy for all! Mer-cy for all!\nBless-èd be the Lord! there is mer-cy for all!\nMer-cy for all! Mer-cy for all!\nBless-èd be the Lord! there is mer-cy for all!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:98|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-3
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:0,2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,3
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-4,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:9
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:0,2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,3
+|Boundary|Style:NewSize|Lower:23
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Boundary|Style:NewSize|Lower:21
+|Bar
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-1,2
+|Chord|Dur:Half|Pos:-2,3
+|Spacer|Width:175
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:15
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:Half|Pos:-2,3
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:Half|Pos:-2,0
+|Spacer|Width:175
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:Half|Pos:-5,0
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:Half|Pos:-2,3
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:Half|Pos:-2,0
+|Spacer|Width:175
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-1,2
+|Chord|Dur:Half|Pos:-2,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Mercy for All"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-5
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nMer-cy for all! Mer-cy for all!\nBless-èd be the Lord! there is mer-cy for all!\nMer-cy for all! Mer-cy for all!\nBless-èd be the Lord! there is mer-cy for all!\n\nMer-cy for all! Mer-cy for all!\nBless-èd be the Lord! there is mer-cy for all!\nMer-cy for all! Mer-cy for all!\nBless-èd be the Lord! there is mer-cy for all!\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:3,8
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th,Dotted|Pos:2,n4
+|Chord|Dur:16th|Pos:2,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:3,8
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th,Dotted|Pos:n4,6
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Bar
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:Half|Pos:1,5
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:10
+|Chord|Dur:4th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:4,8
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th,Dotted|Pos:2,n4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:4,8
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:Half|Pos:1,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

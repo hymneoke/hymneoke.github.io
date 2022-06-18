@@ -1,0 +1,211 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Room for Jesus"|Author:"F. M. Atkinson"|Lyricist:"F. M. Atkinson, 1904"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Living Water Songs, by John T. Benson et al. (Nashville, Tennessee: Pentecostal Mission Publishing Company, ca. 1904), # 4."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Is there a-ny room for Je-sus?\nHe who died on Cal-va-ry,\nHe who stand-eth, knock-ing, wait-ing,\nPlead-ing with you ten-der-ly.\n\nRoom for Je-sus, room for Je-sus,\nLet Him in your heart to-day,\nThrow-ing ev-ery win-dow o-pen,\nO re-ceive Him while you may.\n"
+|Lyric2|Text:"2._We have room for world-ly plea-sures,\nCares of life crowd ev-ery day,\nAnd our hearts and minds are bur-dened\nWhile the Lord is turned a-way.\n\nRoom for Je-sus, room for Je-sus,\nLet Him in your heart to-day,\nThrow-ing ev-ery win-dow o-pen,\nO re-ceive Him while you may.\n"
+|Lyric3|Text:"3._Will you not make room for Je-sus,\nFor the Christ, the Cru-ci-fied?\nIs thee not some place to en-ter\nIn the soul for which He died?\n\nRoom for Je-sus, room for Je-sus,\nLet Him in your heart to-day,\nThrow-ing ev-ery win-dow o-pen,\nO re-ceive Him while you may.\n"
+|Lyric4|Text:"4._Room and time and thought for Je-sus,\nHast-en to ac-cept His grace\nEre the heart grows cold and care-less,\nAnd His plead-ing voice shall cease.\n\nRoom for Je-sus, room for Je-sus,\nLet Him in your heart to-day,\nThrow-ing ev-ery win-dow o-pen,\nO re-ceive Him while you may.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:103|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,#-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:n-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,#-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:n-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:#-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-2
+|Rest|Dur:4th
+|Spacer|Width:150
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:28
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,#-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:250
+|Bar
+|Boundary|Style:NewSize|Lower:25
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Whole|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Room for Jesus"|Label:"Room for Jesus"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Rest|Dur:4th
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Rest|Dur:4th
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:#2,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:1
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th,Slur|Pos:-1,6
+|Note|Dur:4th|Pos:1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Whole|Pos:-1,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

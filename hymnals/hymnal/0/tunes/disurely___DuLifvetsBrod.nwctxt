@@ -1,0 +1,226 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:91|SelectIndex:92|CaretPos:0
+|SongInfo|Title:"Du Lifvets Bröd, 87.87.887"|Author:"Peter Sohren, 1668"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Lutheran Hymnal (St. Louis, Missouri: Concordia Publishing House, 1941), # 306."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The day is sure-ly draw-ing near,\nWhen God’s Son, the A-noint-ed,\nShall with great maj-es-ty ap-pear,\nAs Judge of all ap-point-ed.\nAll mirth and laugh-ter then shall cease\nWhen flames on flames will still in-crease,\nAs Scrip-ture tru-ly teach-eth.\n"
+|Lyric2|Text:"2._A trum-pet loud shall then re-sound,\nAnd all the earth be shak-en;\nThen all who in their graves are found\nShall from their sleep a-wak-en.\nBut all that live shall in that hour,\nBy the Al-might-y’s bound-less power\nBe changed at His com-mand-ing.\n"
+|Lyric3|Text:"3._A book is o-pened then to all,\nA re-cord tru-ly tell-ing\nWhat each hath done, both great and small,\nWhen he on earth was dwell-ing;\nAnd eve-ry heart be clear-ly seen,\nAnd all be known as they have been,\nIn thoughts and words and ac-tions.\n"
+|Lyric4|Text:"4._Then woe to those who scorned the Lord,\nAnd sought but car-nal pleas-ures,\nWho here de-spised His pre-cious Word,\nAnd loved their earth-ly treas-ures!\nWith shame and trem-bling they will stand,\nAnd at the Judg-e’s stern com-mand\nTo Sa-tan be de-liv-ered.\n"
+|Lyric5|Text:"5._O Je-sus, who my debt didst pay\nAnd for my sin wast smit-ten\nWith-in the Book of Life, oh, may\nMy name be al-so writ-ten!\nI will not doubt; I trust in Thee,\nFrom Sa-tan Thou hast made me free\nAnd from all con-dem-na-tion.\n"
+|Lyric6|Text:"6._There-fore, my In-ter-ces-sor be,\nAnd for Thy blood and mer-it\nDe-clare my name from judg-ment free,\nWith all who life in-her-it;\nThat I may see Thee face to face\nWith all thy saints in that blest place\nWhich Thou for us hast pur-chased.\n"
+|Lyric7|Text:"7._O Je-sus Christ, do not de-lay,\nO has-ten our sal-va-tion!\nWe of-ten trem-ble on our way\nIn fear and trib-u-la-tion.\nThen hear us when we cry to Thee;\nCome, might-y Judge, and make us free\nFrom eve-ry e-vil. A-men.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:4th|Pos:#-3,-1
+|Bar
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Bar
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5^,0^|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:#-3,-1|Opts:Stem=Down
+|Bar
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Bar
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5^,0^|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:n-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-5^,0^|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Du Lifvets Bröd"|Label:"Du Lifvets Bröd"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:4th|Pos:-4,7
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2^,5^|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:4th|Pos:-4,7
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2^,5^|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Note|Dur:4th|Pos:5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Note|Dur:4th|Pos:5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2^,5^|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

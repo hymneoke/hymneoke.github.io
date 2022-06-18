@@ -1,0 +1,109 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Malmö, SM"|Author:"Hugh Henry McGranahan, 1886"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns No. 5, edited by Ira D. Sankey, James McGranahan & George C. Stebbins (Cincinnati, Ohio/New York/Chicago, Illinois: John Church/ Biglow & Main, 1887), # 31; this source shows a copyright date of 1886 for the song."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._We lift our songs to Thee,\nOur Sav-ior and our guide;\nO make us from our bur-dens free,\nAnd keep us near Thy side.\n"
+|Lyric2|Text:"2._We lift our prayers to Thee,\nWho on-ly hear-eth prayer;\nThey who on earth do thus a-gree,\nShall find Thy bless-ing there.\n"
+|Lyric3|Text:"3._We lift our faith to Thee,\nIn-creased by grace di-vine;\nHelp us, O Lord, Thy foot-steps see,\nAnd on Thy help re-cline.\n"
+|Lyric4|Text:"4._We lift our all to Thee,\nFor all things, Lord, are Thine;\nTake us, and all we have, and see\nThy like-ness in us shine.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:102|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-7,-4
+|Bar
+|Chord|Dur:Half|Pos:-8,-3
+|Chord|Dur:4th|Pos:#-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:n-7,-5
+|Bar
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up|Dur2:Half|Pos2:-6
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Malmö, Hugh H McGranahan"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-3,b8
+|Bar
+|Chord|Dur:8th|Pos:-2,8
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,153 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:49|CaretPos:8
+|SongInfo|Title:"Laus Matutina, 11.10.11.10"|Author:"John Stainer, 1872"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Publication & Sabbath-School Work, 1907), # 8."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Now, when the dusk-y\nShades of night, re-treat-ing\nBe-fore the sun’s red ban-ner, swift-ly flee;\nNow, when the ter-rors of the dark are fleet-ing,\nO Lord, we lift our thank-ful hearts to Thee.\n"
+|Lyric2|Text:"2._To Thee, whose Word,\nThe fount of light un-seal-ing,\nWhen hill and dale in thick-est dark-ness lay,\nA-woke bright rays a-cross the dim earth steal-ing,\nAnd bade the even and morn com-plete the day.\n"
+|Lyric3|Text:"3._Look from the tower\nOf Heaven, and send to cheer us,\nThy light and truth, to guide us on-ward still;\nStill let Thy mer-cy, as of old, be near us,\nAnd lead us safe-ly to Thy ho-ly hill.\n"
+|Lyric4|Text:"4._In vain to la-bor,\nUn-less Thou be with him,\nMan go-eth forth through all the wea-ry day;\nIn vain his strife, in vain his toil un-ceas-ing,\nUn-less Thy staff bring com-fort on his way.\n"
+|Lyric5|Text:"5._Thou, who hast made\nThe north and south, watch o’er us;\nThou, in whose name the lone-ly ones re-joice,\nStill let Thy cloud-y pil-lar glide be-fore us,\nStill let us lis-ten for Thy warn-ing voice.\n"
+|Lyric6|Text:"6._So, when the morn\nOf end-less light is wak-ing,\nAnd shades of e-vil from its splen-dors flee,\nSafe may we rise, the earth’s dark breast for-sak-ing,\nThrough all the long bright day to dwell with Thee.\n"
+|Clef|Type:Treble
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Chord|Dur:8th|Pos:-7,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-6
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:Half|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:#-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:Half|Pos:#-3,0
+|Bar
+|Chord|Dur:Whole|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-6
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:Half|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:b0,3
+|Chord|Dur:4th|Pos:0,1
+|Bar
+|Chord|Dur:Half|Pos:-1,4
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Chord|Dur:Whole|Pos:-2,3
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Laus Matutina, Stainer"|Label:"Laus Matutina, Stainer"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:4th|Pos:5,8
+|Chord|Dur:4th|Pos:6,8
+|Bar
+|Chord|Dur:Half|Pos:5,8
+|Chord|Dur:Half|Pos:5,#7
+|Bar
+|Chord|Dur:Whole|Pos:1,8
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th,Dotted|Pos:-1,b5
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,b4
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:Half|Pos:2,9
+|Bar
+|Chord|Dur:Whole|Pos:-1,8
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

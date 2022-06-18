@@ -1,0 +1,202 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Finger Lakes, CMD"|Author:"Adam Geibel, 1900"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Master’s Call, by Edmund S. Lorenz (Dayton, Ohio: United Brethren Publishing House, 1902), # 157."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:12|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Ah! what is hap-pi-ness com-plete?\nAh! tell me, if you know;\nI’d seek that won-der-ful re-treat\nAnd to its al-tar go.\n\nOh, this is hap-pi-ness com-plete:\nTo fall at Je-sus’ feet,\nAnd at the blood-stained mer-cy seat\nThe lov-ing Christ to meet.\n"
+|Lyric2|Text:"2._Yes, this is hap-pi-ness com-plete\nIn Je-sus Christ to rest;\nHe is the won-der-ful re-treat\nWhere you are saved and blest.\n\nOh, this is hap-pi-ness com-plete:\nTo fall at Je-sus’ feet,\nAnd at the blood-stained mer-cy seat\nThe lov-ing Christ to meet.\n"
+|Lyric3|Text:"3._Here is the al-tar where you may\nIn sweet con-tent-ment bow;\nWhere eve-ry sor-row flies a-way,\nCome, and ac-cept it now.\n\nOh, this is hap-pi-ness com-plete:\nTo fall at Je-sus’ feet,\nAnd at the blood-stained mer-cy seat\nThe lov-ing Christ to meet.\n"
+|Lyric4|Text:"4._I hear the in-vi-ta-tion sweet;\nAh! Christ, I come to Thee,\nWhere hap-pi-ness is mine com-plete\nTo all e-ter-ni-ty.\n\nOh, this is hap-pi-ness com-plete:\nTo fall at Je-sus’ feet,\nAnd at the blood-stained mer-cy seat\nThe lov-ing Christ to meet.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Finger Lakes, CMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:13
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th,Slur|Pos:-2,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:3,n5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Boundary|Style:NewSize|Upper:18
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

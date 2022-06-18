@@ -1,0 +1,184 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:50|SelectIndex:51|CaretPos:-3
+|SongInfo|Title:"Song 18 (Gibbons), 88.68.86"|Author:"Orlando Gibbons (1583-1625)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The English Hymnal (London: Oxford University Press, 1906), # 357."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Lord Je-su, who at Laz-arus’ tomb\nTo weep-ing friends from death’s dark womb\nDidst bring new joy to life,\nGrant to the friends who stand for-lorn\nA vi-sion of that larg-er morn\nWhere peace has con-quered strife.\n"
+|Lyric2|Text:"2._May we be-hold a-cross the bar\nThe dear im-mor-tals as they are,\nEm-powered in act and will,\nWith pur-er eyes to see their King,\nWith full-er hearts His praise to sing,\nWith strength to help us still;\n"
+|Lyric3|Text:"3._Not fet-tered now by flesh-ly bond,\nBut tire-less in the great be-yond,\nAnd grow-ing day by day.\nCan we not make their glad-ness ours,\nAnd share their thoughts, their add-ed powers,\nAnd fol-low as we pray?\n"
+|Lyric4|Text:"4._O Ho-ly Ghost, the strength and guide\nOf those who to this earth have died,\nBut live more near to God,\nGive us Thy grace to fol-low on,\nTill we with them the crown have won\nWho du-ty’s paths have trod.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:125|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|RestChord|Dur:4th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-3
+|Note|Dur:4th|Pos:#-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:0
+|RestChord|Dur:4th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-3
+|Note|Dur:4th|Pos:#-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half|Pos:#-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-1
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-7,-4
+|Bar
+|Chord|Dur:Half|Pos:-7,#-5
+|Chord|Dur:4th|Pos:n-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Note|Dur:4th|Pos:-2
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-3
+|Note|Dur:4th|Pos:#-5|Opts:Stem=Down
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Song 18 (Gibbons), 88.68"|Label:"Song 18 (Gibbons), 88.68"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:-4,7
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:Half|Pos:2,#6
+|Bar
+|Chord|Dur:Half|Pos:-2,#7
+|Chord|Dur:4th|Pos:5,n7
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:4,#6
+|Bar
+|Chord|Dur:Half|Pos:2,#6
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:7^
+|RestChord|Dur:4th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:0
+|Note|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:1,#3
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-5,4
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|RestChord|Dur:4th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-2
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

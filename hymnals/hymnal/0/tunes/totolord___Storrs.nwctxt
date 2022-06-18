@@ -1,0 +1,135 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Storrs, LM"|Author:"Timothy Richard Matthews, 1883"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal (New York: Methodist Book Concern, 1905), # 165. The tune is also known as “Saxby.”"
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._To Thee, O Lord, I hum-bly cry,\nTo Thee my sup-pli-ca-tion make,\nTo Thee I bring my sad com-plaint,\nTo Thee my bit-ter grief I take.\n"
+|Lyric2|Text:"2._Thou know-est, Lord, my deep dis-tress,\nThe lone-ly path, the hid-den snare,\nHow ref-uge fail-eth, friends for-sake,\nAnd no man for my soul doth care.\n"
+|Lyric3|Text:"3._My prayer is un-to Thee, O Lord,\nNo ref-uge but in Thee I know,\nNo por-tion but in Thee I find;\nLord, in my need Thy mer-cy show.\n"
+|Lyric4|Text:"4._Be Thou my Sav-ior, O my Lord,\nFor I am weak and foes are strong;\nMy cap-tive soul from pris-on bring,\nAnd glad shall be my thank-ful song.\n"
+|Lyric5|Text:"5._A-round me shall the right-eous throng,\nAnd crowned with joy Thy saints shall be,\nTheir hearts made glad be-cause the Lord\nIn rich-est grace hath dealt with me.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,n-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-1,2
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Storrs"|Label:"Storrs"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:0,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-4,n5
+|Chord|Dur:4th|Pos:n-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

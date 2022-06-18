@@ -1,0 +1,161 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:24|CaretPos:0
+|SongInfo|Title:"Sexagesima, 10.10.12"|Author:"Hermann Rudolph Schroeder, 1887"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Great Hymns of the Church Compiled by the Late Right Reverend John Freeman Young, edited by John H. Hopkins, Jr. (New York: James Pott, 1887), # 34."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._That fear-ful day, that day of speech-less dread,\nWhen Thou shalt come to judge the quick and dead—\nI shud-der to fore-see,\nO God! what then shall be!\n"
+|Lyric2|Text:"2._When Thou shalt come, an-gel-ic le-gions round,\nWith thou-sand thou-sands, and with trum-pet sound,\nChrist, grant me in the air\nWith saints to meet Thee there!\n"
+|Lyric3|Text:"3._Weep, O my soul, ere that great hour and day,\nWhen God shall shine in man-i-fest ar-ray,\nThy sin, that thou may’st be\nIn that strict judg-ment free!\n"
+|Lyric4|Text:"4._The ter-ror! Hell-fire fierce and un-suf-ficed:\nThe bit-ter worm: the gnash-ing teeth— O Christ,\nFor-give, re-mit, pro-tect;\nAnd set me with the_e-lect!\n"
+|Lyric5|Text:"5._That I may hear the bless-èd voice that calls\nThe right-eous to the joy of heaven-ly halls.\nAnd, King of Heaven, may reach\nThe realm that pass-eth speech!\n"
+|Lyric6|Text:"6._En-ter Thou not in judg-ment with each deed,\nNor each in-tent and thought in strict-ness read:\nFor-give, and save me then,\nO Thou That lov-est men!\n"
+|Lyric7|Text:"7._Thee, One in Three blest Per-sons! Lord o’er all!\nEs-sence of es-sence, Power of power we call:\nSave us, O Fa-ther, Son,\nAnd Spir-it, ev-er one!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:#-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:4th|Pos:-9,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-9,-6|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,b0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-3
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:#-6,-4
+|Chord|Dur:4th|Pos:b-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-9,-6
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,b0
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:#-6|Opts:Stem=Down,Beam=End
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-8,-5
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Sexagesima, 10.10.12"|Label:"Sexagesima, 10.10.12"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:4
+|Note|Dur:8th|Pos:#-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:b-2
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-4,b5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-5,6
+|Bar
+|Chord|Dur:4th|Pos:-4,b5
+|Chord|Dur:4th|Pos:#-1,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:3,b5
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:#-1,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:b-2,2
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:b-2
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:2
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-1
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:#-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-7,2
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

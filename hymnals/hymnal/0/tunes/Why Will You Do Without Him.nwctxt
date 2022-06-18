@@ -1,0 +1,201 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Why Will You Do Without Him?"|Author:"Ivy E. Craig, 1920"|Lyricist:"Frances Ridley Havergal (1836-1879)"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Voice of Thanksgiving No. 3 (Chicago, Illinois:  \tMoody Bible Institute, 1921), # 98."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._I could not do with-out Him!\nJe-sus is more to me\nThan all the rich-est, fairest gifts\nOf earth could ev-er be.\nBut_the more I find Him pre-cious,\nAnd_the more I find Him true,\nThe more I long for you_to find\nWhat He can be to you.\n"
+|Lyric2|Text:"2._You need not do with-out Him,\nFor He is pass-ing by;\nHe_is wait-ing to be gracio-us,\nOnly wait-ing for your cry;\nHe_is wait-ing to re-ceive you—\nTo make you all His own;\nWhy will you do with-out Him,\nAnd wan-der on a-lone?\n"
+|Lyric3|Text:"3._What will you do with-out Him?\nWhen He hath shut the door,\nAnd you are left out-side_be-cause\nYou would not come be-fore?\nWhen it is no use knock-ing,\nNo use to stand and wait,\nFor_the word of doom tolls thro’_your breast,\nThat ter-ri-ble, “Too late!”\n"
+|Lyric4|Text:"4._Why should you do with-out Him?\nIt is not yet too late;\nHe has not closed the day_of grace,\nHe has not shut the gate.\nHe calls you! Oh, He calls you!\nHe would not have you go\nAn-o-ther step with-out Him,\nBe-cause He loves you so.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:140|Pos:12|Justify:Right
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:Whole|Pos:-6,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6^,-4^
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Slur|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:8th,Slur|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:n-5,0
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted,Slur|Pos:-4^|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Chord|Dur:Half|Pos:-5,-4
+|Chord|Dur:8th,Slur|Pos:-5,-4
+|Chord|Dur:8th|Pos:-5,-4
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:Whole|Pos:-4,1
+|Chord|Dur:8th,Slur|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6^,-4^
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Slur|Pos:1|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:Half|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4^,-1^
+|Chord|Dur:Half|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Whole|Pos:-3,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,4^
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:8th,Slur|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1^,3^
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Whole|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,4^
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:8th,Slur|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:Half|Pos:-1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:4^|Opts:Stem=Down|Dur2:Half|Pos2:4^
+|Chord|Dur:4th|Pos:4,5
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:Half|Pos:1,8
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4^,6^
+|Chord|Dur:Half|Pos:4,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

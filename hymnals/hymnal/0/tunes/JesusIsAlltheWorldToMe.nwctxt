@@ -1,0 +1,197 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Jesus Is All the World to Me"|Author:"Will Lamartine Thompson"|Lyricist:"Will Lamartine Thompson, 1904"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Book of Hymns (Nashville, Tennessee: United Methodist Publishing House, 1966), # 97."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Je-sus is all the world to me, my life, my joy, my all;\nHe is my strength from day to day, with-out Him I would fall.\nWhen I am sad, to Him I go, no o-ther one can cheer me so;\nWhen I am sad, He makes me glad, He’s my friend.\n"
+|Lyric2|Text:"2._Je-sus is all the world to me, my friend in tri-als sore;\nI go to Him for bless-ings, and He gives them over and o’er.\nHe sends the sun-shine and the rain, He sends the har-vest’s gold-en grain;\nSun-shine and rain, har-vest of grain, He’s my friend.\n"
+|Lyric3|Text:"3._Je-sus is all the world to me, and true to Him I’ll be;\nO how could I this friend de-ny, when He’s so true to me?\nFol-low-ing Him I know I’m right, He watch-es o’er me day and night;\nFol-low-ing Him by day and night, He’s my friend.\n"
+|Lyric4|Text:"4._Je-sus is all the world to me, I want no bet-ter friend;\nI trust Him now, I’ll trust Him when life’s fleet-ing days shall end.\nBeau-ti-ful life with such a friend, beau-ti-ful life that has no end;\nE-ter-nal life, e-ter-nal joy, He’s my friend.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:n-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,0^
+|Chord|Dur:4th|Pos:-5,0
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-8,-6
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-8,-6
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:n-7,-1
+|Bar
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-4,3|Opts:Stem=Down
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Jeus Is All the World"|Label:"Jeus Is All the World"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/8
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:5,8
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:n1,4
+|Bar
+|Chord|Dur:8th|Pos:n1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,6
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,194 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"O Lord, Within My Soul"|Author:"Elisha Albright Hoffman"|Lyricist:"Elisha Albright Hoffman, 1900"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Mennonite Hymnal (Newton, Kansas: Faith and Life Press, 1969), # 590."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._O Lord, with-in my soul,\nI long for pur-i-ty,\nTo be com-plete and whole\nA-lone through Thee.\n\nThere is no o-ther hope,\nThere is no o-ther plea;\nSal-va-tion, full sal-va-tion free,\nMust come a-lone through Thee.\n"
+|Lyric2|Text:"2._I bend be-fore Thy cross,\nAnd know my heart can be\nCleansed from its sin and dross\nA-lone through Thee.\n\nThere is no o-ther hope,\nThere is no o-ther plea;\nSal-va-tion, full sal-va-tion free,\nMust come a-lone through Thee.\n"
+|Lyric3|Text:"3._I pray at Thy dear feet,\nSal-va-tion full en-treat,\nAnd want to feel my love\nIn Thee com-plete.\n\nThere is no o-ther hope,\nThere is no o-ther plea;\nSal-va-tion, full sal-va-tion free,\nMust come a-lone through Thee.\n"
+|Lyric4|Text:"4._My faith Thy Word be-lieves,\nThe prom-ise made to me,\nAnd per-fect peace re-ceives\nA-lone through Thee.\n\nThere is no o-ther hope,\nThere is no o-ther plea;\nSal-va-tion, full sal-va-tion free,\nMust come a-lone through Thee.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Spacer|Width:625
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Slur|Pos:n-4,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Spacer|Width:500
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Spacer|Width:275
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:15
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-2,0
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:475
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"O Lord, Within My Soul"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nThere is no o-ther hope,\nThere is no o-ther plea;\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:0,3
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Slur|Pos:-1,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half|Pos:1,6
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Bar|Style:Double
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:Half,Dotted
+|Chord|Dur:4th|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:4,9
+|Chord|Dur:4th|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Boundary|Style:NewSize|Upper:8
+|Chord|Dur:4th|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:0,9
+|Chord|Dur:4th|Pos:0,9
+|Chord|Dur:4th|Pos:0,9
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,135 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:9
+|SongInfo|Title:"I Have Decided to Follow Jesus"|Author:"Indian Folk Tune"|Lyricist:"Anonymous"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing Company, 1975), # 451."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:27|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._I have de-cid-ed to fol-low Je-sus,\nI have de-cid-ed to fol-low Je-sus,\nI have de-cid-ed to fol-low Je-sus,\nNo turn-ing back, no turn-ing back.\n"
+|Lyric2|Text:"2._The world be-hind me, the cross be-fore me,\nThe world be-hind me, the cross be-fore me,\nThe world be-hind me, the cross be-fore me,\nNo turn-ing back, no turn-ing back.\n"
+|Lyric3|Text:"3._Tho’ none go with me, I still will fol-low,\nTho’ none go with me, I still will fol-low,\nTho’ none go with me, I still will fol-low,\nNo turn-ing back, no turn-ing back.\n"
+|Lyric4|Text:"4._Will you de-cide now to fol-low Je-sus?\nWill you de-cide now to fol-low Je-sus?\nWill you de-cide now to fol-low Je-sus?\nNo turn-ing back, no turn-ing back.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:-4
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:Whole|Pos2:-6
+|Note|Dur:4th,Dotted|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:1
+|Chord|Dur:8th|Pos:1|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up|Dur2:Whole|Pos2:-3
+|Note|Dur:4th,Dotted|Pos:1|Opts:Stem=Up
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th,Dotted|Pos:-2|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4^|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-9
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-6^|Opts:Stem=Up|Dur2:Half|Pos2:-6^
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Down|Dur2:8th|Pos2:-6
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"I Have Decided to Follow Jesus"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1|Opts:Stem=Up|Dur2:Whole|Pos2:-1
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-1,b5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Up|Dur2:Whole|Pos2:2
+|Note|Dur:8th|Pos:#3|Opts:Stem=Up
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:Half|Pos:1|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:8th|Pos:#0
+|Note|Dur:8th|Pos:1
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:1
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,#2
+|Chord|Dur:4th|Pos:-2,n2
+|Bar
+|Chord|Dur:Half|Pos:-1^,1^
+|Chord|Dur:8th|Pos:-1,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

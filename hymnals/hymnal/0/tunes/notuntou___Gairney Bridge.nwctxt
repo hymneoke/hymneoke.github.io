@@ -1,0 +1,165 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Gairney Bridge, 88.88.88"|Author:"Ernest R. Kroeger, 1901"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 68. Also in the Psalter Hymnal (Grand Rapids, Michigan: Board of Publications of the Christian Reformed Church, 1976), # 226."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Not un-to us, O Lord of Heav’n,\nBut un-to Thee be glo-ry given;\nIn love and truth Thou dost ful-fill\nThe coun-sels of Thy sov-ereign will;\nThough na-tions fail Thy pow’r to own,\nYet Thou dost reign, and Thou a-lone.\n"
+|Lyric2|Text:"2._The i-dol gods of hea-then lands\nAre but the work of hu-man hands;\nThey can-not see, they can-not speak,\nTheir ears are deaf, their hands are weak;\nLike them shall be all those who hold\nTo gods of sil-ver and of gold.\n"
+|Lyric3|Text:"3._Let Is-rael trust in God a-lone,\nThe Lord whose grace and pow’r are known;\nTo Him your full al-le-giance yield,\nAnd He will be your Help and Shield;\nAll those who fear Him God will bless,\nHis saints have proved His faith-ful-ness.\n"
+|Lyric4|Text:"4._All ye that fear Him and a-dore,\nThe Lord in-crease you more and more;\nBoth great and small who Him con-fess,\nYou and your chil-dren He will bless.\nYea, we will ev-er bless His name;\nPraise ye the Lord, His praise pro-claim.\n"
+|Lyric5|Text:"5._The heavens are God’s since time be-gan,\nBut He has given the earth to man;\nThe dead praise not the liv-ing God,\nBut we will sound His praise a-broad,\nYea, we will ev-er bless His name;\nPraise ye the Lord, His praise pro-claim.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:90|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:n-4,1
+|Bar
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,n-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Gairney Bridge, 88.88.88"|Label:"Gairney Bridge, 88.88.88"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:4,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:4,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:4,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:4,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:b3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:n4,6
+|Chord|Dur:8th|Pos:b4,b6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:8th|Pos:1,b7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:8th|Pos:4,b6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

@@ -1,0 +1,224 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Eternity Somewhere"|Author:"Anthony Q. Dyess"|Lyricist:"Anthony Q. Dyess, 1917"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: New Victory Song Book, edited by Emmett S. Dean (Nashville, Tennessee: National Baptist Publishing Board, 1918), # 116."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._When the world with its woes has van-ished,\nAnd the glor-ious dawn shall ap-pear,\nEv-ery soul shall be called to judg-ment,\nE-ter-ni-ty some-where.\n\nE-ter-ni-ty some-where;\nE-ter-ni-ty some-where;\nEv-ery soul shall be called to judg-ment,\nE-ter-ni-ty some-where.\n"
+|Lyric2|Text:"2._While the King of all kings is call-ing,\nBid-ding you His glo-ry to share;\nCome to Him and pre-pare for judg-ment,\nE-ter-ni-ty some-where.\n\nE-ter-ni-ty some-where;\nE-ter-ni-ty some-where;\nEv-ery soul shall be called to judg-ment,\nE-ter-ni-ty some-where.\n"
+|Lyric3|Text:"3._The re-deemed shall u-nite with loved ones,\nIn a home that’s free from all care;\nThey shall dwell with the Lord, their Sav-ior,\nE-ter-ni-ty some-where.\n\nE-ter-ni-ty some-where;\nE-ter-ni-ty some-where;\nEv-ery soul shall be called to judg-ment,\nE-ter-ni-ty some-where.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#,D#,A#|Tonic:B
+|Tempo|Tempo:90|Pos:13|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:16th|Pos:-7,-5
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,#-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:16th|Pos:-4,-3
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-3^
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-7,-5|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:8th|Pos:x-6,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:x-6,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,#1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,0^
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:200
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:13
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-7,-5|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:-2^
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:#-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-1^
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-7,-5|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:8th|Pos:x-6,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:x-6,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-4,#1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:0^
+|Note|Dur:8th,Slur|Pos:x-6|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Eternity Somewhere"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#,D#,A#|Tonic:B
+|TimeSig|Signature:6/8
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,5^
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:#1,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:-7|Justify:Right|Placement:AtNextNote
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:8th|Pos:-5,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,2^
+|Chord|Dur:4th|Pos:-2,2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,6^
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:8th|Pos:#1,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:#1,5
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:8th|Pos:-5,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,Slur=Downward|Dur2:4th,Dotted|Pos2:-2^
+|Note|Dur:8th,Slur|Pos:#1|Opts:Stem=Up,Slur=Downward
+|Chord|Dur:4th|Pos:-2,2
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

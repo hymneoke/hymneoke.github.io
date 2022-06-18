@@ -1,0 +1,242 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Believe and Thou Shalt Be Saved"|Author:"S. L. Howard"|Lyricist:"Adalyn Evilsizer, 1899"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Best Gospel Songs and Their Composers, by Anthony J. Showalter (Dalton, Georgia: A. J. Showalter Company, 1904), # 31."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:1.78|Top:2.54|Right:1.78|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:26|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._There’s a mes-sage of hope to the dy-ing,\nO be-lieve on the Lord and be saved;\nLife is short, and the mo-ments are fly-ing,\nO be-lieve on the Lord and be saved.\n\nO be-lieve and be saved,\nO be-lieve on the Lord and be saved;\nChrist re-ceives all who come,\nO be-lieve Him, and thou shalt be saved.\n"
+|Lyric2|Text:"2._Turn a-way from your sin, and re-pent-ing,\nO be-lieve on the Lord and be saved;\nCome to Christ while the heart is re-lent-ing,\nO be-lieve on the Lord and be saved.\n\nO be-lieve and be saved,\nO be-lieve on the Lord and be saved;\nChrist re-ceives all who come,\nO be-lieve Him, and thou shalt be saved.\n"
+|Lyric3|Text:"3._While the voice of your con-science is plead-ing,\nO be-lieve on the Lord and be saved;\nWhile the Sav-ior is now in-ter-ced-ing,\nO be-lieve on the Lord and be saved.\n\nO be-lieve and be saved,\nO be-lieve on the Lord and be saved;\nChrist re-ceives all who come,\nO be-lieve Him, and thou shalt be saved.\n"
+|Lyric4|Text:"4._Sin-ner, why do you lin-ger, de-bat-ing?\nO be-lieve on the Lord and be saved;\nGra-cious par-don for you is a-wait-ing,\nO be-lieve on the Lord and be saved.\n\nO be-lieve and be saved,\nO be-lieve on the Lord and be saved;\nChrist re-ceives all who come,\nO be-lieve Him, and thou shalt be saved.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up|Dur2:16th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-2
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up|Dur2:16th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-2
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,1
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Spacer|Width:375
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:8
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Down
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-2,#1
+|Chord|Dur:16th|Pos:-2,1
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Placement:AtNextNote
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,1
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th|Pos:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Believe Thou Shalt Be Saved"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nO be-lieve and be saved\n_ _ _ _ _ _ _ _ _\nand be saved,\nChrist re-ceives all who come,\n_ _ _ _ _ _ _ _ _\nO be-lieve\n\nO be-lieve and be saved,\nO be-lieve on the Lord and be saved;\nChrist re-ceives all who come,\nO be-lieve Him, and thou shalt be saved.\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,7
+|Bar
+|Chord|Dur:Half|Pos:0,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,6
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:2,7
+|Chord|Dur:16th|Pos:3,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,7
+|Bar
+|Chord|Dur:Half|Pos:0,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3,4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,6
+|Chord|Dur:16th|Pos:0,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Bar|Style:Double
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:8th,Dotted|Pos:4,7
+|Chord|Dur:16th|Pos:4,7
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:0,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,6
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3,4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,6
+|Chord|Dur:16th|Pos:0,6
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:-6|Justify:Right|Placement:AtNextNote
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:8th,Dotted|Pos:6|Opts:Stem=Up
+|Note|Dur:16th|Pos:6|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:-6|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

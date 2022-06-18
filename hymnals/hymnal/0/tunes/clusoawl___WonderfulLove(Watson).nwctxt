@@ -1,0 +1,170 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Wonderful Love (Watson), 10.8.10.7.8.10"|Author:"Adam Watson (1845-1912)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Canadian Youth Hymnal (Toronto, Canada: United Church Publishing House, 1939), # 34."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Come, let us sing of a won-der-ful love,\nTen-der and true, ten-der and true,\nOut of the heart of the Fa-ther a-bove,\nStream-ing to me and to you:\nWon-der-ful love, won-der-ful love,\nDwells in the heart of the Fa-ther a-bove.\n"
+|Lyric2|Text:"2._Je-sus the Sav-ior this Gos-pel to tell\nJoy-ful-ly came, joy-ful-ly came,\nCame with the help-less and hope-less to dwell,\nShar-ing their sor-row and shame:\nSeek-ing the lost, seek-ing the lost,\nSav-ing, re-deem-ing at meas-ure-less cost.\n"
+|Lyric3|Text:"3._Je-sus is seek-ing the wan-der-ers yet;\nWhy do they roam? Why do they roam?\nLove on-ly waits to for-give and for-get;\nHome, wea-ry wan-der-ers, home!\nWon-der-ful love, won-der-ful love,\nDwells in the heart of the Fa-ther a-bove.\n"
+|Lyric4|Text:"4._Come to my heart, O thou won-der-ful love!\nCome and a-bide, come and a-bide,\nLift-ing my life till it ris-es a-bove\nEn-vy and false-hood and pride:\nSeek-ing to be, seek-ing to be,\nLow-ly and hum-ble, a learn-er of thee.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:125|Pos:12|Justify:Right
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-7|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5^,-3
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Wonderful Love (Watson)"|Label:"Wonderful Love (Watson)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,n4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half,Dotted|Pos:-2,b4
+|Bar
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:2,n4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:5^|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:5
+|Chord|Dur:Half,Dotted|Pos:4,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:3,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:4th|Pos:-2,8
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

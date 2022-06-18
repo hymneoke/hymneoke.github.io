@@ -1,0 +1,179 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:45|CaretPos:4
+|SongInfo|Title:"Gaudium Cæleste, 66.77.77.6"|Author:"Charles Hubert Hastings Parry, 1904"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 779."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._There was joy in Heaven!\nThere was joy in Heaven!\nWhen this good-ly world to frame\nThe Lord of might and mer-cy came;\nShouts of joy were heard on high,\nAnd the stars sang from the sky—\n“Glo-ry to God in Heav’n!”\n"
+|Lyric2|Text:"2._There was joy in Heaven!\nThere was joy in Heaven!\nWhen the bil-lows, heav-ing dark,\n_ Sank a-round the strand-ed ark,\nAnd the rain-bow’s wa-tery span\nSpake of mer-cy, hope to man,\nAnd peace with God in Heav’n!\n"
+|Lyric3|Text:"3._There was joy in Heaven!\nThere was joy in Heaven!\nWhen of love the mid-night beam\n_ Dawned on towers of Beth-le-hem,\nAnd a-long the ech-oing hill\nAn-gels sang— “On earth good will,\nAnd glo-ry in the Heav’n!”\n"
+|Lyric4|Text:"4._There was joy in Heaven!\nThere was joy in Heaven!\nWhen the sheep that went a-stray\n_ Turns a-gain to vir-tue’s way,\nWhen the soul, by grace sub-dued,\nSobs its prayer of grat-i-tude,\nThen there is joy in Heav’n!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,n0
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:#-2,n0
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Whole|Pos2:3
+|Note|Dur:4th,Dotted,Slur|Pos:0|Opts:Stem=Down,Slur=Upward
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Gaudium Cæleste"|Label:"Gaudium Cæleste"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Note|Dur:4th,Slur|Pos:1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th,Slur|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:5,6
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|Chord|Dur:8th|Pos:5,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:1
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:0,5
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:0,n5
+|Chord|Dur:4th|Pos:1,#3
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:6,8
+|Chord|Dur:4th|Pos:n5,7
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,8
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:3,n5
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:6
+|Note|Dur:4th,Slur|Pos:3|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:6|Opts:Stem=Down
+|Note|Dur:4th|Pos:5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

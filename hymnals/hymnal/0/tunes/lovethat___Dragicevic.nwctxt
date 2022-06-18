@@ -1,0 +1,194 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:21|CaretPos:1
+|SongInfo|Title:"Dragicevic, 87.87 D"|Author:"John Robson Sweney, 1882"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Joy and Gladness, by John R. Sweney, William J. Kirkpatrick et al. (Boston, Massachusetts: McDonald, Gill & Company, 1885), # 27."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Lord, I come, I wait no long-er;\nLo! I give my-self to Thee;\nThou hast fin-ished my re-demp-tion;\nThou hast res-cued e-ven me.\n\nO, the mer-cy so a-maz-ing;\nO, the grace so full and free;\nO, the love so strong and bound-less,\nThat could res-cue e-ven me.\n"
+|Lyric2|Text:"2._Let me tell the won-drous sto-ry;\nLet me tell of Cal-va-ry;\nOf the won-der-ful com-pas-sion\nThat could res-cue e-ven me.\n\nO, the mer-cy so a-maz-ing;\nO, the grace so full and free;\nO, the love so strong and bound-less,\nThat could res-cue e-ven me.\n"
+|Lyric3|Text:"3._See! the cru-el nails are driv-en\nThrough the Sav-ior’s hands and feet;\nSee Him dy-ing! Hear Him say-ing,\n“All is fin-ished,” ’tis com-plete.\n\nO, the mer-cy so a-maz-ing;\nO, the grace so full and free;\nO, the love so strong and bound-less,\nThat could res-cue e-ven me.\n"
+|Lyric4|Text:"4._Yes, the sac-ri-fice is of-fered,\nLife is bought for you and me;\nLord, I come, I wait no long-er,\nLo! I give my-self to Thee.\n\nO, the mer-cy so a-maz-ing;\nO, the grace so full and free;\nO, the love so strong and bound-less,\nThat could res-cue e-ven me.\n"
+|Lyric5|Text:"5._In my heart hope’s star is shin-ing\nWith a ra-diance from a-bove,\nAnd my soul is sweet-ly rest-ing\nIn the o-cean of Thy love.\n\nO, the mer-cy so a-maz-ing;\nO, the grace so full and free;\nO, the love so strong and bound-less,\nThat could res-cue e-ven me.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,0
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,n2
+|Chord|Dur:8th|Pos:n-5,0
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-2
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-4,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up|Dur2:16th|Pos2:-4
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Dragicevic, 87.87 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:1|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:1
+|Chord|Dur:16th|Pos:1|Opts:Stem=Up|Dur2:16th|Pos2:1
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,8
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:1|Opts:Stem=Down|Dur2:Half|Pos2:8
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th,Dotted|Pos:-3,6
+|Chord|Dur:16th|Pos:-1,4
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

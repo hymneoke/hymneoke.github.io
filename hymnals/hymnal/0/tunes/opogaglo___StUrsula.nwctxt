@@ -1,0 +1,194 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:6|SelectIndex:7|CaretPos:1
+|SongInfo|Title:"St. Ursula, CMD"|Author:"Frederick Westlake, 1863"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 294."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O praise our great and gra-cious Lord,\nAnd call up-on His name;\nTo strains of joy tune eve-ry chord,\nHis might-y acts pro-claim;\nTell how He led His cho-sen race\nTo Ca-naan’s prom-ised land;\nTell how His cov-e-nant of grace\nUn-changed shall ev-er stand.\n"
+|Lyric2|Text:"2._He gave the shad-owing cloud by day,\nThe mov-ing fire by night;\nTo guide His Is-rael on their way,\nHe made their dark-ness light;\nAnd have we not a sure re-treat,\nA Sav-ior ev-er nigh,\nThe same clear light to guide our feet,\nThe day-spring from on high?\n"
+|Lyric3|Text:"3._We, too, have man-na from a-bove,\nThe bread that came from Heav’n;\nTo us the same kind hand of love\nHath liv-ing wa-ters giv’n;\nA rock have we, from whence the spring\nIn rich a-bun-dance flows;\nThe rock is Christ, our Priest, our King,\nWho life and health be-stows.\n"
+|Lyric4|Text:"4._O may we praise this bless-èd Food,\nAnd trust our heaven-ly guide;\nSo shall we find death’s fear-ful flood\nSe-rene as Jor-dan’s tide,\nAnd safe-ly reach that hap-py shore,\nThe land of peace and rest,\nWhere an-gels wor-ship and a-dore\nIn God’s own pres-ence blest.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:113|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:#-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4
+|Note|Dur:8th|Pos:#1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-1
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:#-2,2
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"St. Ursula, CMD"|Label:"St. Ursula, CMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:4th|Pos:-1,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,7
+|Chord|Dur:8th|Pos:-3,7
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-2,#3
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:-5,#4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:5
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,7
+|Chord|Dur:4th,Slur|Pos:1,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

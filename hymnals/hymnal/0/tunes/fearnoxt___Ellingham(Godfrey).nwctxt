@@ -1,0 +1,113 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:35|CaretPos:4
+|SongInfo|Title:"Ellingham (Godfrey), 77.77"|Author:"Nathaniel Stedman Godfrey, 1881"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:" Courtesy of the Cyber Hymnal™"|Comments:"Source: The New Hymnal for American Youth, by H. Augustne Smith (New York: Fleming H. Revell, 1930), # 198 & 214. Also in the New Baptist Hymnal (Philadelphia, Pennsylvania: American Baptist Publication Society, 1926), # 104."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Treble Clef"|Label:"Treble Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Mourn-er, Christ-mas comes for thee;\nHear, with low and gen-tle tone,\nOne who whis-pers, “Look to Me!\nHope, for thou art not a-lone!”\n"
+|Lyric2|Text:"2._Not for thee the mer-ry throng,\nGlad-ness mak-ing lone-lier still;\nYet is thine the an-gels’ song,\nEch-oed clear from Beth-lehem’s hill.\n"
+|Lyric3|Text:"3._“Fear ye not!” from Heav’n was spoken\nLong a-go, on Christ-mas Eve;\n“Fear thou not!” is still the token\nWhich our wait-ing hearts re-ceive.\n"
+|Lyric4|Text:"4._“Un-to you the Christ is given!”\nThus sang cho-irs full and clear;\nNow a voice on Christ-mas Even\nSoft-ly ech-oes, “He is here!”\n"
+|Lyric5|Text:"5._He knows all, thy Lord di-vine;\nMourn-er, though thine eye be dim,\nLook to Christ— His love is thine;\nTake thy Christ-mas joy from Him.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:108|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:Half|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:n-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:n-5,-1
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:n-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Ellingham, 77.77"|Label:"Ellingham, 77.77"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:b3,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:n0,4
+|Chord|Dur:4th|Pos:b0,5
+|Chord|Dur:Half|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:-2,8
+|Chord|Dur:4th|Pos:-3,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

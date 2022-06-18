@@ -1,0 +1,156 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:44|CaretPos:3
+|SongInfo|Title:"Ebeling, 866.866"|Author:"Johann Georg Ebeling, 1666"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955) # 172. This tune is also known as “Warum sollt’ ich mich den grämen” and “Lüneburg.” For a slightly different arrangement, see The Evangelical Lutheran Hymnal (Columbus, Ohio: Ohio Synodica lPrinting House), # 27."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Why should cross and tri-al grieve me?\nChrist is near with His cheer,\nNev-er will He leave me.\nWho can rob me of the Heav-en\nThat God’s Son for my own\nTo my faith hath giv-en?\n"
+|Lyric2|Text:"2._Though a heav-y cross I’m bear-ing\nAnd my heart feels the smart,\nShall I be de-spair-ing?\nGod, my Help-er, who doth send it,\nWell doth know all my woe\nAnd how best to end it.\n"
+|Lyric3|Text:"3._God oft gives me days of glad-ness;\nShall I grieve if He give\nSea-sons, too, of sad-ness?\nGod is good and tem-pers ev-er\nAll my ill, and He will\nWhol-ly leave me nev-er.\n"
+|Lyric4|Text:"4._Hope-ful, cheer-ful, and un-daunt-ed\nEve-ry-where they ap-pear\nWho in Christ are plant-ed.\nDeath it-self can-not ap-pall them,\nThey re-joice when the voice\nOf their Lord doth call them.\n"
+|Lyric5|Text:"5._Death can-not de-stroy for-ev-er;\nFrom our fears, cares and tears\nIt will us de-liv-er.\nIt will close life’s mourn-ful sto-ry,\nMake a way that we may\nEn-ter heaven-ly glo-ry.\n"
+|Lyric6|Text:"6._What is all this life pos-sess-es?\nBut a hand full of sand\nThat the heart dis-tress-es.\nNo-ble gifts that pall me nev-er\nChrist, our Lord, will ac-cord\nTo His saints for-ev-er.\n"
+|Lyric7|Text:"7._Lord, my Shep-herd, take me to Thee.\nThou art mine; I was Thine\nE-ven ere I knew Thee.\nI am Thine, for Thou hast bought me;\nLost I stood, but Thy blood\nFree sal-va-tion bought me.\n"
+|Lyric8|Text:"8._Thou art mine; I love and own Thee.\nLight of joy, ne’er shall I\nFrom my heart de-throne Thee.\nSav-ior, let me soon be-hold Thee\nFace to face— may Thy grace\nEv-er-more en-fold me!\n"
+|Clef|Type:Treble
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:Half,Dotted|Pos:-7,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-2,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:#-6|Opts:Stem=Down
+|Note|Dur:Half|Pos:-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,2|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Ebeling"|Label:"Ebeling"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:5,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:#6|Opts:Stem=Up
+|Chord|Dur:Half|Pos:0,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:Half,Dotted|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:7
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:3,5|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:Half|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:5,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:4,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:Half|Pos:3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-4,5|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

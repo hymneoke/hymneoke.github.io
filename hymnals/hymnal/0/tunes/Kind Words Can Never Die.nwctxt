@@ -1,0 +1,247 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Kind Words Can Never Die"|Author:"Abby Hutchinson Patton"|Lyricist:"Abby Hutchinson Patton, 1851"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Redeemer\'s Praise, edited by George W. Elderkin & William J. Kirkpatrick (Chicago, Illinois: George D. Elderkin Publishing Company, 1906), # 65."
+|PgSetup|StaffSize:15|Zoom:3|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Kind words can ne-ver die,\nCher-ished and blest;\nGod knows how deep they lie,\nStored in the breast;\nLike child-hood’s sim-ple rhymes,\nSaid o’er a thou-sand times,\nAye, in all years and climes\nDist-ant and near.\nKind words can ne-ver die,\nNe-ver die, ne-ver die;\nKind words can ne-ver die,\nNo, ne-ver die.\n"
+|Lyric2|Text:"2._Sweet thoughts can ne-ver die,\nTho’, like the flow’rs,\nTheir bright-est hues may fly,\nIn win-try hours.\nBut when the gen-tle dew\nGives them their charms a-new,\nWith ma-ny an add-ed hue\nThey bloom again.\nSweet thoughts can ne-ver die,\nNe-ver die, ne-ver die,\nSweet thoughts can ne-ver die,\nNo, ne-ver die.\n"
+|Lyric3|Text:"3._Our souls can ne-ver die,\nTho’ in the tomb\nWe all may have to lie,\nWrapped in its gloom.\nWhat tho’ the flesh de-cay,\nSouls pass in peace a-way,\nLive thro’ e-ter-nal day\nWith Christ a-bove.\nOur souls can ne-ver die,\nNe-ver die, ne-ver die\nOur souls can ne-ver die,\nNo, ne-ver die.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|Tempo|Tempo:113|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-5,-3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Whole|Pos:-5,-3
+|Spacer|Width:525
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-5,-3
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Whole|Pos:-5|Opts:Stem=Up|Dur2:Whole|Pos2:-5
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:Half|Pos:-5,-1
+|Spacer|Width:525
+|Bar
+|Boundary|Style:NewSize|Lower:18
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Boundary|Style:NewSize|Lower:16
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,n-2
+|Chord|Dur:Half|Pos:-4,-1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-5,-3
+|Spacer|Width:450
+|Bar
+|Chord|Dur:Half|Pos:-2,-1
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Whole|Pos:-3,2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-5,-3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-6,-4
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-5,-3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-5,-3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Bar
+|Chord|Dur:Whole|Pos:-3,2
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Kind Words Can Never Die"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:26|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,8
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Whole|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Whole|Pos:0,2
+|Spacer|Width:450
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th|Pos:1,n3
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half|Pos:-3,6
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Boundary|Style:NewSize|Upper:22
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:4th,Dotted|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:Whole|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:4th,Dotted|Pos:-3,8
+|Bar
+|Chord|Dur:Whole|Pos:0,7
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

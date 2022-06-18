@@ -1,0 +1,156 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Cullingworth, 11.10.11.10"|Author:"Edwin Moss, 1877"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns of the Christian Life (New York: A. S. Barnes, 1937), # 217."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Thou knowest, Lord,\nThou know’st my life’s deep sto-ry,\nAnd all the min-gled\nGood and ill I do;\nThou se-est my shame,\nMy few stray gleams of glo-ry,\nWhere I am false\nAnd where my soul rings true.\n"
+|Lyric2|Text:"2._Lord, I am glad\nThou know’st my in-most be-ing,\nGlad Thou dost search\nThe se-crets of my heart;\nI would not hide\nOne fol-ly from Thy see-ing,\nNor shun Thy heal-ing\nTouch to save the smart.\n"
+|Lyric3|Text:"3._Like warp and woof\nThe good and ill are blend-ed,\nNor do I see\nThe pat-tern that I weave;\nYet in Thy love\nThe whole is com-pre-hend-ed,\nAnd in Thy hand\nMy fu-ture lot I leave.\n"
+|Lyric4|Text:"4._On-ly, dear Lord,\nMake plain the path of du-ty;\nLet not my shame\nAnd sor-row weigh me down,\nLest in de-spair\nI fail to see its beau-ty,\nAnd weep-ing vain-ly,\nMiss the vic-tor’s crown.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:b-5,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,n-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,n-1
+|Bar
+|Chord|Dur:Whole|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:n-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:b-5,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Cullingworth"|Label:"Cullingworth"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,n4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-5,2
+|Bar
+|Chord|Dur:Whole|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:Half|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:n1,6
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-3,5
+|Bar
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-5,6
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,4
+|Bar
+|Chord|Dur:Whole|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

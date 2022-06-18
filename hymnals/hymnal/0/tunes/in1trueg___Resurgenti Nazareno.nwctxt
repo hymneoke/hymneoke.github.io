@@ -1,0 +1,131 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Resurgenti Nazareno, 88.87"|Author:"Bohemian Tune, 1505"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Lutheran Hymnal (St. Louis, Missouri: Concordia Publishing House, 1941), # 253."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._In one true God we all be-lieve,\nAnd to His name all glo-ry give,\nCre-a-tor of all things is He\nIn the Heav’n, the earth, the sea.\n"
+|Lyric2|Text:"2._We all be-lieve in God’s own Son,\nOur Lord, the sole be-got-ten One;\nAnd by the Ho-ly Ghost the same\nOf a vir-gin man be-came.\n"
+|Lyric3|Text:"3._By Pon-tius Pi-late cru-ci-fied,\nHe suf-fered on the tree and died;\nTo show of Sa-tan’s reign the end,\nHe did in-to hell de-scend.\n"
+|Lyric4|Text:"4._The same Lord Christ of Naz-a-reth\nWho for all sin-ners tast-ed death\nThe third day af-ter He had died\nRose with bod-y glo-ri-fied.\n"
+|Lyric5|Text:"5._In full ac-cord with God’s own Word\nThis ho-ly bod-y of our Lord,\nAl-though in death’s firm grasp it be,\nNev-er would cor-rup-tion see.\n"
+|Lyric6|Text:"6._He then as-cend-ed in-to Heaven,\nWhere end-less power to Him was given;\nAnd there for us in all our needs\nGra-cious-ly He in-ter-cedes.\n"
+|Lyric7|Text:"7._From thence He’ll come, as once He said\nTo judge the liv-ing and the dead.\nO right-eous judge, our sav-ior, come,\nTake us to our heaven-ly home!\n"
+|Lyric8|Text:"8._We all con-fess the Ho-ly Ghost,\nWho guides the Church, a cho-sen host,\nAnd binds the saints in pur-est love\nHere on earth and there a-bove.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:Half|Pos:-5^,-1^
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-5^,-2^
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Resurgenti Nazareno"|Label:"Resurgenti Nazareno"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:Half|Pos:0^,2^
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-3,8
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,7
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:#-1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:-4,7
+|Bar
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:-4^,5^
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

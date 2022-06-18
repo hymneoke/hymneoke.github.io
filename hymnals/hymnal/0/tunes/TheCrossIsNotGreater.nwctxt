@@ -1,0 +1,250 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Cross Is Not Greater"|Author:"Ballington Booth"|Lyricist:"Ballington Booth, 1892"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1940), # 372."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:16|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-18
+|Lyric1|Text:"1._The cross that He gave may be heav-y,\nBut it ne’er out-weighs His grace;\nThe storm that I feared may sur-round me,\nBut it ne’er ex-cludes His face.\n\nThe cross is not great-er than His grace,\nThe storm can-not hide His bless-èd face;\nI am sa-tis-fied to know\nThat with Je-sus here be-low,\nI can con-quer ev-ery foe.\n"
+|Lyric2|Text:"2._The thorns in my path are not sharp-er\nThan com-posed His crown for me;\nThe cup that I drink not more bit-ter\nThan He drank_in Geth-sem-a-ne.\n\nThe cross is not great-er than His grace,\nThe storm can-not hide His bless-èd face;\nI am sa-tis-fied to know\nThat with Je-sus here be-low,\nI can con-quer ev-ery foe.\n"
+|Lyric3|Text:"3._The light of His love shin-eth bright-er,\nAs it falls on paths of woe;\nThe toil of my work grow-eth light-er,\nAs I stoop to raise the low.\n\nThe cross is not great-er than His grace,\nThe storm can-not hide His bless-èd face;\nI am sa-tis-fied to know\nThat with Je-sus here be-low,\nI can con-quer ev-ery foe.\n"
+|Lyric4|Text:"4._His will have I joy in ful-fill-ing,\nAs I’m walk-ing in His sight;\nMy all to the blood I am bring-ing,\nIt a-lone can keep me right.\n\nThe cross is not great-er than His grace,\nThe storm can-not hide His bless-èd face;\nI am sa-tis-fied to know\nThat with Je-sus here be-low,\nI can con-quer ev-ery foe.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:113|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:#-3,n-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:b-1,1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th,Dotted|Pos:-5^,-3^|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th,Dotted|Pos:-1,2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-1,1|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Slur|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-1,4|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:0,2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th,Dotted|Pos:-1^,1^|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-1,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4^,0^
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th,Dotted|Pos:-5,-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4|Opts:Slur=Upward,Tie=Upward
+|Rest|Dur:8th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:8
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:#-3,n-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:b-1,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-3,n-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:#-3,n-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:b-1,1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-3,n-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,3|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th|Pos:-1,3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-1,2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-1,2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-1,1|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-1,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-7,-4|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:b-5,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-2|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-7,-4|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-7,-5|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4|Opts:Slur=Upward,Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"The Cross Is Not Greater"|Label:"The Cross Is Not Greater"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:33|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:5
+|Lyric1|Text:"The cross is not great-er than His grace,\nThe storm can-not hide His bless-èd face;\nI am sa-tis-fied to know\nThat with Je-sus here be-low,\nI can con-quer ev-ery foe.\n\nThe cross is not great-er than His grace,\nThe storm can-not hide His bless-èd face;\nI am sa-tis-fied to know\nThat with Je-sus here be-low,\nI can con-quer ev-ery foe.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:4th|Pos:1,8|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Bar
+|Chord|Dur:8th|Pos:-2,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:4th,Dotted|Pos:-2^,5^|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:-2,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:-2,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:-2,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:-2,7|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Bar
+|Chord|Dur:Half,Slur|Pos:8|Opts:Stem=Up,Lyric=Never,ArticulationsOnStem,Tie=Downward|Dur2:Half,DblDotted|Pos2:1
+|Note|Dur:4th,Dotted|Pos:5|Opts:Stem=Up,Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:4th|Pos:1,6|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Bar
+|Chord|Dur:8th|Pos:-3,8|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:4th,Dotted|Pos:-3^,8^|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:4th|Pos:-3,8|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:-3,6|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:-3,4|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2^,3^|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,3|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:-2,4|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:4th,Dotted|Pos:-2,2|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Chord|Dur:8th|Pos:-2,4|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Slur=Downward,Lyric=Never,Tie=Downward
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:23
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,Tie=Downward,HideRest|Dur2:Half,Dotted,Slur|Pos2:1,5
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Upward,Beam=First,Tie=Downward
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Upward,Beam,Tie=Downward
+|Note|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Slur=Upward,Beam=End,Tie=Downward
+|Note|Dur:4th|Pos:1|Opts:Stem=Down,Slur=Downward,Tie=Downward
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,Tie=Downward,HideRest|Dur2:Half,Dotted,Slur|Pos2:1,5
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Upward,Beam=First,Tie=Downward
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Upward,Beam,Tie=Downward
+|Note|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Slur=Upward,Beam=End,Tie=Downward
+|Note|Dur:4th|Pos:1|Opts:Stem=Down,Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:3,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem,Tie=Downward|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem,Tie=Downward|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem,Tie=Downward|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem,Tie=Downward|Dur2:8th|Pos2:5
+|Chord|Dur:4th|Pos:5,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-2,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-2,7|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

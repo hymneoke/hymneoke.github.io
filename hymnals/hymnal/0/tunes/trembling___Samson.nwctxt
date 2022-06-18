@@ -1,0 +1,138 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Samson, LM"|Author:"From George Frederick Handel, 1741"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymnal of the Methodist Episcopal Church with Tunes (New York: Eaton & Mains, 1878), p. 165."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Trem-bling be-fore Thine aw-ful throne,\nO Lord, in dust my sins I own;\nJus-tice and mer-cy for my life\nCon-tend; O smile, and heal the strife.\n"
+|Lyric2|Text:"2._The Sav-ior smiles; up-on my soul\nNew tides of hope tu-mul-tuous roll;\nHis voice pro-claims my par-don found,\nSe-raph-ic trans-port wings the sound.\n"
+|Lyric3|Text:"3._Earth has a joy un-known to Heaven,\nThe new-born peace of sins for-given;\nTears of such pure and deep de-light,\nYe an-gels, nev-er dimmed your sight.\n"
+|Lyric4|Text:"4._Ye saw, of old, on cha-os rise\nThe beau-teous pil-lars of the skies;\nYe know where morn ex-ult-ing springs,\nAnd eve-ning folds her droop-ing wings.\n"
+|Lyric5|Text:"5._Bright heralds of the e-ter-nal will,\nA-broad His er-rands ye ful-fill;\nOr, throned in floods of beam-y day,\nSym-pho-nious in His pres-ence play.\n"
+|Lyric6|Text:"6._Loud is the song, the heaven-ly plain\nIs shak-en with the cho-ral strain;\nAnd dy-ing ech-oes, float-ing far,\nDraw mu-sic from each chim-ing star.\n"
+|Lyric7|Text:"7._But I a-mid your choirs shall shine,\nAnd all your knowl-edge shall be mine:\nYe on your harps must lean to hear\nA se-cret chord that mine will bear.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-7,-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-5,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Samson, LM"|Label:"Samson, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:0,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:4,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

@@ -1,0 +1,200 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:4|CaretPos:0
+|SongInfo|Title:"Maryland, LMD"|Author:"Alexander Zarnock"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Tune Book of the Salvation Amy (London: Salvationist Publishing & Supplies, 1987), # 64."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Teach me the proph-ets smooth to shun\nWho wrap their words in soft-est love,\nBut lead their fond dis-ci-ples down\nA spa-cious way to joys a-bove:\nO may I still my sta-tion keep,\nHold fast Thy Word, and cross, and name,\nBe-ware the cloth-ing of the sheep,\nBe-ware the lan-guage of the Lamb!\n"
+|Lyric2|Text:"2._Who-e’er for sin and Sa-tan plead,\nFruits of the flesh they sure-ly bear,\nTo Hell, not Heaven, their doc-trines lead;\nAnd there the spe-cious proph-ets are!\nThese by the beast-ly mark we know,\nThe mark Thou hast Thy-self as-signed,\nAnd on we to per-fec-tion go,\nAnd leave the breth-ren false be-hind.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:#-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-4,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:2
+|AddStaff|Name:"Maryland, LMD"|Label:"Maryland, LMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:0,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:0,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,8|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:4,8|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:4,8
+|Chord|Dur:8th|Pos:3,8
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:2,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-2,#3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Bar|Style:LocalRepeatClose|Repeat:2
+!NoteWorthyComposer-End

@@ -1,0 +1,200 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:54|CaretPos:0
+|SongInfo|Title:"Murfreesboro, 87.87 D"|Author:"Reginald Geoffrey, 1892"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The New Children\'s Hymnal, edited by John Ireland Tucker (New York: James Pott, 1892), # 90."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,120,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._By the thorn-y way of sor-row,\nCount-ing earth-ly gain but loss;\nWins the Church her glad to-mor-row,\nIn re-demp-tion by the cross.\nLent-en clouds a-way have drift-ed,\nComes at length her great re-wards,\nAnd her eyes are now up-lift-ed,\nTo the glo-ry of her Lord.\n"
+|Lyric2|Text:"2._Al-le-lu-ia! King e-ter-nal!\nLord of life! the strife is o’er;\nThou hast quelled the pow’rs in-fer-nal;\nThrow-ing wide high Heav-en’s door;\nAl-le-lu-ia! He has ris-en!\nAnd His own, in Him shall rise;\nBro-ken are the bars of pris-on;\nWon the rest of par-a-dise.\n"
+|Lyric3|Text:"3._Forth His Church shall go to meet Him,\nIn the break-ing of the dawn!\nAt her al-tars kneel to greet Him!\nOn this glo-rious East-er morn:\nWhom His chal-ice veils en-fold-ing\nVer-y Bread! and ver-y Wine!\nWe a-dore by faith be-hold-ing:\nIn this Eu-cha-rist di-vine.\n"
+|Lyric4|Text:"4._In His man-hood, Christ vic-tor-ious\nWon for man o’er death the strife;\nIn His God-head ev-er glo-rious:\nGrants the gift of end-less life;\nHail! all hail! the King im-mor-tal!\nWho shall with His Church a-bide\nTill we pass through death’s dark por-tal\nTo th’e-ter-nal East-er-tide.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:108|Pos:11|Justify:Center
+|Key|Signature:F#,C#|Tonic:D
+|Dynamic|Style:p|Opts:Velocity=115,Volume=115|Pos:9
+|TimeSig|Signature:Common
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|DynamicVariance|Style:Diminuendo|Pos:9
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Dynamic|Style:p|Opts:Velocity=115,Volume=115|Pos:9
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,#-2
+|Chord|Dur:Half|Pos:-6,-1
+|Bar
+|DynamicVariance|Style:Crescendo|Pos:9
+|Chord|Dur:4th|Pos:-6,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:#-4,#-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:#-4,#-2
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Dynamic|Style:f|Opts:Velocity=120,Volume=120|Pos:9
+|Chord|Dur:4th,Dotted|Pos:-3,#-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:n-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Dynamic|Style:ff|Opts:Velocity=127,Volume=127|Pos:9
+|Spacer|Width:300
+|TempoVariance|Style:Ritenuto|Pos:9
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:#-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Murfreesboro, 87.87 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:Common
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,#4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:#0,n6
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:1,#6
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,8
+|Chord|Dur:8th|Pos:0,8
+|Chord|Dur:4th|Pos:0,8
+|Chord|Dur:4th|Pos:0,8
+|Bar
+|Chord|Dur:4th|Pos:3,8
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:#3,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:4,#7
+|Chord|Dur:4th|Pos:4,5
+|Chord|Dur:4th|Pos:2,n6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:Half|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

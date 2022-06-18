@@ -1,0 +1,199 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:27|CaretPos:-2
+|SongInfo|Title:"Zapopan, 87.87 D"|Author:"H. R. Jeffrey, 1885"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Gems No. 2 (Anderson, Indiana: Gospel Trumpet, 1923), # 23."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Bright-er days are sweet-ly dawn-ing,\nO the glo-ry looms in sight!\nFor the cloud-y day is wan-ing,\nAnd the eve-ning shall be light.\n\nO what gold-en glo-ry stream-ing!\nPur-er light is com-ing fast;\nNow in Christ we’ve found a free-dom\nWhich e-ter-nal-ly shall last.\n"
+|Lyric2|Text:"2._Mist-y fogs, so long con-ceal-ing\nAll the hills of min-gled night,\nVan-ish, all their sin re-veal-ing,\nFor the eve-ning shall be light.\n\nO what gold-en glo-ry stream-ing!\nPur-er light is com-ing fast;\nNow in Christ we’ve found a free-dom\nWhich e-ter-nal-ly shall last.\n"
+|Lyric3|Text:"3._Sa-tan, the ac-cus-ing drag-on,\nOnce as-sumed an an-gel bright,\nBut he’s driv-en out of Heav-en,\nBy the bless-èd eve-ning light.\n\nO what gold-en glo-ry stream-ing!\nPur-er light is com-ing fast;\nNow in Christ we’ve found a free-dom\nWhich e-ter-nal-ly shall last.\n"
+|Lyric4|Text:"4._Lo! the ran-somed are re-turn-ing,\nRobed in shin-ing crys-tal white,\nLeap-ing, shout-ing, home to Zi-on,\nHap-py in the eve-ning light.\n\nO what gold-en glo-ry stream-ing!\nPur-er light is com-ing fast;\nNow in Christ we’ve found a free-dom\nWhich e-ter-nal-ly shall last.\n"
+|Lyric5|Text:"5._Free from Ba-bel, in the Spir-it,\nFree to wor-ship God a-right;\nJoy and glad-ness we’re re-ceiv-ing,\nO how sweet this eve-ning light!\n\nO what gold-en glo-ry stream-ing!\nPur-er light is com-ing fast;\nNow in Christ we’ve found a free-dom\nWhich e-ter-nal-ly shall last.\n"
+|Lyric6|Text:"6._Hal-le-lu-jah! saints are sing-ing,\nVic-tory in Je-ho-vah’s might;\nGlo-ry! glo-ry! keep it ring-ing,\nWe are saved in eve-ning light!\n\nO what gold-en glo-ry stream-ing!\nPur-er light is com-ing fast;\nNow in Christ we’ve found a free-dom\nWhich e-ter-nal-ly shall last.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:95|Pos:11|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-7,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,0
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th,Triplet=First,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th,Triplet|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-7,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th,Triplet=First,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th,Triplet|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th,Triplet=First,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th,Triplet|Pos:3|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:8th,Triplet=End|Pos:-1,1
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th,Triplet=First,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th,Triplet|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Zapopan, J. R. Jeffrey 1885"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th,Triplet=First|Pos:-2,2
+|Chord|Dur:8th,Triplet=End|Pos:-2,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,8
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th,Triplet=First|Pos:-2,2
+|Chord|Dur:8th,Triplet=End|Pos:-2,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th,Triplet=First|Pos:4,6
+|Chord|Dur:8th,Triplet=End|Pos:4,8
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,8
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th,Triplet=First|Pos:-2,2
+|Chord|Dur:8th,Triplet=End|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

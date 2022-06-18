@@ -1,0 +1,151 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Nutbourne, 77.77.77"|Author:"Theodore Edward Aylward, 1869"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 519."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._God the Fa-ther’s on-ly Son,\nAnd with Him in glo-ry One,\nOne in wis-dom, One in might,\nAb-so-lute and in-fi-nite;\nJe-su, I be-lieve in Thee,\nThou art Lord and God to me.\n"
+|Lyric2|Text:"2._Preach-er of e-ter-nal peace,\nThe A-noint-ed to re-lease,\nUn-to sin-ners chained be-fore\nSet-ting wide the dun-geon door:\nJe-su, I be-lieve in Thee,\nChrist the Proph-et sent to me.\n"
+|Lyric3|Text:"3._Low in deep Geth-sem-a-ne,\nHigh on dread-ful Cal-va-ry,\nIn the gar-den, on the cross,\nMak-ing good our ut-ter loss:\nJe-su, I be-lieve in Thee,\nPriest and Sac-ri-fice for me.\n"
+|Lyric4|Text:"4._Rul-er of Thy ran-somed race,\nAnd Pro-tec-tor by Thy grace,\nLead-er in the way we wend,\nAnd Re-ward-er at the end:\nJe-su, I be-lieve in Thee,\nChrist, the King of kings to me.\n"
+|Lyric5|Text:"5._Light re-vealed through clouds of pain,\nThat the blind might see a-gain;\nLove con-tent in death to lie,\nThat the dead might nev-er die:\nJe-su, I be-lieve in Thee,\nLight and Love and Life to me.\n"
+|Lyric6|Text:"6._All that I am fain to know\nWhile I watch and wait be-low:\nAll that I would find a-bove,\nLength and depth and height of love:\nJe-su, I be-lieve in Thee,\nThou art All in All to me.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:113|Pos:13|Justify:Right|Placement:AsStaffSignature
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:#-4,1
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:#-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:n-2,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Nutbourne, 77.77.77"|Label:"Nutbourne, 77.77.77"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:1,8
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,#7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,#4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:n3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,#4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,6|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

@@ -1,0 +1,244 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Rest in the Arms of My Savior"|Author:"John Wesley Dennis"|Lyricist:"John Wesley Dennis, 1904"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Best Gospel Songs and Their Composers, by Anthony J. Showalter (Dalton, Georgia: A. J. Showalter, 1904), # 62."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.78|Right:2.54|Bottom:1.78|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._How oft when I’m wea-ry and sor-row op-pressed,\nI long for the home where no harm can mo-lest;\nO may we all meet in the land of the blest,\nAnd rest in the arms of the Sav-ior.\n\nRest in the arms of my Sav-ior,\nRest in the arms of my Sav-ior;\nI want to go there to those man-sions so fair,\nTo rest in the arms of my Sav-ior.\n"
+|Lyric2|Text:"2._How sweet it will be when we meet on that strand,\nAnd hear the glad songs of the heav-en-ly land;\nO may we be found of the pu-ri-fied band,\nAnd rest in the arms of the Sav-ior.\n\nRest in the arms of my Sav-ior,\nRest in the arms of my Sav-ior;\nI want to go there to those man-sions so fair,\nTo rest in the arms of my Sav-ior.\n"
+|Lyric3|Text:"3._The way may be rough and the jour-ney be long,\nThe bat-tle be hard with temp-ta-tion and wrong;\nBut when we have reached Heav-en’s glo-ri-fied throng,\nWe’ll rest in the arms of the Sav-ior.\n\nRest in the arms of my Sav-ior,\nRest in the arms of my Sav-ior;\nI want to go there to those man-sions so fair,\nTo rest in the arms of my Sav-ior.\n"
+|Lyric4|Text:"4._When Je-sus doth call us, the con-flict will cease.\nFrom ev-er-y bur-den we’ll find sweet re-lease;\nOur souls shall re-joice in e-ter-ni-ty’s peace,\nAnd rest in the arms of the Sav-ior.\n\nRest in the arms of my Sav-ior,\nRest in the arms of my Sav-ior;\nI want to go there to those man-sions so fair,\nTo rest in the arms of my Sav-ior.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:98|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:n-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,2
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:b-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Rest|Dur:8th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:12
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,0|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,1|Opts:Stem=Down
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:n-4,2
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:n-4,0
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:b-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:Half|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Rest in the Arms of My Savior"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Spacer|Width:625
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:3,5
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,5
+|Chord|Dur:16th|Pos:-1,5
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:8th,Dotted|Pos:5|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:5
+|Chord|Dur:16th|Pos:5|Opts:Stem=Down|Dur2:16th|Pos2:5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:2,5
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:8th,Dotted|Pos:5|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:5
+|Chord|Dur:16th|Pos:5|Opts:Stem=Down|Dur2:16th|Pos2:5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:Half|Pos:-2,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

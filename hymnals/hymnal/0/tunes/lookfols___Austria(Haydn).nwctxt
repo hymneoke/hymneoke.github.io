@@ -1,0 +1,216 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:67|CaretPos:6
+|SongInfo|Title:"Austria (Haydn), 87.87 D"|Author:"Franz Josef Haydn, 1797"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 434."
+|PgSetup|StaffSize:20|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.27|Right:2.54|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Look-ing for our Lord and Sav-ior,\nCom-ing on the clouds of Heav’n,\nClad in power and shin-ing glo-ry,\nCome to end the reign of sin.\nLong fore-told by proph-ets, se-ers:\nFirst the trib-u-la-tion ends,\nThen the sun and moon will dark-en,\nAnd the stars shall fall from Heav’n.\n"
+|Lyric2|Text:"2._All the heav-ens’ powers are shak-en,\nAnd ap-pears the sign on high,\nThat the Son of Man, re-turn-ing,\nOnce a-gain to earth draws nigh.\nAll the tribes of earth now mourn-ing,\nAs they hear the trum-pet blast,\nAnd they look on Him they pierc-èd,\nWeep-ing bit-ter tears at last.\n"
+|Lyric3|Text:"3._First He sends His reap-er an-gels\nTo up-root and bind the weeds,\nSet in bun-dles for the fur-nace,\nAs be-fits their e-vil deeds.\nSown by Sa-tan’s e-vil mal-ice,\nChil-dren of the wick-ed one,\nThey re-fused to bend the knee, _\nAnd to bow to God’s own Son.\n"
+|Lyric4|Text:"4._Then shall all the right-eous shine forth\nIn their Fa-ther’s king-dom grand;\nSee them gath-ered from the four winds\nAnd the earth’s re-mot-est land,\nHis e-lect from eve-ry na-tion,\nAll the saints Heav’n’s bor-ders hold,\nAll the chil-dren of the king-dom,\nGath-ered to the Shep-herd’s fold.\n"
+|Lyric5|Text:"5._So He sev-ers just from wick-ed,\nRe-bels casts in-to the fire;\nFrom the fur-nace hear the wail-ing,\nGnash-ing teeth up-on the pyre.\nAll with ears, now hear the les-son:\nDay and ho-ur, no one knows;\nSo be read-y for the har-vest,\nBe the wheat that gold-en grows.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:107|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-7,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-7,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-7,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-7,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:-7
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:-7|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-7,0|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,n-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-7,-4|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Austria (Haydn), 87.87 D"|Label:"Austria (Haydn), 87.87 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:n-3,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:n-3,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-2,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,5|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:13
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-6,1,3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

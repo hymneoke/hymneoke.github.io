@@ -1,0 +1,225 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"A Sinner Forgiven"|Author:"Isaac Baker Woodbury (1819-1858)"|Lyricist:"Jeremiah J. Callahan, 1851"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns Nos. 1 to 6 Complete, by Ira D. Sankey, James McGranahan & George C. Stebbins (Chicago, Illinois: Biglow & Main, 1894), # 44."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.03|Top:2.54|Right:2.03|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._To_the hall of the feast came the sin-ful and fair;\nShe heard in the ci-ty that Je-sus was there;\nUn-heed-ing the splen-dor that blazed on the board,\nShe si-lent-ly knelt at the feet of the Lord,\nShe si-lent-ly knelt at the feet of the Lord.\n"
+|Lyric2|Text:"2._The frown and the mur-mur went round thro’ them all,\nThat one so un-hal-lowed should tread in that hall;\nAnd some said the poor would be ob-jects more meet,\nAs_the wealth of her per-fume she shower’d on His feet,\nAs_the wealth of her per-fume she shower’d on His feet.\n"
+|Lyric3|Text:"3._She heard but the Sav-ior; she spoke but with sighs;\nShe dared not look up to the heaven of His eyes;\nAnd hot tears gushed forth at each heave of her breast,\nAs_her lips to His san-dals were throb-bing-ly pressed;\nAs_her lips to His san-dals were throb-bing-ly pressed.\n"
+|Lyric4|Text:"4._In_the sky, af-ter tem-pest, as shin-eth the bow,\nIn glance of the sun-shine, as melt-eth the snow,\nHe looked on that lost one: “her sins were for-giv’n,”\nAnd_the sin-ner went forth in the beau-ty of Heav’n;\nAnd_the sin-ner went forth in the beau-ty of Heav’n.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-1,1|Opts:Slur=Upward
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-1,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-1,1|Opts:Slur=Upward
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:16th,Slur|Pos:-2,0|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-2,0|Opts:Slur=Upward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-1,2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-1,1|Opts:Slur=Upward
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Slur=Downward
+|Chord|Dur:16th,Slur|Pos:-2,0|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-2,0|Opts:Slur=Downward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,2|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Downward
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Downward
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:16th|Pos2:-4
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"A Sinner Forgiven"|Label:"A Sinner Forgiven"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:2/4
+|Chord|Dur:8th,Slur|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8|Opts:Slur=Downward
+|Note|Dur:8th|Pos:1|Opts:Slur=Downward
+|Bar
+|Note|Dur:4th|Pos:1|Opts:Slur=Downward
+|Note|Dur:8th|Pos:1|Opts:Slur=Downward
+|Note|Dur:8th|Pos:1|Opts:Slur=Downward
+|Bar
+|Note|Dur:8th|Pos:1|Opts:Slur=Downward
+|Note|Dur:4th|Pos:1|Opts:Slur=Downward
+|Note|Dur:8th|Pos:1|Opts:Slur=Downward
+|Bar
+|Note|Dur:4th|Pos:0|Opts:Slur=Downward
+|Note|Dur:8th|Pos:0|Opts:Slur=Downward
+|Note|Dur:8th|Pos:1|Opts:Slur=Downward
+|Bar
+|Note|Dur:4th,Dotted|Pos:-2|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward
+|Bar
+|Boundary|Style:NewSize|Upper:9
+|Chord|Dur:4th,Dotted|Pos:1,8|Opts:Slur=Downward
+|Chord|Dur:16th,Slur|Pos:1,5
+|Chord|Dur:16th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:4,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:4,8|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:16th,Slur|Pos:1,5
+|Chord|Dur:16th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:4,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,4|Opts:Slur=Downward
+|Bar
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:-2,4|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:1,3|Opts:Slur=Downward
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

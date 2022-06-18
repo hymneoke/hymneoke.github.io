@@ -1,0 +1,214 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Concord, 99.99 D"|Author:"George Coles Stebbins, 1877"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns Nos. 1 to 6 Complete, by Ira D. Sankey, James McGranahan & George C. Stebbins (Chicago, Illinois: Biglow & Main, 1894), # 177; there paired with the words to Mrs. E. W. Griswold\'s “Faint, Yet Pursuing.”"
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._“Faint, yet pur-su-ing,” we press our way,\nUp to the glo-ri-ous gates of day;\nFol-low-ing Him who has gone be-fore,\nO-ver the path to the bright-er shore.\n\n“Faint, yet pur-su-ing,” from day to day,\nO-ver the sure and the blood-marked way;\nStrength-en and keep us, O Sav-ior, friend,\nEv-er pur-su-ing, un-to life’s end.\n"
+|Lyric2|Text:"2._“Faint, yet pur-su-ing,” what-e’er be-fall,\nHe who has died for us, died for all;\nSo should they come, as a might-y throng\nBear-ing His ban-ner a-loft with song.\n\n“Faint, yet pur-su-ing,” from day to day,\nO-ver the sure and the blood-marked way;\nStrength-en and keep us, O Sav-ior, friend,\nEv-er pur-su-ing, un-to life’s end.\n"
+|Lyric3|Text:"3._“Faint, yet pur-su-ing,” till e-ven-tide,\nUn-der the cross of the Cru-ci-fied;\nKnow-ing, when dark-ly are skies o’er-cast,\nSor-row and sigh-ing will end at last.\n\n“Faint, yet pur-su-ing,” from day to day,\nO-ver the sure and the blood-marked way;\nStrength-en and keep us, O Sav-ior, friend,\nEv-er pur-su-ing, un-to life’s end.\n"
+|Lyric4|Text:"4._“Faint, yet pur-su-ing,” the eye a-far\nSees thro’ the dark-ness the morn-ing star,\nShed-ding its ray for the wea-ry feet,\nKeep-ing the way, to the gold-en street.\n\n“Faint, yet pur-su-ing,” from day to day,\nO-ver the sure and the blood-marked way;\nStrength-en and keep us, O Sav-ior, friend,\nEv-er pur-su-ing, un-to life’s end.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:101|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:#-3,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:n-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:#-3,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,2
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:#-3,1
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-4,n-1
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:#-3,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:Half|Pos:-1,2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,2
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Concord, 99.99 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,n4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-1,5
+|Chord|Dur:16th|Pos:-1,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,n4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:Half|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,n4
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:Half|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,n4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:Half|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:Half|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

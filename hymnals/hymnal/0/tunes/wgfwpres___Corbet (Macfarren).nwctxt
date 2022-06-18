@@ -1,0 +1,182 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:21|CaretPos:-28
+|SongInfo|Title:"Corbet, 12.12.12.12"|Author:"George Alexander Macfarren (1813-1887)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Book of Praise for the Sunday School, edited by George A. Bell & Hubert P. Main (New York: Biglow & Main, 1875), p. 8."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._With glad-some feet we press to Si-on’s ho-ly mount,\nWhere gush-es from its deep re-cess the cool-ing fount;\nOh! hap-py, hap-py hill, the joy of eve-ry saint!\nWith sweet Si-lo-am’s crys-tal rill, that cheers the faint.\n"
+|Lyric2|Text:"2._Great cit-y, blest of God! Je-ru-sa-lem the free!\nWith cease-less step the path be trod that leads to thee!\nThe mar-tyr’s bleed-ing feet, the saints with wound-less breast,\nA-like have sought thy gold-en seat to win their rest.\n"
+|Lyric3|Text:"3._There, calm-ing all a-larms, thy cross of love is traced,\nOut-stretch-ing sal-u-tar-y arms, to bless the waste;\nThe sin-ner there can plead in ev-er lis-tening ears;\nOn hope and thee, can sweet-ly feed, and dry his tears.\n"
+|Lyric4|Text:"4._So this our fes-tal day ce-les-tial joy shall raise,\nWhile lips and hearts, con-joined, es-say to hymn thy praise!\nThe ver-y stones shall ring, re-sound each ho-ly wall,\nWith Thee, Thy-self the rock, the spring, our heaven, our all!\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-8,-5
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:4th,Slur|Pos:-6|Opts:Stem=Down
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-4
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:4th,Slur|Pos:-6|Opts:Stem=Down
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-7
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th,Slur|Pos:-5|Opts:Stem=Down
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:0,3
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Corbet (Macfarren)"|Label:"Corbet, 12.12.12.12"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:0
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,7
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,n6
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:3,8
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:1,#3
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,7
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,#4
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:3,8
+|Chord|Dur:Half|Pos:4,8
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,215 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:31|SelectIndex:32|CaretPos:-5
+|SongInfo|Title:"Passion Chorale, 76.76 D"|Author:"Hans Leo Hassler, 1601"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 111."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.27|Right:2.54|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O teach me what it mean-eth,\nThat cross up-lift-ed high,\nWith One, the Man of Sor-rows,\nCon-demned to bleed and die!\nO teach me what it cost Thee\nTo make a sin-ner whole;\nAnd teach me, Sav-ior, teach me\nThe val-ue of a soul!\n"
+|Lyric2|Text:"2._O teach me what it mean-eth,\nThat sac-red crim-son tide,\nThe blood and wa-ter flow-ing\nFrom Thine own wound-ed side.\nTeach me that if none oth-er\nHad sinned, but I a-lone,\nYet still Thy blood, Lord Je-sus,\nThine on-ly, must a-tone.\n"
+|Lyric3|Text:"3._O teach me what it mean-eth,\nThy love be-yond com-pare,\nThe love that reach-eth deep-er\nThan depths of self-de-spair!\nYes, teach me, till there glow-eth\nIn this cold heart of mine\nSome fee-ble, pale re-flec-tion\nOf that pure love of Thine.\n"
+|Lyric4|Text:"4._O teach me what it mean-eth,\nFor I am full of sin,\nAnd grace a-lone can reach me,\nAnd love a-lone can win.\nO teach me, for I need Thee,\nI have no hope be-side—\nThe chief of all the sin-ners\nFor whom the Sav-ior died!\n"
+|Lyric5|Text:"5._O teach me what it mean-eth\nThe rest which Thou dost give\nTo all the heav-y-lad-en\nWho look to Thee and live.\nBe-cause I am a re-bel\nThy par-don I re-ceive\nBe-cause Thou dost com-mand me,\nI can, I do be-lieve.\n"
+|Lyric6|Text:"6._O in-fi-nite Re-deem-er!\nI bring no oth-er plea;\nBe-cause Thou dost in-vite me\nI cast my-self on Thee.\nBe-cause Thou dost ac-cept me\nI love and I a-dore;\nBe-cause Thy love con-strain-eth,\nI’ll praise Thee ev-er-more!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:106|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-8|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-8|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:#-6,-4
+|Chord|Dur:4th|Pos:-5,n1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:#-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:#-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Passion Chorale, 76.76 D"|Label:"Passion Chorale, 76.76 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:25|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:#-4,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,#3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,4
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:#-4,5
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,#3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:b5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:#-1,4
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:4
+|Chord|Dur:4th|Pos:#2,4
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:#2,4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

@@ -1,0 +1,160 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Örebro, 10.10.12.10"|Author:"George Frederick Root, 1860"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Silver Chime, edited by George F. Root (Boston, Massachusetts: Henry Tolman, 1862), # 30. Melody originally published in The Diapason, edited by George F. Root (New York: Mason Brothers, 1860), # 280."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Sweet ’tis to sing of Thee,\nJe-sus, our friend;\nOf Thy great love so free,\nJe-sus, our friend;\nOh, for a heart to praise,\nThrough all our earth-ly days,\nThy won-drous works and ways,\nJe-sus our friend.\n"
+|Lyric2|Text:"2._When Thou wert here be-low,\nJe-sus, our friend;\nThou didst our sor-rows know,\nJe-sus, our friend;\nGrant to each heart to feel\nThat Thou hast power to heal,\nAnd oh, Thy-self re-veal,\nJe-sus, our friend.\n"
+|Lyric3|Text:"3._Ten-der and pa-tient, Thou,\nJe-sus, our friend;\nTo Thy dear love we bow,\nJe-sus, our friend;\nOh, in Thy spir-it pure,\nMay we our ills en-dure,\nTrust-ing Thy prom-ise sure,\nJe-sus, our friend.\n"
+|Lyric4|Text:"4._By Thy re-deem-ing grace,\nJe-sus, our friend;\nWe hope to see Thy face,\nJe-sus, our friend;\nThen will we joy-ful praise,\nThrough-out e-ter-nal days,\nThy won-drous works and ways.\nJe-sus, our friend.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:95|Pos:11|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Down|Dur2:16th|Pos2:-4
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up|Dur2:16th|Pos2:-4
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,2
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:n-5,-3
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up|Dur2:16th|Pos2:-4
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Örebro, George Root, 1860"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:-1,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,5
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-4,5
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,198 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:70|SelectIndex:71|CaretPos:-4
+|SongInfo|Title:"Bethany (Smart), 87.87 D"|Author:"Henry Thomas Smart, 1857"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norfolk, England: Canterbury Press, 1994), # 677."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Sow the seed be-side all wa-ters,\nNorth and south and east and west,\nThat our toil-ing sons and daugh-ters\nIn the har-vest may be blessed.\nTell the tid-ings of sal-va-tion\n’Mid the storms of Lab-ra-dor;\nSpeak the word of con-so-la-tion\nBy the lone Pa-cif-ic shore.\n"
+|Lyric2|Text:"2._Where the for-ests old are fall-ing,\nYield-ing place to lawn and lea;\nWhere the fish-er plies his call-ing\n’Mid the per-ils of the sea;\nWhere the tide of com-merce rush-es\nThrough the cit-y’s crowd-ed street,\nAnd un-pit-ying Mam-mon crush-es\nPoor and weak be-neath his feet.\n"
+|Lyric3|Text:"3._Where our broth-ers, sow-ing, reap-ing,\nDelv-ing for the hid-den ore,\nNow with joy and now with weep-ing\nLa-bor to in-crease their store;\nWhere the stran-ger wan-ders lone-ly\nIn the home-less wil-der-ness,\nTell of Je-sus, Je-sus on-ly,\nWho a-lone can save and bless.\n"
+|Lyric4|Text:"4._Tell how ten-der-ly He car-eth\nFor the wea-ry and op-pressed,\nHow their bur-dens all He bear-eth,\nAs He leads them to His rest;\nTell that He, the Lord from heav-en,\nDied for all and lives a-gain,\nAll through Him may be for-giv-en,\nAll with Him in glo-ry reign.\n"
+|Lyric5|Text:"5._Tell His love be-yond all tell-ing,\nSeek-ing, fol-lowing those who flee,\nLove re-bel-lious hearts com-pel-ling\nTo His ser-vice glad and free.\nThus a pre-cious har-vest gath-er,\nNorth and south and east and west,\nTo the glo-ry of the Fa-ther,\nSon, and Spir-it ev-er blest.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-9,-5
+|Chord|Dur:4th|Pos:-9,-6
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:n-7
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-9,-5
+|Chord|Dur:4th|Pos:-9,-6
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,n0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,n0
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:#-3,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:n-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Bethany (Smart), 87.87 D"|Label:"Bethany (Smart), 87.87 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,6
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:-4,7
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:n-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Note|Dur:4th|Pos:3
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Note|Dur:4th|Pos:6
+|Chord|Dur:4th|Pos:5,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

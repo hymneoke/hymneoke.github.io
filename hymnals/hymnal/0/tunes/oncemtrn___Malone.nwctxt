@@ -1,0 +1,155 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Malone, 88.68.86"|Author:"Luther Orlando Emerson, 1869"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Psalter (Pittsburgh, Pennsylvania: United Presbyterian Board of Publication, 1912), # 168. Also in the Psalter Hymnal (Grand Rapids, Michigan: Board of Publications of the Christian Reformed Church, 1976), # 117."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Once more in the Re-deem-er’s name,\nDear breth-ren, we have met a-gain,\nTo speak, and pray, and sing;\nNow let each one o-bey the call,\nOf Him who tast-ed death for all,\nOur ev-er-last-ing king.\n"
+|Lyric2|Text:"2._Since I was here, how have you done?\nHow have you walked, how have you run?\nOr, like the ea-gle, flew,\nOr have you fell in de-spond’s slough?\nThen look to Him who sees you now,\nTo raise your minds a-new.\n"
+|Lyric3|Text:"3._What kind of man-na have you had?\nCome tell me wheth-er good or bad;\nThe source from whence it came;\nHave you been fed from Christ a-bove,\nBy those who say they came in love,\nTo lead a-long the lame?\n"
+|Lyric4|Text:"4._Does un-ion in your hearts a-bound,\nAs once it did to hear the sound,\nOf trem-bling groans and cries?\nWhen all as one, to Christ did go,\nTo save them from that dread-ful woe\nAnd wipe their weep-ing eyes?\n"
+|Lyric5|Text:"5._Christ cru-ci-fied is what I know,\nHis cause the rea-son why I go,\nO’er hills and val-leys through;\n’Tis for His cause I leave my home,\nTo sound His fame, for this I roam;\nFor this I come to you.\n"
+|Lyric6|Text:"6._And while I’m called to leave my home,\nAnd o’er cre-a-tion wide to roam,\nMy friends may think of me,\nNot know-ing what or how I do,\nWhile I am come to vis-it you\nAnd preach the Gos-pel free.\n"
+|Lyric7|Text:"7._O Je-sus, come fill all our souls,\nMay we all be like gold-en bowls,\nA-round Thine al-tar strung;\nOur cups o’er-flow with love sin-cere,\nTill we shall sing sal-va-tion clear,\nIn ev-er-last-ing songs.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:140|Pos:12|Justify:Right
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Whole|Pos:-5,0
+|Chord|Dur:Half|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:Half|Pos:#-3,-1
+|Bar
+|Chord|Dur:Whole|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-2
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Whole|Pos:-5,-3
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Whole|Pos:-3,1
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-1
+|Bar
+|Chord|Dur:Whole|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Malone, 88.68.86"|Label:"Malone, 88.68.86"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Whole|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Whole|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:Half|Pos:0,6
+|Bar
+|Chord|Dur:Whole|Pos:-4,5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Whole|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Whole|Pos:2,4
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Bar
+|Chord|Dur:Whole|Pos:-2,2
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

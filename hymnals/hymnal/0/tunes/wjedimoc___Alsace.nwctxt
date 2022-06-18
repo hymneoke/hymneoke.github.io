@@ -1,0 +1,152 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:40|SelectIndex:41|CaretPos:0
+|SongInfo|Title:"Alsace, LM"|Author:"From Beethoven’s Second Symphony, 1802"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal (New York: Methodist Book Concern, 1905), # 518, 658, 695."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._When Je-sus dwelt in mor-tal clay,\nWhat were His works, from day to day,\nBut mir-a-cles of power and grace,\nThat spread sal-va-tion through our race?\n"
+|Lyric2|Text:"2._At his com-mand, from ray-less night\nRe-deemed, the blind re-ceive their sight,\nThe deaf in rap-ture hear His voice,\nThe dumb in songs of praise re-joice.\n"
+|Lyric3|Text:"3._Teach us, O Lord, to keep in view\nThy pat-tern, and Thy steps pur-sue;\nLet alms be-stowed, let kind-ness done,\nBe wit-nessed by each roll-ing sun.\n"
+|Lyric4|Text:"4._Teach us to mark, from day to day,\nIn gen-erous acts our ra-diant way,\nTread the same path our Sav-ior trod,\nThe path to glo-ry and to God.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:n-7
+|Note|Dur:16th|Pos:-5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:#-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:#-5,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Alsace, LM"|Label:"Alsace, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:1
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:1,6
+|Chord|Dur:4th|Pos:#2,4
+|Bar
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Chord|Dur:8th,Dotted,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:16th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-5,2
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:5
+|Chord|Dur:4th|Pos:#2,6
+|Bar
+|Chord|Dur:Half|Pos:3,6
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:5,6
+|Bar
+|Chord|Dur:Half|Pos:5,6
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

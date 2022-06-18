@@ -1,0 +1,153 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Father, in Thy Presence Now"|Author:"Louis Moreau Gottschalk, 1867"|Lyricist:"Anonymous, before 1850"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Music from the Baptist Hymnal (Nashville, Tennessee: Convention Press, 1975), # 135. Also in Tabernacle Hymms Number Four (Chicago, Illinois: Tabernacle Publishing Company, 1953), # 268."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:40|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Fa-ther, in Thy pre-sence now,\nHas been pledged the nup-tial vow;\nHeart to heart, as hand in hand,\nBride and groom, Thy child-ren stand.\n"
+|Lyric2|Text:"2._God of love! this un-ion bless,\nNot with earth’s low hap-pi-ness;\nBut with joys whose heav-enly spring\nShall di-vin-er rap-tures bring.\n"
+|Lyric3|Text:"3._May these blend-ed souls be found\nFirm in du-ty’s ac-tive round;\nDai-ly ev-ery bur-den share,\nNight-ly seek Thy sha-dow-ing care.\n"
+|Lyric4|Text:"4._When a-gainst their trem-bling forms\nShoot the ar-rows of life’s storms;\nOr when age and sick-ness wait\nHer-alds at life’s part-ing gate—\n"
+|Lyric5|Text:"5._In the full-ness of be-lief,\nMay they look be-yond the grief;\nAnd to-ge-ther fear-less tread\nIn the path where Thou shalt lead.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:117|Pos:12|Justify:Center
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:#-6,-2|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:n-4,0|Opts:Stem=Up
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:n-4,1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1|Opts:Stem=Up
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:#-6,-2|Opts:Stem=Up
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half|Pos:#-3,2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:#-6
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Mercy, 77.77"|Label:"Mercy, 77.77"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,n1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,n1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Note|Dur:4th|Pos:5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

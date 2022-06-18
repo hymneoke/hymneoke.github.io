@@ -1,0 +1,171 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:70|SelectIndex:71|CaretPos:-3
+|SongInfo|Title:"O Lamm Gottes, 77.77.777"|Author:"Nikolaus Decius, 1541"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Service Book and Hymnal (Minneapolis, Minnesota: Augsburg Publishing House, 1958), # 69."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O Lamb of God most ho-ly!\nWho on the cross didst suf-fer,\nAnd pa-tient still and low-ly,\nThy-self to scorn didst of-fer;\nOur sins by Thee were tak-en,\nOr hope had us for-sak-en:\nHave mer-cy on us, Je-sus.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-3
+|Chord|Dur:4th|Pos:n-7,-5
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Chord|Dur:4th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,2
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-3
+|AddStaff|Name:"O Lamm Gottes, 77.77.777"|Label:"O Lamm Gottes, 77.77.777"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-5,6
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:-3,#6
+|Chord|Dur:4th|Pos:n-2,7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:#-1,4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:4,#6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-5,6
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,4
+!NoteWorthyComposer-End

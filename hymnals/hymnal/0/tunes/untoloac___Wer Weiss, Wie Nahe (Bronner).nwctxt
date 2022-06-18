@@ -1,0 +1,208 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:14|SelectIndex:15|CaretPos:-7
+|SongInfo|Title:"Wer Weiss, Wie Nahe (Bronner), 98.98.88"|Author:"Georg Bronner, 1715"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal and Order of Service, Evangelical Lutheran Augustana Synod of North America (Rock Island, Illinois:  \tAugustana Book Concern, 1926), # 314."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Un-to the Lord of all cre-a-tion\nThy voice, my soul, in an-thems raise.\nLet eve-ry heart a fit ob-la-tion\nBring un-to Him with songs of praise.\nO con-tem-plate in hum-ble-ness\nThe power and rich-es of his grace.\n"
+|Lyric2|Text:"2._In Him we live and have our be-ing;\nAnd all the hosts of Heav’n and earth\nThe liv-ing God, all wise, all see-ing,\nThro’ His own Spir-it brought to birth.\nHis ho-ly name, writ in His Word,\nThro’ all the u-ni-verse is heard.\n"
+|Lyric3|Text:"3._The Lord who laid the earth’s foun-da-tion,\nAnd for the stars their course de-creed,\nWhose hand hath or-dered all cre-a-tion,\nPro-vid-eth for our eve-ry need;\nFor God is love: the Fa-ther’s care\nHis small-est child shall du-ly share.\n"
+|Lyric4|Text:"4._From out the gloom mine eye des-cri-eth\nThe Mak-er’s foot-prints in the sky;\nThe star-ry cho-rus tes-ti-fi-eth\nTo His e-ter-nal maj-es-ty;\nWhile on my path each ti-ny flower\nPro-claims His glo-ry and His power.\n"
+|Lyric5|Text:"5._In-to Thy hand, O God Al-might-y,\nMy weal and woe I will en-trust;\nMy need Thou seest who tak-est pit-y\nOn eve-ry worm that crawls the dust.\nIn pleas-ure’s path or sor-row’s way\nBe Thou my guide, O Lord, I pray.\n"
+|Lyric6|Text:"6._And when the morn-ing star ap-pear-eth,\nThy grace, Thy glo-ry we pro-claim;\nWhen falls the dew, and eve-ning near-eth,\nO Lord, we call up-on Thy name.\nUp-on Thy mer-cy we re-ly,\nFa-ther, Cre-a-tor, God on high.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:108|Pos:11|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:4th|Pos:-7,-3
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-7,-2
+|Bar
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:8th,Slur|Pos:-9|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-8|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-7,-5
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-10,-7
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-8,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-8,-6
+|Chord|Dur:4th|Pos:-8,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-8,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:4th|Pos:-7,-3
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-7,-2
+|Bar
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:8th,Slur|Pos:-9|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-8|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-7,-5
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-10,-7
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-8,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-8,-6
+|Chord|Dur:4th|Pos:-8,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-8,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-6,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Wer Weiss, W. N. (Bronner)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:-5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,n1
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:-7.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:-5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,n1
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:-7.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,2
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

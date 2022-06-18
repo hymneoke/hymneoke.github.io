@@ -1,0 +1,208 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Far Off Lands, 76.76 D"|Author:"Hemmets Koral Bok, 1921"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing Company, 1975), # 474. Also in The Hymnal of the Protestant Episcopal Church in the United States of America (New York: Church Pension Fund, 1940), # 262."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.03|Right:2.29|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._How long wilt Thou for-get me,\nO Lord, Thou God of grace?\nHow long shall fears be-set me\nWhile dark-ness hides Thy face?\nHow long shall griefs dis-tress me\nAnd turn my day to night?\nHow long shall foes op-press me\nAnd tri-umph in their might?\n"
+|Lyric2|Text:"2._O Lord my God, be-hold me\nAnd hear mine ear-nest cries;\nLest sleep of death en-fold me,\nEn-light-en Thou mine eyes;\nLest now my foe in-sult-ing\nShould boast of his suc-cess,\nAnd en-e-mies ex-ult-ing\nRe-joice in my dis-tress.\n"
+|Lyric3|Text:"3._But I with ex-pec-ta-tion\nHave on Thy grace re-lied;\nMy heart in Thy sal-va-tion\nShall still with joy con-fide;\nAnd I with voice of sing-ing\nWill praise the Lord a-bove,\nWho, rich-est boun-ties bring-ing,\nHas dealt with me in love.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-8,-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-8,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:n-6,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:4th|Pos:-8,#-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-5
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-8,-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-8,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:n-6,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:4th|Pos:-8,#-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-5
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:#-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-8,-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-8,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:n-6,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:4th|Pos:-8,#-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-5
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Bohemian Hymn, 76.76 D"|Label:"Bohemian Hymn, 76.76 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:3,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:-1,#4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Slur|Pos:#3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

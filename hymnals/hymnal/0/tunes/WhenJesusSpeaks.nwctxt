@@ -1,0 +1,237 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"When Jesus Speaks"|Author:"Charles Hutchinson Gabriel, Jr."|Lyricist:"Eliza Edmunds Hewitt, 1915"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Rodeheaver\'s Gospel Solos and Duets Number 3, by Yumbert P. Rodehearver, C. Austin Miles & Bentley D. Ackley (Winona Lake, Indiana: Rodeheaver Hall-Mack, 1938), # 33."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:15|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-18
+|Lyric1|Text:"1._I hear sweet whis-per-ings of love\nWhen Je-sus speaks to me;\nAnd bless-èd com-fort from a-bove,\nWhen Je-sus speaks to me.\n\nWhen Je-sus speaks, when Je-sus speaks,\nSo faith-ful He will ev-er be\nThat I will re-joice\nTo hear His sweet voice,\nWhen Je-sus speaks to me.\n"
+|Lyric2|Text:"2._’Twill be sure guid-ance day by day,\nWhen Je-sus speaks to me;\nTo lead me in His own right way,\nWhen Je-sus speaks to me.\n\nWhen Je-sus speaks, when Je-sus speaks,\nSo faith-ful He will ev-er be\nThat I will re-joice\nTo hear His sweet voice,\nWhen Je-sus speaks to me.\n"
+|Lyric3|Text:"3._There’ll be re-buke, when-e’er I sin,\nWhen Je-sus speaks to me;\nA clos-er fel-low-ship to win,\nWhen Je-sus speaks to me.\n\nWhen Je-sus speaks, when Je-sus speaks,\nSo faith-ful He will ev-er be\nThat I will re-joice\nTo hear His sweet voice,\nWhen Je-sus speaks to me.\n"
+|Lyric4|Text:"4._His king-ly word shall be with pow’r,\nWhen Je-sus speaks to me;\nGrace for the needs of ev-’ry hour,\nWhen Je-sus speaks to me.\n\nWhen Je-sus speaks, when Je-sus speaks,\nSo faith-ful He will ev-er be\nThat I will re-joice\nTo hear His sweet voice,\nWhen Je-sus speaks to me.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:103|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Note|Dur:8th|Pos:-6
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-4
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:8th|Pos:-5
+|Note|Dur:4th|Pos:-6
+|Note|Dur:8th|Pos:b-2
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Note|Dur:4th|Pos:-3
+|Note|Dur:8th|Pos:b-3
+|Bar
+|Note|Dur:4th,Dotted|Pos:-4^
+|Note|Dur:4th|Pos:-4
+|Note|Dur:8th|Pos:-6
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-4
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:8th|Pos:n-4
+|Note|Dur:4th|Pos:-3
+|Note|Dur:8th|Pos:b-4
+|Bar
+|Chord|Dur:4th|Pos:-7,n-5
+|Chord|Dur:8th|Pos:-8,-5
+|Chord|Dur:4th|Pos:-9,#-6
+|Chord|Dur:8th|Pos:-8,-5
+|Bar
+|Note|Dur:4th,Dotted|Pos:-5^
+|Note|Dur:4th|Pos:-5
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:6
+|Note|Dur:16th,Slur|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-4|Opts:Stem=Up,Beam=End
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:8th|Pos:n-5
+|Note|Dur:4th|Pos:b-5
+|Note|Dur:8th|Pos:-5
+|Bar
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Lower:4
+|Note|Dur:8th|Pos:-5
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-5
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:8th|Pos:-5
+|Note|Dur:4th|Pos:-6
+|Note|Dur:8th|Pos:-6
+|Bar
+|Note|Dur:8th|Pos:-5
+|Note|Dur:8th|Pos:-5
+|Note|Dur:8th|Pos:-5
+|Note|Dur:4th|Pos:-4
+|Note|Dur:8th|Pos:-5
+|Bar
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:-6
+|Chord|Dur:8th|Pos:-6,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Note|Dur:4th|Pos:-2
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:8th|Pos:-6
+|Note|Dur:4th|Pos:-4
+|Note|Dur:8th|Pos:-5
+|Bar
+|Note|Dur:4th,Dotted|Pos:-6^
+|Note|Dur:4th|Pos:-6
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"When Jesus Speaks"|Label:"When Jesus Speaks"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:33|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _\nWhen Je-sus speaks, when Je-sus speaks,\nSo faith-ful He will ev-er be\nThat I will re-joice\nTo hear His sweet voice,\nWhen Je-sus speaks to me.\n\nWhen Je-sus speaks, when Je-sus speaks,\nSo faith-ful He will ev-er be\nThat I will re-joice\nTo hear His sweet voice,\nWhen Je-sus speaks to me.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/8
+|Note|Dur:8th|Pos:1
+|Spacer|Width:775
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:6
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:8th|Pos:1,2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,3,5
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0,4
+|Note|Dur:8th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6^
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:4,6
+|Note|Dur:8th|Pos:1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:-1,3,5
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5,2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:n1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-2^,3^,5^
+|Chord|Dur:4th|Pos:-6,-2,3,5
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:25
+|Note|Dur:8th|Pos:1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-3,4,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3,4
+|Note|Dur:8th|Pos:8|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:1,7
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3,4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-3,2,n5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3,b5
+|Note|Dur:8th|Pos:1
+|Bar
+|Chord|Dur:8th,Slur|Pos:1^,3,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,#2,n4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,3,5|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-1^,8|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1,6|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,3,5|Opts:Stem=Down
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|Note|Dur:8th|Pos:b2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,1
+|Note|Dur:8th|Pos:1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:n1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:b1
+|Note|Dur:8th|Pos:#2|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:23
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:2,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:n0,4,n5
+|Chord|Dur:8th|Pos:0,4,5
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:1,4,6
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4,6
+|Chord|Dur:8th|Pos:1,3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,1^,4^
+|Chord|Dur:4th|Pos:-3,1,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

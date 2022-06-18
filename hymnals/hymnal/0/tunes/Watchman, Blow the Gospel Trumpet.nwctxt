@@ -1,0 +1,215 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Watchman, Blow the Gospel Trumpet"|Author:"William James Kirkpatrick"|Lyricist:"Henry Lake Gilmour, 1886"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gathered Jewels, by William A. Ogden (Toledo, Ohio: Willard W. Whitney, 1886), # 5."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Watch-man, blow the Gos-pel trum-pet,\nEv-ery soul a warn-ing give;\nWho-so-ev-er hears the mes-sage\nMay re-pent, and turn and live.\n\nBlow the trum-pet, trust-y watch-man,\nBlow it loud o’er land and sea;\nGod com-mis-sions, sound the mes-sage!\nEv-ery cap-tive may be free.\n"
+|Lyric2|Text:"2._Sound it loud o’er ev-ery hill-top,\nGloom-y shade and sun-ny plain;\nO-cean depths re-peat the mes-sage,\nFull sal-va-tion’s glad re-frain.\n\nBlow the trum-pet, trust-y watch-man,\nBlow it loud o’er land and sea;\nGod com-mis-sions, sound the mes-sage!\nEv-ery cap-tive may be free.\n"
+|Lyric3|Text:"3._Sound it in the hedge and high-way,\nEarth’s dark spots where ex-iles roam;\nLet it tell all things are rea-dy,\nFa-ther waits to wel-come home.\n\nBlow the trum-pet, trust-y watch-man,\nBlow it loud o’er land and sea;\nGod com-mis-sions, sound the mes-sage!\nEv-ery cap-tive may be free.\n"
+|Lyric4|Text:"4._Sound it for the heav-y la-den,\nWear-y, long-ing to be free;\nSound a Sav-ior’s in-vi-ta-tion,\nSweet-ly say-ing, “Come to Me.”\n\nBlow the trum-pet, trust-y watch-man,\nBlow it loud o’er land and sea;\nGod com-mis-sions, sound the mes-sage!\nEv-ery cap-tive may be free.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-6,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:Half|Pos:-4,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:n-5,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:Half|Pos:-4,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:n-5,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Rest|Dur:4th
+|Spacer|Width:200
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:26
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:Half|Pos:-6,-4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:n-4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:1^
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-4,1|Opts:Slur=Upward
+|Note|Dur:8th,Triplet=First,Slur|Pos:1|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Triplet,Slur|Pos:1|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Triplet=End|Pos:1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,0
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:b-2|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3,2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Blow the Gospel Trumpet"|Label:"Blow the Gospel Trumpet"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-9
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _\nloud o’er land and sea\n\nBlow the trum-pet, trust-y watch-man,\nBlow it loud o’er land and sea;\nGod com-mis-sions, sound the mes-sage!\nEv-ery cap-tive may be free.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Chord|Dur:8th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Bar
+|Chord|Dur:Half|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Chord|Dur:8th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:1,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Boundary|Style:NewSize|Upper:1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-1,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:n0,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1,4
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

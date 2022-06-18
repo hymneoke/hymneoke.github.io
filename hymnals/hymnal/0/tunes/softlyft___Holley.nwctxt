@@ -1,0 +1,145 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:49|SelectIndex:50|CaretPos:-1
+|SongInfo|Title:"Holley, LM"|Author:"George Hews, 1835"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Church Hymnal, Revised and Enlarged (Boston, Massachusetts: Parish Choir, 1911), # 272."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Soft-ly fades the twi-light ray,\nOf the ho-ly Sab-bath day;\nGen-tly as life’s set-ting sun,\nWhen the Chris-tian’s course is run.\n"
+|Lyric2|Text:"2._Night her sol-emn man-tle spreads\nO’er the earth as day-light fades;\nAll things tell of calm re-pose,\nAt the ho-ly Sab-bath’s close.\n"
+|Lyric3|Text:"3._Peace is on the world a-broad,\n’Tis the ho-ly peace of God;\nSym-bol of the peace with-in,\nWhen the spir-it rests from sin.\n"
+|Lyric4|Text:"4._Still the Spir-it lin-gers near,\nWhere the eve-ning wor-shipp-er\nSeeks com-mun-ion with the skies,\nPress-ing on-ward to the prize.\n"
+|Lyric5|Text:"5._Sav-ior, may our Sab-baths be\nDays of peace and joy in Thee!\nTill in Heav’n our souls re-pose,\nWhere the Sab-bath ne’er shall close.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:Common
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th,Slur|Pos:-4,#-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th,Slur|Pos:-4,n-1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th,Slur|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Whole|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5^,-3^
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:-3
+|Note|Dur:Half|Pos:-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4^,0^
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-7,-4
+|Chord|Dur:Half|Pos:-7,-5
+|Bar
+|Chord|Dur:Whole|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Holley, LM"|Label:"Holley, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:Common
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,n4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:Whole|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,#2
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:0,5
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:Whole|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:n-2,4
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Whole|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:3,b7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4,6
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

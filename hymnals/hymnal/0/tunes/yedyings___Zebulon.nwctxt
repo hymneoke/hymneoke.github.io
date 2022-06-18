@@ -1,0 +1,148 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Zebulon, HM"|Author:"Lowell Mason, 1830"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymnal of the Methodist Episcopal Church with Tunes (New York: Eaton & Mains, 1878), p. 353. Also in the Book of Hymns and Tunes, edited by E. Thompson Baird & Charles C. Converse  (Richmond, Virginia: Presbyterian Committee of Publication, 1874), p. 265, which gives the 1830 composition date."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:1
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:1
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:1
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:1
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Ye dy-ing sons of men,\nIm-mersed in sin and woe,\nThe Gos-pel’s voice at-tend,\nWhile Je-sus sends to you:\nYe per-ish-ing and guilt-y, come;\nIn Je-sus’ arms there yet is room.\n"
+|Lyric2|Text:"2._No long-er now de-lay,\nNor vain ex-cus-es frame;\nHe bids you come to-day,\nThough poor, and blind, and lame:\nAll things are read-y; sin-ner, come;\nFor eve-ry trem-bling soul there’s room.\n"
+|Lyric3|Text:"3._Be-lieve the heaven-ly word\nHis mes-sen-gers pro-claim;\nHe is a gra-cious Lord,\nAnd faith-ful is His name:\nBack-slid-ing souls, re-turn and come;\nCast off de-spair; there yet is room.\n"
+|Lyric4|Text:"4._Com-pelled by bleed-ing love,\nYe wan-dering sheep, draw near;\nChrist calls you from a-bove;\nHis charm-ing ac-cents hear:\nLet who-so-ev-er will now come,\nIn mer-cy’s breast there still is room.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:113|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:Half|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:Half|Pos:-3,-2
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Zebulon, 66.66.88"|Label:"Zebulon, 66.66.88"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Chord|Dur:8th|Pos:2,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:0,5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

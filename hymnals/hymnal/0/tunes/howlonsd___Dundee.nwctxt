@@ -1,0 +1,116 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Dundee, CM"|Author:"Scottish Psalter, 1615"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal (New York: Methodist Publishing House, 1939), # 68. Also in The English Hymnal (London: Oxford University Press, 1906), # 43."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._How long shall death, the ty-rant reign,\nAnd tri-umph o’er the just,\nWhile the dear blood of mar-tyrs slain\nLies min-gled with the dust?\n"
+|Lyric2|Text:"2._When shall the te-dious night be gone?\nWhen will our Lord ap-pear?\nOur fond de-sires would pray Him down,\nOur love em-brace Him here,\n"
+|Lyric3|Text:"3._Let faith a-rise, and climb the hills,\nAnd from a-far de-scry\nHow dis-tant are His char-iot wheels,\nAnd tell how fast they fly.\n"
+|Lyric4|Text:"4._Lo, I be-hold the scat-tering shades,\nThe dawn of Heav’n ap-pears,\nThe sweet im-mor-tal morn-ing spreads\nIts blush-es round the spheres,\n"
+|Lyric5|Text:"5._I see the Lord of glo-ry come,\nAnd flam-ing guards a-round:\nThe skies di-vide to make Him room,\nThe trum-pet shakes the ground.\n"
+|Lyric6|Text:"6._I hear the voice, “Ye dead a-rise,”\nAnd lo, the graves o-bey,\nAnd wak-ing saints with joy-ful eyes\nSa-lute th’ex-pect-ed day.\n"
+|Lyric7|Text:"7._They leave the dust, and on the wing\nRise to the mid-dle air,\nIn shin-ing gar-ments meet their king,\nAnd low a-dore Him there.\n"
+|Lyric8|Text:"8._O may my hum-ble spir-it stand\nA-mongst them clothed in white!\nThe mean-est place at His right hand\nIs in-fi-nite de-light.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:108|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-7,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-6,0
+|Chord|Dur:4th|Pos:-6,n-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Dundee, CM"|Label:"Dundee, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-6,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-5,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

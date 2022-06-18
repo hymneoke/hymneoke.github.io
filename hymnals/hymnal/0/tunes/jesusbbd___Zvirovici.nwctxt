@@ -1,0 +1,219 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:86|CaretPos:5
+|SongInfo|Title:"Zvirovići, 77.77.87.87"|Author:"L. B. Shook, 1883"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Shook\'s Song Evangelist, edited by L. B. Shook (Cleveland, Ohio & Chicago, Illinois: S. Brainard\'s Sons, 1883), # 180."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:13|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Je-sus bursts the bars of death\nAnd de-spoils the greed-y grave;\nTo the king dis-crowned He saith,\n“I am ris-en souls to save.\nTy-rant, now thy reign is end-ed,\nThy dread sting I take a-way;\nWith thy pains sweet hopes are blend-ed,\nNone need long-er dread thy sway.”\n"
+|Lyric2|Text:"2._Trem-bling sol-diers strick-en dumb,\nFall a-round the sick-led grain,\nWhile the heav’n-ly her-alds come,\nTo be-hold the Vic-tor slain.\nLoud-ly from se-pul-chral stone, _\nThey pro-claim that death is dead.\nChrist is now the Lord a-lone, _\nHe is ris-en, as He said!\n"
+|Lyric3|Text:"3._Shout, ye ran-somed! Shout a-loud,\nMake the ver-y heav-ens ring;\nShout, as round the grave we crowd,\n“He is ris-en! Christ is king.”\nSer-aphs, hymns of tri-umph raise, _\nEarth, your sweet-est songs em-ploy,\nSwell-ing high the tide of praise, _\nVoic-ing loud one might-y joy!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:n0,n2
+|Chord|Dur:8th,Slur|Pos:1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:b0,b2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-6,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-4,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:b-2,3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-1
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Boundary|Style:NewSize|Upper:9
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Zvirovići, L. B. Shook, 1883"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Boundary|Style:NewSize|Lower:12
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,6
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:Half|Pos:3,8
+|TempoVariance|Style:Fermata|Pause:0|Pos:10.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:-2,5
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

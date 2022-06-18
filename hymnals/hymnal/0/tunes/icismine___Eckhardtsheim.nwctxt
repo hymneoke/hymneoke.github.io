@@ -1,0 +1,141 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:33|SelectIndex:35|CaretPos:-2
+|SongInfo|Title:"Eckhardtsheim, CM"|Author:"Heinrich Christoph (Charles) Zeuner, 1833"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal, Presbyterian Board of Publication & Sabbath-School Work (Philadelphia, Pennsylvania: 1907), # 549."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._If Christ is mine, then all is mine,\nAnd more than an-gels know;\nBoth pre-sent things and things to come,\nAnd grace and glo-ry, too.\n"
+|Lyric2|Text:"2._If He is mine, then, though He frown,\nHe nev-er will for-sake;\nHis chas-tise-ments all work for good,\nAnd but His love be-speak.\n"
+|Lyric3|Text:"3._If He is mine, I need not fear,\nThe rage of earth and hell;\nHe will sup-port my fee-ble frame,\nAnd all their power re-pel.\n"
+|Lyric4|Text:"4._If He is mine, let friends for-sake,\nAnd earth-ly com-forts flee;\nHe, the dis-pens-er of all good,\nIs more than these to me.\n"
+|Lyric5|Text:"5._If He is mine, I’ll fear-less pass\nThrough death’s tre-men-dous vale;\nHe’ll be my com-fort and my stay\nWhen heart and flesh shall fail.\n"
+|Lyric6|Text:"6._Let Je-sus tell me He is mine,\nI noth-ing want be-side:\nMy soul shall at the foun-tain live\nWhen all the streams are dried.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,2^
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4^,-2^
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Eckhardtsheim"|Label:"Eckhardtsheim"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:4th|Pos:-3,8
+|Bar
+|Chord|Dur:Half|Pos:-2,8
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,n4
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,n4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2^,5^
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:1,8
+|Chord|Dur:4th|Pos:4,5
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1^,5^
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

@@ -1,0 +1,248 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"In Sight of the Crystal Sea"|Author:"John W. Bischoff"|Lyricist:"Jeremiah Eames Rankin, 1877"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Crystal Songs, edited by Otis F. Presbrey (Toledo, Ohio: W. W. Whitney, 1877), # 84."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:35|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._I sat a-lone with life’s mem-o-ries\nIn sight of the crys-tal sea;\nAnd I saw the thrones of the star-crowned ones,\nWith nev-er a crown for me.\nAnd then the voice of the Judge said, “Come,”\nOf the Judge on the great white throne;\nAnd I saw the star-crowned take their seats,\nBut none could I call my own.\n"
+|Lyric2|Text:"2._I thought me then of my child-hood days,\nThe prayer at my mo-ther’s knee—\nOf the coun-sels grave that my fa-ther gave—\nThe wrath I was warned to flee;\nI said, “Is it then too late, too late?\nShut with-out, must I stand for aye?”\nAnd the Judge,_will He say, “I know you not,”\nHow-e’er I may knock and pray?\n"
+|Lyric3|Text:"3._I thought, I thought of the days of God\nI’d wast-ed in folly and sin—\nOf the times I’d mocked when the Sav-ior knocked,\nAnd I would not let Him in.\nI thought, I thought of the vows I’d made\nWhen I la-y at death’s dark door—\nWould He spare my life, I’d give_up the strife,\nAnd serve Him for-ev-er more.\n"
+|Lyric4|Text:"4._I heard a voice, like the voice of God—\n“Re-mem-ber, re-member, my son!\nR-e-member thy ways in the for-mer days,\nThe crowns that thou might have won!”\nI thought, I thought— and my thoughts ran on,\nLike the tide of a sun-less sea—\n“Am I living or dead?”_to my-self I said,\n“An end is there ne’er to be?”\n"
+|Lyric5|Text:"5._I seemed as though I woke from a dream,\nHow sweet was the light of day!\nMel-o-di-ous sound-ed the Sab-bath bells\nFrom towers that were far a-way.\nI then be-came as a lit-tle child,\nAnd I wept, and wept a-fresh;\nFor the Lord had tak-en my heart of stone,\nAnd giv-en a heart of flesh.\n"
+|Lyric6|Text:"6._Still oft I sit with life’s mem-o-ries,\nAnd think of the crys-tal sea;\nAnd I see the thrones of the star-crowned ones;\nI know there’s a crown for me.\nAnd when the voice of the Judge says, “Come,”\nOf the Judge on the great white throne—\nI know mid_the thrones of the star crowned ones\nThere’s one I shall call my own.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#,D#|Tonic:E
+|Tempo|Tempo:93|Pos:13|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Spacer|Width:175
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-7,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-4^
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Rest|Dur:8th
+|Chord|Dur:16th|Pos:-3,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-3,-2|Opts:Stem=Up,Beam=End
+|Spacer|Width:175
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:#-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-1
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,0^
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:600
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-7,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-4^
+|Chord|Dur:4th|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"In Sight of the Crystal Sea"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#,D#|Tonic:E
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:1,5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th,Slur|Pos:-2,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,5^
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:16th|Pos:1,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:1,5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:1,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,5
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:1,3
+|Rest|Dur:8th
+|Chord|Dur:16th|Pos:0,#5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:0,5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,2^
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:16th|Pos:0,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:0,5|Opts:Stem=Down,Beam=End
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th,Slur|Pos:1,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:1,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:4,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Slur|Pos:2,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2,5
+|Spacer|Width:525
+|Bar
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

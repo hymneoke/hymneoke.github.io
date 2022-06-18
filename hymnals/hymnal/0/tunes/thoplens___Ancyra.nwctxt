@@ -1,0 +1,188 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:21|CaretPos:1
+|SongInfo|Title:"Ancyra, CMD"|Author:"Benjamin Carl Unseld, 1901"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Psalter (Pittsburgh, Pennsylvania: United Presbyterian Board of Publication, 1912), # 174. Also in the Book of Worship for United States Forces (Washington, DC: US Government Printing Office, 1974), # 296."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Thou plen-teous source of light and love,\nFrom whom all grace pro-ceeds,\nChase from our souls the gloom of night,\nAnd make us hate its deeds:\nIn ar-mor clad of heaven-ly proof\nWe will not fear or fly,\nBut brave-ly through op-pos-ing hosts\nPress on-ward to the sky.\n"
+|Lyric2|Text:"2._If long and doubt-ful seem the strife,\nOur pains and tri-als sore,\nSuch are the ills of mor-tal life,\nAnd such our Sav-ior bore:\nOnce, hum-bled from His loft-y throne,\nHe dwelt in weak-ness here,\nAnd His has been the strug-gling sigh,\nAnd His the fall-ing tear.\n"
+|Lyric3|Text:"3._When time has run its des-tined course,\nAnd all our years are fled,\nHe comes, with mon-arch’s pomp and power,\nTo wake and judge the dead:\nThen help us, Lord, while sin-ners’ hearts\nShall sick-en with dis-may,\nTo lift our heads, and joy-ful hail\nRe-demp-tion’s per-fect day.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-3
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Slur|Pos:-7,-5
+|Chord|Dur:4th|Pos:-8,-6
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-3
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-3
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-3
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Ancyra, CMD"|Label:"Ancyra, CMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:-4,n5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:4th,Slur|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

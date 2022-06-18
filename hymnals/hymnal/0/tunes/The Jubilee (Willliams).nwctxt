@@ -1,0 +1,185 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Jubilee"|Author:"Josiah Lowe, 1859"|Lyricist:"Julia A. Williams, 19th or early 20th Century"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Words arranged by Josiah Lowe in Hymns: Designed for the Use of the Second Advent Band (Boston, Massachusetts:  \tN. Stevens & H.B. Skinner, 1843), pp 9–10. Words first appeared in Second Advent Hymns, Designed to be Used in Prayer and Campmeetings (Exeter, New Hampshire: A. R Brown), 1842; in this version, number of lines per each stanza was very inconsistent (no doubt why Lowe rearranged them in 1859).  However, first hymnal crediting Williams as the author was published in Nashville, Tennessee, in 1916. Music source: Devotional Melodies, second edition, edited by A. S. Jenks (Philadelphia, Pennsylvania: A. S. Jenks, 1859), p. 162."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._I ne-ver shall for-get the day\nWhen Je-sus washed my sins a-way;\nOh! my soul was ve-ry hap-py;\nWill you go a-long with me?\nOh! my soul was ve-ry hap-py;\nCome and sound the ju-bi-lee!\n"
+|Lyric2|Text:"2._I bur-dened was with sin and shame,\nBut Je-sus took a-way the stain.\nAnd my soul was ve-ry hap-py,\nWill you go a-long with me?\nAnd my soul was ve-ry hap-py,\nCome and sound the ju-bi-lee!\n"
+|Lyric3|Text:"3._I’m go-ing now to Heav’n a-bove,\nTo sing the Sav-ior’s dy-ing love.\nAnd my soul is ve-ry hap-py;\nWill you go a-long with me?\nOh! my soul is ve-ry hap-py;\nCome and sound the ju-bi-lee!\n"
+|Lyric4|Text:"4._There’s fa-thers there, and mo-thers, too,\nAnd don’t you want to go there, too?\nOh! your soul will be so hap-py,\nWon’t you go a-long with me?\nOh! your soul will be so hap-py,\nCome and sound the ju-bi-lee!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:103|Pos:11|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-3,0
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:StemLength=5
+|Chord|Dur:8th|Pos:-4,1|Opts:StemLength=6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Boundary|Style:NewSize|Lower:21
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Down|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Spacer|Width:750
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Spacer|Width:375
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Lyric=Never
+|Bar
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,7
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

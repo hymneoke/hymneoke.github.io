@@ -1,0 +1,224 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Send the Power Again"|Author:"Charles Hutchinson Gabriel"|Lyricist:"William Charles Poole, 1911"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Great Revival Hymns, edited by Homer Rodeheaver, Bentley D. Ackley, William E. Biederwolf & John B. Herbert (Chicago, Illinos: Rodeheaver-Ackley, 1911), # 70."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._There was power, O Lord, in the days of old,\nTo kin-dle a fire in hearts grown cold;\nThat we on Thy word may now lay hold,\nLord, send that power a-gain.\n\nLord, send the power a-gain,\nO send the power a-gain!\nWe be-lieve on Thy name,\nAnd Thy prom-ise we claim,\nLord, send the power a-gain.\n"
+|Lyric2|Text:"2._There was power by which ev-ery tongue could speak,\nNew life giv-ing power un-to the weak;\nThat sent them the wan-dering ones to seek—\nLord, send that power a-gain.\n\nLord, send the power a-gain,\nO send the power a-gain!\nWe be-lieve on Thy name,\nAnd Thy prom-ise we claim,\nLord, send the power a-gain.\n"
+|Lyric3|Text:"3._There was power to set ev-ery cap-tive free\nAnd give to Thy ser-vants lib-er-ty\nTo speak and to pray and work for Thee—\nLord, send that power a-gain.\n\nLord, send the power a-gain,\nO send the power a-gain!\nWe be-lieve on Thy name,\nAnd Thy prom-ise we claim,\nLord, send the power a-gain.\n"
+|Lyric4|Text:"4._There was power, O Lord, in the old time prayer,\nIt thrilled ev-ery heart and lin-gered there,\nTill we in Thy glo-ry seemed to share—\nLord, send that power a-gain.\n\nLord, send the power a-gain,\nO send the power a-gain!\nWe be-lieve on Thy name,\nAnd Thy prom-ise we claim,\nLord, send the power a-gain.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-2
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Spacer|Width:225
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:16
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Down
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Send the Power Again"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nA-men!\n_ _ _ _ _ _\nA-men!\n\nLord, send the power a-gain,\nO send the power a-gain!\nWe be-lieve on Thy name,\nAnd Thy prom-ise we claim,\nLord, send the power a-gain.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,6
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:Double
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:0,n5
+|Chord|Dur:4th|Pos:-1,6
+|Boundary|Style:NewSize|Upper:8
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,135 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:52|SelectIndex:53|CaretPos:3
+|SongInfo|Title:"Gerontius, CM"|Author:"John Bacchus Dykes, 1868"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 172. The tune was written for John Henry Newman\'s \"Praise to the Holiest in the Height,\" which was based on Newman\'s poem \"The Dream of Gerontius.\""
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Now I’m con-vinced the Lord is kind\nTo men of heart sin-cere;\nYet once my fool-ish thoughts re-pined,\nAnd bor-dered on de-spair.\n"
+|Lyric2|Text:"2._I grieved to see the wick-ed thrive,\nAnd spoke with an-gry breath,\n“How pleas-ant and pro-fane they live!\nHow peace-ful is their death!\n"
+|Lyric3|Text:"3._“With well-fed flesh and haugh-ty eyes,\nThey lay their fears to sleep;\nA-gainst the heav’ns their slan-ders rise,\nWhile saints in si-lence weep.\n"
+|Lyric4|Text:"4._“In vain I lift my hands to pray,\nAnd cleanse my heart in vain;\nFor I am chas-tened all the day,\nThe night re-news my pain.”\n"
+|Lyric5|Text:"5._Yet while my tongue in-dulged com-plaints,\nI felt my heart re-prove;\n“Sure I shall thus of-fend thy saints,\nAnd grieve the men I love.”\n"
+|Lyric6|Text:"6._But still I found my doubts too hard,\nThe con-flict too se-vere,\nTill I re-tired to search Thy Word,\nAnd learn Thy se-crets there.\n"
+|Lyric7|Text:"7._There, as in some pro-phet-ic glass,\nI saw the sin-ner’s feet\nHigh mount-ed on a slip-pery place,\nBe-side a fier-y pit.\n"
+|Lyric8|Text:"8._I heard the wretch pro-fane-ly boast,\nTill at Thy frown he fell;\nHis hon-ors in a dream were lost,\nAnd he a-wakes in hell.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-5,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:Half|Pos:-7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Gerontius, CM"|Label:"Gerontius, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,4
+|Chord|Dur:4th|Pos:4,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:5,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:Half|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:#-3,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:#0,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

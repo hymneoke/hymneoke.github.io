@@ -1,0 +1,151 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:45|CaretPos:5
+|SongInfo|Title:"Buckhurst Hill, 87.87"|Author:"German chorale, harm. by J. S. Bach"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Carols Old and Carols New, by Charles L. Hutchins (Boston, Massachusetts: Parish Choir, 1916), # 561. Also in World-Famous Christmas Songs, by George Rittenhouse (New York: Robbins Music, 1929), # 38."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Now-ell! Now-ell! Good news I tell,\nAnd eke a won-der sto-ry;\nA vir-gin mild hath born a child,\nJe-sus the King of glo-ry.\n"
+|Lyric2|Text:"2._A-ve Ma-rie! O well is thee,\nThou daugh-ter born of An-na.\nBe-fore thy Son, that ho-ly One,\nArch-an-gels sang O-san-na.\n"
+|Lyric3|Text:"3._Then praise be sung and bells be rung,\nTo greet this kind-ly stran-ger;\nTh’An-cient of Days, man-kind to raise,\nAb-hor-reth not the man-ger.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:108|Pos:11|Justify:Center
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:#-3,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2^,2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:#-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down|Dur2:Half|Pos2:-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th|Pos:#-3|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-2,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:#-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th,Dotted|Pos2:-6
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Beam=End
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Placement:AtNextNote
+|Chord|Dur:4th,Dotted,Slur|Pos:-2|Opts:Stem=Down|Dur2:Half|Pos2:2
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Placement:AtNextNote
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Buckhurst Hill, 87.87"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:25|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:7
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:b5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:16|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,8
+|TempoVariance|Style:Fermata|Pause:0|Pos:16|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:0
+|TempoVariance|Style:Fermata|Pause:0|Pos:16|Justify:Center|Placement:AtNextNote
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:-1,8
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:4,6
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:#3,9
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:9|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:n3,#10|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down,Beam=End
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Slur|Pos:3,6|Opts:Slur=Downward
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,3
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

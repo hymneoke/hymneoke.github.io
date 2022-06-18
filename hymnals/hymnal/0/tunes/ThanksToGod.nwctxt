@@ -1,0 +1,196 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Thanks to God"|Author:"Johannes Alfred Hultman, 1910"|Lyricist:"August Storm, 1891; tr Johannes Hultman, 1931"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Covenant Hymnal (Chicago, Illinois: Covenant Book Concen, 1931), # 271."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Thanks to God for my Re-deem-er,\nThanks for all Thou dost pro-vide!\nThanks for times now but a mem-ory,\nThanks for Je-sus by my side!\nThanks for plea-sant, balm-y spring-time,\nThanks for dark and storm-y fall!\nThanks for tears by now for-gott-en,\nThanks for peace with-in my soul!\n"
+|Lyric2|Text:"2._Thanks for prayers that Thou hast an-swered,\nThanks for what Thou dost de-ny!\nThanks for storms that I have wea-thered,\nThanks for all Thou dost sup-ply!\nThanks for pain, and thanks for plea-sure,\nThanks for com-fort in des-pair!\nThanks for grace that none can mea-sure,\nThanks for love be-yond com-pare!\n"
+|Lyric3|Text:"3._Thanks for ros-es by the way-side,\nThanks for thorns their stems con-tain!\nThanks for home and thanks for fire-side,\nThanks for hope, that sweet re-frain!\nThanks for joy and thanks for sor-row,\nThanks for heav’n-ly peace with Thee!\nThanks for hope in the to-mor-row,\nThanks through all e-ter-ni-ty!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-8,-6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-8,-3
+|Chord|Dur:8th|Pos:-8,-6
+|Bar
+|Chord|Dur:Half|Pos:-7,-5
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:#-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Note|Dur:4th|Pos:-2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,3
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Thanks to God"|Label:"Thanks to God"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:2
+|Chord|Dur:16th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:5
+|Chord|Dur:16th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

@@ -1,0 +1,252 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Christian Mariner"|Author:"John Robson Sweney"|Lyricist:"A. W. Blakesley, 1881"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Wells of Salvation, by John R. Sweney (Philadelphia, Pennsylvania: John J. Hood, 1881), p. 81."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.78|Right:2.54|Bottom:1.78|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Both by day and by night,\nBoth in dark-ness and light,\nMust the mar-i-ner keep on his way;\nBy his com-pass must steer,\nMid all dan-ger and fear,\nTill the dark-ness and storms pass a-way.\n\nThen we’ll sing, then we’ll sing,\nTho’ the storm mad-ly round us may roar;\nWhen we an-chor a-bove,\nWe will meet those we love,\nOn that beau-ti-ful, beau-ti-ful shore.\n"
+|Lyric2|Text:"2._Is not Christ on the deep?\nIs He not in the ship?\nSays He not, “Do not fear, it is I”?\nAt His word storm and tide\nShall in si-lence sub-side,\nAnd each child safe-ly land-ed on high.\n\nThen we’ll sing, then we’ll sing,\nTho’ the storm mad-ly round us may roar;\nWhen we an-chor a-bove,\nWe will meet those we love,\nOn that beau-ti-ful, beau-ti-ful shore.\n"
+|Lyric3|Text:"3._With our Je-sus thus near,\nLet us ban-ish each fear,\nTho’ earth’s hopes round us blast-ed may lie;\nTho’ the storm down may pour,\nAnd loud thun-ders may roar,\nAnd the sur-ges may dash to the sky.\n\nThen we’ll sing, then we’ll sing,\nTho’ the storm mad-ly round us may roar;\nWhen we an-chor a-bove,\nWe will meet those we love,\nOn that beau-ti-ful, beau-ti-ful shore.\n"
+|Lyric4|Text:"4._Soon the prize will be won,\nAnd life’s voyage will be done,\nAnd with Je-sus’ own flock we shall reign;\nBy life’s wa-ters be led,\nIn its green pas-tures fed,\nAnd we’ll rest in our heav-en-ly home.\n\nThen we’ll sing, then we’ll sing,\nTho’ the storm mad-ly round us may roar;\nWhen we an-chor a-bove,\nWe will meet those we love,\nOn that beau-ti-ful, beau-ti-ful shore.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Boundary|Style:NewSize|Lower:20
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Boundary|Style:NewSize|Lower:21
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:16
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:#-1,#1
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"Then we’ll sing, then we’ll sing,\nmad-ly roar.\n\nThen we’ll sing, then we’ll sing,\nTho’ the storm mad-ly round us may roar;\nWhen we an-chor a-bove,\nWe will meet those we love,\nOn that beau-ti-ful, beau-ti-ful shore.\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,3|Opts:Lyric=Never
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:4,#6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:4,6|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,3|Opts:Lyric=Never
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3,5|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:14
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:4th|Pos:5,7
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:#4,#6
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:n6,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:5,7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:4,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Boundary|Style:NewSize|Upper:8
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

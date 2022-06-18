@@ -1,0 +1,159 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Josephine, 88.6 D"|Author:"Ernest Richard Kroeger, 1901"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Psalter (Pittsburgh, Pennsyvlania: United Presbyterian Board of Publication, 1912), # 95. Also in the Psalter Hymnal (Grand Rapids, Michigan: Board of Publications of the Christian Reformed Church, 1976), # 63."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Fret not thy-self, nor en-vious be,\nWhen wick-ed work-ers thou shalt see,\nWho pros-per in their way;\nFor like the grass they per-ish soon,\nAnd, like the herb cut down at noon,\nThey with-er in a day.\n"
+|Lyric2|Text:"2._Trust in the Lord and still do well,\nWith-in the land se-cure-ly dwell,\nFeed on His faith-ful-ness;\nDe-light thee al-so in the Lord,\nAnd to thy heart He will ac-cord\nThe good it would pos-sess.\n"
+|Lyric3|Text:"3._Yea, to the Lord thy way is known;\nCon-fide in Him who on the throne\nA-bides in power di-vine;\nThy right-eous-ness He shall dis-play;\nRe-splend-ent as the light of day,\nIt shall un-cloud-ed shine.\n"
+|Lyric4|Text:"4._Rest in the Lord and be thou still,\nWith pa-tience wait His ho-ly will,\nEn-dur-ing to the end.\nFret not though sin-ners’ gains in-crease;\nFor-sake thy wrath, from an-ger cease;\nIt will to e-vil tend.\n"
+|Lyric5|Text:"5._The e-vil-do-er soon shall die,\nBut those that on the Lord re-ly\nShall all the land ob-tain.\nA lit-tle while and thou shalt see\nThat wick-ed man cut off shall be,\nThey shall be sought in vain.\n"
+|Lyric6|Text:"6._Yea, thou shalt soon con-sid-er well\nThe place where they were wont to dwell,\nAnd it shall not be found;\nBut saints shall all the land pos-sess,\nAnd find de-light and hap-pi-ness\nWhere fruits of peace a-bound.\n"
+|Lyric7|Text:"7._The vile may plot a-gainst the just\nWho in the Lord Je-ho-vah trust,\nBut God will scorn them all;\nThe Lord their com-ing day shall see,\nWhen bro-ken all their power shall be,\nAnd ru-in on them fall.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:160|Pos:12|Justify:Right
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:Half|Pos:-4,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:#-3,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:b-2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Rest|Dur:4th
+|Chord|Dur:Half|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:n-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:b-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:b-6,-3
+|Chord|Dur:Half|Pos:-7,-4
+|Chord|Dur:Half|Pos:-7,-5
+|Bar
+|Chord|Dur:Whole|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Josephine, 88.68.86"|Label:"Josephine, 88.68.86"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,6
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,n4
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:-1,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:Half|Pos:2,n4
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Rest|Dur:4th
+|Chord|Dur:Half|Pos:5,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,b7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:Half|Pos:2,b6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:n1,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

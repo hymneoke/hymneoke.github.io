@@ -1,0 +1,225 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Gather Them In"|Author:"George Coles Stebbins"|Lyricist:"Frances Jane (Fanny) Crosby, 1883"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns Nos. 1 to 6 Complete, by Ira D. Sankey, George McGranahan & George C. Stebbins (Chicago, Illinois: Biglow & Main, 1894), # 566."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Ga-ther them in! for yet there is room\nAt the feast that the King has spread;\nO ga-ther them in! let His house be filled,\nAnd the hun-gry and poor be fed.\n\nOut in the high-way, out in the by-way,\nOut in the dark paths of sin,\nGo forth, go forth, with a lov-ing heart,\nAnd ga-ther the wand-erers in!\n"
+|Lyric2|Text:"2._Ga-ther them in! for yet there is room;\nBut our hearts— how they throb with pain;\nTo think of the ma-ny who slight the call\nThat may ne-ver be heard a-gain.\n\nOut in the high-way, out in the by-way,\nOut in the dark paths of sin,\nGo forth, go forth, with a lov-ing heart,\nAnd ga-ther the wand-erers in!\n"
+|Lyric3|Text:"3._Ga-ther them in! for yet there is room;\n’Tis a mes-sage from God a-bove;\nO ga-ther them in-to the fold of grace,\nAnd the arms of the Sav-ior’s love.\n\nOut in the high-way, out in the by-way,\nOut in the dark paths of sin,\nGo forth, go forth, with a lov-ing heart,\nAnd ga-ther the wand-erers in!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-8,-6
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:n-5,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-8,-6
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Rest|Dur:4th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:20
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-1,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,3
+|Chord|Dur:4th|Pos:0,2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:n-4,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-7,-3
+|Spacer|Width:100
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Gather Them In"|Label:"Gather Them In"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-10
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nOut in the high-way, out in the by-way,\nOut in the dark paths of sin,\nGo forth, go forth, with a lov-ing heart,\nAnd ga-ther the wand-erers in!\n\nOut in the high-way, out in the by-way,\nOut in the dark paths of sin,\nGo forth, go forth, with a lov-ing heart,\nAnd ga-ther the wand-erers in!\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:5,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th|Pos:3,8
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:2,n7
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:8th|Pos:2,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:n0,4
+|Bar
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

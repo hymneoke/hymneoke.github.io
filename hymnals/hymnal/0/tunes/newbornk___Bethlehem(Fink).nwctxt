@@ -1,0 +1,192 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Bethlehem (Fink), CMD"|Author:"Gottfried Wilhelm Fink, 1842"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Book of Hymns (Nashville, Tennessee: United Methodist Publishing House, 1966), # 343."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The new-born King who comes to-day\nBrings tid-ings of great joy,\nWhich sin can nev-er take a-way,\nNor death nor hell de-stroy.\nRe-joice, ye Gen-tile lands, re-joice,\nAnd hail this glo-rious dawn,\nFor God comes down, frail man to crown:\nThe Lord of Life is born!\n"
+|Lyric2|Text:"2._He comes not as a king of earth,\nIn pomp and pride to reign;\nHe seeks a poor and hum-ble birth,\nBut free from sin-ful stain;\nRe-joice, ye Gen-tile lands, re-joice,\nGlad hymns of tri-umph sing:\nThe Won-der-ful, the Coun-se-lor,\nHe comes, your God and king!\n"
+|Lyric3|Text:"3._For us He leaves His Fa-ther’s throne,\nHis sap-phire throne on high,\nAnd comes to dwell on earth a-lone,\nFor fall-en man to die.\nRe-joice, ye Gen-tile lands, re-joice,\nAll hail Mes-si-ah’s dawn:\nOur God comes down, earth’s joy and crown,\nThe King of Love is born!\n"
+|Lyric4|Text:"4._Glad Gen-tiles in their east-ern home\nHis ra-diant star be-hold;\nTo God, their king, they joy to bring\nSweet in-cense, myrrh, and gold.\nRe-joice, ye Gen-tile lands, re-joice,\nIn heaven your prais-es sing:\nBe-fore Him fall, the Lord of all,\nYour mak-er and your king!\n"
+|Lyric5|Text:"5._We join your song, ce-les-tial throng,\nWhose an-thems nev-er cease;\nWe tune our lyres, with an-gels choirs,\nTo hail the Prince of Peace!\nRe-joice, ye Gen-tile lands, re-joice\nAll hail Im-man-uel’s morn:\nFor God comes down, frail man to crown,\nTo us a child is born.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:114|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:n-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,0
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Bethlehem, CMD"|Label:"Bethlehem, CMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,2
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:-5,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:5,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:1,n5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:n1,b7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:5,6
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:-5,8
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,7
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

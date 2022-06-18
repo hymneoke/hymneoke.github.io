@@ -1,0 +1,147 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:16|CaretPos:0
+|SongInfo|Title:"Hursley, LM"|Author:"Katholisches Gesangbuch (Vienna, Austria: 1774)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 24."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The dawn-ing day at length ap-pears,\nThe day fore-told by an-cient seers;\nAnd o-ver na-ture’s gloom-y night\nPre-vails the morn-ing’s ris-ing light.\n"
+|Lyric2|Text:"2._The na-tions watch the prom-ised ray,\nWhose blush-es kin-dle in-to day,\nAnd see, with ea-ger, anx-ious eye,\nIts saf-fron tint spread over the sky.\n"
+|Lyric3|Text:"3._He comes! He comes! the Sun ap-pears,\nE-clips-ing rea-son’s dark-ened spheres!\nHe shines a-bove the east-ern hills,\nAnd eve-ry heart with trans-port fills!\n"
+|Lyric4|Text:"4._While In-dia’s sons, a-dorned with gold,\nThe source of light and life be-hold;\nRe-leased from su-per-sti-tion’s chains,\nNo blood-y rite their al-tars stains.\n"
+|Lyric5|Text:"5._The sun up-on the Per-sian’s head,\nHis scorch-ing rays no more shall shed;\nBurn-ing a-mid un-cloud-ed skies,\nHe sees a fair-er orb a-rise.\n"
+|Lyric6|Text:"6._Be-hold the na-tions wait Thy light,\nTo scat-ter their re-main-ing night;\nTo eve-ry clime ex-tend Thy ray,\nO source of ev-er-last-ing day!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:140|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-6,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half,Dotted|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,Tie=Upward|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:#-3,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down,Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Hursley, LM"|Label:"Hursley, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:3|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:6|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:-1,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:5,7|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:4,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,7|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

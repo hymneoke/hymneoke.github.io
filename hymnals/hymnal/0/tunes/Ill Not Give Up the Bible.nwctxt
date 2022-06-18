@@ -1,0 +1,217 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I’ll Not Give Up the Bible"|Author:"William Thomas Giffe"|Lyricist:"William Thomas Giffe, 1897"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Seed Sower: A Collection of Songs for Sunday Schools and Gospel Meetings, edited by A. F. Myers (Toledo, Ohio: W. W. Whitney, 1897) # 37."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._I’ll not give up the Bi-ble,\nThat pre-cious book di-vine,\nFor glor-y gilds its pag-es,\nAnd truth a-dorns each line.\n\nI’ll not give up, I’ll not give up the Bi-ble;\nI’ll not give up\nThat pre-cious book di-vine.\n"
+|Lyric2|Text:"2._Though foes may fight a-gainst me,\nAnd en-e-mies com-bine,\nIts pre-cepts still shall guide me,\nAs light from Heav’n they shine.\n\nI’ll not give up, I’ll not give up the Bi-ble;\nI’ll not give up\nThat pre-cious book di-vine.\n"
+|Lyric3|Text:"3._When fate’s wild storms o’er-cloud me,\nAnd loud the bil-lows roar,\nMy chart shall be the Bi-ble,\nTo guide to Heav’n’s bright shore.\n\nI’ll not give up, I’ll not give up the Bi-ble;\nI’ll not give up\nThat pre-cious book di-vine.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:150|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:675
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:n-5,-3
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Spacer|Width:300
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9|Justify:Center
+|Boundary|Style:NewSize|Lower:20
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=End
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4,1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Not Give Up the Bible"|Label:"Not Give Up the Bible"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-4
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nI’ll ne-ver give u that ho-ly book,\nI’ll ne-ver give up the Bi-ble;\nI’ll ne-ver give up that ho-ly book\nThat pre-cious book di-vine.\n\nI’ll not give up, I’ll not give up the Bi-ble;\nI’ll not give up\nThat pre-cious book di-vine.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:4th,Slur|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,6
+|Boundary|Style:NewSize|Upper:14|Lower:4
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:10
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:8
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-3,8
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:Half|Pos:1,8
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:0,8
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

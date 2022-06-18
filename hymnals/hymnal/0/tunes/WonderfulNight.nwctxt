@@ -1,0 +1,161 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Wonderful Night!"|Author:"Composer unknown, 1866"|Lyricist:"John Frederick Meyer (1772-1848) "|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: A New Service and Tune Book for Sunday Schools, by Alfred  B. Goodrich  (New York: General Protestant Episcopal Sunday School Union & Church Book Society, 1863), new edition, enlarged, 1866, # 151."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:43|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Won-der-ful night!\nWon-der-ful night!\nAn-gels and shin-ing im-mor-tals,\nThrong-ing thine e-bo-ny por-tals,\nFling out their ban-ners of light,\nWon-der-ful, won-der-ful night!\n"
+|Lyric2|Text:"2._Won-der-ful night!\nWon-der-ful night!\nDreamed of by pro-phets and sag-es!\nMan-hood re-deemed for all ag-es,\nWel-comes thy hal-low-ing might,\nWon-der-ful, wond-er-ful night!\n"
+|Lyric3|Text:"3._Won-der-ful night!\nWon-der-ful night!\nDown o’er the stars to re-store us,\nLead-ing His flame-wing-éd chor-us,\nComes the E-ter-nal to sight—\nWon-der-ful, wond-er-ful night!\n"
+|Lyric4|Text:"4._Won-der-ful night!\nWon-der-ful night!\nThee did the day-star a-dorn-ing,\nChrist-en with dew of the morn-ing;\nEve of a day ev-er bright—\nWon-der-ful, wond-er-ful night!\n"
+|Lyric5|Text:"5._Won-der-ful night!\nWon-der-ful night!\nSweet be thy rest to the wear-y,\nMak-ing the dull heart and drear-y\nLaugh in a dream of de-light;\nWon-der-ful, wond-er-ful night!\n"
+|Lyric6|Text:"6._Won-der-ful night!\nWon-der-ful night!\nLet me, as long as life ling-ers,\nSing with the cher-u-bim sing-ers,\n“Glo-ry to God in the height!”\nWon-der-ful, wond-er-ful night!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th,Dotted,Slur|Pos:-6,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th,Dotted,Slur|Pos:0|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:16th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th|Pos:-2,0
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Rest|Dur:4th,Dotted
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Rest|Dur:4th,Dotted
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Wonderful Night!"|Label:"Wonderful Night!"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Note|Dur:4th,Dotted|Pos:3
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th,Dotted|Pos:-4
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:16th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Note|Dur:16th|Pos:6|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Rest|Dur:4th,Dotted
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:4th|Pos:0
+|Rest|Dur:8th
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:4th,Dotted|Pos:3
+|Note|Dur:4th|Pos:3
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Rest|Dur:4th,Dotted
+|Bar
+|Note|Dur:8th,Dotted|Pos:3
+|Note|Dur:16th|Pos:0
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th,Dotted|Pos:0
+|Note|Dur:16th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th,Dotted|Pos:-4
+|Rest|Dur:4th,Dotted
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

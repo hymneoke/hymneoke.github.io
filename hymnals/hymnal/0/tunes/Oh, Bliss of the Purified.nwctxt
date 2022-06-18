@@ -1,0 +1,244 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Oh, Bliss of the Purified"|Author:"William Batchelder Bradbury"|Lyricist:"Francis Bottome, 1869"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns Nos. 1 to 6 Complete, by Ira D. Sankey, James McGranahan & George C. Stebbins (Chicago, Illinois: Biglow & Main, 1894), # 34."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:1
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.54|Right:2.29|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Oh, bliss of the pu-ri-fied, bliss of the free,\nI plunge in the crim-son tide o-pened for me;\nO’er sin and un-clean-ness ex-ult-ing I stand,\nAnd point to the print of the nails in His hand.\n\nOh, sing of His might-y love,\nSing of His might-y love,\nSing of His might-y love,\nMight-y to save.\n"
+|Lyric2|Text:"2._Oh, bliss of the pu-ri-fied! Je-sus is mine,\nNo long-er in dread con-dem-na-tion I pine;\nIn con-scious sal-va-tion I sing of His grace,\nWho lift-ed up-on me the light of His face.\n\nOh, sing of His might-y love,\nSing of His might-y love,\nSing of His might-y love,\nMight-y to save.\n"
+|Lyric3|Text:"3._Oh, bliss of the pu-ri-fied! bliss of the pure!\nNo wound hath the soul that His blood can-not cure;\nNo sor-row-bowed head but may sweet-ly find rest,\nNo tears— but may dr-y them on Je-sus’ breast.\n\nOh, sing of His might-y love,\nSing of His might-y love,\nSing of His might-y love,\nMight-y to save.\n"
+|Lyric4|Text:"4._O Je-sus the Cru-ci-fied! Thee will I sing,\nMy bless-èd Re-deem-er, my God and my King;\nMy soul, filled with rap-ture, shall shout o’er the grave,\nAnd tri-umph in death in the “Might-y to Save.”\n\nOh, sing of His might-y love,\nSing of His might-y love,\nSing of His might-y love,\nMight-y to save.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:113|Pos:11|Justify:Center
+|TimeSig|Signature:3/2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:Half|Pos:-4,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,0
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:Half|Pos:-4,1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-3,2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-4,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Spacer|Width:450
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:25
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Down
+|Spacer|Width:375
+|Bar
+|Chord|Dur:Half|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-4,-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-3,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-6,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Oh, Bliss of the Purifie"|Label:"Oh, Bliss of the Purifie"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-13
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nOh, sing of His might-y love,\nSing of His might-y love,\nSing of His might-y love,\nMight-y to save.\n\nOh, sing of His might-y love,\nSing of His might-y love,\nSing of His might-y love,\nMight-y to save.\n"
+|Clef|Type:Bass
+|TimeSig|Signature:3/2
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,6
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:Half|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,6
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:Half|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:4
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,5
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:-4,3,7
+|Chord|Dur:8th,Dotted|Pos:-4,3,6
+|Chord|Dur:16th|Pos:-4,3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,8
+|Chord|Dur:16th|Pos:-1,7
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-4,6
+|Chord|Dur:4th|Pos:-4,7
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

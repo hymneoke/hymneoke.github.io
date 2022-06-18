@@ -1,0 +1,120 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Bedford, CM"|Author:"William Wheale, 1729"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Lutheran Hymnal (St. Louis, Missouri: Concordia Publishing House, 1940), # 284, 363. Also in The English Hymnal (London: Oxford University Press, 1906), # 83."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Spir-it of truth! on this Thy day\nTo Thee for help we cry,\nTo guide us through the drear-y way\nOf dark mor-tal-i-ty!\n"
+|Lyric2|Text:"2._We ask not, Lord! Thy clo-ven flame,\nOr tongues of var-ious tone;\nBut long Thy prais-es to pro-claim\nWith fer-vor in our own.\n"
+|Lyric3|Text:"3._We mourn not that pro-phet-ic skill\nIs found on earth no more;\nE-nough for us to trace Thy will\nIn Scrip-ture’s sac-red lore.\n"
+|Lyric4|Text:"4._We nei-ther have nor seek the power\nIll de-mons to con-trol;\nBut Thou in dark temp-ta-tion’s hour\nShalt chase them from the soul.\n"
+|Lyric5|Text:"5._No heaven-ly harp-ings soothe our ear,\nNo mys-tic dreams we share;\nYet hope to feel Thy com-fort near,\nAnd bless Thee in our prayer.\n"
+|Lyric6|Text:"6._When tongues shall cease, and power de-cay,\nAnd knowl-edge emp-ty prove,\nDo Thou Thy trem-bling ser-vants stay,\nWith faith, with hope, with love.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:107|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Bedford, CM"|Label:"Bedford, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:#3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

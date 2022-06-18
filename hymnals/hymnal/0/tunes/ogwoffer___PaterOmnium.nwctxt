@@ -1,0 +1,191 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:72|SelectIndex:73|CaretPos:-2
+|SongInfo|Title:"Pater Omnium"|Author:"Henry James Ernest Holmes, 1875"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal and Order of Service, Evangelical Lutheran Augustana Synod (Rock Island, Illinois: Augustana Book Concern, 1927), # 469."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O God, what of-fering shall I give\nTo Thee, the Lord of earth and skies!\nMy spir-it, soul, and flesh re-ceive,\nA ho-ly, liv-ing sac-ri-fice!\nSmall as it is, ’tis all my store:\nMore should’st Thou have, if I had more.\n"
+|Lyric2|Text:"2._Now then, my God, Thou hast my soul:\nNo long-er mine, but Thine I am:\nGuard Thou Thine own, pos-sess it whole!\nCheer it with hope, with love in-flame!\nThou hast my spir-it: there dis-play\nThy glo-ry to the per-fect day.\n"
+|Lyric3|Text:"3._Thou hast my flesh, Thy hal-lowed shrine,\nDe-vot-ed sole-ly to Thy will;\nHere let Thy light for-ev-er shine:\nThis house still let Thy pres-ence fill:\nO Source of life, live, dwell and move,\nIn me, till all my life be love!\n"
+|Lyric4|Text:"4._O nev-er in these vales of shame,\n(Sad fruits of sin) my glo-rying be;\nClothe with sal-va-tion, through Thy name,\nMy soul, and let me put on Thee!\nBe liv-ing faith my cost-ly dress,\nAnd my best robe, Thy right-eous-ness.\n"
+|Lyric5|Text:"5._Send down Thy like-ness from a-bove,\nAnd let this my a-dorn-ing be;\nClothe me with wis-dom, pa-tience, love,\nWith low-li-ness and pu-ri-ty;\nThan gold and pearls more pre-cious far,\nAnd bright-er than the morn-ing star.\n"
+|Lyric6|Text:"6._Lord, arm me with Thy Spir-it’s might,\nSince I am called by Thy great name!\nIn Thee let all my Thoughts u-nite,\nOf all my works be Thou the aim:\nThy love at-tend me all my days,\nAnd my sole busi-ness be Thy praise.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:b-4,-1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-6,-3|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,2|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-3,1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:n-7
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-7,-3|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-2|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:#-3,2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,n0|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-6,1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-3,n0|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,#-2|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-7,-6|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-8,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up,Tie=Upward
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up,Tie=Upward
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-3
+|Note|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3|Opts:Stem=Up,Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Pater Omnium"|Label:"Pater Omnium"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-2,7|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-1,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-3,6|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-4,2|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,1|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:#2,6|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:1,#3|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-3,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:0,n5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:1,6|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:1,n5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-5,2|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:3|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:7|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-1,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2,4|Opts:Stem=Down,Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

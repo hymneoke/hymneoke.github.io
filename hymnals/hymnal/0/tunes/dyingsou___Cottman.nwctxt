@@ -1,0 +1,178 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:53|SelectIndex:54|CaretPos:0
+|SongInfo|Title:"Cottman, 76.76 D"|Author:"Arthur Cottman (1842-1879)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Vesper Chimes (Philadelphia, Pennsylvania: Westminster Press, 1930), # 65."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Dy-ing souls, fast bound in sin,\nTrem-bling and re-pin-ing,\nWith no ray of light di-vine\nOn your path-way shin-ing;\nWhy in dark-ness wan-der on,\nFilled with con-ster-na-tion?\nJe-sus lives— in Him a-lone\nCan you find sal-va-tion.\n"
+|Lyric2|Text:"2._Worth-less all your right-eous-ness;\nYou the law have bro-ken;\nFlee, then, to His sov-ereign grace,\nMer-cy thus has spo-ken;\nWhy, in deeds that you have done,\nSeek for con-so-la-tion?\nJe-sus lives— in Him a-lone\nCan you find sal-va-tion.\n"
+|Lyric3|Text:"3._Pros-trate bow, con-fess your guilt,\nOwn your lost con-di-tion!\nYield to Him whose blood was spilt,\nUn-re-served sub-mis-sion:\nThen no more in an-guish groan;\nSeek His me-di-a-tion;\nJe-sus lives— in Him a-lone\nCan you find sal-va-tion.\n"
+|Lyric4|Text:"4._Lin-ger not on all the plain:\nVenge-ance is pur-su-ing;\nMidst the dy-ing and the slain,\nSave your souls from ru-in:\nFlee to Him who can a-tone;\nFlee from con-dem-na-tion;\nJe-sus lives— in Him a-lone\nCan you find sal-va-tion.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:110|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:Half|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:Half|Pos:#-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:#-5,-3
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:n-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:Half|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Cottman, 76.76 D"|Label:"Cottman, 76.76 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,#4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:#0,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,203 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:89|CaretPos:7
+|SongInfo|Title:"We’ve Been Told a Joyful Thing"|Author:"Translated by John O’Connor"|Lyricist:"Old French carol from Besançon"|Copyright1:"Courtesy of the Cyber Hymnal™"|Copyright2:""|Comments:"Source: Carols, Customs and Costumes Around the World, by Herbert H. Wernecke (Webster Groves, Missouri: Old Orchard Book Shoppe, 1936), p. 11."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:48|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._We’ve been told a joy-ful thing,\nNews for all the na-tions.\nAn-gels have been heard to sing\nRound the shep-herd sta-tions,\nOne in-toned the “Glo-ri-a,”\nO-thers “Al-le-lu-i-a”;\nPeace to all things hu-man;\nWar no more for true _ man.\n"
+|Lyric2|Text:"2._Up and get you quick-ly there\nFolk of field and vil-lage!\nO-ver to that sta-ble bare\nUp be-yond the til-lage.\nThere you’ll find a Ba-by born\nOld be-fore His mo-ther’s morn\nYoung with dew-y splen-dor\nOf par-ent stem so ten-der.\n"
+|Lyric3|Text:"3._So we come to pay our vows:\nHail! God save thee, Ma-ry!\nJo-seph, man of this poor house,\nFor-tune seems con-trar-y.\nLet us look on Christ the Lord,\nThat was sure the an-gel’s word.\nSwath-èd in a man-ger,\nWel-come, Ho-ly Stran _ ger!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Slur=Upward
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-5,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,2|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-2,0|Opts:Slur=Upward
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-5,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-2,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Slur=Upward
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-5,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,2|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-2,0|Opts:Slur=Upward
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th|Pos:-5,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-2,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Upward
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-3,2|Opts:Slur=Upward
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-2,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-2,0|Opts:Slur=Upward
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,1|Opts:Slur=Upward
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:3|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Bar
+|Boundary|Style:NewSize|Lower:24
+|Chord|Dur:4th|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-1,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"We’ve Been Told"|Label:"We’ve Been Told"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:6|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-3,8|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:-4,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-3,8|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:-4,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:5,7|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:4,8|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,7|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:3,7|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:4,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,5|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=End
+|Bar
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:4th,Dotted,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Slur=Downward
+|Chord|Dur:Half|Pos:3,5|Opts:Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

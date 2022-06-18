@@ -1,0 +1,279 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Here We Suffer Grief and Pain"|Author:"Samuel Ashmead, 1847"|Lyricist:"Thomas Bilby, 1831-32"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Musical Repository, edited by Samuel Ashmead (Philadelphia, Pennsylvania: James Harmstead, 1847), p. 96."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:35|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Here we suf-fer grief and pain,\nHere we meet to part a-gain,\nIn Heav’n we part no more.\n\nOh! that will be joy-ful!\nJoy-ful, joy-ful, joy-ful!\nOh! that will be joy-ful!\nWhen we meet to part no more.\n"
+|Lyric2|Text:"2._All who love the Lord be-low,\nWhen they die to Heav’n will go,\nAnd sing with saints a-bove.\n\nOh! that will be joy-ful!\nJoy-ful, joy-ful, joy-ful!\nOh! that will be joy-ful!\nWhen we meet to part no more.\n"
+|Lyric3|Text:"3._Lit-tle child-ren will be there,\nWho have sought the Lord by prayer,\nFrom ev-ery Sun-day school.\n\nOh! that will be joy-ful!\nJoy-ful, joy-ful, joy-ful!\nOh! that will be joy-ful!\nWhen we meet to part no more.\n"
+|Lyric4|Text:"4._Teach-ers, too, shall meet a-bove,\nAnd our pas-tors, whom we love,\nShall meet to part no more.\n\nOh! that will be joy-ful!\nJoy-ful, joy-ful, joy-ful!\nOh! that will be joy-ful!\nWhen we meet to part no more.\n"
+|Lyric5|Text:"5._O! how hap-py we shall be!\nFor our Sav-ior we shall see,\nEx-alt-ed on His throne!\n\nOh! that will be joy-ful!\nJoy-ful, joy-ful, joy-ful!\nOh! that will be joy-ful!\nWhen we meet to part no more.\n"
+|Lyric6|Text:"6._There we all shall sing with joy,\nAnd e-ter-ni-ty em-ploy\nIn prais-ing Christ the Lord.\n\nOh! that will be joy-ful!\nJoy-ful, joy-ful, joy-ful!\nOh! that will be joy-ful!\nWhen we meet to part no more.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/8
+|Note|Dur:4th|Pos:-7
+|Note|Dur:8th|Pos:-7
+|Spacer|Width:250
+|Bar
+|Note|Dur:8th,Slur|Pos:-7|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-2
+|Spacer|Width:300
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Spacer|Width:275
+|Bar
+|Note|Dur:4th,Dotted|Pos:-3
+|Spacer|Width:300
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Spacer|Width:300
+|Bar
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-1
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:-1
+|Spacer|Width:275
+|Bar
+|Note|Dur:4th|Pos:-2
+|Note|Dur:8th|Pos:-2
+|Spacer|Width:350
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th|Pos:-2
+|Note|Dur:8th|Pos:-4
+|Bar
+|Note|Dur:4th,Dotted|Pos:-3
+|Spacer|Width:400
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:24
+|Note|Dur:4th,Dotted|Pos:0
+|Spacer|Width:325
+|Bar
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:0
+|Spacer|Width:150
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Bar
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-2
+|Note|Dur:8th|Pos:-5
+|Bar
+|Note|Dur:4th,Dotted|Pos:-7
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Staff-1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:100|StereoPan:64|Device:0|Channel:6
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/8
+|Note|Dur:4th|Pos:-2
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th,Dotted|Pos:2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:5
+|Note|Dur:4th,Dotted|Pos:2
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:5
+|Note|Dur:8th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th|Pos:2
+|Bar
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th,Dotted|Pos:2
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:5
+|Note|Dur:8th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th,Dotted|Pos:-2
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Here We Suffer Grief and Pain"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:8|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/8
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th|Pos:4
+|Bar
+|Note|Dur:4th|Pos:4
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Bar|Style:Double
+|Note|Dur:4th,Dotted|Pos:3
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:4th,Dotted|Pos:3
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th,Dotted|Pos:-4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

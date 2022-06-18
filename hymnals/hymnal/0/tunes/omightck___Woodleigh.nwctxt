@@ -1,0 +1,200 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:78|SelectIndex:79|CaretPos:-7
+|SongInfo|Title:"Woodleigh,  88.88.88.87"|Author:"Joseph Barnby (1838-1896)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Association Hymn Book (New York: International Committee of Young Men\'s Christian Associatons, 1904), # 225."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O might-y God, Cre-a-tor, King,\nWho rul-est o-ver sea and land,\nAnd dost the o-cean deeps sus-tain\nWith-in the hol-low of Thine hand:\nO hear us as we cry to Thee\nFor those who trav-erse land or sea,\nThat they may now and ev-er be\nSafe in Thy ho-ly keep-ing.\n"
+|Lyric2|Text:"2._And Thou who cam’st on earth to breathe\nThe breath of peace o’er heath and hill,\nDidst walk up-on the an-gry wave,\nAnd bid the trou-bled sea “be still”:\nO hear us as we cry to Thee\nFor those who trav-erse land or sea,\nThat they may now and ev-er be\nSafe in Thy ho-ly keep-ing.\n"
+|Lyric3|Text:"3._Wher-ev-er dan-ger threat-ens them,\nO Ho-ly Spir-it, be Thou there,\nAnd breathe in-to each trem-bling heart\nThe will and power of fer-vent prayer:\nThat we and all who cry to Thee,\nWith those who trav-erse land and sea,\nBoth now and ev-er-more may be,\nSafe in Thy ho-ly keep-ing.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:108|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-5
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up|Dur2:8th|Pos2:-6
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-5
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up|Dur2:8th|Pos2:-6
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,#-5
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:#-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:#-5,#-3
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Chord|Dur:8th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:b-7,-4
+|Bar
+|Chord|Dur:4th|Pos:-8,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:#-6,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-8,-5
+|Bar
+|Chord|Dur:4th|Pos:-9,-6
+|Chord|Dur:8th,Slur|Pos:-9,-7
+|Chord|Dur:8th|Pos:-9,-6
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Woodleigh,  88.88.88.87"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-4,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-4,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,#2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,3
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:2,3
+|Chord|Dur:4th|Pos:2,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:#-1,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:n-1,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-6,#3
+|Bar
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-5,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-4,2
+|Chord|Dur:4th|Pos:-1,1
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

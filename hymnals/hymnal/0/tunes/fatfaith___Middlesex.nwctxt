@@ -1,0 +1,199 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:65|CaretPos:2
+|SongInfo|Title:"Middlesex, 88.88.88"|Author:"Anonymous, before 1875"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Methodist Hymn and Tune Book (Toronto, Canada: Methodist Book & Publishing House, 1894), # 17, 732."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Fa-ther of faith-ful A-braham, hear\nOur ear-nest suit for Ab-raham’s seed;\nJust-ly they claim the soft-est prayer\nFrom us, a-dopt-ed in their stead,\nWho mer-cy through their fall ob-tain,\nAnd Christ by their re-jec-tion gain.\n"
+|Lyric2|Text:"2._But hast Thou fi-nal-ly for-sook,\nFor-ev-er cast Thy own a-way?\nWilt Thou not bid the out-casts look\nOn Him they pierced, and weep, and pray?\nYes, gra-cious Lord, Thy Word is past;\nAll Is-rael shall be saved at last.\n"
+|Lyric3|Text:"3._Come, then, Thou great De-liv-erer, come!\nThe veil from Ja-cob’s heart re-move;\nRe-ceive Thy an-cient peo-ple home,\nThat, quick-ened by Thy dy-ing love,\nThe world may their re-cep-tion find\nLife from the dead for all man-kind.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Middlesex, 88.88.88"|Label:"Middlesex, 88.88.88"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:-1,8|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:4th|Pos:-4,7
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:4th|Pos:-4,7
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:1,8
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:-3,8
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:-4,7
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

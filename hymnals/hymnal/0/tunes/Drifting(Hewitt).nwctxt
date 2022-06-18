@@ -1,0 +1,226 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Drifting"|Author:"Bentley DeForest Ackley"|Lyricist:"Eliza Edmunds Hewitt, 1917"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Awakening Songs, edited by Homer A. Rodeheaver & Charles H. Gabriel (Chicago, Illinois: Rodeheaver Company, 1917), # 75."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Viola"|Patch:41|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Drift-ing care-less-ly with the tide,\nDrift-ing o-ver the wa-ters wide,\nWith no cap-tain your course to guide,\nDrift-ing o-ver life’s sea.\n\nDrift-ing, drift-ing, no port in sight!\nDrift-ing far from the Gos-pel light;\nLest you go down in the storm-y night;\nDrift-ing o-ver life’s sea.\n"
+|Lyric2|Text:"2._Drift-ing al-most up-on the bar,\nLos-ing sight of the bea-con star;\nFrom the ha-ven of joy a-far,\nDrift-ing o-ver life’s sea.\n\nDrift-ing, drift-ing, no port in sight!\nDrift-ing far from the Gos-pel light;\nLest you go down in the storm-y night;\nDrift-ing o-ver life’s sea.\n"
+|Lyric3|Text:"3._Drift-ing on, with no shore in view,\nThink not skies will be al-ways blue;\nStorm and ship-wreck will come to you,\nDrift-ing o-ver life’s sea.\n\nDrift-ing, drift-ing, no port in sight!\nDrift-ing far from the Gos-pel light;\nLest you go down in the storm-y night;\nDrift-ing o-ver life’s sea.\n"
+|Lyric4|Text:"4._Drift no long-er! let Je-sus save,\nLet Him guide you a-cross the wave,\nLest you sink in a sin-ner’s grave,\nDrift-ing o-ver life’s sea.\n\nDrift-ing, drift-ing, no port in sight!\nDrift-ing far from the Gos-pel light;\nLest you go down in the storm-y night;\nDrift-ing o-ver life’s sea.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:120|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/4
+|Text|Text:"Duet"|Font:StaffItalic|Pos:11
+|Note|Dur:Half|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-3
+|Spacer|Width:125
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:4th|Pos:-2
+|Note|Dur:Half,Dotted|Pos:-3
+|Bar
+|Note|Dur:Half|Pos:-3
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Spacer|Width:150
+|Bar
+|Note|Dur:Half|Pos:-5
+|Note|Dur:4th|Pos:n-7
+|Note|Dur:Half,Dotted|Pos:-6
+|Bar
+|Note|Dur:Half|Pos:-4
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-2
+|Spacer|Width:275
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th,Slur|Pos:0
+|Note|Dur:4th,Slur|Pos:-3
+|Note|Dur:4th|Pos:-2
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:4th|Pos:#-2
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:n-2
+|Bar
+|Note|Dur:Whole,Dotted|Pos:-3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:16
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-2
+|Rest|Dur:4th
+|Note|Dur:4th|Pos:-5
+|Note|Dur:8th|Pos:-3
+|Rest|Dur:8th
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:Half,Dotted|Pos:-3
+|Spacer|Width:300
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-3
+|Spacer|Width:150
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:4th|Pos:-2
+|Note|Dur:Half,Slur|Pos:-4
+|Note|Dur:4th|Pos:-5
+|Bar
+|Note|Dur:4th|Pos:-6
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-6
+|Note|Dur:4th|Pos:-6
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-6
+|Spacer|Width:150
+|Bar
+|Note|Dur:4th,Slur|Pos:-3
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th,Slur|Pos:0
+|Note|Dur:4th,Slur|Pos:-3
+|Note|Dur:4th|Pos:-2
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:4th|Pos:#-2
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:n-2
+|Spacer|Width:250
+|Bar
+|Note|Dur:Whole,Dotted|Pos:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Drifting, Eliza Hewitt, 1917"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:24|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:6|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:2^
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:7|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:7|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:7|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:5
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Note|Dur:4th|Pos:5
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th|Pos:#3|Opts:Stem=Up
+|Chord|Dur:Half,Dotted|Pos:-5,0,4
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half|Pos:3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:6|Opts:Stem=Up|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:9|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,b8
+|Chord|Dur:Half,Slur|Pos:7|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:b7|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:b0,n5
+|Chord|Dur:4th|Pos:6|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,b5
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down|Dur2:Whole,Dotted|Pos2:4
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Down
+|Note|Dur:Half,Dotted|Pos:2|Opts:Stem=Down
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:10
+|Chord|Dur:4th|Pos:7|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:7|Opts:Stem=Up
+|Rest|Dur:8th|Opts:Stem=Up
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:6|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-5
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:-4,n5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half,Slur|Pos:3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:5
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,b8
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down|Dur2:Half|Pos2:7
+|RestChord|Dur:4th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:5
+|Note|Dur:4th|Pos:b7|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:b0,n5
+|Chord|Dur:4th|Pos:6|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-8,b5
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-5,2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

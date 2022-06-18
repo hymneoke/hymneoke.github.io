@@ -1,0 +1,200 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:58|CaretPos:-1
+|SongInfo|Title:"Seitenstettengasse, LM"|Author:"George Pierce Grantham (1833–1885)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Church Hymnal, edited by Charles L. Hutchins (Boston, Massachusetts: Parish Choir, 1920), 3 674."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:1.78|Top:2.54|Right:1.78|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The pearl-y gates a-side are rolled,\nThe doors wide o-pen stand,\nAnd Heav’n, with all its streets of gold,\nIts bright an-gel-ic band,\nIts cher-ub and its ser-aph choir,\nA-wait in blest ac-cord,\nWith burn-ing love, and fond de-sire,\nThe com-ing of their Lord.\n"
+|Lyric2|Text:"2._He on Mount Ol-i-vet be-low,\nHis well-be-loved a-mong,\nA ben-i-son must first be-stow\nUp-on the saint-ly throng.\nHis hand is raised, the words are said\nOf love, with pit-y blent,\nWhile bowed in awe is eve-ry head,\nAnd eve-ry knee is bent.\n"
+|Lyric3|Text:"3._He comes! He comes! from earth He soars!\nSee how the liv-ing cloud\nOf an-gel wings a-round Him flings,\nBright rays, His form to shroud—\nWhile stead-fast-ly, with up-turned eye,\nThe rapt A-pos-tles gaze\nWith Mar-y, at the deep-veiled sky,\nIn si-lent still a-maze.\n"
+|Lyric4|Text:"4._He comes! He comes! lift up your heads,\nYe gates, ye por-tals bright!\nYour prince re-turns! His path He treads\nTo meads of am-ber light.\nHe is the King of Glo-ry! Sing,\nYe heavens, with loud ac-claim—\nYour God, your ev-er-last-ing king.\nThe Lord of Hosts His name!\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-8,-6
+|Chord|Dur:8th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-1^
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,0^
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:16th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:8th|Pos2:2
+|Spacer|Width:200
+|Note|Dur:16th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-1^
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,5
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:-2,7
+|Bar
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,6^
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,5
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:#0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:0,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th|Pos:6,8
+|Bar
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:8
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:5,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,6^
+|Chord|Dur:4th|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

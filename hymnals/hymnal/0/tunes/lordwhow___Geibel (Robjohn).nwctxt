@@ -1,0 +1,118 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Geibel (Robjohn), 11.4.11.4"|Author:"William James Robjohn, 1894"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gloria Deo, by Samuel M. Bixby (New York: Funk & Wagnalls, 1901), # 101. Note: This source gives the composer as \"Caryl Florio,\" Robjohn\'s pseudonym."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Lord, who with-in my in-most heart e’er dwell-est\nBe Thou with me!\nThou ref-uge of my soul in joy and sor-row,\nBe Thou with me!\n"
+|Lyric2|Text:"2._Pre-serve me, when my cup of bliss o’er-flow-eth,\nFrom ar-ro-gance;\nAnd when my bur-dened heart with-in me sink-eth,\nBe Thou with me!\n"
+|Lyric3|Text:"3._As dew up-on the vine, Lord, is Thy bless-ing,\nElse am I weak;\nThat I may bold-ly ven-ture on the high-est,\nBe Thou with me!\n"
+|Lyric4|Text:"4._Oh! Thou who art my strength and con-so-la-tion,\nBe Thou with me!\nUn-til my pil-grim-age on earth is end-ed,\nBe Thou with me!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:92|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:#-5,0
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:#-5,0
+|Bar
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,n-2
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-6,-5
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-7,-2
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Geibel (Robjohn), 11.4.11.4"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-2,2
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:8th|Pos:#-4,5
+|Chord|Dur:8th|Pos:-4,5
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-2,#3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

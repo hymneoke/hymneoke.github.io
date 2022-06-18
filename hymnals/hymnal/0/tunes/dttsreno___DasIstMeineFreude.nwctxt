@@ -1,0 +1,179 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:24|CaretPos:5
+|SongInfo|Title:"Das Ist Meine Freude, 76.76.776"|Author:"Johann Anastasius Freylinghausen (1670-1739)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The English Hymnal (London: Oxford University Press, 1906), # 97."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Dost thou tru-ly seek re-nown\nChrist His glo-ry shar-ing?\nWouldst thou win the heaven-ly crown\nVic-tor’s meed de-clar-ing?\nTread the path the Sav-ior trod,\nLook up-on the crown of God,\nSee what He is wear-ing.\n"
+|Lyric2|Text:"2._This the King of Heav-en bore\nIn that sore con-tend-ing;\nThis His sac-red tem-ples wore,\nHon-or to it lend-ing;\nIn this helm He faced the foe,\nOn the rood He laid him low,\nSa-tan’s king-dom end-ing.\n"
+|Lyric3|Text:"3._Christ up-on the tree of scorn,\nIn sal-va-tion’s ho-ur,\nTurned to gold those pricks of thorn\nBy His Pas-sion’s pow-er;\nSo on sin-ners, who had earned\nEnd-less death, from sin re-turned,\nEnd-less bless-ings show-er.\n"
+|Lyric4|Text:"4._When in death’s em-brace we lie,\nThen, good Lord, be near us;\nWith Thy pres-ence for-ti-fy,\nAnd with vic-tory cheer us;\nTurn our err-ing hearts to Thee,\nThat we crowned for ay may be:\nO good Je-su, hear us!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:Half|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:n0
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:Half|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:n-7,-2
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:4th|Pos:n-7,-5
+|TempoVariance|Style:Fermata|Pause:0|Pos:5|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:#-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-7,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,n0
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Das Ist Meine Freude"|Label:"Das Ist Meine Freude"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:Half|Pos:-5,4
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,9
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:n-2,3
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,#2
+|Chord|Dur:Half|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:b1,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th,Slur|Pos:-1,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,2,4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

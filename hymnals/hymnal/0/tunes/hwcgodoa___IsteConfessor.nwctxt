@@ -1,0 +1,154 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:40|SelectIndex:41|CaretPos:0
+|SongInfo|Title:"Iste Confessor, 11.11.11.5"|Author:"Poitiers Antiphoner, 1746"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Baptist Hymnal (Nashville, Tennessee: Convention Press, 1975), # 145."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._He, whose con-fes-sion God of old ac-cept-ed,\nWhom through the ag-es all now hold in hon-or,\nGain-ing his guer-don this day came to en-ter\nHeav-en’s high por-tal.\n"
+|Lyric2|Text:"2._God-fear-ing, watch-ful, pure of mind and bod-y,\nHo-ly and hum-ble, thus did all men find him,\nWhile, through his mem-bers, to the life im-mor-tal\nMor-tal life called him.\n"
+|Lyric3|Text:"3._Thus to the wea-ry, from the life en-shrin-èd,\nPo-tent in vir-tue, flowed hu-mane com-pas-sion;\nSick and sore lad-en, how-so-ev-er bur-dened,\nThere they found heal-ing.\n"
+|Lyric4|Text:"4._So now in cho-rus, giv-ing God the glo-ry,\nRaise we our an-them glad-ly to his hon-or,\nThat in fair kin-ship we may all be shar-ers\nHere and here-af-ter.\n"
+|Lyric5|Text:"5._Hon-or and glo-ry, pow-er and sal-va-tion,\nBe in the high-est un-to Him who reign-eth\nChange-less in Heav-en o-ver earth-ly chang-es\nTri-une, e-ter-nal.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-8,-5
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:Half|Pos:#-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Chord|Dur:8th|Pos:#-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-3
+|Chord|Dur:4th|Pos:#-6,-4
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:Half|Pos:#-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,n0
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:n0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,1
+|Chord|Dur:8th|Pos:-6,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:Half,Slur|Pos:-5,-3
+|Chord|Dur:Half|Pos:#-6,-4
+|Bar
+|Chord|Dur:Whole|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Iste Confessor"|Label:"Iste Confessor"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:#-1,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:Half|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:#-1,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:Half|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:#3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-5,4
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half,Dotted,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-3
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

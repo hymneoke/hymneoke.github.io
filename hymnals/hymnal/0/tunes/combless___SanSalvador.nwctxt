@@ -1,0 +1,194 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"San Salvador, 76.76 D"|Author:"Sanford Miller Brown, 1889"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Missionary Triumph, by Sanford M. Brown & Joseph M. Hunt (Cincinnati, Ohio: John Church Company, 1889), # 15."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Not to a man of dol-lars,\nNot to a man of deeds,\nNot to a man of cun-ning,\nNot to a man of creeds,\nNot to a man whose pas-sion\nIs for a world’s re-nown,\nNot in the form of fash-ion,\nCom-eth a bless-ing down.\n"
+|Lyric2|Text:"2._Not un-to land’s ex-pan-sion,\nNot to the mi-ser’s chest,\nNot to the prince-ly man-sion,\nNot to the bla-zoned crest,\nNot to the sor-did world-ling,\nNot to the knav-ish clown,\nNot to the haugh-ty ty-rant,\nCom-eth a bless-ing down.\n"
+|Lyric3|Text:"3._Not to the fol-ly blind-ed,\nNot to the steeped in shame,\nNot to the car-nal mind-ed,\nNot to un-ho-ly fame,\nNot in ne-glect of du-ty,\nNot to the mon-arch’s crown,\nNot at the smile of beau-ty,\nCom-eth a bless-ing down.\n"
+|Lyric4|Text:"4._But to the one whose spir-it\nYearns for the great and good;\nUn-to the one whose store-house\nYield-eth the hun-gry food:\nUn-to the one who la-bors,\nFear-less of foe or frown,\nUn-to the kind-ly heart-ed\nCom-eth a bless-ing down.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"San Salvador, S. M. Brown"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:b1,6
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:0,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

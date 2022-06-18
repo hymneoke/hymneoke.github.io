@@ -1,0 +1,243 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:6
+|SongInfo|Title:"Trusting and Hoping"|Author:"William Howard Doane"|Lyricist:"Frances Jane (Fanny) Crosby, 1889"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Photocopied score; origin unknown."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Treble Clef"|Label:"Treble Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._I am re-joic-ing, trust-ing and hop-ing;\nLook-ing to Je-sus, Sav-ior di-vine;\nHe is my re-fuge; soft-ly He whis-pers,\n“I have re-deemed thee, child, thou art Mine.”\n\nI am re-joic-ing, ev-er re-joic-ing,\nTrust-ing and hop-ing all the day long;\nLook-ing to Je-sus, on-ly to Je-sus;\nHe is my re-fuge, com-fort and song.\n"
+|Lyric2|Text:"2._I am re-joic-ing, trust-ing and hop-ing;\nHe is my Sav-ior; what shall I fear?\nHe like a shep-herd lead-eth me gent-ly,\nClose by the wa-ters flow-ing so clear.\n\nI am re-joic-ing, ev-er re-joic-ing,\nTrust-ing and hop-ing all the day long;\nLook-ing to Je-sus, on-ly to Je-sus;\nHe is my re-fuge, com-fort and song.\n"
+|Lyric3|Text:"3._I am re-joic-ing, trust-ing and hop-ing;\nIn-to the man-sions wait-ing a-bove;\nClothed in His bright-ness, He will re-ceive me,\nHeir to His king-dom, child of His love.\n\nI am re-joic-ing, ev-er re-joic-ing,\nTrust-ing and hop-ing all the day long;\nLook-ing to Je-sus, on-ly to Je-sus;\nHe is my re-fuge, com-fort and song.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:9/8
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-5
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:b-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Spacer|Width:425
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Trusting and Hoping"|Label:"Trusting and Hoping"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nI will re-joice, _ _ _ ev-er re-oice\nTrust-ing in hope all the day, all the day long;\n_ _ _\nLook-ing to Him, _ _ _ on-ly to Him;\n\nI am re-joic-ing, ev-er re-joic-ing,\nTrust-ing and hop-ing all the day long;\nLook-ing to Je-sus, on-ly to Je-sus;\nHe is my re-fuge, com-fort and song.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:9/8
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,n5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,2
+|Chord|Dur:4th,Dotted|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,4
+|Bar|Style:Double
+|Note|Dur:8th|Pos:9
+|Note|Dur:8th|Pos:9
+|Note|Dur:8th|Pos:9
+|Bar
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:9
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Note|Dur:8th|Pos:2|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:5,9
+|Note|Dur:8th|Pos:5
+|Note|Dur:8th|Pos:7
+|Note|Dur:8th|Pos:9
+|Bar
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:9
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:6|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:2,9
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Note|Dur:8th|Pos:9
+|Note|Dur:8th|Pos:9
+|Note|Dur:8th|Pos:9
+|Bar
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:9
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Note|Dur:8th|Pos:2|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:5,9
+|Note|Dur:8th|Pos:5
+|Note|Dur:8th|Pos:7
+|Note|Dur:8th|Pos:9
+|Bar
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:9
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:6|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:2,9
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,7
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

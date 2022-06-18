@@ -1,0 +1,211 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Refuge, 77.77 D"|Author:"Joseph Perry Holbrook, 1862"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1940), # 173. Also in The Seventh-day Adventist Hymnal (Hagerstown, Maryland: Review and Herald Publishing Association, 1985), # 297."
+|PgSetup|StaffSize:20|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._“Je-sus, lov-er of my soul,”\nBids me in His bos-om stay,\nAnd tho’ bil-lows round me roll,\nI am safe-ly hid a-way;\nFor He holds me in His arms,\nQuite be-yond the tem-pest’s reach,\nAnd He whis-pers in my heart\nWords un-known to hu-man speech.\n"
+|Lyric2|Text:"2._“Oth-er ref-uge have I none,”\nHe my hab-i-ta-tion is;\nHere no e-vil can be-fall— \nI am kept in per-fect peace.\nI am cov-ered all day long\nWith the shad-ow of His wing;\nDwell in safe-ty thro’ the night,\nWak-ing, this is what I sing.\n"
+|Lyric3|Text:"3._“Thou, O Christ, art all I want,”\nRest my help-less soul on Thee;\nThou wilt nev-er leave a-lone\nNor for-get to com-fort me.\nThou hast saved my soul from death,\nThou hast scat-tered all my fears,\nAnd the sun-shine of Thy face\nSweet-ly dri-eth all my tears.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Note|Dur:8th,Dotted|Pos:-3
+|Note|Dur:16th|Pos:-3
+|Bar
+|Note|Dur:4th,Dotted|Pos:-3
+|Note|Dur:8th|Pos:-5
+|Note|Dur:8th,Dotted|Pos:-2
+|Note|Dur:16th|Pos:-3
+|Bar
+|Note|Dur:4th,Slur|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Note|Dur:8th,Triplet=First,Slur|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Triplet|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Triplet=End|Pos:-3|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Dotted|Pos:-2
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th,Dotted|Pos:-1
+|Note|Dur:16th|Pos:-2
+|Bar
+|Note|Dur:Half|Pos:-3
+|Note|Dur:8th,Dotted|Pos:-5
+|Note|Dur:16th|Pos:-5
+|Bar
+|Note|Dur:4th,Slur|Pos:-4^
+|Note|Dur:8th,Triplet=First,Slur|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Triplet|Pos:#-5|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Triplet=End|Pos:-4|Opts:Stem=Up
+|Note|Dur:8th,Triplet=First,Slur|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Triplet|Pos:-5|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Triplet=End|Pos:-4|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Slur|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Note|Dur:8th,Dotted|Pos:-5
+|Note|Dur:16th|Pos:-5
+|Bar
+|Note|Dur:4th,Slur|Pos:-4^
+|Note|Dur:8th,Triplet=First,Slur|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Triplet|Pos:#-5|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Triplet=End|Pos:-4|Opts:Stem=Up
+|Note|Dur:8th,Triplet=First,Slur|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Triplet|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Triplet=End|Pos:-3|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-5
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th,Triplet=First,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th,Triplet|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th,Triplet=First,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th,Triplet|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Refuge, 77.77 D"|Label:"Refuge, 77.77 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:3/4
+|Note|Dur:8th,Dotted|Pos:4
+|Note|Dur:16th|Pos:4
+|Bar
+|Note|Dur:4th,Dotted|Pos:4
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th,Dotted|Pos:5
+|Note|Dur:16th|Pos:4
+|Bar
+|Note|Dur:4th,Slur|Pos:4
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th,Triplet=First,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Triplet|Pos:3|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Triplet=End|Pos:4|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Dotted|Pos:5
+|Note|Dur:8th|Pos:7
+|Note|Dur:8th,Dotted|Pos:6
+|Note|Dur:16th|Pos:5
+|Bar
+|Note|Dur:Half|Pos:4
+|Note|Dur:8th,Dotted|Pos:2
+|Note|Dur:16th|Pos:2
+|Bar
+|Note|Dur:4th,Slur|Pos:3^
+|Note|Dur:8th,Triplet=First,Slur|Pos:3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Triplet|Pos:2|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Triplet=End|Pos:3|Opts:Stem=Down
+|Note|Dur:8th,Triplet=First,Slur|Pos:3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Triplet|Pos:2|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Triplet=End|Pos:3|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Slur|Pos:4
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th,Dotted|Pos:2
+|Note|Dur:16th|Pos:2
+|Bar
+|Note|Dur:4th,Slur|Pos:3^
+|Note|Dur:8th,Triplet=First,Slur|Pos:3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Triplet|Pos:2|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Triplet=End|Pos:3|Opts:Stem=Down
+|Note|Dur:8th,Triplet=First,Slur|Pos:3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Triplet|Pos:5|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Triplet=End|Pos:4|Opts:Stem=Down
+|Bar
+|Note|Dur:Half|Pos:2
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,6
+|Marker|Pos:11|Target:Slur,Triplet
+|Chord|Dur:4th,Triplet=First|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th,Triplet=End|Pos:-4,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,7
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,6
+|Marker|Pos:11|Target:Slur,Triplet
+|Chord|Dur:4th,Triplet=First|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th,Triplet=End|Pos:-4,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

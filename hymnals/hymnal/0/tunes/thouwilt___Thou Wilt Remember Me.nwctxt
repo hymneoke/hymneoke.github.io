@@ -1,0 +1,204 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:60|SelectIndex:61|CaretPos:0
+|SongInfo|Title:"Thou Wilt Remember Me, CMD"|Author:" John Robson Sweney (1837-1899)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Photocopied score; origin unknown. Appears (8 years after Sweney\'s death) in Famous Hymns, edited by Edwin O. Excell & Daniel B. Towner (Chicago, Illinois: Bible Institute Colportage Association, 1907), # 51."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.03|Top:2.54|Right:2.03|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._I want no oth-er hand, O Lord,\nBut Thine my guide to be,\nFor well I know through all my life\nThou wilt re-mem-ber me.\n\nThou wilt re-mem-ber me, O Lord,\nThou wilt re-mem-ber me!\nThy Word has said, and I be-lieve,\nThou wilt re-mem-ber me.\n"
+|Lyric2|Text:"2._No tongue can tell the joy I feel\nSince I am one with Thee;\nAnd this my song the whole day long:\nThou wilt re-mem-ber me.\n\nThou wilt re-mem-ber me, O Lord,\nThou wilt re-mem-ber me!\nThy Word has said, and I be-lieve,\nThou wilt re-mem-ber me.\n"
+|Lyric3|Text:"3._Thy Spir-it’s seal is on my heart,\nThy im-age there I see;\nAnd eve-ry hour the wit-ness have\nThou wilt re-mem-ber me.\n\nThou wilt re-mem-ber me, O Lord,\nThou wilt re-mem-ber me!\nThy Word has said, and I be-lieve,\nThou wilt re-mem-ber me.\n"
+|Lyric4|Text:"4._No power shall break my firm re-solve\nTo live and die in Thee;\nFor grace through faith has taught my soul\nThou wilt re-mem-ber me.\n\nThou wilt re-mem-ber me, O Lord,\nThou wilt re-mem-ber me!\nThy Word has said, and I be-lieve,\nThou wilt re-mem-ber me.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-3^
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,0^
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-1,0
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-1,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-3^
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4^
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Thou Wilt Remember Me"|Label:"Thou Wilt Remember Me"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5^|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5^
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,n4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5^,7^
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:16th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Note|Dur:16th|Pos:8|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:8th|Pos:5,9
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,5^
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:8|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

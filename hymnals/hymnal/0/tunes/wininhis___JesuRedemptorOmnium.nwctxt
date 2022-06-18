@@ -1,0 +1,131 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:40|SelectIndex:41|CaretPos:-1
+|SongInfo|Title:"Jesu Redemptor Omnium, LM"|Author:"German Church Melody, 1625"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Junior Church School Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Christian Education, 1930), # 58."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Win-ter in his heart of gloom\nSings the song of com-ing bloom:\nSo o’er death our souls shall sing\nLays of the e-ter-nal spring.\n"
+|Lyric2|Text:"2._Then de-cay shall be no more,\nAnd, the wea-ry seed time o’er,\nAll the dead in Christ shall rise\nFor the har-vest of the skies.\n"
+|Lyric3|Text:"3._Where-so-e’er the faith-ful sleep\nAn-gels shall go forth to reap,\nFrom the dust and ’neath the foam\nThey shall bring the har-vest home.\n"
+|Lyric4|Text:"4._Bod-ies of the saints, whose bones\nRest be-neath se-pul-chral stones,\nOr are lost on eve-ry wind,\nAll, those mes-sen-gers shall find.\n"
+|Lyric5|Text:"5._All from earth to Heav’n shall soar\nIn that flesh which once they wore,\nDeath-less now and glo-ri-fied,\nLike their Lord and at His side.\n"
+|Lyric6|Text:"6._This is life’s e-ter-nal spring!\nThis the com-ing joy we sing!\nLook we ev-er toward this day,\nBe it near or far a-way!\n"
+|Lyric7|Text:"7._’Mid the sor-row and the strife\n’Tis the mu-sic of our life,\nAnd the song hath this re-frain—\nOur Re-deem-er comes a-gain!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Slur|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:#-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:8th,Slur|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:#-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Slur|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-5,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=End
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-7,-2
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Jesu Redemptor Omnium LM"|Label:"Jesu Redemptor Omnium LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:#-1,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:8th,Slur|Pos:0,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:Half|Pos:-4,3
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

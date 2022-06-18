@@ -1,0 +1,196 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Malawi, 76.76 D"|Author:"Ira C. Brackeen, 1922"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Telling Jesus (Hudson, North Carolina: Teachers\' Music Publishing Company, 1922), # 61."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:11|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Moth-er’s gone to yon-der cit-y,\nGone to be with an-gels fair,\nAnd I hope some day to meet her,\nWith the oth-er loved ones there.\n\nYes, we’ll meet our saint-ed moth-er,\nIn that home be-yond the skies,\nThere to live with her for-ev-er\nWhere we’ll speak no sad good-byes.\n"
+|Lyric2|Text:"2._Thou art gone from us, dear moth-er,\nNev-er-more on earth to be;\nThough we miss thy gen-tle pres-ence,\nHeav-en’s love we wish for thee.\n\nYes, we’ll meet our saint-ed moth-er,\nIn that home be-yond the skies,\nThere to live with her for-ev-er\nWhere we’ll speak no sad good-byes.\n"
+|Lyric3|Text:"3._Lit-tle ones, be not dis-cour-aged,\nFol-low Je-sus all the way;\nThere’ll be glad-ness for the faith-ful\nIn that great and glo-rious day.\n\nYes, we’ll meet our saint-ed moth-er,\nIn that home be-yond the skies,\nThere to live with her for-ev-er\nWhere we’ll speak no sad good-byes.\n"
+|Lyric4|Text:"4._While on earth, she lived for Je-sus,\nLed her chil-dren in the right;\nWhen our jour-ney here is end-ed,\nThere with moth-er we’ll u-nite.\n\nYes, we’ll meet our saint-ed moth-er,\nIn that home be-yond the skies,\nThere to live with her for-ev-er\nWhere we’ll speak no sad good-byes.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:90|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up|Dur2:8th|Pos2:-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-6,-1|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Malawi, 76.76 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th,Dotted|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:-1,8
+|Bar
+|Chord|Dur:Half|Pos:1,8
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

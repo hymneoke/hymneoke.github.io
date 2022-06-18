@@ -1,0 +1,196 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"If Life’s Pleasures Charm Thee"|Author:"Thomas Jefferson Cook, 1875"|Lyricist:"Francis Scott Key, 1822"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Words from Social and Camp-Meeting Songs, for the Pious, 4th edition (Baltimore, Maryland: Armstrong & Plaskitt, 1822), # 139. Music from The Christian Hymnal (Cincinnati, Ohio: Chase & Hall, 1875), p. 197."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.27|Right:2.54|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._If life’s plea-sures charm thee,\nGive them not thy heart.\nLest the gift en-snare thee\nFrom thy God to part;\nHis fa-vor seek, His prais-es speak—\nFix here thy hope’s sal-va-tion;\nServe Him, and He will ev-er be\nThe Rock of thy sal-va-tion.\n"
+|Lyric2|Text:"2._If dis-tress be-fall thee,\nPain-ful though it be,\nLet not grief ap-pall thee—\nTo your Sav-ior flee;\nHe ev-er near, thy prayer will hear,\nAnd calm your per-tur-ba-tion;\nThe waves of woe shall ne’er o’er-flow\nThe Rock of thy sal-va-tion.\n"
+|Lyric3|Text:"3._When earth’s pros-pects fail thee,\nLet it not dis-tress;\nBet-ter com-forts wait thee—\nChrist will sure-ly bless;\nTo Je-sus flee— thy prop He’ll be,\nThy heav’n-ly con-so-la-tion;\nFor griefs be-low can-not o’er throw\nThe Rock of thy sal-va-tion.\n"
+|Lyric4|Text:"4._Dan-gers may ap-proach thee;\nLet them not a-larm;\nChrist will ev-er watch thee,\nAnd pro-tect from harm;\nHe near thee stands, with might-y hands,\nTo ward off each temp-ta-tion;\nTo Je-sus fly; He’s ev-er nigh,\nThe Rock of thy sal-va-tion.\n"
+|Lyric5|Text:"5._Let not death a-larm thee,\nShrink not from his blow;\nFor thy God shall arm thee,\nAnd vic-t’ry be-stow,\nFor death shall bring to thee no sting,\nThe grave no de-so-la-tion;\n’Tis sweet to die with Je-sus nigh,\nThe Rock of thy sal-va-tion.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:112|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:2/2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,2
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:125
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:2/2
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Whole|Pos:-1,6
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:-1,5
+|Chord|Dur:8th|Pos:2,4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Boundary|Style:NewSize|Upper:17
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,n5
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:b1,6
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-1,5
+|Chord|Dur:4th|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

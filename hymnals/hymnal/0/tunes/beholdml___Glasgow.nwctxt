@@ -1,0 +1,156 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:51|SelectIndex:52|CaretPos:-2
+|SongInfo|Title:"Glasgow, CM"|Author:"Moore’s Psalm Singer’s Pocket Companion, 1756"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955),# 257."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Be-hold! the moun-tain of the Lord\nIn lat-ter days shall rise\nOn moun-tain tops a-bove the hills,\nAnd draw the won-dering eyes.\n"
+|Lyric2|Text:"2._To this the joy-ful na-tions round,\nAll tribes and tongues, shall flow;\nUp to the hill of God, they’ll say,\nAnd to His house we’ll go.\n"
+|Lyric3|Text:"3._The beam that shines from Zi-on hill\nShall light-en eve-ry land;\nThe King who reigns in Sa-lem’s towers\nShall all the world com-mand.\n"
+|Lyric4|Text:"4._A-mong the na-tions He shall judge;\nHis judg-ments truth shall guide;\nHis scep-ter shall pro-tect the just,\nAnd quell the sin-ner’s pride.\n"
+|Lyric5|Text:"5._No strife shall vex Mes-si-ah’s reign\nOr mar the peace-ful years;\nTo plow-shares soon they beat their swords\nTo prun-ing hooks their spears.\n"
+|Lyric6|Text:"6._No long-er hosts en-coun-tering hosts,\nTheir mil-lions slain de-plore;\nThey hang the trum-pets in the hall\nAnd stud-y war no more.\n"
+|Lyric7|Text:"7._Come then, O house of Ja-cob, come\nTo wor-ship at His shrine;\nAnd, walk-ing in the light of God,\nWith ho-ly beau-ties shine.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:180|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:-7,-5
+|Bar
+|Chord|Dur:Whole|Pos:-5,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Note|Dur:Half|Pos:-2
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-2
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Up
+|Note|Dur:Half,Slur|Pos:2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,1
+|Bar
+|Chord|Dur:Whole|Pos:-2,0
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:Whole|Pos:-4,-1
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:-4,-1
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole|Pos:-5,-2
+|Chord|Dur:Half|Pos:-2,2
+|Bar
+|Chord|Dur:Half,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:2
+|Note|Dur:Half|Pos:-2|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:1
+|Note|Dur:8th,Slur|Pos:n-3|Opts:Stem=Down
+|Note|Dur:Half|Pos:-4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:Whole|Pos:-3,-1
+|Chord|Dur:Half|Pos:-3,2
+|Bar
+|Note|Dur:Half,Slur|Pos:-2
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-2
+|Note|Dur:Half|Pos:0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:Whole|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-2
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Glasgow, CM"|Label:"Glasgow, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:-4,3
+|Bar
+|Chord|Dur:Whole|Pos:-2,7
+|Chord|Dur:Half|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:4,6
+|Note|Dur:Half|Pos:5
+|Chord|Dur:Half|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Note|Dur:Half|Pos:5|Opts:Stem=Up
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:Whole|Pos:-4,3
+|Chord|Dur:Half|Pos:3,7
+|Bar
+|Chord|Dur:Whole|Pos:-1,6
+|Chord|Dur:Half|Pos:-3,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,7
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:Half|Pos:0,5
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:Whole|Pos:-4,5
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:Half|Pos:n2,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:6
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Note|Dur:Half|Pos:-1|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:#6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:0,7
+|Chord|Dur:4th|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:#6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:2,7
+|Chord|Dur:Half|Pos:3,7
+|Bar
+|Chord|Dur:Half|Pos:-1,8
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

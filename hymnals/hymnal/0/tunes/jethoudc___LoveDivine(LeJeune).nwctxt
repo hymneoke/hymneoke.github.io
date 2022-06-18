@@ -1,0 +1,189 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:48|CaretPos:0
+|SongInfo|Title:"Love Divine (LeJeune), 87.87 D"|Author:"George Fitz-Curwood LeJeune, 1872"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Inter-Church Hymnal, by Frrank A. Morgan, Kathrine Howard Ward, & Albert W. Palmer (Chicago, Illinois: Biglow-Main-Excell Company, 1940), # 225. Note: Some sources spell the composer’s surname as “Le Jeune.”"
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Je-sus, Thou di-vine com-pan-ion,\nBy Thy low-ly hu-man birth\nThou hast come to join the work-ers,\nBur-den bear-ers of the earth.\nThou, the car-pen-ter of Naz-areth,\nToil-ing for Thy dai-ly food,\nBy Thy pa-tience and Thy cour-age,\nThou hast taught us toil is good.\n"
+|Lyric2|Text:"2._They who tread the path of la-bor\nFol-low where Thy feet have trod;\nThey who work with-out com-plain-ing\nDo the ho-ly will of God.\nThou, the peace that pass-eth knowl-edge,\nDwell-est in the dai-ly strife;\nThou, the bread of Heav-en, bro-ken\nIn the sac-ra-ment of life.\n"
+|Lyric3|Text:"3._Eve-ry task, how-ev-er sim-ple,\nSets the soul that does it free;\nEve-ry deed of love and kind-ness\nDone to man is done to Thee.\nJe-sus, Thou di-vine com-pan-ion,\nHelp us all to do our best;\nBless us in our dai-ly la-bor,\nLead us to the Sab-bath rest.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:b-4,-1
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Bar
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:b-4,-1
+|Chord|Dur:4th|Pos:n-4,1
+|Chord|Dur:4th|Pos:-3,n0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,n0
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:b-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:#-3,-1
+|Chord|Dur:4th|Pos:n-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:b-4,-1
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Love Divine (Le Jeune)"|Label:"Love Divine (Le Jeune)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:#2,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:#2,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:-4,6
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Note|Dur:4th|Pos:5
+|Note|Dur:4th|Pos:5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Note|Dur:4th|Pos:4
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:#2,b8
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:n2,7
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:#2,6
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:-4,n5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:#2,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

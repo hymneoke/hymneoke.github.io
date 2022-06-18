@@ -1,0 +1,249 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:103|SelectIndex:104|CaretPos:1
+|SongInfo|Title:"I Shall Be Satisfied"|Author:"James McGranahan"|Lyricist:"Daniel Webster Whittle, 1881"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source:  \tThe Portfolio of Sunday School Songs, by William F. Sherwin & Charles C. Case (Chicago, Illinois: Fleming H. Revell, 1887), # 128."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.52|Right:2.54|Bottom:1.52|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Soul of mine, in earth-ly tem-ple,\nWhy not here con-tent a-bide?\nWhy art thou for-ev-er plead-ing?\nWhy art thou not sa-tis-fied?\n\nI shall be sa-tis-fied, I shall be sa-tis-fied,\nWhen I a-wake in His like-ness;\nI shall be sa-tis-fied, I shall be sa-tis-fied,\nWhen I a-wake in His like-ness.\n"
+|Lyric2|Text:"2._Soul of mine, my heart is cling-ing\nTo the earth’s fair pomp and pride;\nAh, why dost thou thus re-prove me?\nWhy art thou not sa-tis-fied?\n\nI shall be sa-tis-fied, I shall be sa-tis-fied,\nWhen I a-wake in His like-ness;\nI shall be sa-tis-fied, I shall be sa-tis-fied,\nWhen I a-wake in His like-ness.\n"
+|Lyric3|Text:"3._Soul of mine, must I sur-ren-der,\nSee my-self as cru-ci-fied;\nTurn from all of earth’s am-bi-tion,\nThat thou may’st be sa-tis-fied?\n\nI shall be sa-tis-fied, I shall be sa-tis-fied,\nWhen I a-wake in His like-ness;\nI shall be sa-tis-fied, I shall be sa-tis-fied,\nWhen I a-wake in His like-ness.\n"
+|Lyric4|Text:"4._Soul of mine, con-tin-ue plead-ing;\nSin, re-buke and fol-ly chide;\nI ac-cept the cross of Je-sus,\nThat thou may’st be sa-tis-fied.\n\nI shall be sa-tis-fied, I shall be sa-tis-fied,\nWhen I a-wake in His like-ness;\nI shall be sa-tis-fied, I shall be sa-tis-fied,\nWhen I a-wake in His like-ness.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,#-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:n-3,-1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,#-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:#-5,#-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:n-3,-1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:#-3,-1
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:n-3|Opts:Stem=Down
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:8
+|Boundary|Style:NewSize|Lower:15
+|Chord|Dur:Half|Pos:-4^,-2^
+|Chord|Dur:8th,Triplet=First|Pos:-4,-2
+|Chord|Dur:8th,Triplet|Pos:#-5,#-3
+|Chord|Dur:8th,Triplet=End|Pos:-4,-2
+|Chord|Dur:8th,Triplet=First|Pos:-3,-1
+|Chord|Dur:8th,Triplet|Pos:-4,-2
+|Chord|Dur:8th,Triplet=End|Pos:-6,-4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-4^,1^
+|Chord|Dur:8th,Triplet=First|Pos:-4,1
+|Chord|Dur:8th,Triplet|Pos:-3,2
+|Chord|Dur:8th,Triplet=End|Pos:-2,3
+|Chord|Dur:8th,Triplet=First|Pos:-3,2
+|Chord|Dur:8th,Triplet|Pos:-3,1
+|Chord|Dur:8th,Triplet=End|Pos:-3,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-6,-4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:-4^,-2^
+|Chord|Dur:8th,Triplet=First|Pos:-4,-2
+|Chord|Dur:8th,Triplet|Pos:#-5,#-3
+|Chord|Dur:8th,Triplet=End|Pos:-4,-2
+|Chord|Dur:8th,Triplet=First|Pos:-3,-1
+|Chord|Dur:8th,Triplet|Pos:-4,-2
+|Chord|Dur:8th,Triplet=End|Pos:-6,-4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-2^,3^|Opts:Stem=Up
+|Chord|Dur:8th,Triplet=First|Pos:-2,3|Opts:Stem=Up
+|Chord|Dur:8th,Triplet|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:8th,Triplet=End|Pos:-2,1
+|Chord|Dur:8th,Triplet=First|Pos:-3,2
+|Chord|Dur:8th,Triplet|Pos:-3,1
+|Chord|Dur:8th,Triplet=End|Pos:-3,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Triplet=First,Slur|Pos:-4,1
+|Chord|Dur:8th,Triplet|Pos:-3,2
+|Chord|Dur:8th,Triplet=End|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"I Shall Be Satisfied (Whittle)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:14|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nI shall be sa-tis-fied, I shall be sa-tis-fied,\nI shall be sa-tis-fied,\n_ _ _ _ _ _ _ _\nI shall be sa-tis-fied, I shall be sa-tis-fied,\nI shall be sa-tis-fied,\n\nI shall be sa-tis-fied, I shall be sa-tis-fied,\nWhen I a-wake in His like-ness;\nI shall be sa-tis-fied, I shall be sa-tis-fied,\nWhen I a-wake in His like-ness.\n"
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,3
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:Half|Pos:-4,5
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:8th,Triplet=First|Pos:-1,6
+|Chord|Dur:8th,Triplet|Pos:1,6
+|Chord|Dur:8th,Triplet=End|Pos:3,6
+|Chord|Dur:8th,Triplet=First|Pos:-1,6
+|Chord|Dur:8th,Triplet|Pos:-1,6
+|Chord|Dur:8th,Triplet=End|Pos:-1,6
+|Rest|Dur:Half
+|Bar
+|Chord|Dur:8th,Triplet=First|Pos:-1,3
+|Chord|Dur:8th,Triplet|Pos:1,3
+|Chord|Dur:8th,Triplet=End|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th,Triplet=First|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Chord|Dur:8th,Triplet|Pos:3,6
+|Chord|Dur:8th,Triplet=End|Pos:1,3
+|Chord|Dur:8th,Triplet=First|Pos:-1,3
+|Chord|Dur:8th,Triplet|Pos:-1,3
+|Chord|Dur:8th,Triplet=End|Pos:-1,3
+|Chord|Dur:8th,Triplet=First|Pos:2,4
+|Chord|Dur:8th,Triplet|Pos:2,4
+|Chord|Dur:8th,Triplet=End|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down|Dur2:16th|Pos2:3
+|Chord|Dur:4th|Pos:-4,6
+|Chord|Dur:8th,Dotted|Pos:-4,3
+|Chord|Dur:16th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:Half|Pos:-1,3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th,Triplet=First|Pos:-1,6
+|Chord|Dur:8th,Triplet|Pos:1,6
+|Chord|Dur:8th,Triplet=End|Pos:3,6
+|Chord|Dur:8th,Triplet=First|Pos:-1,6
+|Chord|Dur:8th,Triplet|Pos:-1,6
+|Chord|Dur:8th,Triplet=End|Pos:-1,6
+|Rest|Dur:Half
+|Bar
+|Chord|Dur:8th,Triplet=First|Pos:-1,6
+|Chord|Dur:8th,Triplet|Pos:1,6
+|Chord|Dur:8th,Triplet=End|Pos:3,6
+|Chord|Dur:8th,Triplet=First|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Chord|Dur:8th,Triplet|Pos:3,6
+|Chord|Dur:8th,Triplet=End|Pos:1,6
+|Chord|Dur:8th,Triplet=First|Pos:-1,6
+|Chord|Dur:8th,Triplet|Pos:0,5
+|Chord|Dur:8th,Triplet=End|Pos:1,6
+|Chord|Dur:8th,Triplet=First|Pos:2,4
+|Chord|Dur:8th,Triplet|Pos:2,4
+|Chord|Dur:8th,Triplet=End|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th,Dotted|Pos:3,6
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th,Triplet=First|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:8th,Triplet=End|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

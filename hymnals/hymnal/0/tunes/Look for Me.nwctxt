@@ -1,0 +1,238 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Look for Me!"|Author:"Charles Austin Miles"|Lyricist:"Charles Austin Miles, 1905"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Heavenly Visions, edited by Ruth W. Shelton (Dayton, Tennessee: R. E. Winsett Music, 1957), # 3."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:1.78|Top:2.54|Right:1.78|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:35|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._When you get to Heav-en, as you sure-ly will,\nIf the Sav-ior’s name you own,\nAf-ter you have greet-ed those you love the best,\nWho are stand-ing round the throne—\n\nYou may look for me, for I’ll be there,\nI’ll be there, I’ll be there!\nYou may look for me, for I’ll be there!\nGlo-ry to His name!\n"
+|Lyric2|Text:"2._When you roam with friends a-cross the heav’n-ly fields,\nEv-er find-ing trea-sures new;\nWhen you stand in rap-ture on some star-ry height,\nGaz-ing on some glor-ious view—\n\nYou may look for me, for I’ll be there,\nI’ll be there, I’ll be there!\nYou may look for me, for I’ll be there!\nGlo-ry to His name!\n"
+|Lyric3|Text:"3._When you hear them sing-ing, round the great white throne,\nSongs of praise un-to the Lamb;\nWhen you hear the ran-somed, with their harps of gold,\nShout-ing, “Glo-ry to His name!”—\n\nYou may look for me, for I’ll be there,\nI’ll be there, I’ll be there!\nYou may look for me, for I’ll be there!\nGlo-ry to His name!\n"
+|Lyric4|Text:"4._When you kneel in wor-ship to the King of kings,\nWho has saved you by His grace;\nWhen you see that Sav-ior who has brought you there,\nAnd with joy be-hold His face—\n\nYou may look for me, for I’ll be there,\nI’ll be there, I’ll be there!\nYou may look for me, for I’ll be there!\nGlo-ry to His name!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:113|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:225
+|Bar
+|Boundary|Style:NewSize|Lower:28
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:n-5,0
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:25
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Look for Me!"|Label:"Look for Me!"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nI’ll be there, I’ll be there,\n_ _ _\nI’ll be there,\n_ _ _ _ _ _ _ _ _\nI’ll be there!\n\nYou may look for me, for I’ll be there,\nI’ll be there, I’ll be there!\nYou may look for me, for I’ll be there!\nGlo-ry to His name!\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar|Style:Double
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Slur=Downward,Beam=First
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Slur=Downward,Beam=End
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,284 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"All Hail to the Prince of Life"|Author:"Isaac Hickman Meredith"|Lyricist:"Fronie Bell Turner, 1900"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sunday School Hymns No. 1, by I. H. Meredith, Grant Colfax Tullar & J.W. Lerman (New York: Tullar-Meredith Company, 1903), # 144."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:1.52|Top:2.54|Right:1.52|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:13|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-15
+|Lyric1|Text:"1._All hail to the Prince of Life,\nAll hail to the Lord di-vine!\nFor o-ver the whole glad earth\nHis glo-ri-ous light shall shine!\nHe comes from the tomb of night,\nThe sha-dow of death laid by,\nHe comes as a Con-queror comes,\nHis ban-ner of light on high.\n\nAll hail to the Prince of Life!\nHo-san-na to Him we sing—\nHe comes as a might-y Vic-tor,\nHe comes as a con-quering King!\n"
+|Lyric2|Text:"2._Go for-ward ye sons of men\nAnd wel-come the glo-rious King!\nGo meet Him with songs of joy\nThat o-ver His path shall ring!\nHe brings from the grave of death\nThe bless-ing of life and peace,\nWho seeks Him shall find a part\nIn joys that shall ne-ver cease.\n\nAll hail to the Prince of Life!\nHo-san-na to Him we sing—\nHe comes as a might-y Vic-tor,\nHe comes as a con-quering King!\n"
+|Lyric3|Text:"3._Then come with your hearts of love\nAnd come with your songs of praise,\nFor Christ Who hath ris’n in-deed\nYour an-thems of vic-t’ry raise!\nFor ne-ver in ag-es past\nAnd ne-ver in com-ing years\nShall Vic-tor and Mon-arch rise\nLike Him Who the world re-veres.\n\nAll hail to the Prince of Life!\nHo-san-na to Him we sing—\nHe comes as a might-y Vic-tor,\nHe comes as a con-quering King!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:n-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:b-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Text|Text:"Boys’ Voices"|Font:StaffItalic|Pos:8
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:b-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-1
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:Half,Slur|Pos:0|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Text|Text:"Girls’ Voices"|Font:StaffItalic|Pos:9
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:b-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-1
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:0
+|Text|Text:"Full Chorus"|Font:StaffItalic|Pos:8
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half,Slur|Pos:-3,2|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:0,n3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:8|Justify:Center
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-4
+|Text|Text:"Boys’ Voices"|Font:StaffItalic|Pos:8
+|Note|Dur:8th,Dotted|Pos:n0|Opts:Stem=Down
+|Note|Dur:16th|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Slur|Pos:0|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Text|Text:"Chorus, Girls’ Voices"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:n0,2
+|Chord|Dur:16th|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Text|Text:"Full Chorus"|Font:StaffItalic|Pos:8
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:0,n3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"All Hail the Prince"|Label:"All Hail the Prince"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:26|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Slur|Pos:2|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:5
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:8th,Dotted|Pos:-1,5
+|Chord|Dur:16th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:2,4,6,8
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:2,4,6,8
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th,Slur|Pos:2,5,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,5,7
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:2,4,6,8
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:2,4,6,8
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th,Slur|Pos:2,5,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,5,7
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:5^
+|Note|Dur:4th,Slur|Pos:b4|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:b3,#6
+|Bar
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,9|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5|Opts:Stem=Down
+|Bar|Style:Double
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th,Slur|Pos:2,5|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,5,7
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:2,4,6,8
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:2,4,8
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th,Slur|Pos:2,5,7|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:2,5,7|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:b4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:b3,#6
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:8th,Dotted|Pos:2,9
+|Chord|Dur:16th|Pos:2,7
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

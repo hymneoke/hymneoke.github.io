@@ -1,0 +1,214 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Leave, Shepherds, Leave Your Peaceful Flocks"|Author:"French tune from Besançon"|Lyricist:"French carol, translated by W. K. Simpson"|Copyright1:"Courtesy of the Cyber Hymnal™"|Copyright2:""|Comments:"Source: Carols, Customs and Costumes Around the World, by Herbert H. Wernecke (Webster Groves, Missouri: Old Orchard Book Shoppe, 1936), p. 12."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:1
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:1
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:1
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.29|Right:2.54|Bottom:2.29|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Leave, shep-herds, leave your peace-ful flocks a-grazing!\nNo long-er grieve, but come, O come a-way!\nCome and a-dore, your tears all changed to prais-ing;\nOf Him the heav’n-ly King, O sing, O sing\nYour Sav-ior born this hap-py day.\n"
+|Lyric2|Text:"2._There, low-ly laid, with-in a man-ger narrow,\nA love-ly maid and In-fant thou shalt see!\nHis ten-der love hath sought thee in thy sor-row—\nThy dark-ness to re-move! He came, to prove\nA lov-ing Shep-herd’s care for thee!\n"
+|Lyric3|Text:"3._Kings from the east! His star will guide thee truly!\nWhere He doth rest, in love and faith draw near:\nOur ris-ing Sun re-ceives thy hom-age du-ly!\nO bring to Him each one— Each one! Each one!\nYour in-cense and your gold and myrrh!\n"
+|Lyric4|Text:"4._Who canst do all things sure-ly, hearts en-shrine\nThine ar-dors sweet and fair! For peace is his\nFor peace is His that through Thee liv-eth pure-ly!\nAnd add-ed un-to this, all joy, and bliss—\nSince God hath sent His Sav-ior here!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:118|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:2/2
+|Text|Text:"Allegro vivace"|Font:StaffItalic|Pos:10
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Down,Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Slur=Upward
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Slur=Upward
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Chord|Dur:4th|Pos:-6,-2|Opts:Slur=Upward
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Slur=Upward
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Spacer|Width:375
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-5,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-6
+|Chord|Dur:4th|Pos:-8,-5|Opts:Slur=Upward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Slur=Upward
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Slur=Upward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:1
+|RestChord|Dur:4th|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-3
+|Note|Dur:4th|Pos:4|Opts:Stem=Up,Slur=Upward
+|Spacer|Width:300
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:1
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward
+|RestChord|Dur:4th|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-3
+|Note|Dur:4th|Pos:4|Opts:Stem=Up,Slur=Upward
+|Spacer|Width:300
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:1
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-3,4|Opts:Slur=Upward
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-3,3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Slur=Upward
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Leave, Shepherds"|Label:"Leave, Shepherds"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:2/2
+|Chord|Dur:4th|Pos:5,7|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:-1,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:0,2|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Slur|Pos:-1,3
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,7|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:6
+|Boundary|Style:NewSize|Upper:8
+|RestChord|Dur:4th|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-1
+|Note|Dur:4th|Pos:3|Opts:Stem=Up,Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:0,2|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:2|Opts:Stem=Up,Slur=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th,Slur|Pos:0,2
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:1|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half|Pos:-1,3|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-1,3|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:4,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-3,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,7|Opts:Slur=Downward
+|Bar
+|Boundary|Style:NewSize|Upper:10
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:6
+|RestChord|Dur:4th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-1
+|Note|Dur:4th|Pos:3|Opts:Stem=Up,Slur=Downward
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,154 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Des Moines, 66.77.77"|Author:"Deutsche Lieder (Nuremberg, Germany, 1574)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Lutheran Hymnal (St. Louis, Missour: Concordia Publishing House, 1941), # 526."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:1
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:1
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:1
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:1
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._In God, my faith-ful God,\nI trust when dark my road;\nThough man-y woes o’er-take me,\nYet He will not for-sake me;\nHis love it is doth send them,\nAnd when ’tis best will end them.\n"
+|Lyric2|Text:"2._My sins as-sail me sore,\nBut I de-spair no more;\nI build on Christ who loves me,\nFrom this Rock noth-ing moves me,\nSince I can all sur-ren-der\nTo Him, my soul’s De-fend-er.\n"
+|Lyric3|Text:"3._If death my por-tion be,\nThen death is gain to me,\nAnd Christ my Life for ev-er,\nFrom whom death can-not sev-er;\nCome when it may, He’ll shield me,\nTo Him I whol-ly yield me.\n"
+|Lyric4|Text:"4._Ah, Je-sus Christ, my Lord,\nSo meek in deed and word,\nThou di-edst once to save us,\nBe-cause Thou fain wouldst have us\nAf-ter earth’s life of sad-ness\nHeirs of Thy heaven-ly glad-ness.\n"
+|Lyric5|Text:"5._“So be it,” then I say,\nWith all my heart each day;\nGuide us while here we wan-der,\nTill safe-ly land-ed yon-der,\nWe too, dear Lord, a-dore Thee,\nAnd sing for joy be-fore Thee.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-8,-5
+|Bar
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:4th|Pos:-8,-4
+|Chord|Dur:4th|Pos:-8,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:#-6,-1
+|Chord|Dur:4th|Pos:n-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:4th|Pos:#-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:#-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Bar
+|Rest|Dur:Half
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:Half|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:#-6|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Des Moines, 66.77.77"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:#-1,1
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-5,6
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:Half|Pos:-5,4
+|Bar
+|Rest|Dur:Half
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-5,6
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,#2
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

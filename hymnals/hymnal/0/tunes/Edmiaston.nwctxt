@@ -1,0 +1,120 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Are You Working?"|Author:"Walter Elmore Edmiaston (1877-1982)"|Lyricist:"Ella Allen Edmiaston (1878-1955)"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Voices of Victory, edited by Theodore Sisk (Toccoa, Georgia: Sisk Music Company, 1943), # 67."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:13|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-15
+|Lyric1|Text:"1._Are you work-ing for the Mas-ter,\nAre you toil-ing day by day?\nAre you sow-ing seeds of kind-ness,\nFor the reap-ers on the way?\n"
+|Lyric2|Text:"2._Hear you not the Mas-ter call-ing,\nFor glad toil-ers brave and true?\nWill you en-ter now the har-vest,\nFor the call is un-to you?\n"
+|Lyric3|Text:"3._There’s a work for all, my bro-ther,\nSheaves are fall-ing by the way,\nGo you forth in-to the har-vest,\nEn-ter now, with-out de-lay.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,#-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Edmiaston, 87.87"|Label:"Edmiaston, 87.87"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:27|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,n5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,7
+|Spacer|Width:125
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,6
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2,3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,7
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,3
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

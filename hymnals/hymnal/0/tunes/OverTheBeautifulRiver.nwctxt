@@ -1,0 +1,212 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:88|SelectIndex:89|CaretPos:-2
+|SongInfo|Title:"Over the Beautiful River"|Author:"Ira David Sankey"|Lyricist:"Frances Jane (Fanny) Crosby, 1901"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Photocopied score; origin unknown."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:35|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._O-ver the riv-er my loved ones have passed,\nO-ver the beau-ti-ful riv-er;\nSafe in the man-sions of glo-ry at last,\nNow they are watch-ing for me.\n\nWatch-ing to-day,\nWatch-ing to-day;\nLoved ones are wait-ing,\nAre wait-ing my com-ing to-day.\n"
+|Lyric2|Text:"2._O-ver the riv-er with Je-sus they rest,\nO-ver the beau-ti-ful riv-er;\nLearn-ing and sing-ing the songs of the blest,\nYet they are watch-ing for me.\n\nWatch-ing to-day,\nWatch-ing to-day;\nLoved ones are wait-ing,\nAre wait-ing my com-ing to-day.\n"
+|Lyric3|Text:"3._O-ver the riv-er that spark-les so clear,\nO-ver the beau-ti-ful riv-er;\nOft in the si-lence their voic-es I hear,\nStill they are watch-ing for me.\n\nWatch-ing to-day,\nWatch-ing to-day;\nLoved ones are wait-ing,\nAre wait-ing my com-ing to-day.\n"
+|Lyric4|Text:"4._O-ver the riv-er, to sev-er no more,\nO-ver the beau-ti-ful riv-er;\nSoon I shall meet them on yon-der bright shore,\nLoved ones now watch-ing for me.\n\nWatch-ing to-day,\nWatch-ing to-day;\nLoved ones are wait-ing,\nAre wait-ing my com-ing to-day.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:4th,Dotted|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Spacer|Width:175
+|Bar
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,n0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1|Opts:Stem=Down
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:25
+|Chord|Dur:4th,Dotted|Pos:-2^,0^|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,-1^
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,2^
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Spacer|Width:800
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,3^
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Over the Beautiful River"|Label:"Over the Beautiful River"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-9
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nLoved ones are watch-ing to-day, to-day.\nLoved ones are watch-ing to-day, to-day;\nLoved ones are wait-ing, are wait-ing.\n\nWatch-ing to-day,\nWatch-ing to-day;\nLoved ones are wait-ing,\nAre wait-ing my com-ing to-day.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,n5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:6
+|Chord|Dur:8th|Pos:n5,9
+|Chord|Dur:8th|Pos:b5,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,b8
+|Chord|Dur:4th|Pos:-3,8
+|Chord|Dur:8th|Pos:-2,7
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,7
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

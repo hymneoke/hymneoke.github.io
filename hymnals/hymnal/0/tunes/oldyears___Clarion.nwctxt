@@ -1,0 +1,211 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:50|SelectIndex:51|CaretPos:-1
+|SongInfo|Title:"Clarion, CMD"|Author:"George Edward. Alvis, 1890"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Alleluia (Philadelphia, Pennsylvania: Westminster Press, 1926), # 218."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:1
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:1
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:1
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The old year’s long cam-paign is o’er;\nBe-hold a new be-gun;\nNot yet is closed the ho-ly war,\nNor yet the tri-umph won:\nOut of his still and deep re-pose\nWe hear the old year say:\n“Go forth a-gain to meet your foes,\nYe chil-dren of the day!”\n"
+|Lyric2|Text:"2._“Go forth, firm faith on eve-ry heart,\nBright hope on eve-ry helm;\nThrough that shall pierce no fier-y dart,\nAnd this no fear o’er-whelm!\nGo in the spir-it and the might\nOf Him who led the way;\nClose with the le-gions of the night,\nYe chil-dren of the day.”\n"
+|Lyric3|Text:"3._So forth we go to meet the strife,\nWe will not fear or fly!\nWe love the ho-ly war-rior’s life,\nHis death we hope to die!\nWe slum-ber not, that charge in view,\n“Toil on while toil ye may,\nThen night shall be no night to you,\nYe chil-dren of the day!”\n"
+|Lyric4|Text:"4._Lord God, our glo-ry, Three in One,\nThine own sus-tain, de-fend!\nAnd give, though dim this earth-ly sun,\nThy true light to the end;\nTill morn-ing tread the dark-ness down,\nAnd night be swept a-way,\nAnd in-fi-nite sweet tri-umph crown\nThe chil-dren of the day!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-5
+|Bar
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,n0
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,n0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:2
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:#-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:#-3,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:-3
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th|Pos2:#1
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Clarion, CMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:0,#2
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:2,b7
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:6
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Slur|Pos:4,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:n-2,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:#-5,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:#2,4
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:3,b8
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:#-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:n-2,7
+|Chord|Dur:4th|Pos:-4,n5
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:6
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-3,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-4,5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,6
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:n-2,2
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,b5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

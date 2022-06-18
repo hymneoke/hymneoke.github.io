@@ -1,0 +1,243 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:4
+|SongInfo|Title:"The Message Bearers"|Author:"Tullius Clinton O’Kane, ca. 1873"|Lyricist:"Alice Boise Wood, 1899"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The King\'s Praises, by Charles S. Brown (Boston, Massachusetts: United Society of Christian Endeavor, 1899), # 34."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:8|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._In lands far a-way o’er the sea,\nThere are na-tions who ne-ver have heard\nA-ny men-tion, dear Sav-ior, of Thee,\nAnd we long so to send them the word.\n\nBless-èd Word, bless-èd Word,\nThou’rt life to the soul that has heard;\nBless-èd Word, bless-èd Word,\nBless-èd Word, Thou’rt life to the soul that has heard.\n"
+|Lyric2|Text:"2._They bow to their i-dols of stone,\nTo their i-dols of sil-ver and gold;\nBut to wor-ship the Sav-ior a-lone\nTh-ey ne-ver, a-las! have been told.\n\nBless-èd Word, bless-èd Word,\nThou’rt life to the soul that has heard;\nBless-èd Word, bless-èd Word,\nBless-èd Word, Thou’rt life to the soul that has heard.\n"
+|Lyric3|Text:"3._In sor-row they pass to the grave,\nThro’ the val-ley of sin and of woe;\nYet our Je-sus is wait-ing to save\nI-f on-ly to Him they will go.\n\nBless-èd Word, bless-èd Word,\nThou’rt life to the soul that has heard;\nBless-èd Word, bless-èd Word,\nBless-èd Word, Thou’rt life to the soul that has heard.\n"
+|Lyric4|Text:"4._His ser-vants are hasten-ing to bear\nPre-cious tid-ings of life o’er the sea;\nWe will join them in la-bor and prayer,\nHap-py work-ers for Je-sus are we.\n\nBless-èd Word, bless-èd Word,\nThou’rt life to the soul that has heard;\nBless-èd Word, bless-èd Word,\nBless-èd Word, Thou’rt life to the soul that has heard.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:105|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:525
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-4,2
+|Chord|Dur:16th|Pos:-4,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,1
+|Chord|Dur:16th|Pos:-4,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Spacer|Width:350
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:550
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward|Dur2:Half|Pos2:0
+|Note|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-2
+|Note|Dur:8th,Dotted|Pos:3
+|Note|Dur:16th|Pos:2
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:1
+|Note|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Boundary|Style:NewSize|Lower:15
+|Note|Dur:8th,Dotted|Pos:0
+|Note|Dur:16th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:550
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"The Message Bearers"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"_ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nBless-èd Word, bless-èd Word,\n_ _ _ _ _ _ _\nbless-èd Word;\n_ _ _ _\nbless-èd Word,\n\nBless-èd Word, bless-èd Word,\nThou’rt life to the soul that has heard;\nBless-èd Word, bless-èd Word,\nBless-èd Word, Thou’rt life to the soul that has heard.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th,Dotted|Pos:-3,6
+|Chord|Dur:16th|Pos:-3,6
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,4
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-2,3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-1,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,6
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Bar|Style:Double
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:5,8
+|Chord|Dur:8th,Dotted|Pos:5,8
+|Chord|Dur:16th|Pos:5,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down|Dur2:Half|Pos2:8
+|Note|Dur:8th,Dotted|Pos:1|Opts:Stem=Down
+|Note|Dur:16th|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th,Dotted|Pos:6
+|Note|Dur:16th|Pos:5
+|Bar
+|RestChord|Dur:4th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Half,Dotted|Pos2:4
+|Note|Dur:8th,Dotted|Pos:-3|Opts:Stem=Down
+|Note|Dur:16th|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Boundary|Style:NewSize|Upper:11
+|Note|Dur:8th,Dotted|Pos:7
+|Note|Dur:16th|Pos:6
+|Bar
+|Note|Dur:4th|Pos:7
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,8
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

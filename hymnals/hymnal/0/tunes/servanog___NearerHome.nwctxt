@@ -1,0 +1,180 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:67|CaretPos:-1
+|SongInfo|Title:"Nearer Home, SMD"|Author:"Isaac Woodbury, 1852; harm. A. S.Sullivan 1874"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Publication & Sabbath-School Work, 1907), # 625."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._“Ser-vant of God, well done!\nRest from thy loved em-ploy;\nThe bat-tle fought, the vic-tory won,\nEn-ter thy mas-ter’s joy.”\nThe voice at mid-night came;\nHe start-ed up to hear;\nA mor-tal ar-row pierced his frame:\nHe fell, but felt no fear.\n"
+|Lyric2|Text:"2._Tran-quil a-mid a-larms,\nIt found him on the field,\nA vet-eran, slum-bering on his arms,\nBe-neath his red-cross shield.\nHis sword was in his hand,\nStill warm with re-cent fight,\nRead-y that mo-ment, at com-mand,\nThrough rock and steel to smite.\n"
+|Lyric3|Text:"3._It was a two-edged blade\nOf heav’n-ly tem-per keen;\nAnd dou-ble were the wounds it made,\nWher-e’er it glanced be-tween.\n’Twas death to sin— ’twas life\nTo all who mourned for sin;\nIt kin-dled and it si-lenced strife,\nMade war and peace with-in.\n"
+|Lyric4|Text:"4._Oft with its fier-y force\nHis arm had quelled the foe,\nAnd laid, re-sist-less in his course,\nThe al-ien ar-mies low.\nBent on such glo-rious toils,\nThe world to him was loss,\nYet all his tro-phies, all his spoils,\nHe hung up-on the cross.\n"
+|Lyric5|Text:"5._At mid-night came the cry,\n“To meet thy God pre-pare!”\nHe woke, and caught his cap-tain’s eye;\nThen, strong in faith and prayer,\nHis spir-it, with a bound,\nLeft its en-cum-bering clay;\nHis tent, at sun-rise, on the round,\nA dark-ened ru-ined lay.\n"
+|Lyric6|Text:"6._The pains of death are past,\nLa-bor and sor-row cease;\nAnd, life’s long war-fare closed at last,\nHis soul is found in peace.\nSol-dier of Christ, well done!\nPraise be thy new em-ploy;\nAnd while e-ter-nal ag-es run,\nRest in thy Sav-ior’s joy.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:113|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Whole|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-1
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Nearer Home, SMD"|Label:"Nearer Home, SMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,7
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:Whole|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:6,8
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

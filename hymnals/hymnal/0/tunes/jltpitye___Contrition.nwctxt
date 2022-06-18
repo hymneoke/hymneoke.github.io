@@ -1,0 +1,219 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Contrition, PM"|Author:"William Henry Oakley, 1868"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal. Publication date found at http://www.hymnary.org."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:1
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:1
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:1
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:1
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Treble Clef"|Label:"Treble Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Je-sus, let Thy pit-ying eye\nCall back a wan-dering sheep;\nFalse to Thee, like Pe-ter, I\nWould fain, like Pe-ter, weep.\nLet me be by grace re-stored;\nOn me be all long-suf-fering shown;\nTurn, and look up-on me, Lord,\nAnd break my heart of stone.\n"
+|Lyric2|Text:"2._Sav-ior, Prince, en-throned a-bove,\nRe-pent-ance to im-part,\nGive me, through Thy dy-ing love,\nThe hum-ble, con-trite heart;\nGive what I have long im-plored,\nA por-tion of Thy grief un-known;\nTurn, and look up-on me, Lord,\nAnd break my heart of stone.\n"
+|Lyric3|Text:"3._See me, Sav-ior, from a-bove,\nNor suf-fer me to die;\nLife, and hap-pi-ness, and love\nDrop from Thy gra-cious eye;\nSpeak the rec-on-cil-ing word,\nAnd let Thy mer-cy melt me down;\nTurn, and look up-on me, Lord,\nAnd break my heart of stone.\n"
+|Lyric4|Text:"4._Look, as when Thy lan-guid eye\nWas closed that we might live;\n“Fa-ther,” at the point to die\nMy Sav-ior prayed, “for-give!”\nSure-ly, with that dy-ing word,\nHe turns, and looks, and cries, “’Tis done!”\nO my bleed-ing, lov-ing Lord,\nThou break’st my heart of stone!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:90|Pos:12|Justify:Right
+|TimeSig|Signature:3/8
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:16th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-3,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-3,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:16th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:16th,Slur|Pos:-7,-5|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-3,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-3,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:16th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Baritone"|Label:"Baritone"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/8
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,213 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Isère, 87.87 D"|Author:"Joseph C. Fisher, 1885"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Victory, edited by Joseph C. Fisher (Grand Junction, Michigan: 1885), # 66."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.52|Right:2.54|Bottom:1.52|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:13|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O the bless-èd Ho-ly Spir-it,\nHow He leads me in the way;\nIn the straight and nar-row path-way,\nIn the light of per-fect day.\n\nShout His prais-es on the hill-tops,\nTell it to the world a-round;\nGlo-ry! glo-ry! hal-le-lu-jah!\nWhat a Sav-ior I have found.\n"
+|Lyric2|Text:"2._Je-sus is my on-ly ref-uge,\nI will trust Him eve-ry day;\nFor I know He’ll nev-er leave me;\nHe will guide me on the way.\n\nShout His prais-es on the hill-tops,\nTell it to the world a-round;\nGlo-ry! glo-ry! hal-le-lu-jah!\nWhat a Sav-ior I have found.\n"
+|Lyric3|Text:"3._Let us praise Him, bless-èd Je-sus,\nO His glo-ry fills my soul;\nOh, His love! no tongue can tell it,\nI am eve-ry whit made whole.\n\nShout His prais-es on the hill-tops,\nTell it to the world a-round;\nGlo-ry! glo-ry! hal-le-lu-jah!\nWhat a Sav-ior I have found.\n"
+|Lyric4|Text:"4._O I know He’ll nev-er leave me,\nFor I have Him in my heart;\nBless-èd Je-sus, pre-cious Sav-ior,\nI will nev-er from Thee part.\n\nShout His prais-es on the hill-tops,\nTell it to the world a-round;\nGlo-ry! glo-ry! hal-le-lu-jah!\nWhat a Sav-ior I have found.\n"
+|Lyric5|Text:"5._And when all the loved ones gath-er\nIn that bless-èd home a-bove,\nWe will praise Him there for-ev-er,\nDwell-ing in the realms of love.\n\nShout His prais-es on the hill-tops,\nTell it to the world a-round;\nGlo-ry! glo-ry! hal-le-lu-jah!\nWhat a Sav-ior I have found.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:92|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th,Triplet=First,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th,Triplet|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Triplet=First,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th,Triplet|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-5,-3
+|Marker|Pos:11|Target:Triplet
+|Chord|Dur:8th,Triplet=First,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:8th|Pos2:-3
+|Chord|Dur:8th,Triplet|Pos:-2,0|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,0
+|Marker|Pos:11|Target:Triplet
+|Chord|Dur:8th,Triplet=First,Slur|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Triplet|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-5,-3
+|Marker|Pos:11|Target:Triplet
+|Chord|Dur:8th,Triplet=First,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th,Triplet|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th,Triplet=First,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th,Triplet|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Note|Dur:4th|Pos:-3
+|Marker|Pos:11|Target:Triplet
+|Chord|Dur:8th,Triplet=First,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th,Triplet|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-5,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,0
+|Marker|Pos:11|Target:Triplet
+|Chord|Dur:8th,Triplet=First,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th,Triplet|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3,0
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th,Triplet=First|Pos:1,9
+|Chord|Dur:8th,Triplet=End|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,8
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th,Triplet=First|Pos:2,7
+|Chord|Dur:8th,Triplet=End|Pos:2,9
+|Bar
+|Chord|Dur:Half|Pos:2,8
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th,Triplet=First|Pos:-1,5
+|Chord|Dur:8th,Triplet=End|Pos:-1,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,10
+|Chord|Dur:8th|Pos:2,9
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,9
+|Marker|Pos:-10|Target:Triplet
+|Chord|Dur:4th,Triplet=First|Pos:2,9
+|Chord|Dur:8th,Triplet=End|Pos:-1,8
+|Bar
+|Chord|Dur:Half|Pos:2,7
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th,Triplet=First|Pos:2,5
+|Chord|Dur:8th,Triplet=End|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:8th|Pos:1,9
+|Chord|Dur:8th|Pos:1,9
+|Bar
+|Chord|Dur:4th|Pos:1,9
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th,Triplet=First|Pos:0,9
+|Chord|Dur:8th,Triplet=End|Pos:0,8
+|Bar
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th,Triplet=First|Pos:-1,9
+|Chord|Dur:8th,Triplet=End|Pos:-1,9
+|Bar
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,8
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th,Triplet=First|Pos:-1,9
+|Chord|Dur:8th,Triplet=End|Pos:-1,8
+|Bar
+|Chord|Dur:Half|Pos:2,7
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

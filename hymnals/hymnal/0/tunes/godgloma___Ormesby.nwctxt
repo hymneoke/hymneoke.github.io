@@ -1,0 +1,192 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:5|CaretPos:0
+|SongInfo|Title:"Ormesby, 76.76.778.76"|Author:"George Merritt, 1889"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Primitive Methodist Hymnal, edited by George Booth (London: Primitive Methodist Publishing House, 1889), # 46."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._God of glo-rious maj-es-ty,\nWhose judg-ments are a-broad,\nPierce, and turn our hearts to Thee\nWith sac-red hor-ror awed;\nAll this drow-sy land a-wake,\nAnd by the thun-der of Thy power\nShake, our in-most spir-its shake,\nAnd let us sleep no more.\n"
+|Lyric2|Text:"2._Ris-ing in Thy dread-ful might\nThe wick-ed to re-buke,\nThou hast with un-wont-ed fright\nOur sleep-ing bod-ies shook;\nEarth did to her cen-ter quake,\nCon-vul-sive pangs her bow-els tore;\nShake, our in-most spir-its shake,\nAnd let us sleep no more.\n"
+|Lyric3|Text:"3._Ere the threat-ened ru-in come,\nA gen-eral ter-ror dart,\nSend the keen con-vic-tion home\nTo eve-ry thought-less heart;\nShake us out of Sa-tan’s hands,\nBurst o-pen eve-ry pris-on door,\nRouse, and loose us from our bands,\nAnd bid us sin no more.\n"
+|Lyric4|Text:"4._Je-sus, Lord, to whom we cry,\nThe true re-pent-ance give,\nGive us at Thy feet to lie,\nAnd trem-ble, and be-lieve;\nOn the Rock of Ag-es place\nOur souls, till all the wrath is o’er,\nGround, and ’stab-lish us in grace,\nAnd bid us sin no more.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-7|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th,Dotted|Pos:n-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th,Slur|Pos:-8|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:#-6
+|Note|Dur:8th|Pos:-9|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:#-3,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:#-3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-2,n0
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-5,#-3
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Whole|Pos:-3,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Ormesby, 76.76.778.76"|Label:"Ormesby, 76.76.778.76"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-1
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:0,#2
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:0,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:0,n5
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:0,b5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:0,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,8|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,6|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-4,5
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:0,9
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:2,8
+|Bar
+|Chord|Dur:Whole|Pos:-2,7
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

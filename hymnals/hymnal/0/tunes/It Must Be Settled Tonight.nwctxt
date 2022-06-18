@@ -1,0 +1,220 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:63|CaretPos:1
+|SongInfo|Title:"It Must Be Settled Tonight"|Author:"John Jackson Hood"|Lyricist:"C. B. Kendall, 1881"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Finest of Wheat Nos. 1 & 2 Combined (Chicago, Illinois: R. R. McCabe, 1890), # 131."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:9|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:7|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:36|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._“It must be settled to-night,\nTo-morrow may be too late”;\nThe angel of death may come,\nAnd seal for-ever my fate.\n\nIt must be settled to-night,\nI can no long-er wait,\nPeace with my God I now must have,\nTo-morrow may be too late.\n"
+|Lyric2|Text:"2._A bur-den weighs my soul\nI can no long-er bear;\nUn-less re-moved this night,\n’Twill sink me into de-spair.\n\nIt must be settled to-night,\nI can no long-er wait,\nPeace with my God I now must have,\nTo-morrow may be too late.\n"
+|Lyric3|Text:"3._I can-not rest till peace\nEn-folds me from a-bove,\nTill my Re-deem-er speaks_to_me\nAs-sur-ance of His love.\n\nIt must be settled to-night,\nI can no long-er wait,\nPeace with my God I now must have,\nTo-morrow may be too late.\n"
+|Lyric4|Text:"4._Oh, now I know ’tis done!\nMy peace is made with God;\nMy par-don’s found in Jesus’_name,\nThro’ faith in Je-sus’ blood.\n\nOh, now I know ’tis done!\nSweet joy per-vades my soul;\nPeace with my God I now have found;\nHis blood hath made me whole.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:8th|Pos2:-5
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-5,-1|Opts:Stem=Up,Slur=Upward,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up,Slur=Upward,Beam=End,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-2|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,0^|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,2|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Slur=Upward,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up,Slur=Upward,Beam=End,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:#-6,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-6,-4|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:4th,Dotted|Pos2:-5^
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:8th|Pos2:-5
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=End,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-2|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-3,1|Opts:Slur=Upward,Tie=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:-7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-5,1|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-4,-1|Opts:Stem=Up,Slur=Upward,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,Slur=Upward,Beam=End,ArticulationsOnStem,Tie=Upward|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-5,-3|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2^|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:175
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:25
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-4,1|Opts:Stem=Down,Slur=Upward,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down,Slur=Upward,Beam=End,Tie=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,0^|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:8th|Pos2:-2
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,-1^|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward,Tie=Upward
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:n-3,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-3,0|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-2,#1|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2,2|Opts:Stem=Down,Slur=Upward,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down,Slur=Upward,Beam=End,Tie=Upward
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:8th|Pos2:-5
+|Chord|Dur:4th|Pos:#-6,-4|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:n-6,-3|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-2^|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-7,-2|Opts:Slur=Upward,Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"It Must Be Settled"|Label:"It Must Be Settled"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:3,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:3,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:3,6|Opts:Stem=Down,Slur=Downward,Beam=First,Tie=Downward
+|Chord|Dur:8th|Pos:3,6|Opts:Stem=Down,Slur=Downward,Beam=End,Tie=Downward
+|Chord|Dur:8th|Pos:3,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,7^|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:3,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:3,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:0,4|Opts:Stem=Down,Slur=Downward,Beam=First,Tie=Downward
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Slur=Downward,Beam=End,Tie=Downward
+|Chord|Dur:8th|Pos:0,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-3,3|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,2^|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:0,2|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:0,4|Opts:Stem=Down,Slur=Downward,Beam=First,Tie=Downward
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Slur=Downward,Beam=End,Tie=Downward
+|Chord|Dur:8th|Pos:0,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:0,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:0,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:0,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:0,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Chord|Dur:8th|Pos:3,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:-1,6|Opts:Stem=Down,Slur=Downward,Beam=First,Tie=Downward
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down,Slur=Downward,Beam=End,Tie=Downward
+|Chord|Dur:8th|Pos:0,6|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,5^|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward,Tie=Downward
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:5
+|Chord|Dur:8th|Pos:3,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-1,6|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down,Slur=Downward,Beam=First,Tie=Downward
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down,Slur=Downward,Beam=End,Tie=Downward
+|Chord|Dur:8th|Pos:-1,3|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-4,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:3,7|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:5,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:5,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:4,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:3,7|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,7^|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:0,7|Opts:Slur=Downward,Tie=Downward
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:3,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:3,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:3,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:3,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:3,7|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-1,6|Opts:Slur=Downward,Tie=Downward
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:b1,#4|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:0,5|Opts:Stem=Down,Slur=Downward,Beam=First,Tie=Downward
+|Chord|Dur:8th|Pos:0,5|Opts:Stem=Down,Slur=Downward,Beam=End,Tie=Downward
+|Chord|Dur:8th|Pos:0,2|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:0,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:0,4|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward,Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

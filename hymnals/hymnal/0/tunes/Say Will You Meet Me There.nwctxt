@@ -1,0 +1,227 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Say! Will You Meet Me There?"|Author:"William James Kirkpatrick"|Lyricist:"May Maurice, 1897"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs for Worship and Worship, edited by Edmund S. Lorenz, J. Howard Entwisle, Powell G. Fithian, Adam Geibel & Robert F. Lehman (Dayton, Ohio: Lorenz & Company, 1900), # 44."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._When my wea-ry feet reach the shin-ing goal,\nAnd the Mas-ter’s voice greets my rap-tured soul;\nWhere the waves of joy shall a-round me roll,\nO say, will you meet me there?\n\nSay, will you meet me there?\nSay, will you meet me there?\nIn the home a-bove, in the land of love,\nO say, will you meet me there?\n"
+|Lyric2|Text:"2._When I sweet-ly rest on that peace-ful shore,\nWhere the blight of sin shall be felt no more;\nWhen I find the loved ones who’ve gone be-fore,\nO say, will you meet me there?\n\nSay, will you meet me there?\nSay, will you meet me there?\nIn the home a-bove, in the land of love,\nO say, will you meet me there?\n"
+|Lyric3|Text:"3._When I stand at last with the white-robed throng,\nTo a-dore my king, and His praise pro-long;\nWhen my voice shall join in the glad, new song,\nO say, will you meet me there?\n\nSay, will you meet me there?\nSay, will you meet me there?\nIn the home a-bove, in the land of love,\nO say, will you meet me there?\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Rest|Dur:4th
+|Spacer|Width:125
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:Half,Dotted|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-3,1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:0,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:-6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:-6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Say! Will You Meet Me There"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nO say,\n_ _ _ _ _ _\nO say,\n\nSay, will you meet me there?\nSay, will you meet me there?\nIn the home a-bove, in the land of love,\nO say, will you meet me there?\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,n5
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:8th,Dotted|Pos:b1,6
+|Chord|Dur:16th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th,Dotted|Pos:-2,7
+|Chord|Dur:16th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Rest|Dur:4th
+|Bar|Style:Double
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,9
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:8th,Dotted|Pos:6|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:6
+|Chord|Dur:16th|Pos:5,6
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:3,6
+|Boundary|Style:NewSize|Upper:10
+|Chord|Dur:8th,Dotted|Pos:5,6
+|Chord|Dur:16th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:-1,6
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:3,6
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,8
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:8th,Dotted|Pos:b1,6
+|Chord|Dur:16th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th,Dotted|Pos:-2,7
+|Chord|Dur:16th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

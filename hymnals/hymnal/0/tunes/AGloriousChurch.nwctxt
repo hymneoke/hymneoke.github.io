@@ -1,0 +1,224 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"A Glorious Church"|Author:"Ralph Erskine Hudson"|Lyricist:"Ralph Erskine Hudson, 1892"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Melodies of Praise (Springfield, Missouri: Gospel Publishing House, 1957), # 129."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:14|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-18
+|Lyric1|Text:"1._Do you hear them com-ing, bro-ther,\nThrong-ing up the steeps of light,\nClad in glor-ious shin-ing gar-ments,\nBlood washed, gar-ments pure and white?\n\n’Tis a glor-ious church with-out spot or wrink-le,\nWashed in the blood of the Lamb;\n’Tis a glor-ious church with-out spot or wrink-le,\nWashed in the blood of the Lamb.\n"
+|Lyric2|Text:"2._Do you hear the stir-ring an-thems,\nFill-ing all the earth and sky,\n’Tis a grand, vic-tor-ious ar-my,\nLift its ban-ner up on high!\n\n’Tis a glor-ious church with-out spot or wrink-le,\nWashed in the blood of the Lamb;\n’Tis a glor-ious church with-out spot or wrink-le,\nWashed in the blood of the Lamb.\n"
+|Lyric3|Text:"3._Nev-er fear the clouds of sor-row,\nNev-er fear the storms of sin.\nWe shall tri-umph on the mor-row,\nEv-en now our joys be-gin.\n\n’Tis a glor-ious church with-out spot or wrink-le,\nWashed in the blood of the Lamb;\n’Tis a glor-ious church with-out spot or wrink-le,\nWashed in the blood of the Lamb.\n"
+|Lyric4|Text:"4._Wave the ban-ner, shout His prais-es,\nFor our vic-tor-y is nigh!\nWe shall join our con-qu’ring Sav-ior,\nWe shall reign with Him on high!\n\n’Tis a glor-ious church with-out spot or wrink-le,\nWashed in the blood of the Lamb;\n’Tis a glor-ious church with-out spot or wrink-le,\nWashed in the blood of the Lamb.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:113|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:Half|Pos:-4,-2
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:Half|Pos:-3,-1
+|Rest|Dur:4th
+|Spacer|Width:175
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-3,0
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Spacer|Width:400
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:6
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:#-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"A Glorious Church"|Label:"A Glorious Church"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:29|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n’Tis a glor-ious church with-out spot or wrink-le,\nWashed in the blood of the Lamb;\n’Tis a glor-ious church with-out spot or wrink-le,\nWashed in the blood of the Lamb.\n\n’Tis a glor-ious church with-out spot or wrink-le,\nWashed in the blood of the Lamb;\n’Tis a glor-ious church with-out spot or wrink-le,\nWashed in the blood of the Lamb.\n"
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:Half|Pos:2,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:21
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:1,6
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th,Dotted|Pos:-4,5
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

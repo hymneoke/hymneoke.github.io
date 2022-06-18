@@ -1,0 +1,224 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I’ve Reached the Port of Peace"|Author:"Isaac Newton Hugg"|Lyricist:"Johnson Oatman, Jr., 1902"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Fairer Than Day, by George C. Hugg, enlarged edition (Philadelphia, Pennsylvania: George C. Hugg, 1903), # 5."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Tho’ stor-my gales sweep o’er life’s seas,\nTho’ break-ers all a-round may be,\nPraise God, no harm can come to me,\nI’ve reached the port of peace.\n\nI’ve reached the port of peace,\nSuch great a-bid-ing peace;\nTho’ storms may sweep life’s migh-ty deep,\nI’ve reached the port of peace.\n"
+|Lyric2|Text:"2._Of judg-ment long I stood in awe,\nIts ter-rors on-ly I fore-saw,\nBut, since I’ve leanred to love God’s law,\nI’ve reached the port of peace.\n\nI’ve reached the port of peace,\nSuch great a-bid-ing peace;\nTho’ storms may sweep life’s migh-ty deep,\nI’ve reached the port of peace.\n"
+|Lyric3|Text:"3._Now let the days be what they will,\nI hear that whis-per, “Peace, be still”;\nSafe an-chored here, I fear no ill,\nI’ve reached the port of peace.\n\nI’ve reached the port of peace,\nSuch great a-bid-ing peace;\nTho’ storms may sweep life’s migh-ty deep,\nI’ve reached the port of peace.\n"
+|Lyric4|Text:"4._The world may smile, the world may frown,\nMay lift me up or cast me down;\nI know my bark, it can-not drown,\nI’ve reached the port of peace.\n\nI’ve reached the port of peace,\nSuch great a-bid-ing peace;\nTho’ storms may sweep life’s migh-ty deep,\nI’ve reached the port of peace.\n"
+|Lyric5|Text:"5._And when I reach the o-ther side,\nAnd on those pla-cid wa-ters glide,\nI’ll find, just o’er life’s surg-ing tide,\nE-ter-nal ports of peace.\n\nI’ve reached the port of peace,\nSuch great a-bid-ing peace;\nTho’ storms may sweep life’s migh-ty deep,\nI’ve reached the port of peace.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:107|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:n-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:n-5,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:10
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Slur|Pos:-4,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,-4,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4,-1
+|Spacer|Width:375
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9|Justify:Right
+|Spacer|Width:100
+|Boundary|Style:NewSize|Lower:22
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:n-5,1
+|Chord|Dur:4th|Pos:-5,1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:Half|Pos:-2|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Slur|Pos:-4,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-5,-4,0
+|Chord|Dur:8th|Pos:-6,-4,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"I’ve Reached the Port"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-5
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nsweet peace,\n_ _ _ _ _ _ _\na-bid-ing peace;\n\nI’ve reached the port of peace,\nSuch great a-bid-ing peace;\nTho’ storms may sweep life’s migh-ty deep,\nI’ve reached the port of peace.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down|Dur2:4th|Pos2:6
+|Chord|Dur:4th,Dotted|Pos:6|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:6
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Bar
+|Chord|Dur:4th|Pos:7|Opts:Stem=Down|Dur2:4th|Pos2:7
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:-2,2,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:0,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,n4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Boundary|Style:NewSize|Upper:21
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:17
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:4,6
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:11
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:8th|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Slur|Pos:-3,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

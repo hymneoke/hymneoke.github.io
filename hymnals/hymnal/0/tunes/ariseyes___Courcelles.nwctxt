@@ -1,0 +1,192 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:62|CaretPos:2
+|SongInfo|Title:"Courcelles, 86.86.66.86"|Author:"Anonymous, before 1922"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Elmhurst Hymnal (St. Louis, Missouri: Eden Publishing House, 1921),  226."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._A-rise, ye sol-diers of the cross,\nTo bat-tle for your Lord!\nNo sloth-ful soul can ev-er wield\nHis strong, tri-um-phant sword.\nHis ban-ner floats on high;\nClear sounds the bat-tle cry;\nWith Him who died to make us free\nWe march to vic-to-ry!\n"
+|Lyric2|Text:"2._The sol-diers of this glo-rious king\nRe-ceive a rai-ment white,\nAnd stand re-vealed to all the world\nAs chil-dren of the light.\nThey bear their lead-er’s cross,\nCare not for an-y loss,\nAnd eve-ry need is sat-is-fied\nAs they in Him a-bide.\n"
+|Lyric3|Text:"3._Be strong, then in your Lord and king,\nPut on God’s ar-mor whole;\nBe stead-fast in the e-vil day\nWith true and right-eous soul.\nTake up the shield of faith,\nAnd, val-iant un-to death,\nQuench Sa-tan’s eve-ry fier-y dart;\nYour Lord will strength im-part.\n"
+|Lyric4|Text:"4._With Thee, our cap-tain and our king,\nWe need not fear the fight;\nIf Thou dost rule each thought and deed,\nWe con-quer by Thy might.\nMake strong each heart and bold,\nNor let our love grow cold;\nThy faith-ful sol-diers we would be\nAnd share Thy vic-to-ry.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Canary Wharf, 86.86.66.86"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down|Dur2:4th|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down|Dur2:4th|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Rest|Dur:4th
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

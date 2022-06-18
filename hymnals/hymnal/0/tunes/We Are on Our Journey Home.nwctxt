@@ -1,0 +1,156 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"We Are on Our Journey Home"|Author:"Charles Beecher"|Lyricist:"Charles Beecher, 1851"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Church Hymnary, edited by Edwin A. Bedell (New York: Charles E. Merrill, 1893), # 986."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._We are on our jour-ney home,\nWhere Christ our Lord is gone;\nWe shall meet a-round His throne,\nWhen He makes His peo-ple one,\nIn the new, in the new Je-ru-sa-lem.\n"
+|Lyric2|Text:"2._We can see that dis-tant home,\nThough clouds rise dark be-tween;\nFai-th views the ra-diant dome,\nAnd a lus-ter flash-es keen\nFrom the new, from the new Je-ru-sa-lem.\n"
+|Lyric3|Text:"3._O _ glo-ry shin-ing far\nFrom_the ne-ver set-ting sun,\nO _ trem-bling morn-ing star,\nO-ur jour-ney’s al-most done,\nTo the new, to the new Je-ru-sa-lem.\n"
+|Lyric4|Text:"4._O _ ho-ly, heaven-ly home,\nO rest e-ter-nal there:\nWh-en shall the ex-iles come,\nWhere they cease from earth-ly care,\nIn the new, in the new Je-ru-sa-lem.\n"
+|Lyric5|Text:"5._O-ur hearts are break-ing now\nThose man-sions fair to see;\nO _ Lord, Thy hea-vens bow,\nA-nd raise us up to Thee,\nTo the new, to the new Je-ru-sa-lem.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-6|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-6
+|Chord|Dur:16th|Pos:-6|Opts:Stem=Up|Dur2:16th|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Chord|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:16th|Pos:-3|Opts:Stem=Up,Beam=End
+|Spacer|Width:350
+|Boundary|Style:NewSize|Lower:26
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,4
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Note|Dur:8th,Dotted|Pos:-6
+|Note|Dur:16th|Pos:-6
+|Bar
+|Note|Dur:4th,Dotted,Slur|Pos:-3
+|Note|Dur:8th,Slur|Pos:-4
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:8th,Dotted|Pos:-6,-2
+|Chord|Dur:16th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"We Are on Our Journey Home"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:25|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Chord|Dur:8th,Dotted,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:16th|Pos:5|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:19
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:6|Opts:Stem=Up|Dur2:4th|Pos2:2
+|Note|Dur:16th|Pos:5|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Half,Dotted
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-2,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

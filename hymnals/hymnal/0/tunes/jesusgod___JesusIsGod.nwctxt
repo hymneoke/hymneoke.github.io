@@ -1,0 +1,198 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:70|CaretPos:5
+|SongInfo|Title:"Jesus Is God, CMD"|Author:"William Charles Poole, 1920"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hosanna (New York: New Church Press, 1920). Notated by Carl Yenetchi (newchurch@csinet.net).\r\n\r\n"
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Je-sus is God! The sol-id earth,\nThe o-cean broad and bright,\nThe count-less stars like gold-en dust,\nThat strew the sky at night,\nThe wheel-ing storm, the dread-ful fire,\nThe pleas-ant whole-some air,\nThe sum-mer’s sun, the win-ter’s frost,\nHis own cre-a-tion were.\n"
+|Lyric2|Text:"2._Je-sus is God! The glo-rious bands\nOf gold-en an-gels sing\nSongs of a-dor-ing praise to Him,\nTheir Mak-er and their King.\nHe was true God in Beth-lehem’s crib,\nOn Cal-vary’s cross true God,\nHe who in Heav’n e-ter-nal reigned,\nIn time on earth a-bode.\n"
+|Lyric3|Text:"3._Je-sus is God! Let sor-row come,\nAnd pain, and eve-ry ill,\nAll are worth-while, for all are means\nHis glo-ry to ful-fill;\nWorth-while a thou-sand years of woe\nTo speak one lit-tle word,\nIf by that “I be-lieve” we own\nThe God-head of our Lord.\n"
+|Lyric4|Text:"4._Je-sus is God! O! could I now\nBut com-pass earth and sea,\nTo teach and tell the sin-gle truth,\nHow hap-py should I be!\nO! had I but an an-gel’s voice,\nI would pro-claim so loud,\nJe-sus, the good, the beau-ti-ful,\nIs ev-er-last-ing God.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:0
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:1
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Note|Dur:8th|Pos:-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Jesus is God, CMD"|Label:"Jesus is God, CMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:4th|Pos:7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,#3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,#4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,#4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4,8
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

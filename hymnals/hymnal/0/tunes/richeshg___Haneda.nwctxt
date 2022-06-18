@@ -1,0 +1,117 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:32|SelectIndex:33|CaretPos:0
+|SongInfo|Title:"Haneda,77.77"|Author:"Abel Fiske, 1896"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Truth in Song, edited by by Clara H. Scott (Chicago, Illinois: Mrs. Clara H. Scott, 1896), # 19. NOTE: “Abel Fiske” may be a pseudonym for music teacher Abel Fiske Jones, Clara Scott’s father."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Peace I have most full and free,\nPeace from sim-ply trust-ing Thee,\nJoy se-rene I hold all day,\nWhen I fol-low Christ, the way.\n"
+|Lyric2|Text:"2._Love di-vine in-clud-ing all,\nFrom the great-est to the small,\nCan be mine in that de-gree\nThat I let it shine thro’ me.\n"
+|Lyric3|Text:"3._Safe from fears am I and whole,\nThro’ the Christ with-in my soul,\nRest I have in eve-ry thing,\nWhen to Thee I close-ly cling.\n"
+|Lyric4|Text:"4._Sat-is-fac-tion, full, com-plete,\nFills me with its fra-grance sweet,\nHealth of bod-y and of mind\nIn the liv-ing Christ I find.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:103|Pos:11.5|Justify:Center
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:Common
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-6,-2
+|Chord|Dur:8th|Pos:-8,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-5
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:Common
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:8th|Pos:2,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

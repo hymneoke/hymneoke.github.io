@@ -1,0 +1,210 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"He Leadeth Me, LMD"|Author:"William Batchelder Bradbury, 1864"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Edward MacHugh\'s Treasury of Gospel Hymns and Poems (Winona Lake, Indiana: Rodeheaver Hall-Mack, 1938), # 44."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The Star of Ja-cob yet shall rise\nUp-on a sad and sin-ful world,\nLike morn-ing from the o-rient skies,\nWhen night’s dark cur-tain clouds are furled.\nAnd all the na-tions of the earth\nShall come with songs of ho-ly mirth,\nTo hail the great Re-deem-er’s birth,\nThe ad-vent of the Word di-vine.\n"
+|Lyric2|Text:"2._The Star of Ja-cob’s heav’n-ly light\nShall cheer this low-ly vale of tears,\nAs plan-et, through the glooms of night,\nUp-on the wan-derer’s path ap-pears;\nAnd from temp-ta-tion’s guile-ful snares,\nAnd ’neath the load of mor-tal cares,\nAnd through the toil that mor-tal bears,\nIt shall the faith-ful pil-grim guide.\n"
+|Lyric3|Text:"3._The Star of Ja-cob’s ho-ly beam,\nShall fade not with the fad-ing ev’n,\nBut meet the pi-ous pil-grim’s dream,\nAnd draw his foot-steps on to Heav’n;\nAnd to the soul, with part-ed breath,\nIt shall il-lume the dark-some path\nThat stretch-es through the vale of death,\nAnd bring him safe-ly to his God.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:108|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-8,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-8,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-8,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-8,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-7,-5|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,2|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-7,-5|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,2|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-7,-5|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"He Leadeth Me, LMD"|Label:"He Leadeth Me, LMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Note|Dur:4th|Pos:3
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:2,4
+|Note|Dur:4th|Pos:4
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:2,4
+|Note|Dur:4th|Pos:4
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:4th|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

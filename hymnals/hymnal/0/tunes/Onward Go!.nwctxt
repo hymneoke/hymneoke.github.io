@@ -1,0 +1,205 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Onward Go!"|Author:"James McGranahan, 1881"|Lyricist:"Arranged from E. B."|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns Nos. 1 to 6 Complete, by Ira D. Sankey, James McGranahan & George C. Stebbins (Chicago, Illinois: Biglow & Main, 1894), # 214. Publication date from http://www.hymnary.org."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:29|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Trust-ing in the Lord thy God,\nOn-ward go! on-ward go!\nHold-ing fast His prom-ised word,\nOn-ward go!\nNe’er de-ny His wor-thy name,\nTho’ it bring re-proach and shame;\nSpread-ing still His won-drous fame,\nOn-ward go!\n"
+|Lyric2|Text:"2._Has He called thee to the plough?\nOn-ward go! on-ward go!\nNight is com-ing, serve Him now;\nOn-ward go!\nFaith and love in ser-vice blend;\nOn His might-y arm de-pend;\nStand-ing fast un-til the end,\nOn-ward go!\n"
+|Lyric3|Text:"3._Has He giv’n thee gold-en grain?\nOn-ward go! on-ward go!\nSow, and thou shalt reap a-gain;\nOn-ward go!\nTo thy mas-ter’s gate re-pair,\nWatch-ing be and wait-ing there;\nHe will hear and an-swer prayer;\nOn-ward go!\n"
+|Lyric4|Text:"4._Has he said the end is near?\nOn-ward go! on-ward go!\nServ-ing Him with ho-ly fear,\nOn-ward go!\nChrist thy por-tion, Christ thy stay,\nHeav’n-ly bread up-on the way,\nLead-ing on to glor-ious day;\nOn-ward go!\n"
+|Lyric5|Text:"5._In this lit-tle mo-ment, then,\nOn-ward go! on-ward go!\nIn thy ways ack-now-ledge Him;\nOn-ward go!\nLet His mind be found in thee:\nLet His will thy plea-sure be;\nThus in life and li-ber-ty,\nOn-ward go!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,-1
+|Spacer|Width:600
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-3,-1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th,Slur|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-1,2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:Half|Pos:n-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward|Dur2:Whole|Pos2:-1
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-3,-1
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward|Dur2:Whole|Pos2:2
+|Note|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward
+|Note|Dur:Half|Pos:-3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Onward Go!"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:Half|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Boundary|Style:NewSize|Upper:23
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:9
+|Bar
+|Chord|Dur:4th,Slur|Pos:8|Opts:Stem=Up|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:8|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Down|Dur2:Whole|Pos2:6
+|Note|Dur:4th,Slur|Pos:4|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:4|Opts:Stem=Down
+|Note|Dur:4th|Pos:4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,b6
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:-3,8
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up|Dur2:Whole|Pos2:0
+|Note|Dur:4th,Slur|Pos:5|Opts:Stem=Up
+|Note|Dur:Half|Pos:4|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

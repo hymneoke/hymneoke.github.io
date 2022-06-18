@@ -1,0 +1,252 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Story Never Old"|Author:"Charles Hutchinson Gabriel"|Lyricist:"Charles Hutchinson Gabriel, 1906"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Assembly Songs (Richmond, Virginia: Presbyterian Committee of Publication,  1910), # 10."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:16|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-18
+|Lyric1|Text:"1._The sweet-est stor-y told on earth,\nOr heard in Heav’n a-bove,\nIs told of Je-sus and His birth,\nOf Je-sus and His love.\n\nO stor-y nev-er old,\nThe sweet-est ev-er told!\nUn-til the gates of gold swing back for me;\nI’ll tell it o’er and o’er,\nAnd then on yon-der shore\nIt still for-ev-er-more my song shall be.\n"
+|Lyric2|Text:"2._He took up-on Him-self the guilt\nOf all my sins and thine,\nAnd on the cross of Cal-va-ry\nHe paid thy debt and mine.\n\nO stor-y nev-er old,\nThe sweet-est ev-er told!\nUn-til the gates of gold swing back for me;\nI’ll tell it o’er and o’er,\nAnd then on yon-der shore\nIt still for-ev-er-more my song shall be.\n"
+|Lyric3|Text:"3._“There was no o-ther good e-nough\nTo pay the price of sin;\nHe on-ly could un-lock the gate\nOf Heav’n and let us in.”\n\nO stor-y nev-er old,\nThe sweet-est ev-er told!\nUn-til the gates of gold swing back for me;\nI’ll tell it o’er and o’er,\nAnd then on yon-der shore\nIt still for-ev-er-more my song shall be.\n"
+|Lyric4|Text:"4._“O dear-ly, dear-ly hath He loved\nAnd we must love Him, too,\nAnd trust in His re-deem-ing love,\nAnd try His works to do.”\n\nO stor-y nev-er old,\nThe sweet-est ev-er told!\nUn-til the gates of gold swing back for me;\nI’ll tell it o’er and o’er,\nAnd then on yon-der shore\nIt still for-ev-er-more my song shall be.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:112|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,-3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Slur=Upward,Beam=End,Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-7,-4|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-7,-3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-7,-3|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-7,-4|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-7,-4|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,-3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Slur=Upward,Beam=End,Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Slur=Upward,Tie=Upward
+|Spacer|Width:300
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:15|Justify:Center
+|Tempo|Tempo:105|Pos:9
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-1,0|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-2,3|Opts:Slur=Upward,Tie=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-2,2|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-1
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:4th,Dotted|Pos2:-1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-1,3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-1,2|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-2
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Note|Dur:16th|Pos:-5|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward,Tie=Upward
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward,HideRest|Dur2:4th,Slur|Pos2:-5
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:0^
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,Tie=Upward
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam,Tie=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down,Slur=Upward,Beam=End,Tie=Upward
+|Chord|Dur:8th|Pos:-1,0|Opts:Slur=Upward,Tie=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-2,3|Opts:Slur=Upward,Tie=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-2,2|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-1
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:4th,Dotted|Pos2:-1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:8th|Pos:-1,3|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-1,2|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-2
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem,Tie=Upward|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Note|Dur:16th|Pos:-5|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem,Tie=Upward|Dur2:4th,Dotted|Pos2:0
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-7,-3|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4|Opts:Slur=Upward,Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"The Story Never Old"|Label:"The Story Never Old"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:31|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:10
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nO stor-y nev-er old,\nThe sweet-est ev-er told!\nUn-til the gates of gold swing back for me;\nI’ll tell it o’er and o’er,\nAnd then on yon-der shore,\nIt still for-ev-er-more my song shall be.\n\nO stor-y nev-er old,\nThe sweet-est ev-er told!\nUn-til the gates of gold swing back for me;\nI’ll tell it o’er and o’er,\nAnd then on yon-der shore\nIt still for-ev-er-more my song shall be.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Spacer|Width:675
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:1,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:-4,5|Opts:Stem=Down,Slur=Downward,Beam=First,Tie=Downward
+|Chord|Dur:8th|Pos:-3,6|Opts:Stem=Down,Slur=Downward,Beam=End,Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-2,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-2,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-2,4|Opts:Slur=Downward,Tie=Downward
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:8th|Pos:1,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:2,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:2,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:2,n4|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Slur=Downward,Tie=Downward
+|Bar|Style:Double
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem,Tie=Downward|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:5,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-2,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-2,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem,Tie=Downward|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5,7|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Boundary|Style:NewSize|Upper:30
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:3,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:b3,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-2,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:4,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,Beam=End,Tie=Downward
+|Chord|Dur:8th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:5,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:5,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-2,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-2,7|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:8th|Pos:5,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:5,7|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:3,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:b3,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-2,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:2,6|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-2,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:8th|Pos:-2,4|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

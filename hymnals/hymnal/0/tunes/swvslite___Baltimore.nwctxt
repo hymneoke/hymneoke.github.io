@@ -1,0 +1,135 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:46|SelectIndex:47|CaretPos:0
+|SongInfo|Title:"Baltimore, 77.77"|Author:"Composer Unknown"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sunday-School Hymnal (St. Louis, Missouri: Concordia Publishing House, 1912), # 2."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Sin, when viewed by scrip-ture light,\nIs a hor-rid, hate-ful sight;\nBut when seen in Sa-tan’s glass,\nThen it wears a pleas-ing face.\n"
+|Lyric2|Text:"2._When the Gos-pel trum-pet sounds,\nWhen I think how grace a-bounds,\nWhen I feel sweet peace with-in,\nThen I’d ra-ther die than sin.\n"
+|Lyric3|Text:"3._When the cross I view by faith,\nSin is mad-ness, poi-son, death;\nTempt me not, ’tis all in vain,\nSure I ne’er can yield a-gain.\n"
+|Lyric4|Text:"4._Sa-tan, for a-while de-barred,\nWhen he finds me off my guard,\nPuts his glass be-fore my eyes,\nQuick-ly oth-er thoughts a-rise.\n"
+|Lyric5|Text:"5._What be-fore ex-cit-ed fears,\nRa-ther pleas-ing now ap-pears;\nIf a sin, it seems so small,\nOr, per-haps, no sin at all.\n"
+|Lyric6|Text:"6._Of-ten thus, through sin’s de-ceit,\nGrief, and shame, and loss I meet,\nLike a fish, my soul mis-took,\nSaw the bait, but not the hook.\n"
+|Lyric7|Text:"7._O my Lord, what shall I say?\nHow can I pre-sume to pray?\nNot a word have I to plead,\nSins, like mine, are black in-deed!\n"
+|Lyric8|Text:"8._Made, by past ex-pe-rience, wise,\nLet me learn Thy Word to prize;\nTaught by what I’ve felt be-fore,\nLet me Sa-tan’s glass ab-hor.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:140|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:Half|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-4
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,n-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Note|Dur:4th|Pos:-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Baltimore, 77.77"|Label:"Baltimore, 77.77"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:2,5
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:2,5
+|Chord|Dur:4th|Pos:4,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:4,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,b7
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

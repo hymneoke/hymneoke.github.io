@@ -1,0 +1,217 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"As the Bird Flies Home"|Author:"John Robson Sweney"|Lyricist:"Frances Jane (Fanny) Crosby, 1891"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Radiant Songs, edited by John R. Sweney, William J. Kirkpatrick & Henry L. Gilmour (Philadelphia, Pennsylvania: John J. Hood, 1891), # 12."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._As the bird flies home to its par-ent nest,\nWhen the hunt-er seeks his prey,\nO child of God, to thy Fa-ther haste,\nFrom the tempt-er’s snare a-way.\n\nUn-der His wings thy de-fense shall be,\nHe with His fea-thers shall co-ver thee,\nCo-ver thee, co-ver thee,\nHe with His fea-thers will co-ver thee.\n"
+|Lyric2|Text:"2._When the winds are cold, and the days are long,\nAnd thy soul from care would hide,\nFly back, fly back, to thy Fa-ther then,\nAnd be-neath His wings a-bide.\n\nUn-der His wings thy de-fense shall be,\nHe with His fea-thers shall co-ver thee,\nCo-ver thee, co-ver thee,\nHe with His fea-thers will co-ver thee.\n"
+|Lyric3|Text:"3._Oh, the tran-quil joy of that dear re-treat,\nWhere the Sav-ior bids thee rest,\nWith stead-fast hope, and a trust-ing faith,\nIn His love se-cure and blest.\n\nUn-der His wings thy de-fense shall be,\nHe with His fea-thers shall co-ver thee,\nCo-ver thee, co-ver thee,\nHe with His fea-thers will co-ver thee.\n"
+|Lyric4|Text:"4._’Tis the Lord thy God that to thee has said,\nHe will guide thee with His eye;\nIn all thy need, like the wear-y dove,\nTo Thy on-ly ref-uge fly.\n\nUn-der His wings thy de-fense shall be,\nHe with His fea-thers shall co-ver thee,\nCo-ver thee, co-ver thee,\nHe with His fea-thers will co-ver thee.\n"
+|Clef|Type:Treble
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/4
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:Half|Pos:-7,-2
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:Half|Pos:#-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6^,-1^
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:Half|Pos:-7,-2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:n-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-4
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7^,-2^
+|Chord|Dur:Half|Pos:-7,-2
+|Rest|Dur:4th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:25
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:#-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:Half,Dotted|Pos:n-6,-1
+|Bar
+|Note|Dur:Half|Pos:0
+|Note|Dur:4th|Pos:-1
+|Note|Dur:Half,Dotted|Pos:-2
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:n-3,2
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"As the Bird Flies Home"|Label:"As the Bird Flies Home"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/4
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0^,2^
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:Half|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4^,3^|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Down
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:2
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,8
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:8th|Pos:3,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar
+|Note|Dur:Half|Pos:7
+|Note|Dur:4th|Pos:6
+|Note|Dur:Half,Dotted|Pos:5
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:#-1,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:Half|Pos:-4,3,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

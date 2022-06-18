@@ -1,0 +1,200 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I Shall Be Satisfied"|Author:"Thomas C. Neal, 1877"|Lyricist:"Horatius Bonar (1808-1889)"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Living Hymns, by John Wanamaker & John R. Sweney (Philadelphia, Pennsylvania: John J. Hood, 1890), p. 9"
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._When I shall wake in that fair morn of morns,\nAf-ter whose dawn-ing ne-ver night re-turns,\nAnd with whose glo-ry day e-ter-nal burns,\nI shall be sa-tis-fied.\n\nI shall be sa-tis-fied,\nI shall be sa-tis-fied\nI shall be sa-tis-fied,\nBy and by.\n"
+|Lyric2|Text:"2._When I shall see Thy glo-ry face to face,\nWhen in Thine arms Thou wilt Thy child em-brace,\nWhen Thou shalt o-pen all Thy stores of grace,\nI shall be sa-tis-fied.\n\nI shall be sa-tis-fied,\nI shall be sa-tis-fied\nI shall be sa-tis-fied,\nBy and by.\n"
+|Lyric3|Text:"3._When I shall meet with those that I have loved,\nClasp in my ea-ger arms the long re-moved,\nAnd find how faith-ful Thou to me hast proved,\nI shall be sa-tis-fied.\n\nI shall be sa-tis-fied,\nI shall be sa-tis-fied\nI shall be sa-tis-fied,\nBy and by.\n"
+|Lyric4|Text:"4._When I shall gaze up-on the face of Him\nWho for me died, with eye no long-er dim,\nAnd praise Him with the ev-er-last-ing hymn,\nI shall be sa-tis-fied.\n\nI shall be sa-tis-fied,\nI shall be sa-tis-fied\nI shall be sa-tis-fied,\nBy and by.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-6,-1
+|Spacer|Width:550
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-3
+|Chord|Dur:16th|Pos:-6,-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:#-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-7,-5
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Rest|Dur:4th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:25
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,2
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:#-2,n0
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Up|Dur2:16th|Pos2:-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:#-6,-4
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up,Beam=End
+|Bar
+|TempoVariance|Style:Ritardando|Pos:8|Justify:Center
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"I Shall Be Satisfied"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:2
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:-3,6
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

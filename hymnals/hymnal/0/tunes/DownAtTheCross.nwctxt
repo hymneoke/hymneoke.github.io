@@ -1,0 +1,202 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Down at the Cross"|Author:"John Hart Stockton"|Lyricist:"Elisha Albright Hoffman, 1878"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Worship in Song (Kansas City, Missouri: Lillenas Publishing, 1972), # 81."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Down at the cross where my Sav-ior died,\nDown where for cleans-ing from sin I cried,\nThere to my heart was the blood ap-plied;\nGlo-ry to His name!\n\nGlo-ry to His name, glo-ry to His name:\nThere to my heart was the blood ap-plied;\nGlo-ry to His name!\n"
+|Lyric2|Text:"2._I am so won-drous-ly saved from sin,\nJe-sus so sweet-ly a-bides with-in;\nThere at the cross where He took me in;\nGlo-ry to His name!\n\nGlo-ry to His name, glo-ry to His name:\nThere to my heart was the blood ap-plied;\nGlo-ry to His name!\n"
+|Lyric3|Text:"3._Oh, pre-cious fount-ain that saves from sin,\nI am so glad I have en-tered in;\nThere Je-sus saves me and keeps me clean;\nGlo-ry to His name!\n\nGlo-ry to His name, glo-ry to His name:\nThere to my heart was the blood ap-plied;\nGlo-ry to His name!\n"
+|Lyric4|Text:"4._Come to this fount-ain so rich and sweet,\nCast thy poor soul at the Sav-ior’s feet;\nPlunge in to-day, and be made com-plete;\nGlo-ry to His name!\n\nGlo-ry to His name, glo-ry to His name:\nThere to my heart was the blood ap-plied;\nGlo-ry to His name!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-4|Opts:Stem=Up
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Down
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,0|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-4|Opts:Stem=Up
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-6,-1|Opts:Stem=Up
+|Spacer|Width:375
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:21
+|Chord|Dur:4th,Dotted|Pos:-5,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-1|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-4
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Up
+|Note|Dur:Half|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-4|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Stem=Up
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Glory to His Name"|Label:"Glory to His Name"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Note|Dur:4th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th,Dotted|Pos:4|Opts:Stem=Down
+|Note|Dur:16th|Pos:4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:4,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Note|Dur:4th|Pos:4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-3,4|Opts:Stem=Down
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:4
+|Chord|Dur:4th,Dotted|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Dotted|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:4th|Pos:4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Whole|Pos2:1
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward
+|Note|Dur:Half|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Stem=Down
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

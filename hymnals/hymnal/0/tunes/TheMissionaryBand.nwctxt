@@ -1,0 +1,266 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Missionary Band"|Author:"George W. Wall & Frank M. Graham"|Lyricist:"George W. Wall & Frank M. Graham, 1914"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs for Jesus No. 5, by Frank M. Graham (Greensboro, Georgia: Frank M. Graham, 1914), # 21."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.78|Right:2.54|Bottom:1.78|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Violin"|Patch:40|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._We want to work for our dear Lord,\nWe want to send His pre-cious Word\nO-ver the sea to hea-then lands,\nFor we’re a mis-sion-a-ry band.\n\nA hap-py band are we,\nHelp-ing them o-ver the sea;\nGiv-ing of our pen-nies,\nFif-ty-two a year;\nA hap-py band are we,\nHelp-ing them o-ver the sea;\nWon’t you come and join us?\nYou are need-ed here.\n"
+|Lyric2|Text:"2._Je-sus will help us ev-ery day,\nTo earn our pen-nies for to pay\nTo take the Gos-pel o-ver there,\nTo help poor hea-thens in des-pair.\n\nA hap-py band are we,\nHelp-ing them o-ver the sea;\nGiv-ing of our pen-nies,\nFif-ty-two a year;\nA hap-py band are we,\nHelp-ing them o-ver the sea;\nWon’t you come and join us?\nYou are need-ed here.\n"
+|Lyric3|Text:"3._O we will earn our pen-nies brown,\nThen we will glad-ly lay them down\nTo send the Gos-pel to that land,\nThe pen-nies from our lit-tle band.\n\nA hap-py band are we,\nHelp-ing them o-ver the sea;\nGiv-ing of our pen-nies,\nFif-ty-two a year;\nA hap-py band are we,\nHelp-ing them o-ver the sea;\nWon’t you come and join us?\nYou are need-ed here.\n"
+|Lyric4|Text:"4._For all that we can ev-er do,\nWe’ll be well paid, our Lord is true;\nFor in His Word He says so plain:\nHe’ll pay us when He comes a-gain.\n\nA hap-py band are we,\nHelp-ing them o-ver the sea;\nGiv-ing of our pen-nies,\nFif-ty-two a year;\nA hap-py band are we,\nHelp-ing them o-ver the sea;\nWon’t you come and join us?\nYou are need-ed here.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:90|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Spacer|Width:300
+|Bar
+|Note|Dur:4th,Dotted|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:4th,Dotted|Pos:-2
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:#-2
+|Spacer|Width:225
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:#-2
+|Bar
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-2
+|Spacer|Width:200
+|Bar
+|Note|Dur:Half|Pos:-3
+|Rest|Dur:8th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:14
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th,Triplet=First|Pos:-6,-3
+|Chord|Dur:8th,Triplet|Pos:-6,-3
+|Chord|Dur:8th,Triplet=End|Pos:-6,-3
+|Chord|Dur:8th,Triplet=First|Pos:-5,-3
+|Chord|Dur:8th,Triplet|Pos:-5,-3
+|Chord|Dur:8th,Triplet=End|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,1
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th,Triplet=First|Pos:-6,-3
+|Chord|Dur:8th,Triplet|Pos:-6,-3
+|Chord|Dur:8th,Triplet=End|Pos:-6,-3
+|Chord|Dur:8th,Triplet=First|Pos:-5,-3
+|Chord|Dur:8th,Triplet|Pos:-5,-3
+|Chord|Dur:8th,Triplet=End|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"The Missionary Band, 1914"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"A hap-py band are we, are we, yes,\nA hap-py band are we, are we, yes\n\nA hap-py band are we,\nHelp-ing them o-ver the sea;\nGiv-ing of our pen-nies,\nFif-ty-two a year;\nA hap-py band are we,\nHelp-ing them o-ver the sea;\nWon’t you come and join us?\nYou are need-ed here.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Note|Dur:8th|Pos:4|Opts:Lyric=Never
+|Note|Dur:8th|Pos:4|Opts:Lyric=Never
+|Note|Dur:8th|Pos:5|Opts:Lyric=Never
+|Bar
+|Note|Dur:4th,Dotted|Pos:6|Opts:Lyric=Never
+|Note|Dur:8th|Pos:6|Opts:Lyric=Never
+|Note|Dur:8th|Pos:6|Opts:Lyric=Never
+|Note|Dur:8th|Pos:5|Opts:Lyric=Never
+|Bar
+|Note|Dur:4th,Dotted|Pos:4|Opts:Lyric=Never
+|Note|Dur:8th|Pos:4|Opts:Lyric=Never
+|Note|Dur:8th|Pos:#3|Opts:Lyric=Never
+|Note|Dur:8th|Pos:4|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Note|Dur:4th,Dotted|Pos:5|Opts:Lyric=Never
+|Note|Dur:8th|Pos:7|Opts:Lyric=Never
+|Note|Dur:8th|Pos:6|Opts:Lyric=Never
+|Note|Dur:8th|Pos:n5|Opts:Lyric=Never
+|Bar
+|Note|Dur:4th,Dotted|Pos:6|Opts:Lyric=Never
+|Note|Dur:8th|Pos:4|Opts:Lyric=Never
+|Note|Dur:8th|Pos:4|Opts:Lyric=Never
+|Note|Dur:8th|Pos:5|Opts:Lyric=Never
+|Bar
+|Note|Dur:4th,Dotted|Pos:6|Opts:Lyric=Never
+|Note|Dur:8th|Pos:6|Opts:Lyric=Never
+|Note|Dur:8th|Pos:b8|Opts:Lyric=Never
+|Note|Dur:8th|Pos:8|Opts:Lyric=Never
+|Bar
+|Note|Dur:4th,Dotted|Pos:7|Opts:Lyric=Never
+|Note|Dur:8th|Pos:7|Opts:Lyric=Never
+|Note|Dur:8th|Pos:6|Opts:Lyric=Never
+|Note|Dur:8th|Pos:n5|Opts:Lyric=Never
+|Bar
+|Note|Dur:8th|Pos:6|Opts:Lyric=Never
+|Note|Dur:8th|Pos:4|Opts:Lyric=Never
+|Note|Dur:4th|Pos:6|Opts:Lyric=Never
+|Note|Dur:4th|Pos:5|Opts:Lyric=Never
+|Bar
+|Note|Dur:Half|Pos:4|Opts:Lyric=Never
+|Rest|Dur:8th
+|Spacer|Width:175
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:12
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,7
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Triplet=First|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th,Triplet|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th,Triplet=End|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th,Triplet=First|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th,Triplet|Pos:0,6|Opts:Lyric=Never
+|Chord|Dur:8th,Triplet=End|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:-1,8|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,9|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,9|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Boundary|Style:NewSize|Upper:7
+|Chord|Dur:8th,Triplet=First|Pos:2,4
+|Chord|Dur:8th,Triplet|Pos:2,4
+|Chord|Dur:8th,Triplet=End|Pos:2,4
+|Chord|Dur:8th,Triplet=First|Pos:0,4
+|Chord|Dur:8th,Triplet|Pos:0,4
+|Chord|Dur:8th,Triplet=End|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

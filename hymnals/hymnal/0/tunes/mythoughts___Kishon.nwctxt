@@ -1,0 +1,116 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Kishon, CM"|Author:"Carmina Sacra, 1841"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Carmina Sacra: or, Boston Collection of Church Music, edited by Lowell Mason (Boston, Massachusetts: J. H. Wilkins & R. B. Carter, 1841), p. 128."
+|PgSetup|StaffSize:22|Zoom:7|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._My thoughts, that of-ten mount the skies,\nGo, search the world be-neath,\nWhere na-ture all in ru-in lies,\nAnd owns her sov-ereign, Death.\n"
+|Lyric2|Text:"2._The ty-rant, how he tri-umphs here!\nHis tro-phies spread a-round!\nAnd heaps of dust and bones ap-pear\nThro’ all the hol-low ground.\n"
+|Lyric3|Text:"3._These skulls, what ghast-ly fig-ures now!\nHow loath-some to the eyes!\nThese are the heads we late-ly knew,\nSo beau-teous and so wise.\n"
+|Lyric4|Text:"4._But where the souls, those death-less things\nThat left this dy-ing clay?\nMy thoughts, now stretch out all your wings,\nAnd trace e-ter-ni-ty.\n"
+|Lyric5|Text:"5._O that un-fath-om-a-ble sea!\nThose deeps with-out a shore!\nWhere liv-ing wa-ters gen-tly play,\nOr fier-y bil-lows roar.\n"
+|Lyric6|Text:"6._Thus must we leave the banks of life,\nAnd try this doubt-ful sea;\nVain are our groans, and dy-ing strife\nTo gain a mo-ment’s stay.\n"
+|Lyric7|Text:"7._There we shall swim in heav’n-ly bliss,\nOr sink in flam-ing waves,\nWhile pale our thought-less car-cass lies,\nA-mongst the si-lent graves.\n"
+|Lyric8|Text:"8._Some heart-y friend shall drop his tear\nOn our dry bones, and say,\n“These once were strong, as mine ap-pear,\nAnd mine must be as they.”\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:185|Pos:12|Justify:Right
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:#-3|Opts:Stem=Up|Dur2:4th|Pos2:#-3
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:n-3|Opts:Stem=Up|Dur2:4th|Pos2:n-3
+|Chord|Dur:4th|Pos:n-4|Opts:Stem=Up|Dur2:4th|Pos2:n-4
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Chord|Dur:Half|Pos:#-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-5,#-3
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:Whole|Pos:#-3,-1
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:n-4|Opts:Stem=Up|Dur2:4th|Pos2:n-4
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,#-3
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Chord|Dur:Half|Pos:#-3,-1
+|Chord|Dur:Half|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5,#-3
+|Bar
+|Chord|Dur:Whole|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:0|Opts:Stem=Down|Dur2:Half|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:#2|Opts:Stem=Down|Dur2:4th|Pos2:#2
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Chord|Dur:Half|Pos:0|Opts:Stem=Down|Dur2:Half|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:n2|Opts:Stem=Down|Dur2:4th|Pos2:n2
+|Chord|Dur:4th|Pos:n1|Opts:Stem=Down|Dur2:4th|Pos2:n1
+|Chord|Dur:Half|Pos:0|Opts:Stem=Down|Dur2:Half|Pos2:0
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:Half|Pos:5,7
+|Chord|Dur:Half|Pos:3,7
+|Bar
+|Chord|Dur:Whole|Pos:0,7
+|Chord|Dur:Half|Pos:0|Opts:Stem=Up|Dur2:Half|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:n1|Opts:Stem=Down|Dur2:4th|Pos2:n1
+|Chord|Dur:Half|Pos:0|Opts:Stem=Down|Dur2:Half|Pos2:0
+|Chord|Dur:Half|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:0,5
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:Whole|Pos:-4,3,5
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

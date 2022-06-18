@@ -1,0 +1,204 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Montenegro, LMD"|Author:"Barney Elliott Warren, 1897"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of the Evening Light, edited by Barney E. Warren & Andrew L. Byers (Grand Junction, Michigan: Gospel Trumpet Publishing, 1897), # 49."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"French Horn"|Patch:60|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The nine-ty-nine with-in the fold,\nAre safe from fears and storms of night,\nBut one is on the moun-tains cold,\n’Twill per-ish there— how sad the sight!\n\nGo search it out, and bring it home,\nNo more in dark-ness let it roam;\nYou’ll find it there in dread-ful plight,\nOh! go and bring it back to-night.\n"
+|Lyric2|Text:"2._The nine-ty-nine are safe to-day,\nThey’re all at home, so ful-ly blest,\nBut one is wan-dering far a-way\nUp-on the moun-tain’s snow-y crest.\n\nGo search it out, and bring it home,\nNo more in dark-ness let it roam;\nYou’ll find it there in dread-ful plight,\nOh! go and bring it back to-night.\n"
+|Lyric3|Text:"3._The nine-ty-nine with care are fed,\nAnd rest with-in the shep-herd’s fold;\nBut one is starv-ing, near-ly dead,\nUp-on the moun-tains bare and cold.\n\nGo search it out, and bring it home,\nNo more in dark-ness let it roam;\nYou’ll find it there in dread-ful plight,\nOh! go and bring it back to-night.\n"
+|Lyric4|Text:"4._The shep-herd dear a-loud doth weep,\nBe-cause one lamb a-far doth roam;\nThe nine-ty-nine he’ll safe-ly keep— \nWe’ll seek that lamb and bring it home.\n\nGo search it out, and bring it home,\nNo more in dark-ness let it roam;\nYou’ll find it there in dread-ful plight,\nOh! go and bring it back to-night.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:88|Pos:11|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-5
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Dynamic|Style:f|Opts:Velocity=127,Volume=127|Pos:8|Justify:Right
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up|Dur2:16th|Pos2:-5
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-5
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|DynamicVariance|Style:Crescendo|Pos:8.5|Justify:Center|Visibility:Never
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Crescendo
+|Chord|Dur:8th|Pos:-5,-1|Opts:Crescendo
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-2|Opts:Diminuendo
+|Chord|Dur:16th|Pos:-5,-3|Opts:Diminuendo
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Down|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Dynamic|Style:f|Opts:Velocity=127,Volume=127|Pos:9|Justify:Right
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up|Dur2:16th|Pos2:-5
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Dynamic|Style:p|Opts:Velocity=110,Volume=110|Pos:8
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:4th,Dotted|Pos:-8,-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Montenegro, B. E. Warren"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,3
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,n6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,n6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:0,6
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,n6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,n6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,3
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

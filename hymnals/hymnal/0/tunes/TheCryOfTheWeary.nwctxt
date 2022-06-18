@@ -1,0 +1,197 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Cry of the Weary"|Author:"William Howard Doane, 1884"|Lyricist:"Horatius Bonar, 1861"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Sources: Music from Young People\'s Songs of Praise, edited by I. Allan Sankey (Chicago, Illinois: Biglow & Main, 1902), # 133. Words from Hymns of Faith and Hope (2nd series), by Horatius Bonar (London: James Nisbet, 1861), pp. 173–74."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:35|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._O Light of light, shine in!\nCast out this night of sin;\nCrea-te true day with-in;\nO Light of light, shine in!\n\nO Light, all light ex-cell-ing,\nMake my soul Thy dwell-ing;\nO Joy, all grief dis-pell-ing,\nTo my poor heart come in.\n"
+|Lyric2|Text:"2._O Joy of joys, come in!\nEnd Thou this grief of sin;\nCre-ate calm peace with-in;\nO Joy of joys, come in!\n\nO Light, all light ex-cell-ing,\nMake my soul Thy dwell-ing;\nO Joy, all grief dis-pell-ing,\nTo my poor heart come in.\n"
+|Lyric3|Text:"3._O Life of life, pour in!\nEx-pel this death of sin;\nA-wake true life with-in;\nO Life of life, pour in!\n\nO Light, all light ex-cell-ing,\nMake my soul Thy dwell-ing;\nO Joy, all grief dis-pell-ing,\nTo my poor heart come in.\n"
+|Lyric4|Text:"4._O Love of love, flow in!\nThis hate-ful root of sin\nPluck up, des-troy with-in;\nO Love of love, flow in!\n\nO Light, all light ex-cell-ing,\nMake my soul Thy dwell-ing;\nO Joy, all grief dis-pell-ing,\nTo my poor heart come in.\n"
+|Lyric5|Text:"5._O Heav’n of heav’ns, des-cend!\nThis cloud-y cur-tain rend,\nAnd all earth’s tur-moil end,\nO Heav’n of heav’ns, des-cend!\n\nO Light, all light ex-cell-ing,\nMake my soul Thy dwell-ing;\nO Joy, all grief dis-pell-ing,\nTo my poor heart come in.\n"
+|Lyric6|Text:"6._My God and Lord, oh come!\nOf joys the joy and sum,\nMake in this heart Thy home;\nMy God and Lord, oh come!\n\nO Light, all light ex-cell-ing,\nMake my soul Thy dwell-ing;\nO Joy, all grief dis-pell-ing,\nTo my poor heart come in.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:98|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:n-7,-5|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up|Dur2:Half|Pos2:-6
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:23
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,#1
+|Chord|Dur:8th|Pos:#-3,2
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:Half|Pos:-2,0
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,n0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,b0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,-1
+|Chord|Dur:8th|Pos:-2,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,#-3
+|Bar
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"The Cry of the Weary"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:2,4
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Spacer|Width:425
+|Bar
+|Boundary|Style:NewSize|Upper:6
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:b1,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:Half|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,#6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,#2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

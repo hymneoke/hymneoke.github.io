@@ -1,0 +1,123 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:33|SelectIndex:34|CaretPos:-2
+|SongInfo|Title:"St. Aidan, 888"|Author:"Francis Richard Grey (1813-1890)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Primitive Methodist Hymnal, edited by George Booth (London: Primitive Methodist Publising House, 1889), # 199."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O God of life, whose power be-nign\nDoth o’er the world in mer-cy shine,\nAc-cept our praise, for we are Thine.\n"
+|Lyric2|Text:"2._O Fa-ther, all-cre-at-ing Lord,\nBe Thou by eve-ry tongue im-plored,\nBe Thou by eve-ry heart a-dored.\n"
+|Lyric3|Text:"3._O Son of God, for sin-ners slain,\nWe wor-ship Thee, whose dy-ing pain\nFor us did end-less life re-gain.\n"
+|Lyric4|Text:"4._O Ho-ly Ghost, whose guard-ian care\nDoth for us heaven-ly joys pre-pare\nMay we in Thy com-mun-ion share.\n"
+|Lyric5|Text:"5._Fa-ther, pro-tect us here be-low;\nJe-sus, Thy mer-cy may we know;\nO Ho-ly Ghost, Thy power be-stow.\n"
+|Lyric6|Text:"6._O ho-ly, bless-èd Trin-i-ty,\nWith faith we sin-ners bow to Thee,\nIn Heaven and earth ex-alt-ed be.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:125|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,0
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"St. Aidan, 888"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:5|Opts:Stem=Up|Dur2:Half|Pos2:1
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,b7
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:Half|Pos:1,8
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:6|Opts:Stem=Up|Dur2:Half|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:8|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,9
+|Bar
+|Chord|Dur:Half|Pos:1,8
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:b7|Opts:Stem=Up|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Chord|Dur:4th|Pos:-3,5
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

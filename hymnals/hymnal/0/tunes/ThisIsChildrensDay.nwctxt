@@ -1,0 +1,184 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:2|CaretPos:5
+|SongInfo|Title:"This Is Children’s Day"|Author:"A. F. Myers"|Lyricist:"Laura Hopkins, 1897, alt."|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Seed Sower. edited by A. F. Myers (Toledo, Ohio: W. W. Whitney, 1897), # 75."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Here a-gain our friends we meet,\nBring-ing flow-ers rich and sweet,\nLay-ing them at Je-sus’ feet,\nOn this child-ren’s day.\n\nThis is hap-py child-ren’s day,\nChild-ren’s day, child-ren’s day;\nHear the brook and foun-tain say,\n“This is child-ren’s day.”\n"
+|Lyric2|Text:"2._Glean-ers all and glad are we,\nFaith-ful toil-ers full of glee,\nBring-ing hearts and songs to Thee,\nOn this child-ren’s day.\n\nThis is hap-py child-ren’s day,\nChild-ren’s day, child-ren’s day;\nHear the brook and foun-tain say,\n“This is child-ren’s day.”\n"
+|Lyric3|Text:"3._As these flowers of beau-teous hue,\nMay our lives be pure and true,\nFrag-rant act-ions may we do,\nFrom this child-ren’s day.\n\nThis is hap-py child-ren’s day,\nChild-ren’s day, child-ren’s day;\nHear the brook and foun-tain say,\n“This is child-ren’s day.”\n"
+|Clef|Type:Treble
+|Tempo|Tempo:85|Pos:11|Justify:Center
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Spacer|Width:225
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:12
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:#-3,1
+|Chord|Dur:8th|Pos:n-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"This is Children’s Day"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

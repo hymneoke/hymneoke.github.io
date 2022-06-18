@@ -1,0 +1,126 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Ferguson, SM"|Author:"George Kingsley, 1843"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: American Hymns Old and New, by Albert Christ-Janer, Charles W. Hughes & Carleton Sprague Smith (New York: Columbia University Press, 1980), p. 427. Also in The Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Publication & Sabbath-School Work, 1907), # 363."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Great is the Lord our God,\nAnd let His praise be great;\nHe makes His church-es His a-bode,\nHis most de-light-ful seat.\n"
+|Lyric2|Text:"2._Those tem-ples of His grace,\nHow beau-ti-ful they stand!\nThe hon-ors of our na-tive place,\nAnd bul-warks of our land.\n"
+|Lyric3|Text:"3._In Si-on God is known,\nA ref-uge in dis-tress;\nHow bright has His sal-va-tion shone\nThrough all her pal-ac-es!\n"
+|Lyric4|Text:"4._When kings a-gainst her joined,\nAnd saw the Lord was there,\nIn wild con-fu-sion of the mind,\nThey fled with has-ty fear.\n"
+|Lyric5|Text:"5._When na-vies tall and proud\nAt-tempt to spoil our peace,\nHe sends His tem-pests roar-ing loud,\nAnd sinks them in the seas.\n"
+|Lyric6|Text:"6._Oft have our fa-thers told,\nOur eyes have of-ten seen,\nHow well our God se-cures the fold\nWhere His own sheep have been.\n"
+|Lyric7|Text:"7._In eve-ry new dis-tress\nWe’ll to His house re-pair;\nWe’ll think up-on His won-drous grace,\nAnd seek de-liv-erance there.\n"
+|Clef|Type:Treble
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-2,1
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Ferguson, SM"|Label:"Ferguson, SM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-5,4
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:Half|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:3,9
+|Bar
+|Chord|Dur:Half|Pos:-1,8
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

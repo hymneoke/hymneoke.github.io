@@ -1,0 +1,131 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:17|CaretPos:-2
+|SongInfo|Title:"Abbotsford, LM"|Author:"Catholische Geistliche Gesänge, Andernach, 1608"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 206."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Hark! the Re-deem-er from on high\nSweet-ly in-vites His fa-vorites nigh;\nFrom caves of dark-ness and of doubt,\nHe gen-tly speaks and calls us out:\n"
+|Lyric2|Text:"2._“My dove, who hid-est in the rock,\nThine heart al-most with sor-row broke,\nLift up thy face, for-get thy fear,\nAnd let thy voice de-light Mine ear.\n"
+|Lyric3|Text:"3._“Thy voice to Me sounds ev-er sweet.\nMy grac-es in thy coun-tenance meet;\nTho’ the vain world thy face de-spise,\n’Tis bright and come-ly in mine eyes.”\n"
+|Lyric4|Text:"4._Dear Lord, our thank-ful heart re-ceives\nThe hope Thine in-vi-ta-tion gives;\nTo Thee our joy-ful lips shall raise\nThe voice of prayer and that of praise.\n"
+|Lyric5|Text:"5._I am my love’s, and He is mine;\nOur hearts, our hopes, our pas-sions join;\nNor let a mo-tion, nor a word,\nNor thought a-rise, to grieve my Lord.\n"
+|Lyric6|Text:"6._My soul to pas-tures fair He leads\nA-mongst the lil-ies where He feeds;\nA-mongst the saints— whose robes are white\nWashed in His blood— is His de-light.\n"
+|Lyric7|Text:"7._Till day-break come and shad-ows flee,\nTill sweet re-turn-ing dawn I see,\nThine eyes to me-ward of-ten turn,\nNor let my soul in dark-ness mourn.\n"
+|Lyric8|Text:"8._Be like a hart on moun-tains green,\nLeap o-ver hills of fear and sin;\nNor guilt, nor un-be-lief, di-vide\nMy love, my Sav-ior, from my side.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-8,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-7,-5|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,-1|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-7|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-8,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-2,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:4th|Pos:#-6,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:n-6,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:#-6,-4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-6,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:#-6,-1|Opts:Tie=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Abbotsford, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,2|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:-2,2|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th,Dotted|Pos2:2
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward,HideRest|Dur2:4th,Slur|Pos2:-2
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:-1,1|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:4,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,0|Opts:Tie=Downward
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,1|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-2,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:#-1,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:3,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:#-1,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,0|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Downward
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

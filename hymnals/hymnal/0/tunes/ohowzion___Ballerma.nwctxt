@@ -1,0 +1,123 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Ballerma, CM"|Author:"François Hippolyte Barthélémon (1741–1808)"|Lyricist:""|Copyright1:"Adapted by Robert Simpson, 1833"|Copyright2:"Public Domain, Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 386."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O how is Zi-on’s glo-ry gone!\nAnd venge-ance, like a flood,\nHath quenched her power, and not a stone\nMarks where her tem-ple stood.\n"
+|Lyric2|Text:"2._How are thy streets, Je-ru-sa-lem,\nBy care-less stran-gers trod!\nAnd crushed thy once proud di-a-dem\nBe-fore the wrath of God!\n"
+|Lyric3|Text:"3._How are thy friend-less ex-iles sent\nThrough dis-tant lands to roam!\nYet in each place of ban-ish-ment\nThey can-not find a home.\n"
+|Lyric4|Text:"4._O Lord, look down with pit-ying eye\nUp-on Thine an-cient race;\nAnd bring Thy prom-ised mer-cy nigh,\nAnd show Thy sav-ing grace.\n"
+|Lyric5|Text:"5._Re-move the veil that long hath hid\nThe Sav-ior from their sight;\nCon-quer their prej-u-dice, and bid\nTheir dark-ness turn to light.\n"
+|Lyric6|Text:"6._O bring Thy scat-tered sheep a-gain,\nAnd feed them as of old;\nLet Christ o’er all His peo-ple reign,\nOne Shep-herd, and one fold.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:135|Pos:12|Justify:Right
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4^,0^|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Chord|Dur:4th|Pos:-8,-6|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-7,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,2|Opts:Stem=Up
+|Chord|Dur:4th,Dotted,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6^,-1^
+|Chord|Dur:Half|Pos:-6,-1|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Ballerma, CM"|Label:"Ballerma, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|RestChord|Dur:4th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:4
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1^,3^|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:4
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,4^
+|Chord|Dur:Half|Pos:-3,4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

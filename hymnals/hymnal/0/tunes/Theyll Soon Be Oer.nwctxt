@@ -1,0 +1,198 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"They’ll Soon Be O’er"|Author:"Lizzie E. Sweney"|Lyricist:"Frances Jane (Fanny) Crosby, 1896"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Love and Praise No. 3, edited by John R. Sweney, William J. Kirkpatrick & Henry L. Gilmour (Philadelphia, Pennsylvania: John J. Hood, 1896), # 4."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:27|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._There is a calm for ev-’ry storm\nWe meet from day to day,\nA hal-lowed peace that dwells with-in,\nAnd smiles the clouds a-way.\nThe star of hope still bright-ly shines,\nThough wild the break-ers roar,\nAnd in its beams the words we trace,\nLife’s dream will soon be o’er.\n"
+|Lyric2|Text:"2._There is a friend, a con-stant friend,\nWho slum-bers not nor sleeps,\nBut safe with-in His ten-der care\nThe trust-ing soul He keeps;\nHis bow of love still spans the sky,\nAnd points to yon-der shore,\nWhile on its beams the words we trace,\nLife’s cares will soon be o’er.\n"
+|Lyric3|Text:"3._There is a morn when we shall wake\nAt home be-yond the tide,\nAnd in our Sav-ior’s like-ness then\nWe shall be sat-is-fied;\nO hearts that yearn and bleed and break\nFor joys that come no more,\nLook up and read the bless-èd words,\nLife’s tears will soon be o’er.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:98|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Note|Dur:4th|Pos:-2
+|Spacer|Width:600
+|Text|Text:"Alto and Tenor"|Font:StaffItalic|Pos:9|Justify:Center
+|Bar
+|Note|Dur:8th,Dotted|Pos:-2
+|Note|Dur:16th|Pos:-3
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-2
+|Spacer|Width:325
+|Bar
+|Note|Dur:8th,Dotted|Pos:-2
+|Note|Dur:16th|Pos:#-3
+|Note|Dur:4th|Pos:n-3
+|Note|Dur:4th|Pos:-3
+|Spacer|Width:275
+|Bar
+|Note|Dur:4th,Dotted|Pos:-3
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th,Dotted|Pos:-4
+|Note|Dur:16th|Pos:-3
+|Bar
+|Note|Dur:Half|Pos:-2
+|Note|Dur:4th|Pos:-2
+|Spacer|Width:250
+|Bar
+|Note|Dur:8th,Dotted|Pos:-2
+|Note|Dur:16th|Pos:-3
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-2
+|Spacer|Width:300
+|Bar
+|Note|Dur:8th,Dotted|Pos:0
+|Note|Dur:16th|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-2
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th,Dotted|Pos:-2
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:n-1
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:Half|Pos:0
+|Text|Text:"Trio"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,2
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Text|Text:"Quartet"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Spacer|Width:525
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:#-3,3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"They’ll Soon Be O’er"|Label:"They’ll Soon Be O’er"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Note|Dur:4th|Pos:5
+|Bar
+|Note|Dur:8th,Dotted|Pos:5
+|Note|Dur:16th|Pos:4
+|Note|Dur:4th|Pos:3
+|Note|Dur:4th|Pos:5
+|Bar
+|Note|Dur:8th,Dotted|Pos:5
+|Note|Dur:16th|Pos:n4
+|Note|Dur:4th|Pos:b4
+|Note|Dur:4th|Pos:4
+|Bar
+|Note|Dur:4th,Dotted|Pos:4
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th,Dotted|Pos:6
+|Note|Dur:16th|Pos:b6
+|Bar
+|Note|Dur:Half|Pos:5
+|Note|Dur:4th|Pos:5
+|Bar
+|Note|Dur:8th,Dotted|Pos:5
+|Note|Dur:16th|Pos:4
+|Note|Dur:4th|Pos:3
+|Note|Dur:4th|Pos:5
+|Bar
+|Note|Dur:8th,Dotted|Pos:b7
+|Note|Dur:16th|Pos:6
+|Note|Dur:4th|Pos:6
+|Note|Dur:4th|Pos:5
+|Bar
+|Note|Dur:4th,Dotted|Pos:5
+|Note|Dur:8th|Pos:n4
+|Note|Dur:8th|Pos:8
+|Note|Dur:8th|Pos:8
+|Bar
+|Note|Dur:Half|Pos:7
+|Note|Dur:4th|Pos:7
+|Bar
+|Note|Dur:8th,Dotted|Pos:5
+|Note|Dur:16th|Pos:5
+|Note|Dur:4th|Pos:5
+|Note|Dur:4th|Pos:7
+|Bar
+|Note|Dur:8th,Dotted|Pos:8
+|Note|Dur:16th|Pos:8
+|Note|Dur:4th|Pos:8
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:Half|Pos:3,n5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:4th|Pos:n4,6
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,n4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

@@ -1,0 +1,119 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:30|CaretPos:4
+|SongInfo|Title:"Brocklesby, 87.87"|Author:"Charlotte Alington Barnard, 1868"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Vesper Chimes (Philadelphia, Pennsylvania: Westminster Press, 1930), # 109."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Far from home thy Christ-mas keep-ing,\nSad through wea-ri-ness and pain,\nThou, per-chance, hast thought with weep-ing,\n“Christ-mas-time has come a-gain!”\n"
+|Lyric2|Text:"2._Dreams of well re-mem-bered plac-es\nFill thy mem-o-ry to-day;\nLong-ing thoughts of lov-ing fac-es—\nThoughts of dear ones far a-way.\n"
+|Lyric3|Text:"3._Of the lit-tle ones who gath-er\nRound the fire the boughs to weave,\nHap-py homes where moth-er, fa-ther,\nKeep with them their Christ-mas Eve.\n"
+|Lyric4|Text:"4._Of the days when thou wast sing-ing\nGlee-ful songs of oth-er times,\nWhile a-cross the fields came ring-ing\nFar and near the Christ-mas chimes.\n"
+|Lyric5|Text:"5._Say’st thou now, “Those joys are o-ver;\nNot for me those home de-lights;\nDark the clouds that o’er me hov-er,\nLone the days and long the nights?”\n"
+|Lyric6|Text:"6._“Chim-ing bells and hap-py voic-es\nFall but sad-ly on my ear;\nAll the world with-out re-joic-es;\nThey are glad— while I am here.”\n"
+|Lyric7|Text:"7._Are these sad words thine, oh, mourn-er?\nAnd these drear-y thoughts, my friend?\nLis-ten, then, now to a mes-sage\nWhich home to thy heart we send.\n"
+|Lyric8|Text:"8._In the words the wind came bring-ing\nFrom the hush of qui-et room,\nWhere were voic-es soft-ly sing-ing\nIn the twi-light’s gath-ering gloom.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:108|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:#-6,-1
+|Chord|Dur:4th|Pos:-6,0
+|Chord|Dur:Half|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:#-6,-2
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:Half|Pos:-7,-2
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Brocklesby, 87.87"|Label:"Brocklesby, 87.87"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:b1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

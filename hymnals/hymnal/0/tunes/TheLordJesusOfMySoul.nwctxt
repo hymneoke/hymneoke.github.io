@@ -1,0 +1,211 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:92|CaretPos:0
+|SongInfo|Title:"The Lord Jesus of My Soul"|Author:"Florence Heagle"|Lyricist:"Florence Heagle, 1905"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Victorious Life Hymns, edited by Charles M. Alexander (Philadelphia, Pennsylvania: Sunday School Times Company, 1919), # 209."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.29|Right:2.54|Bottom:2.29|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Life lies be-fore me,\nNaught in_it can I con-trol,\nSo I give it in His keep-ing,\nThe Lord Je-sus of my soul;\nSo I give it in His keep-ing,\nThe Lord Je-sus of my soul.\n\nI’ll trust what-e’er be-fall,\nI’ll trust Him thro’ it all.\n"
+|Lyric2|Text:"2._Sorrow lies be-fore me;\nFriends are_pre-cious to con-sole,\nBut He sur-passes all in com-fort,\nThe Lord Je-sus of my soul;\nBut He sur-passes all in com-fort,\nThe Lord Je-sus of my soul.\n\nI’ll trust what-e’er be-fall,\nI’ll trust Him thro’ it all.\n"
+|Lyric3|Text:"3._Darkness lies be-fore me;\nI can-not see the goal,\nI can on-ly hold fast trust-ing—\nThe Lord Je-sus of my soul;\nI can on-ly hold fast trust-ing—\nThe Lord Je-sus of my soul.\n\nI’ll trust what-e’er be-fall,\nI’ll trust Him thro’ it all.\n"
+|Lyric4|Text:"4._Victory lies be-fore me!\nSa-tan_shall not have con-trol,\nFor He’s strong-er than the tempt-er,\nThe Lord Je-sus of my soul;\nFor He’s strong-er than the tempt-er,\nThe Lord Je-sus of my soul.\n\nI’ll trust what-e’er be-fall,\nI’ll trust Him thro’ it all.\n"
+|Lyric5|Text:"5._Joy lies be-fore me!\nFor His_grace doth keep me whole;\nAnd my heart shall e’er keep prais-ing,\nThe Lord Je-sus of my soul;\nAnd my heart shall e’er keep prais-ing,\nThe Lord Je-sus of my soul.\n\nI’ll trust what-e’er be-fall,\nI’ll praise Him thro’ it all.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:4th,Slur|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-7,-4
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:-7|Opts:Stem=Up|Dur2:8th|Pos2:-7
+|Spacer|Width:525
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Boundary|Style:NewSize|Lower:27
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,#-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:16th|Pos:-3,-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-3^
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,#-3
+|Chord|Dur:16th|Pos:-5,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4^
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:23
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,0^
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4^
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"The Lord Jesus of My Soul"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/8
+|Chord|Dur:4th,Slur|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,5^
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-1,n4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,5^
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,6
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:8th|Pos:1,3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

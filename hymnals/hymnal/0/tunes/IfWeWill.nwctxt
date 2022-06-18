@@ -1,0 +1,226 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"If We Will"|Author:"Bentley DeForest Ackley"|Lyricist:"William Charles Poole, 1923"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Progressive Sunday School Songs, compiled by Homer A. Rodeheaver (Chicago, Illinois: Rodeheaver, 1923), # 32. Titled  \"To the Harvest Field\"  In some later hymnals."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:18|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._There is work to do\nThat a-waits for you,\nThere are fields for Christ to till;\nNe-ver doubt or fear,\nFor the Lord is near,\nWe can do it, if we will!\n\nThere is work that must be done,\nThere are vic-t’ries to be won;\nThere are souls to win\nFrom the paths of sin;\nWe can do it, if we will!\n"
+|Lyric2|Text:"2._There are souls to win\nFrom the paths of sin;\nDoes the way grow dark-er still?\nNe-ver doubt or fear,\nGod Him-self is near!\nWe can do it, if we will!\n\nThere is work that must be done,\nThere are vic-t’ries to be won;\nThere are souls to win\nFrom the paths of sin;\nWe can do it, if we will!\n"
+|Lyric3|Text:"3._There’s a world to light\nIn the path of right,\nThere are souls with grace to fill;\nTill the great “Well done”\nOf the vic-tory won—\nWe can do it, if we will!\n\nThere is work that must be done,\nThere are vic-t’ries to be won;\nThere are souls to win\nFrom the paths of sin;\nWe can do it, if we will!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:108|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:n-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:n-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:10
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:n-4,1
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:3
+|Lyric1|Text:"to be won;\n\nThere is work that must be done,\nThere are vic-t’ries to be won;\nThere are souls to win\nFrom the paths of sin;\nWe can do it, if we will!\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-3,1|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,1|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Upward,Lyric=Never,Beam=First|Dur2:Half,Dotted|Pos2:4
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Upward,Lyric=Never,Beam
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Upward,Lyric=Never,Beam
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Lyric=Never,Beam=End
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:8th|Pos:-3,1|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,1|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,4|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,5|Opts:Lyric=Never
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Spacer|Width:225
+|Bar|Style:Double
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:4,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:4,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:2,4|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down,Lyric=Never,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Upward,Lyric=Never,Beam=First|Dur2:Half,Dotted|Pos2:4
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Lyric=Never,Beam
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Lyric=Never,Beam
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Upward,Lyric=Never,Beam=End
+|Note|Dur:4th|Pos:4|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:n0|Opts:Stem=Down,Slur=Upward,Lyric=Never,Beam=First|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:n1|Opts:Stem=Down,Lyric=Never,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Upward,Lyric=Never,Beam=First|Dur2:Half,Dotted|Pos2:6
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Lyric=Never,Beam=End
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:3|Opts:Stem=Down
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

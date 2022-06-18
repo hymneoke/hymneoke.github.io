@@ -1,0 +1,239 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Hark! He is Calling"|Author:"Hart Pease Danks"|Lyricist:"Frances Jane (Fanny) Crosby, 1901"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Photocopied score; origin unknown."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.54|Right:2.29|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:35|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Though young in years, we are all taught,\nThe way that leads to Je-sus;\nThe way that must by faith be sought,\nIf we would come to Je-sus.\n\nHark! He is call-ing ev-ery day,\nHe says to each one, “I am the way.”\nLet us a-rise, a-rise with-out de-lay,\nAnd come at once to Je-sus.\n"
+|Lyric2|Text:"2._How hap-py they, who safe-ly rest\nWith-in the fold of Je-sus;\nBe-neath His kind pro-tect-ion blest,\nThey walk and talk with Je-sus.\n\nHark! He is call-ing ev-ery day,\nHe says to each one, “I am the way.”\nLet us a-rise, a-rise with-out de-lay,\nAnd come at once to Je-sus.\n"
+|Lyric3|Text:"3._There is a door that leads from sin,\nThat bless-èd door is Je-sus;\nAnd there we all must en-ter in,\nTo reach the fold of Je-sus.\n\nHark! He is call-ing ev-ery day,\nHe says to each one, “I am the way.”\nLet us a-rise, a-rise with-out de-lay,\nAnd come at once to Je-sus.\n"
+|Lyric4|Text:"4._And, as His sheep have learned to know,\nThe lov-ing voice of Je-sus;\nSo we, like them, may glad-ly go,\nAnd ev-er dwell with Je-sus.\n\nHark! He is call-ing ev-ery day,\nHe says to each one, “I am the way.”\nLet us a-rise, a-rise with-out de-lay,\nAnd come at once to Je-sus.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Spacer|Width:675
+|Bar
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,-2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Down
+|Spacer|Width:225
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:28
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:1^
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4,0|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:8th,Slur|Pos:-4,0|Opts:Stem=Down,Slur=Upward,Beam
+|Chord|Dur:8th,Slur|Pos:-3,0|Opts:Stem=Down,Slur=Upward,Beam
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Hark! He is Calling"|Label:"Hark! He is Calling"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nev-ery day\n_ _ _ _ _ _ _ _ _\n“I am the way.”\n_ _ _ _ _ _ _ _ _ _\nwith-out de-lay\n\nHark! He is call-ing ev-ery day,\nHe says to each one, “I am the way.”\nLet us a-rise, a-rise with-out de-lay,\nAnd come at once to Je-sus.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:b1,6
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,n5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,5
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:7
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,7
+|Chord|Dur:8th,Dotted|Pos:-1,5
+|Chord|Dur:16th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:b1,6
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half|Pos:-1,5
+|Chord|Dur:4th|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

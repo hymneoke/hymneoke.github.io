@@ -1,0 +1,144 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:24|CaretPos:5
+|SongInfo|Title:"Wenn Wir in Höchsten Nöten, LM"|Author:"Genevan Psalter, 1547"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Lutheran Hymnal (St. Louis, Missouri: Concordia Publishing House, 1941), # 141, 321, 330, 369."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._En-slaved by sin and bound in chains,\nBe-neath its dread-ful ty-rant sway,\nAnd doomed to ev-er-last-ing pains,\nWe wretch-ed, guilt-y cap-tives lay.\n"
+|Lyric2|Text:"2._Nor gold nor gems could buy our peace,\nNor all the world’s col-lect-ed store\nSuf-fice to pur-chase our re-lease;\nA thou-sand worlds were all too poor.\n"
+|Lyric3|Text:"3._Je-sus the Lord, the might-y God,\nAn all-suf-fi-cient ran-som paid.\nIn-val-ued price, His pre-cious blood\nFor vile, re-bel-lious trai-tors shed.\n"
+|Lyric4|Text:"4._Je-sus the sac-ri-fice be-came\nTo res-cue guilt-y souls from hell;\nThe spot-less, bleed-ing, dy-ing Lamb\nBe-neath a-veng-ing jus-tice fell.\n"
+|Lyric5|Text:"5._A-maz-ing good-ness! love di-vine!\nO may our grate-ful hearts a-dore\nThe match-less grace, nor yield to sin\nNor wear its cru-el fet-ters more!\n"
+|Lyric6|Text:"6._Dear Sav-ior, let Thy love pur-sue\nThe glo-rious work it has be-gun,\nEach se-cret, lurk-ing foe sub-due,\nAnd let our hearts be Thine a-lone.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Bar
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:#-6,-4
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:Half|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:Half|Pos:n-7,-5
+|Bar
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Höchsten Nöten, LM"|Label:"Höchsten Nöten, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th,Slur|Pos:-4^,5^
+|Bar
+|Chord|Dur:4th|Pos:-4,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:-5,4
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-5,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:Whole|Pos:-1,6
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-5,6
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-5,4
+|Chord|Dur:Half|Pos:-4,3
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-5,6
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:Whole|Pos:-5,4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

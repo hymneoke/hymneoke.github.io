@@ -1,0 +1,243 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Our Watchword"|Author:"Charles Hutchinson Gabriel, 1897"|Lyricist:"Silas Farmer, 1869"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Special Songs: For Sunday Schools, Revival Meetings, Etc (Indianapolis, Indiana, Hackleman Music Company, 1898), # 84."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:22|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._We’re draw-ing near to Je-sus,\nOur ban-ner waves on high;\nAnd this our watch-word ev-er,\n“We’ll work un-til we die.”\n\nWe’ll work un-til we die;\nThe ban-ner of our cap-tain\nThrough the con-flict we will bear;\nWe’ll work un-til we die,\nAnd then go home our crowns to wear.\n"
+|Lyric2|Text:"2._We love our Mas-ter’s ser-vice,\nAnd, see-ing eye to eye,\nWith grace di-vine to help us,\nWe’ll work un-til we die.\n\nWe’ll work un-til we die;\nThe ban-ner of our cap-tain\nThrough the con-flict we will bear;\nWe’ll work un-til we die,\nAnd then go home our crowns to wear.\n"
+|Lyric3|Text:"3._The fields are white to har-vest,\nThe days are speed-ing by;\nGo forth a-gain, ye work-ers,\nAnd work un-til ye die.\n\nWe’ll work un-til we die;\nThe ban-ner of our cap-tain\nThrough the con-flict we will bear;\nWe’ll work un-til we die,\nAnd then go home our crowns to wear.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:108|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Down
+|Spacer|Width:625
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,3
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,3
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Chord|Dur:4th|Pos:#-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Spacer|Width:225
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:14
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Down,Beam=First|Dur2:Half|Pos2:3^
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Beam
+|Note|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Down,Beam
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Note|Dur:16th|Pos:2|Opts:Stem=Up
+|Note|Dur:8th,Triplet=First,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Triplet|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Beam=First|Dur2:Whole|Pos2:-2
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Beam
+|Note|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Beam
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:0,2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:#-5,#-3
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:n-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:Half|Pos2:3^
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Note|Dur:16th|Pos:3|Opts:Stem=Up
+|Chord|Dur:8th,Triplet=First,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th,Triplet|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-2,1
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:Half|Pos2:1
+|Note|Dur:16th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Dotted,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:16th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Our Watchword"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:18|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:4
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nwork un-til we die,\nYes, we’ll work un-til we die;\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nwork un-til we die,\nyes, we’ll work un-til we die,\n\nWe’ll work un-til we die;\nThe ban-ner of our cap-tain\nThrough the con-flict we will bear;\nWe’ll work un-til we die,\nAnd then go home our crowns to wear.\n"
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:6|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:6
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Bar|Style:Double
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th,Triplet=First|Pos:-1,4
+|Chord|Dur:8th,Triplet=End|Pos:-1,6
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down|Dur2:16th|Pos2:3
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down|Dur2:16th|Pos2:3
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down|Dur2:16th|Pos2:3
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Triplet=First,Slur|Pos:-1,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Triplet|Pos:0,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:1,6
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,6
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:8th,Dotted|Pos:3,6
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

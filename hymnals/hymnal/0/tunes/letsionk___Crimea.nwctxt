@@ -1,0 +1,122 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:20|CaretPos:4
+|SongInfo|Title:"Crimea, LM"|Author:"Thoro Harris, 1905"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source:  The Methodist Hymnal (New York: Methodist Book Concern, 1905), # 124."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Let Si-on in her king re-joice;\nThough ty-rants rage, and king-doms rise,\nHe ut-ters His al-might-y voice,\nThe na-tions melt, the tu-mult dies.\n"
+|Lyric2|Text:"2._The Lord of old for Ja-cob fought,\nAnd Ja-cob’s God is still our aid:\nBe-hold the works His hand has wrought,\nWhat des-o-la-tions He has made.\n"
+|Lyric3|Text:"3._From sea to sea, thro’ all the shores\nHe makes the noise of bat-tle cease;\nWhen from on high His thun-der roars\nHe awes the trem-bling world to peace.\n"
+|Lyric4|Text:"4._He breaks the bow, He cuts the spear,\nChar-iots He burns with heav’n-ly flame;\nKeep si-lence, all the earth, and hear\nThe sound and glo-ry of His name.\n"
+|Lyric5|Text:"5._“Be still, and learn that I am God;\nI’ll be ex-alt-ed o’er the lands;\nI will be known and feared a-broad;\nBut still My throne in Si-on stands.”\n"
+|Lyric6|Text:"6._O Lord of hosts, al-might-y King,\nWhile we so near Thy pres-ence dwell,\nOur faith shall sit se-cure, and sing\nDe-fi-ance to the gates of hell.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:108|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:#-2,n0
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:-4,n0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Crimea, LM"|Label:"Crimea, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,#6
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,n6
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,7
+|Chord|Dur:8th|Pos:2,#7
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,n7
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:5,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,#6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,7
+|Chord|Dur:8th|Pos:1,#6
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:n-2,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-2,6
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:n-2,#3
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

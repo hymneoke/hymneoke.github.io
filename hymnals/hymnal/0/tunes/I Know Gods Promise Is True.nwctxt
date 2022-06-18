@@ -1,0 +1,235 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I Know God’s Promise Is True"|Author:"Lelia Naylor Morris"|Lyricist:"Lelia Naylor Morris, 1899"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sing to the Lord (Kansas City, Missouri: Lillenas Publishing, 1993), # 367."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:35|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._For God so loved this sin-ful world,\nHis Son He free-ly gave,\nThat who-so-ev-er would be-lieve\nE-ter-nal life should have.\n\n’Tis true, O yes, ’tis true,\nGod’s won-der-ful prom-ise is true;\nFor I’ve trust-ed, and test-ed, and tried it,\nAnd I know God’s prom-ise is true.\n"
+|Lyric2|Text:"2._I was a way-ward, wan-d’ring child,\nA slave to sin and fear,\nUn-til this bless-èd prom-ise fell\nLike mu-sic on my ear.\n\n’Tis true, O yes, ’tis true,\nGod’s won-der-ful prom-ise is true;\nFor I’ve trust-ed, and test-ed, and tried it,\nAnd I know God’s prom-ise is true.\n"
+|Lyric3|Text:"3._The “who-so-ev-er” of the Lord,\nI trust-ed was for me,\nI took Him at His gra-cious word;\nFrom sin He set me free.\n\n’Tis true, O yes, ’tis true,\nGod’s won-der-ful prom-ise is true;\nFor I’ve trust-ed, and test-ed, and tried it,\nAnd I know God’s prom-ise is true.\n"
+|Lyric4|Text:"4._E-ter-nal life, be-gun be-low,\nNow fills my heart and soul.\nI’ll sing His praise for-ev-er-more\nWho has re-deemed my soul.\n\n’Tis true, O yes, ’tis true,\nGod’s won-der-ful prom-ise is true;\nFor I’ve trust-ed, and test-ed, and tried it,\nAnd I know God’s prom-ise is true.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-7,-5
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th,Slur|Pos:-7,-5|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-7,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-7,-5|Opts:Slur=Upward
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th,Slur|Pos:-7,-5|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-9,-7|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-7,-5|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-7,-2|Opts:Slur=Upward
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-8,-3|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-8
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-6,-3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-7,-5|Opts:Slur=Upward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-7,-5|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-7,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:n-3,2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4,2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-4,-1|Opts:Slur=Upward
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-1|Opts:Slur=Upward
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-2^|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-7,-2|Opts:Slur=Upward
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:27
+|Chord|Dur:8th|Pos:-7,-5|Opts:Slur=Upward
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th|Pos:-7,-2|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-8,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-2|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-6,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-7|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2^
+|Note|Dur:8th,Slur|Pos:-7|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-7,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-7,-5|Opts:Slur=Upward
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-7,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:#-6,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-6,-5|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-6,-5|Opts:Slur=Upward
+|Spacer|Width:125
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-7,-5|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-7,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-5,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-4,1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-7,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-8,-3|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-7,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-7|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2^
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:4th|Pos:-7,-2|Opts:Slur=Upward
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"I Know God’s Promise"|Label:"I Know God’s Promise"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nthe prom-ise is true\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\ntrue,_’tis true.\n\n’Tis true, O yes, ’tis true,\nGod’s won-der-ful prom-ise is true;\nFor I’ve trust-ed, and test-ed, and tried it,\nAnd I know God’s prom-ise is true.\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-4,0|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:8th|Pos:0,2|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:0,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-1,3|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:-3,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,#3|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:8th|Pos:-1,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th|Pos:0,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:0,2|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,0^|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-4,0|Opts:Slur=Downward
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:4
+|Chord|Dur:8th|Pos:-4,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:8th|Pos2:0
+|Bar
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-4,0|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,1|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,2|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:0,2|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:16th|Pos:-3,2|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-3,2|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-1,3|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:8th|Pos2:0
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:8th|Pos2:0
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:8th|Pos2:0
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:8th|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4^
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Slur=Downward
+|Chord|Dur:4th|Pos:-4,0|Opts:Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,127 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Breslau, LM"|Author:"As Hymnodus Sacer (Leipzig, Germany: 1625)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 200. Also in The English Hymnal (London: Oxford University Press, 1906), # 484."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._God call-ing yet; shall I not hear?\nEarth’s pleas-ures shall I still hold dear?\nShall life’s swift pass-ing years all fly,\nAnd still my soul in slum-ber lie?\n"
+|Lyric2|Text:"2._God call-ing yet; shall I not rise?\nCan I His lov-ing voice de-spise,\nAnd base-ly His kind care re-pay?\nHe calls me still— can I de-lay?\n"
+|Lyric3|Text:"3._God call-ing yet, and shall He knock,\nAnd I my heart the clos-er lock?\nHe still is wait-ing to re-ceive,\nAnd shall I dare His Spir-it grieve?\n"
+|Lyric4|Text:"4._God call-ing yet; and shall I give\nNo heed, but still in bond-age live?\nI wait, but He does not for-sake;\nHe calls me still— my heart, a-wake!\n"
+|Lyric5|Text:"5._Ah, yield Him all; in Him con-fide;\nWhere but with Him doth peace a-bide?\nBreak loose, let earth-ly bonds be riven,\nAnd let the spir-it rise to heaven.\n"
+|Lyric6|Text:"6._God call-ing yet; I can-not stay;\nMy heart I yield with-out de-lay;\nVain world, fare-well! from thee I part;\nThe voice of God hath reached my heart.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:4th|Pos:#-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:#-5,0
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Breslau, LM"|Label:"Breslau, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:#0,2
+|Note|Dur:4th|Pos:1
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Note|Dur:4th|Pos:4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half|Pos:0,5
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

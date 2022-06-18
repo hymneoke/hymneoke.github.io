@@ -1,0 +1,230 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"How Can I Serve Thee Best?"|Author:"Charles Hutchinson Gabriel"|Lyricist:"Flora Kirkland, 1899"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Christian Hymns No. 1, edited by William P. Hal & J. Wilbur Chapman (Philadelphia, Pennsylvania: Hall-Mack, 1899), # 139."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.27|Right:2.54|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:27|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Where shall I go, Lord, where shall I go?\nWis-dom to guide me Thou wilt bes-tow;\nHelp me to go, Lord, where Thou dost lead,\nTrust-ing Thy prom-ise, “Grace for all need.”\n\nWhat shall it be, Lord, what shall it be?\nHow can I serve Thee, serve Thee best?\nSpeak un-to me, Lord, speak un-to me,\nHelp me to shrink from no test.\n"
+|Lyric2|Text:"2._What shall I say, Lord, what shall I say?\nThou art my teach-er, teach me to-day.\nOn-ly and ev-er help me to be\nSpeak-ing for Thee, Lord, speak-ing for Thee.\n\nWhat shall it be, Lord, what shall it be?\nHow can I serve Thee, serve Thee best?\nSpeak un-to me, Lord, speak un-to me,\nHelp me to shrink from no test.\n"
+|Lyric3|Text:"3._What shall I read, Lord, what shall I read?\nHere Thy pro-tec-tion ev-er I need;\nLed by Thy Spir-it, sent from a-bove,\nE’en thro’ temp-ta-tion safe-ly I’ll move.\n\nWhat shall it be, Lord, what shall it be?\nHow can I serve Thee, serve Thee best?\nSpeak un-to me, Lord, speak un-to me,\nHelp me to shrink from no test.\n"
+|Lyric4|Text:"4._Pur-chased by Thee, Lord, now I am Thine,\nTime, thought and ef-fort nev-er-more mine;\nThou hast re-deemed me, help me to be\nShin-ing for Thee, Lord, on-ly for Thee.\n\nWhat shall it be, Lord, what shall it be?\nHow can I serve Thee, serve Thee best?\nSpeak un-to me, Lord, speak un-to me,\nHelp me to shrink from no test.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:11|Justify:Center
+|TimeSig|Signature:9/8
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,#-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-5
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up|Dur2:8th|Pos2:-6
+|Boundary|Style:NewSize|Lower:19
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,#-3
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Spacer|Width:400
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:17
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,2^
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,#-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:#-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:#-3,-1
+|Chord|Dur:8th|Pos:n-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nWhat shall it be, what shall it be?\nHow can I serve Thee, serve Thee best?\n\nWhat shall it be, Lord, what shall it be?\nHow can I serve Thee, serve Thee best?\nSpeak un-to me, Lord, speak un-to me,\nHelp me to shrink from no test.\n"
+|Clef|Type:Bass
+|TimeSig|Signature:9/8
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:8th|Pos:2,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,3
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,5
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Boundary|Style:NewSize|Upper:11
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

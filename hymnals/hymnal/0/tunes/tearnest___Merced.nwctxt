@@ -1,0 +1,121 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:12|CaretPos:5
+|SongInfo|Title:"Merced, 77.77"|Author:"Asa Hull, 1871"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sparkling Rubies, edited by Asa Hull & Harry Sanders (New York: Hull & Company, 1871), p. 79."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Time is ear-nest, pass-ing by;\nDeath is ear-nest, draw-ing nigh.\nSin-ner! wilt thou tri-fling be?\nTime and death ap-peal to thee.\n"
+|Lyric2|Text:"2._Life is ear-nest; when ’tis o’er\nThou re-turn-est nev-er-more.\nSoon to meet e-ter-ni-ty,\nWilt thou nev-er se-rious be?\n"
+|Lyric3|Text:"3._Heav’n is ear-nest; sol-emn-ly\nFloat its voic-es down to thee.\nOh, thou mor-tal, art thou gay,\nSport-ing through thine earth-ly day?\n"
+|Lyric4|Text:"4._Hell is ear-nest; fierce-ly roll\nBurn-ing bil-lows near thy soul.\nWoe for thee! if thou a-bide\nUn-re-deemed, un-sanc-ti-fied!\n"
+|Lyric5|Text:"5._God is ear-nest: kneel and pray,\nEre thy sea-son pass a-way—\nEre He set His judg-ment throne,\nVenge-ance read-y, mer-cy gone.\n"
+|Lyric6|Text:"6._Christ is ear-nest, bids thee “Come!”\nPaid thy spir-it’s price-less sum.\nWilt thou spurn the Sav-ior’s love,\nPlead-ing with thee from a-bove?\n"
+|Lyric7|Text:"7._Thou re-fus-est! wretch-ed one!\nThou des-pis-est God’s dear Son!\nMad-ness! dy-ing sin-ner, turn!\nLest His wrath with-in thee burn.\n"
+|Lyric8|Text:"8._When thy pleas-ures all de-part\nWhat will soothe thy faint-ing heart?\nFriend-less, des-o-late, a-lone,\nEn-ter-ing a world un-known.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:107|Pos:11|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down|Dur2:4th|Pos2:-1
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4,-1|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Merced, Asa Hull, 1871"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:Half|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:0,8
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:Half|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,7
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-3,4,6
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

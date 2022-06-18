@@ -1,0 +1,193 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Trusting Jesus"|Author:"William Howard Doane"|Lyricist:"Frances Jane (Fanny) Crosby, 1877"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Welcome Tidings, by Robert Lowry, W. Howard Doane, & Ira D. Sankey (New York: Biglow & Main, 1877), # 75."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Simp-ly trust-ing all the way,\nTak-ing Je-sus at His word;\nSimp-ly trust-ing, when I pray,\nEv-ery prom-ise of my Lord.\n\nSimp-ly trust-ing, simp-ly trust-ing,\nTrust-ing Je-sus, that is all;\nTo the cross of Christ I cling,\nSimp-ly trust-ing, that is all.\n"
+|Lyric2|Text:"2._Trust-ing when my sky is bright,\nTrust-ing when my heart is glad;\nTrust-ing in the gloom of night,\nWhen my ev-ery thought is sad.\n\nSimp-ly trust-ing, simp-ly trust-ing,\nTrust-ing Je-sus, that is all;\nTo the cross of Christ I cling,\nSimp-ly trust-ing, that is all.\n"
+|Lyric3|Text:"3._Trust-ing when ’tis well with me,\nTrust-ing what-so-e’er be-fall;\nTrust-ing Je-sus’ love for me,\nSimp-ly trust-ing, that is all.\n\nSimp-ly trust-ing, simp-ly trust-ing,\nTrust-ing Je-sus, that is all;\nTo the cross of Christ I cling,\nSimp-ly trust-ing, that is all.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:3/2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Spacer|Width:350
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:20
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Trusting Jesus"|Label:"Trusting Jesus"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:3/2
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:2,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,7
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:5
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:2,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:4th,Dotted|Pos:4,7
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

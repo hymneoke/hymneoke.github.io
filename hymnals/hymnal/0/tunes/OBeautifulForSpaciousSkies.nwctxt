@@ -1,0 +1,204 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"O Beautiful for Spacious Skies"|Author:"Samuel Augustus Ward, 1882"|Lyricist:"Katherine Lee Bates, 1904"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 697."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._O beau-ti-ful for spa-cious skies,\nFor am-ber waves of grain;\nFor pur-ple mount-ain ma-jes-ties\nA-bove the fruit-ed plain!\nA-mer-i-ca! A-mer-i-ca!\nGod shed His grace on thee,\nAnd crown thy good with bro-ther-hood,\nFrom sea to shin-ing sea.\n"
+|Lyric2|Text:"2._O beau-ti-ful for he-roes proved\nIn lib-er-at-ing strife,\nWho more than self their count-ry loved,\nAnd mer-cy more than life!\nA-mer-i-ca! A-mer-i-ca!\nMay God thy gold re-fine,\nTill all suc-cess be no-ble-ness,\nAnd ev-ery gain di-vine.\n"
+|Lyric3|Text:"3._O beau-ti-ful for pa-triot dream\nThat sees be-yond the years\nThine al-a-bas-ter ci-ties gleam,\nUn-dimmed by hu-man tears!\nA-mer-i-ca! A-mer-i-ca!\nGod mend thine ev-ery flaw,\nCon-firm thy soul in self con-trol,\nThy lib-er-ty in law.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,-2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-2,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-2,#1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:#-3,3
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th,Slur|Pos:#-3|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:n-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"America the Beautiful"|Label:"America the Beautiful"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:4th|Pos:-4,7
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:#-1,b5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,n5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:4,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Note|Dur:4th,Slur|Pos:6|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,b5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

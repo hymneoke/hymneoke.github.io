@@ -1,0 +1,213 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:15|CaretPos:18
+|SongInfo|Title:"Son of Man, 87.87 D"|Author:"Louis Adolphe Coerne, 1921"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The New Hymnal for American Youth, edited by H. Augustine Smith (New York: Fleming H. Revell, 1930), # 99."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:1
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:1
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:1
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:1
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.03|Top:2.54|Right:2.03|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Treble Clef"|Label:"Treble Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Young and ra-diant, He is stand-ing,\nAs He stood at Sa-lem’s shrine;\nJust a lad, a lad for-ev-er,\nWith a look and grace di-vine!\n“Tell me, how it is ye sought Me?\nWist ye not My Fa-ther’s plan?\nI must be a-bout His busi-ness,\nWould I be a Son of Man.”\n"
+|Lyric2|Text:"2._I can see Him hum-bly kneel-ing,\nAs He knelt up-on the hill;\nWhile the wa-ters hushed their mu-sic,\nAnd the night grew bright and still:\n“Broth-ers, tell Me why ye sought Me?\nWist ye not My Fa-ther’s plan?\nHe must grow in grace and wis-dom,\nWho would be a Son of Man.”\n"
+|Lyric3|Text:"3._Like a flame His soul is strik-ing\nIn His wrath at greed and shame;\n“Ye have made a den of rob-bers\nOf the tem-ple to His name;\nKnow ye not His e-qual jus-tice?\nWist ye not My Fa-ther’s plan?\nHe must bathe His sword in Heav-en\nWho would be a Son of Man.”\n"
+|Lyric4|Text:"4._I can see Him dy-ing, lov-ing\nUn-to death on Cal-va-ry;\nHis dear hands still plead-ing, pray-ing,\nWorn and torn for you and me!\n“Broth-ers, will ye scorn and leave Me?\nWist ye not My Fa-ther’s plan?\nHe must wear a crown of sor-row\nWho would be a Son of Man.”\n"
+|Clef|Type:Treble
+|Tempo|Tempo:107|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:#-3,0
+|Chord|Dur:4th|Pos:n-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th,Slur|Pos:-2^|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-7
+|Chord|Dur:4th|Pos:-3,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:#-3,0
+|Chord|Dur:4th|Pos:n-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,#-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-5,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:#-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:#-6,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:#-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:#-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,-2
+|Bar
+|Chord|Dur:Whole|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Son of Man, 87.87 D"|Label:"Son of Man, 87.87 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-4,6
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:b1,6
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:#2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,#2
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-4,6
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:b1,6
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:-5,5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:b1,6
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:#2|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4,3
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,1,6
+|Chord|Dur:4th|Pos:-4,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:8th|Pos:2,7
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4,3
+|Note|Dur:4th,Slur|Pos:6|Opts:Stem=Up
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:1
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:4,#6
+|Chord|Dur:4th|Pos:3,4
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:#2,4
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1^|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Whole|Pos2:3,6
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:Half|Pos:-8|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

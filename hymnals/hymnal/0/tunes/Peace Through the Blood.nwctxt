@@ -1,0 +1,249 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Peace Through the Blood"|Author:"Anthony Johnson Showalter"|Lyricist:"Eliza Edmunds Hewitt, 1900"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Best Gospel Songs and Their Composers, by Anthony J. Showalter (Dalton, Georgia: A. J. Showalter, 1904), # 99."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Come while God is call-ing, hear His word to-day,\nPeace thro’ the blood of the cross;\nTake the gift He of-fers, come with-out de-lay,\nPeace thro’ the blood of the cross.\n\nPeace! won-der-ful peace!\nPeace! won-der-ful peace!\nPeace thro’ the blood of the cross;\nPeace thro’ the blood of the cross.\n"
+|Lyric2|Text:"2._Sink the past for-ev-er ’neath the cleans-ing tide,\nPeace thro’ the blood of the cross;\nLet the Ho-ly Spir-it in your heart a-bide,\nPeace thro’ the blood of the cross.\n\nPeace! won-der-ful peace!\nPeace! won-der-ful peace!\nPeace thro’ the blood of the cross;\nPeace thro’ the blood of the cross.\n"
+|Lyric3|Text:"3._Bless-ing free and bound-less flow-ing from a-bove,\nPeace thro’ the blood of the cross;\nEv-er-last-ing mer-cy, ev-er-last-ing love,\nPeace thro’ the blood of the cross.\n\nPeace! won-der-ful peace!\nPeace! won-der-ful peace!\nPeace thro’ the blood of the cross;\nPeace thro’ the blood of the cross.\n"
+|Lyric4|Text:"4._Tell the joy-ful sto-ry ev-ery-where you go,\nPeace thro’ the blood of the cross;\nTill, the wide world o-ver, ran-somed souls shall know\nPeace thro’ the blood of the cross.\n\nPeace! won-der-ful peace!\nPeace! won-der-ful peace!\nPeace thro’ the blood of the cross;\nPeace thro’ the blood of the cross.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:12/8
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3^
+|Chord|Dur:4th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3
+|Rest|Dur:4th,Dotted
+|Bar|Style:MasterRepeatOpen
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:12
+|Chord|Dur:4th,Dotted,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:1^
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:2^
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:0^
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:1^
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Rest|Dur:4th,Dotted
+|Bar
+|Ending|Endings:1|VertOffset:-6
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Rest|Dur:4th,Dotted
+|Bar|Style:MasterRepeatClose
+|Ending|Endings:2|VertOffset:-6
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-3^
+|Chord|Dur:4th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Peace Through the Blood"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nPeace! won-der-ful peace!\nPeace! won-der-ful peace!\nPeace! won-der-ful peace!\nPeace! won-der-ful peace!\n\nPeace! won-der-ful peace!\nPeace! won-der-ful peace!\nPeace thro’ the blood of the cross;\nPeace thro’ the blood of the cross.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:12/8
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1^,6^
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2^,4^
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Rest|Dur:4th,Dotted
+|Bar|Style:MasterRepeatOpen
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Rest|Dur:4th,Dotted
+|Bar
+|Ending|Endings:1
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1^,6^
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Rest|Dur:4th,Dotted
+|Bar|Style:MasterRepeatClose
+|Ending|Endings:2
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2^,4^
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

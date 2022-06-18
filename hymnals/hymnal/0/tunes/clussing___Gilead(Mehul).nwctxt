@@ -1,0 +1,137 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Gilead (Méhul), LM"|Author:"Arranged from Étienne-Nicolas Méhul (1763-1817)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Psalter Hymnal (Pittsburgh, Pennsylvania: United Presbyterian Board of Publication & Bible School Work, 1927), # 180. Also in The Methodist Hymnal (New York: Methodist Book Concern, 1905), # 202."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Come, let us sing be-fore the Lord\nNew songs of praise with sweet ac-cord,\nFor won-ders great by Him are done,\nHis might-y arm has vic-tory won.\n"
+|Lyric2|Text:"2._The great sal-va-tion of our God\nIs seen through all the earth a-broad;\nBe-fore the na-tions’ won-dering sight\nHe has re-vealed His truth and right.\n"
+|Lyric3|Text:"3._He called to mind the truth and grace\nBe-stowed up-on His cho-sen race,\nAnd un-to earth’s re-mot-est bound\nGlad tid-ings of sal-va-tion sound.\n"
+|Lyric4|Text:"4._All lands, to God lift up your voice,\nSing praise to Him, with shouts re-joice;\nWith voice of joy and loud ac-claim\nLet all u-nite and praise His name.\n"
+|Lyric5|Text:"5._Praise ye the Lord with harp and song,\nWith voice of psalms His praise pro-long;\nIn swell-ing cho-rus glad-ly sing\nAnd shout be-fore the Lord, the king.\n"
+|Lyric6|Text:"6._Let earth be glad, let o-cean roar,\nAnd prais-es sound from shore to shore;\nLet floods and hills with glad ac-cord\nShow forth their joy be-fore the Lord.\n"
+|Lyric7|Text:"7._For, lo, He comes; at His com-mand\nAll na-tions shall in judg-ment stand;\nIn jus-tice robed, and throned in light,\nThe Lord shall judge, dis-pens-ing right.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:140|Pos:12|Justify:Right|Placement:AsStaffSignature
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Note|Dur:Half,Dotted|Pos:0
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:Half|Pos:-3,0
+|Bar
+|Chord|Dur:Whole|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:Half|Pos:-2,3
+|Bar
+|Chord|Dur:Whole|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:0
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:Half|Pos:-2,3
+|Bar
+|Chord|Dur:Whole|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:#-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:Whole|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Gilead, LM"|Label:"Gilead, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,7
+|Bar
+|Chord|Dur:Whole|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:Whole|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:Whole|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:Whole|Pos:-2,5
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

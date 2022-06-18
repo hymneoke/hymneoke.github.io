@@ -1,0 +1,121 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:37|SelectIndex:38|CaretPos:-2
+|SongInfo|Title:"Gregor’s 7th Metre, 77.76"|Author:"Christian Gregor, 1784"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Offices of Worship and Hymns: with Tunes, 3rd edition, revised and enlarged (Bethlehem, Pennsylvania:  \tMoravian Publication Office, 1891), # 24."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._For the bread and for the wine,\nFor the pledge that seals Him mine,\nFor the words of love di-vine,\nWe give Thee thanks, O Lord.\n"
+|Lyric2|Text:"2._For the bod-y and the blood,\nFor the more than an-gels’ food,\nFor the bound-less grace of God,\nWe give Thee thanks, O Lord.\n"
+|Lyric3|Text:"3._For the chal-ice whence we sip\nMois-ture for the parch-èd lip,\nFor the board of fel-low-ship,\nWe give Thee thanks, O Lord.\n"
+|Lyric4|Text:"4._For the feast of love and peace,\nBid-ding all our sor-rows cease,\nEar-nest of the king-dom’s bliss,\nWe give Thee thanks, O Lord.\n"
+|Lyric5|Text:"5._For the heav’n-ly pres-ence-bread,\nOn the gold-en ta-ble laid,\nBless-èd ban-quet for us made,\nWe give Thee thanks, O Lord.\n"
+|Lyric6|Text:"6._For the pas-chal lamb here giv’n,\nFor the loaf with-out the leav’n,\nFor the man-na dropped from Heav’n,\nWe give Thee thanks, O Lord.\n"
+|Lyric7|Text:"7._On-ly bread and on-ly wine,\nYet to faith the sol-emn sign\nOf the heav’n-ly and di-vine!\nWe give Thee thanks, O Lord.\n"
+|Lyric8|Text:"8._For the words that turn our eye\nTo the cross of Cal-va-ry,\nBid-ding us in faith draw nigh,\nWe give Thee thanks, O Lord.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:Half|Pos:#-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-5,4
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:-5,6
+|Bar
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-5,4
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:Half|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-5,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

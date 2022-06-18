@@ -1,0 +1,217 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Lo, the Winter Is Past"|Author:"Arthur M. F. Custance"|Lyricist:"Arthur M. F. Custance, 1902"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Carols New and Carols Old, by Charles L. Hutchins (Boston, Massachusetts: Parish Choir, 1916), # 276."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Na-ture from her sleep is wak-ing,\nFrom her i-cy bond-age break-ing,\nVer-nal life and beau-ty tak-ing,\nLo, the win-ter is past.\nBirds their car-ols sweet are sing-ing\nTrees and flow’rs their frag-rance bring-ing,\nLo, the win-ter is past,\nLo, the win-ter is past.\n"
+|Lyric2|Text:"2._In our hearts new joy is dawn-ing,\nOn this hap-py Eas-ter morn-ing,\nEv-ery life with hope a-dorn-ing,\nLo! the win-ter is past!\nGone are Len-ten gloom and sad-ness,\nBright our path with Eas-ter glad-ness,\nLo! the win-ter is past!\nLo! the win-ter is past!\n"
+|Lyric3|Text:"3._Christ with pow’rs of Death hath striv-en,\nTo the world new life hath giv-en,\nOp’n-ing wide the gates of Hea-ven,\nLo! the win-ter is past.\nSing we to our Lord most glor-ious,\nRis-ing o-ver Death vic-tor-ious,\nLo! the win-ter is past!\nLo! the win-ter is past!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:11|Justify:Center
+|TimeSig|Signature:Common
+|Chord|Dur:8th|Pos:-6,-4
+|DynamicVariance|Style:Crescendo|Pos:8|Visibility:Never
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Rest|Dur:Half
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:#-5,#-3|Opts:Crescendo
+|Chord|Dur:4th|Pos:-4,-2|Opts:Diminuendo
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,#-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:Half|Pos:-4,1
+|Spacer|Width:225
+|Bar|Style:Double
+|Text|Text:"Chorus"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:#-3,2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Rest|Dur:Half
+|Bar
+|Text|Text:"Quartet or Semi-Chorus"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:b-4,-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,b-1
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:Half
+|Bar
+|Chord|Dur:8th|Pos:b-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-2,0|Opts:Stem=Down,Crescendo
+|Chord|Dur:Half|Pos:-2,0|Opts:Stem=Down,Crescendo
+|Bar
+|Text|Text:"Chorus"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th,Dotted|Pos:-2,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-5,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward|Dur2:Half|Pos2:3
+|RestChord|Dur:4th,Slur|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-4
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:1
+|Note|Dur:4th|Pos:#-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-7,-3
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:Whole|Pos:-6|Opts:Stem=Up|Dur2:Whole|Pos2:-6
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Lo, the Winter Is Past"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|DynamicVariance|Style:Crescendo|Pos:8|Justify:Center|Visibility:Never
+|TimeSig|Signature:Common
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:4th|Pos:-4,6
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-4,2,5
+|Chord|Dur:4th|Pos:-4,2,5
+|Bar
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:4th|Pos:-4,5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-1,4|Opts:Crescendo
+|Chord|Dur:4th|Pos:-1,3|Opts:Diminuendo
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:6
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:4,6
+|Bar|Style:Double
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-5,2
+|Bar
+|Chord|Dur:8th|Pos:b-6,b1,b5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:4th|Pos:b-2,9
+|Chord|Dur:4th|Pos:-2,b8
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:2,b8
+|Chord|Dur:4th,Slur|Pos:2,7
+|Chord|Dur:4th,Slur|Pos:b-2,b4,7
+|Chord|Dur:4th|Pos:-2,4,6
+|Bar
+|Chord|Dur:8th|Pos:b1,b5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:4th|Pos:1,b8
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half|Pos2:7
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:7
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,#3|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,8
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:Whole|Pos:-1,1
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

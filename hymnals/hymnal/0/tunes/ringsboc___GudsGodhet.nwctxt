@@ -1,0 +1,106 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Guds Godhet, 77.73"|Author:"Oskar Ahnfelt (1813-1882)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal of the Evangelical Mission Covenant Church of America (Chicago, Illinois: Covenant Press, 1950), # 77."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Ring, sweet bells of Chris-ten-dom,\nEve-ry-where the tid-ings tell\nHow the Lord to earth did come— \nRing and tell!\n"
+|Lyric2|Text:"2._Swift to seek and save the lost,\nMore than mer-ci-ful He came;\nGlad to pay life’s bit-ter cost\nJe-sus came.\n"
+|Lyric3|Text:"3._Prince of Peace, the heav’n-ly King,\nAs a mor-tal babe dis-guised\nHe ap-peared whom an-gels sing— \nEarth-dis-guised.\n"
+|Lyric4|Text:"4._Love di-vine in hu-man frame,\nOf the low-ly low-liest He;\nStripped of glo-ry, in His shame\nGlo-ried He.\n"
+|Lyric5|Text:"5._Emp-ty-hand-ed from His birth,\nGifts ex-ceed-ing price He brought;\nTreas-ures hid-den not in earth\nJe-sus brought.\n"
+|Lyric6|Text:"6._To the blind, un-cloud-ed sight;\nTo the dumb, the voice of praise;\nAnd to all in dark-ness, light— \nJoy and praise.\n"
+|Lyric7|Text:"7._To the poor, the Gos-pel’s wealth;\nTo the rich, the spir-it poor;\nAnd to all His sav-ing health— \nRich and poor.\n"
+|Lyric8|Text:"8._To the heav-y-lad-en, rest;\nTo the mourn-er, words of life;\nAnd to all— the last and best— \nEnd-less life.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Whole|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Guds Godhet, 77.73"|Label:"Guds Godhet, 77.73"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:5,6
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Whole|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

@@ -1,0 +1,181 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Eternity"|Author:"Mary Elizabeth Bliss Willson"|Lyricist:"Frances Jane (Fanny) Crosby, 1887"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns of the Gospel New and Old (compiler & date unknown), # 100. Publication date found at http://wwwhymnary.org."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:14|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-20
+|Lyric1|Text:"1._Deep and grand in tones sub-lime,\nHear the pass-ing bells of time,\nRing the dirge of mo-ments dead,\nGold-en hours whose joys are fled—\nStill those bells of time we hear,\nToll-ing, toll-ing: Hark! the word:\n\nE-ter-ni-ty! E-ter-ni-ty! E-ter-ni-ty!\n"
+|Lyric2|Text:"2._In the ro-sy morn-ing fair,\nIn the sult-ry noon-day glare,\nIn the dew-y ev-ening bright,\nIn the si-lent hush of night—\nStill those bells of time we hear,\nToll-ing, toll-ing, loud and clear:\n\nE-ter-ni-ty! E-ter-ni-ty! E-ter-ni-ty!\n"
+|Lyric3|Text:"3._When with break-ing heart we bend,\nO’er a tried and faith-ful friend,\nWhen the part-ing hour draws nigh,\nAnd we catch the last “good-bye”—\nStill those bells of time we hear,\nToll-ing, toll-ing, loud and clear:\n\nE-ter-ni-ty! E-ter-ni-ty! E-ter-ni-ty!\n"
+|Lyric4|Text:"4._Pre-cious word! if safe we stand\nOn the Christ-ian’s bor-der-land\nTrust-ing Him, Whose lov-ing smile\nLights and cheers us all the while—\nBells of time with joy we hear,\nToll-ing, toll-ing, sweet and clear:\n\nE-ter-ni-ty! E-ter-ni-ty! E-ter-ni-ty!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Spacer|Width:50
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,-1
+|Chord|Dur:8th|Pos:#-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Spacer|Width:375
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:4
+|Chord|Dur:4th|Pos:-2,2
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|DynamicVariance|Style:Diminuendo|Pos:9
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Eternity"|Label:"Eternity"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:31|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:8
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nE-ter-ni-ty! E-ter-ni-ty! E-ter-ni-ty!\n\nE-ter-ni-ty! E-ter-ni-ty! E-ter-ni-ty!\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:0
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:0
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,5
+|Chord|Dur:16th|Pos:-4,5
+|Chord|Dur:8th|Pos:-4,5
+|Chord|Dur:8th|Pos:-4,5
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:8th|Pos:-4,5
+|Chord|Dur:8th|Pos:-4,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,5
+|Chord|Dur:16th|Pos:-4,5
+|Chord|Dur:8th|Pos:-4,5
+|Chord|Dur:8th|Pos:-4,5
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:0,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:23
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Chord|Dur:Half|Pos:-4,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

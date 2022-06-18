@@ -1,0 +1,149 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:55|CaretPos:2
+|SongInfo|Title:"Christe Du Beistand, 11.11.11.10"|Author:"Matthäus Apelles von Löwenstern (1594-1648)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The English Hymnal (London: Oxford University Press, 1906), # 160."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Fa-ther most ho-ly, mer-ci-ful and ten-der;\nJe-sus our Sav-ior, with the Fa-ther reign-ing;\nSpir-it all kind-ly, Ad-vo-cate, De-fend-er,\nLight nev-er wan-ing;\nLight nev-er wan-ing;\n"
+|Lyric2|Text:"2._Trin-i-ty sac-red, U-ni-ty un-sha-ken;\nDe-i-ty per-fect, giv-ing and for-giv-ing,\nLight of the an-gels, Life of the for-sak-en,\nHope of the liv-ing;\nHope of the liv-ing;\n"
+|Lyric3|Text:"3._Mak-er of all things, all Thy crea-tures praise Thee;\nLo, all things serve Thee through Thy whole cre-a-tion:\nHear us, Al-might-y, hear us as we raise Thee\nHeart’s ad-o-ra-tion.\nHeart’s ad-o-ra-tion.\n"
+|Lyric4|Text:"4._To the all rul-ing tri-une God be glo-ry:\nHigh-est and great-est, help Thou our en-deav-or;\nWe, too, would praise Thee, giv-ing hon-or wor-thy\nNow and for-ev-er.\nNow and for-ev-er.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:Common
+|Chord|Dur:Half|Pos:-8,-5
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:4th|Pos:-8,-4
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:Half|Pos:#-6,-4
+|Bar
+|Chord|Dur:Half,Triplet=First|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th,Triplet=End|Pos:-4,n0|Opts:Stem=Up
+|Chord|Dur:Half,Triplet=First|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th,Triplet=End|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:Half|Pos:#-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-5,n0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Triplet=First|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th,Triplet=End|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:Half,Triplet=First|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th,Triplet=End|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:#-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:Half|Pos:n-6,-4
+|Bar
+|Chord|Dur:Half,Triplet=First|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th,Triplet=End|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:Half,Triplet=First|Pos:-4,n0|Opts:Stem=Up
+|Chord|Dur:4th,Triplet=End|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:#-2
+|Chord|Dur:Half|Pos:#-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,#-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:4th|Pos:n-7,-5
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-8
+|Note|Dur:4th|Pos:#-6|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-8,-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Christe Du Beistand"|Label:"Christe Du Beistand"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:Common
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:#-1,1
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Triplet=First|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th,Triplet=End|Pos:#3,n5|Opts:Stem=Down
+|Chord|Dur:Half,Triplet=First|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:4th,Triplet=End|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-5,4
+|Chord|Dur:4th|Pos:-4,n5
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Triplet=First|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th,Triplet=End|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:Half,Triplet=First|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th,Triplet=End|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,3
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-5,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:-4,n5
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Triplet=First|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th,Triplet=End|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:Half,Triplet=First|Pos:#3,n5|Opts:Stem=Down
+|Chord|Dur:4th,Triplet=End|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:3,n5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:Half|Pos:-4,5
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:0,#2
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:Half|Pos:-3,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

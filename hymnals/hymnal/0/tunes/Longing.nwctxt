@@ -1,0 +1,245 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Longing"|Author:"Marguerite Aythelda Bixler"|Lyricist:"Marguerite Aythelda Bixler, 1906"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Song Praises, edited by George B. Holsinger (Elgin, Illinois: Brethren Publishing House, 1906), # 34."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:19|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"French Horn"|Patch:60|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._O-ver the riv-er voic-es I hear;\nSweet are the songs they’re sing-ing to me;\nCall-ing me home-ward in glo-ry to be,\nO how I’m long-ing their fac-es to see!\n\nI’m long-ing to meet them,\nLong-ing to greet them,\nLong-ing to join in praise un-to Thee;\nO lov-ing Sav-ior, ac-quaint-ed with sor-row,\nHaste the glad day when u-nit-ed we’ll be.\n"
+|Lyric2|Text:"2._O-ver the riv-er man-sions I see;\nAll are a-glow with new ra-dian-cy;\nGlo-ri-fied ones who from sor-row are free,\nIn bliss and beau-ty for-ev-er will be.\n\nI’m long-ing to meet them,\nLong-ing to greet them,\nLong-ing to join in praise un-to Thee;\nO lov-ing Sav-ior, ac-quaint-ed with sor-row,\nHaste the glad day when u-nit-ed we’ll be.\n"
+|Lyric3|Text:"3._O-ver the riv-er, when shall it be?\nWhen shall I hear, “The Mas-ter calls thee”?\nCalls thee to en-ter His man-sions a-bove,\nMan-sions of glo-ry, of ser-vice, of love.\n\nI’m long-ing to meet them,\nLong-ing to greet them,\nLong-ing to join in praise un-to Thee;\nO lov-ing Sav-ior, ac-quaint-ed with sor-row,\nHaste the glad day when u-nit-ed we’ll be.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:96|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:9/8
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:#-2
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:Half,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:Half,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:#-2
+|Note|Dur:8th|Pos:-1
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th,Dotted|Pos:-3
+|Note|Dur:4th|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Spacer|Width:200
+|Bar
+|Note|Dur:Half,Dotted|Pos:0
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:2
+|Spacer|Width:200
+|Bar
+|Note|Dur:4th,Dotted|Pos:1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th,Dotted|Pos:-3^
+|Note|Dur:4th|Pos:-3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:12
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:14.5
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:-6
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,2
+|Chord|Dur:4th,Dotted|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Longing, M. A. Bixler, 1906"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Viola"|Patch:41|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:9/8
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:n5
+|Note|Dur:8th|Pos:6
+|Bar
+|Note|Dur:4th,Dotted|Pos:7
+|Note|Dur:4th,Dotted|Pos:6
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:8
+|Note|Dur:8th|Pos:7
+|Bar
+|Note|Dur:Half,Dotted|Pos:6
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:5
+|Note|Dur:8th|Pos:4
+|Bar
+|Note|Dur:4th,Dotted|Pos:7
+|Note|Dur:4th,Dotted|Pos:9
+|Note|Dur:8th|Pos:9
+|Note|Dur:8th|Pos:8
+|Note|Dur:8th|Pos:7
+|Spacer|Width:300
+|Bar
+|Note|Dur:Half,Dotted|Pos:6
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:n5
+|Note|Dur:8th|Pos:6
+|Bar
+|Note|Dur:4th,Dotted|Pos:4
+|Note|Dur:4th|Pos:6
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:b8
+|Note|Dur:8th|Pos:8
+|Note|Dur:8th|Pos:8
+|Bar
+|Note|Dur:Half,Dotted|Pos:7
+|Note|Dur:8th|Pos:9
+|Note|Dur:8th|Pos:7
+|Note|Dur:8th|Pos:5
+|Bar
+|Note|Dur:4th,Dotted|Pos:4
+|Note|Dur:4th|Pos:6
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:6
+|TempoVariance|Style:Fermata|Pause:0|Pos:8.5|Justify:Center|Placement:AtNextNote
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:5
+|Bar
+|Note|Dur:4th,Dotted|Pos:4^
+|Note|Dur:4th|Pos:4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Instrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-8
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,5
+|Chord|Dur:4th,Dotted|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

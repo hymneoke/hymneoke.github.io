@@ -1,0 +1,171 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Stabat Mater (Dykes), 88.78.87"|Author:"John Bacchus Dykes, 1875"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Souce: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 117."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._At the cross, her sta-tion keep-ing,\nStood the mourn-ful moth-er weep-ing,\nWhere He hung, the dy-ing Lord;\nFor her soul of joy be-reav-èd,\nBowed with an-guish, deep-ly griev-èd,\nFelt the sharp and pierc-ing sword.\n"
+|Lyric2|Text:"2._Oh, how sad and sore dis-tress-èd\nNow was she, that moth-er bless-èd\nOf the sole be-got-ten One;\nDeep the woe of her af-flic-tion,\nWhen she saw the cru-ci-fix-ion\nOf her ev-er glo-rious Son.\n"
+|Lyric3|Text:"3._Who, on Christ’s dear moth-er gaz-ing\nPierced by an-guish so a-maz-ing\nBorn of wom-an, would not weep?\nWho, on Christ’s dear moth-er think-ing\nSuch a cup of sor-row drink-ing\nWould not share her sor-rows deep?\n"
+|Lyric4|Text:"4._For His peo-ple’s sins chas-tis-èd,\nShe be-held her Son des-pis-èd,\nScourged, and crowned with thorns en-twined;\nSaw Him then from judg-ment tak-en,\nAnd in death by all for-sak-en,\nTill His Spir-it He re-signed.\n"
+|Lyric5|Text:"5._Je-su, may her deep de-vo-tion\nStir in me the same e-mo-tion,\nFount of love, Re-deem-er kind,\nThat my heart fresh ar-dor gain-ing,\nAnd a pur-er love at-tain-ing,\nMay with Thee ac-cept-ance find.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:135|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,-2|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:b-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:b-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:b-4,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,#-2
+|Chord|Dur:4th|Pos:-5,#-3
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,#-2
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,n-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Stabat Mater (Dykes)"|Label:"Stabat Mater (Dykes)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/2
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:n5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:6,b8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:6,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:5,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,n5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,n5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,n5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:b-2,b5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:2,4|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

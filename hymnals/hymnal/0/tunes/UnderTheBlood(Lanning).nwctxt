@@ -1,0 +1,203 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Under the Blood (Lanning)"|Author:"M. McCumber"|Lyricist:"S. A. Lanning, 1894"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Best Hymns, edited by Elisha A. Hoffman (Chicago, Illinois: Evangelical Publishing, 1894), # 15."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:32|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._He who will wear gar-ments white\nMust pass un-der the blood;\nHe who reigns where there’s no night,\nHas passed un-der the blood.\n\nOh, pass un-der the blood, my bro-ther,\nOh, pass un-der the blood;\nHe who dwells where Je-sus is,\nHas passed un-der the blood.\n"
+|Lyric2|Text:"2._He who will a-tone-ment plead\nMust pass un-der the blood;\nHe who follows where Jesus will lead,\nMust pass un-der the blood.\n\nOh, pass un-der the blood, my bro-ther,\nOh, pass un-der the blood;\nHe who dwells where Je-sus is,\nHas passed un-der the blood.\n"
+|Lyric3|Text:"4._He who will from sin be free\nMust pass un-der the blood;\nHe who will his Sav-ior see\nMust pass un-der the blood.\n\nOh, pass un-der the blood, my bro-ther,\nOh, pass un-der the blood;\nHe who dwells where Je-sus is,\nHas passed un-der the blood.\n"
+|Lyric4|Text:"4._He who seeks a con-science clear\nMust pass un-der the blood;\nHe who finds a Sav-ior dear\nMust pass un-der the blood.\n\nOh, pass un-der the blood, my bro-ther,\nOh, pass un-der the blood;\nHe who dwells where Je-sus is,\nHas passed un-der the blood.\n"
+|Lyric5|Text:"5._He who would be sa-tis-fied\nMust pass un-der the blood;\nHe who would be glo-ri-fied\nMust pass un-der the blood.\n\nOh, pass un-der the blood, my bro-ther,\nOh, pass un-der the blood;\nHe who dwells where Je-sus is,\nHas passed un-der the blood.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:96|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-7,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-4^
+|Chord|Dur:4th|Pos:-7,-4
+|Spacer|Width:175
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:19
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,0
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-7,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Under the Blood (Lanning)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/8
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:1,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:10
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:-2,7
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:16th|Pos:1,8
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

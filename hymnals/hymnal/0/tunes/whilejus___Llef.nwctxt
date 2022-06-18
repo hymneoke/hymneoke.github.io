@@ -1,0 +1,138 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:42|CaretPos:10
+|SongInfo|Title:"Llef, LM"|Author:"Griffith Hugh Jones, 1890"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 75."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._While Jus-tice waves her venge-ful hand\nTre-men-dous o’er a guilt-y land,\nAl-might-y God, Thy aw-ful power,\nWith fear and trem-bling, we a-dore.\n"
+|Lyric2|Text:"2._Where shall we fly, but to Thy feet?\nOur on-ly ref-uge is Thy seat;\nThy seat, where po-tent mer-cy pleads,\nAnd holds Thy thun-der from our heads.\n"
+|Lyric3|Text:"3._While peace and plen-ty blessed our days,\nWhere was the trib-ute of Thy praise?\nUn-grate-ful race! How have we spent\nThe bless-ings which Thy good-ness lent?\n"
+|Lyric4|Text:"4._Pale fam-ine now, and wast-ing war,\nWith threat-ening frown Thy wrath de-clare;\nBut war and fam-ine are Thy slaves,\nNor can de-stroy when mer-cy saves.\n"
+|Lyric5|Text:"5._Look down, O Lord, with pit-ying eye,\nThough loud our crimes for venge-ance cry,\nLet mer-cy’s ten-der voice pre-vail,\nNor Thy long suf-fering pa-tience fail.\n"
+|Lyric6|Text:"6._En-cour-aged by Thy sac-red Word,\nMay we not plead the blest re-cord,\nThat when a hum-ble na-tion mourns,\nThy ris-ing wrath to pit-y turns.\n"
+|Lyric7|Text:"7._O let Thy sov-ereign grace im-part\nCon-tri-tion to each rock-y heart,\nAnd bid sin-cere re-pent-ance flow,\nA gen-eral, un-dis-sem-bled woe.\n"
+|Lyric8|Text:"8._Our arms, O God of ar-mies, bless,\nThy hand a-lone can give suc-cess;\nAnd make our haugh-ty neigh-bors know\nThat Heaven pro-tects us from our foe.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:103|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:#-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:#-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:#-5,-3
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:0
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:#-1,#1
+|Bar
+|Chord|Dur:Half|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:#-5,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:#-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Llef"|Label:"Llef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,#4
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,8
+|Bar
+|Chord|Dur:Half|Pos:5,7
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

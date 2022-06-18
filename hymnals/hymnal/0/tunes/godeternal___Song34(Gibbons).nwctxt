@@ -1,0 +1,130 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:20|SelectIndex:21|CaretPos:-3
+|SongInfo|Title:"Song 34 (Gibbons), LM"|Author:"Orlando Gibbons, 1623"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Mennonite Hymnal (Newton, Kansas: Faith and Life Press, 1969), # 397. Also in The Hymnary of the United Church of Canada (Toronto, Canada: United Church Publishing House, 1930), # 428."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._God of e-ter-nal maj-es-ty,\nHigh as Thou art, from Heaven look down,\nHo-ly, and just, we cry to Thee,\nBe-hold us from Thy glo-rious throne!\n"
+|Lyric2|Text:"2._Where is Thy strength to con-quer sin?\nThy zeal to save a fall-en race?\nThy bow-els sound-ing from with-in?\nThy mer-cies, and Thy par-doning grace?\n"
+|Lyric3|Text:"3._Thy pit-y, and pa-ter-nal care,\nThe ten-der yearn-ings of Thy heart,\nAre they re-strained? Is fu-ry there?\nAh no! Thou still our Fa-ther art.\n"
+|Lyric4|Text:"4._Doubt-less Thou art our Fa-ther still,\nThough A-bra-ham his seed dis-owns\nDe-based by sin, though Is-rael\nRe-nounc-es his de-gen-er-ate sons.\n"
+|Lyric5|Text:"5._Our Lord, and our Re-deem-er now\nThou art, and will be still the same,\nOur ev-er-last-ing Fa-ther Thou;\nJe-ho-vah is Thy glo-rious name.\n"
+|Lyric6|Text:"6._Why then, O Lord, if ours Thou art,\nWhy hast Thou suf-fered us to rove?\nWith-drawn Thy Spir-it from our heart,\nAnd left us to our want of love?\n"
+|Lyric7|Text:"7._Why hast Thou hid Thy love-ly face,\nAnd caused us from Thy paths to err?\nA-ban-doned by re-strain-ing grace\nOur hearts were har-dened from Thy fear.\n"
+|Lyric8|Text:"8._Yet, Lord, for Thee a-gain we mourn,\nNow let our prayers Thine aid en-gage,\nNow for Thy ser-vant’s sake re-turn,\nAnd cheer Thy droop-ing her-it-age.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-2,1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|RestChord|Dur:4th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-5
+|Note|Dur:4th|Pos:n0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Song 34 (Gibbons), LM"|Label:"Song 34 (Gibbons), LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:-1,8
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,4
+|RestChord|Dur:4th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:3
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,9
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,9
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-5,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|RestChord|Dur:4th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-1
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-5,4
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

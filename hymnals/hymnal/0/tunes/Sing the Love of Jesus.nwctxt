@@ -1,0 +1,248 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Sing the Love of Jesus"|Author:"Charles Hutchinson Gabriel"|Lyricist:"Harriet E. Rice Jones, 1895"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Redemption Songs (London: Pickering & Inglis, ca. 1925), # 56. Original publication date found at http;//www.hymnary.org."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.52|Right:2.54|Bottom:1.52|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Sing, O sing, the dear old sto-ry\nOf our Sav-ior’s match-less love;\nSing of Je-sus and His glo-ry\nWith the ran-somed host a-bove.\n\nSing, O sing the love of Je-sus—\nSound His prais-es far and near;\nSing the won-drous sto-ry o-ver,\n’Till the whole wide world shall hear.\n"
+|Lyric2|Text:"2._Sing of love to you so pre-cious,\nTell, in song, how Je-sus died;\nLet sweet mu-sic draw the mill-ions\nTo the dear Re-deem-er’s side.\n\nSing, O sing the love of Je-sus—\nSound His prais-es far and near;\nSing the won-drous sto-ry o-ver,\n’Till the whole wide world shall hear.\n"
+|Lyric3|Text:"3._Ye re-deemed ones, sing the sto-ry!\nSing it o’er and o’er a-gain,\nUn-til ev-ery tribe and na-tion\nJoin to sing the glad re-frain.\n\nSing, O sing the love of Je-sus—\nSound His prais-es far and near;\nSing the won-drous sto-ry o-ver,\n’Till the whole wide world shall hear.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:113|Pos:12|Justify:Right
+|TimeSig|Signature:9/8
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:8th
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:8th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:3^
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Upward,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:-1
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:3^
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Upward,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:1^
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-1,1
+|Rest|Dur:8th
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th|Pos:0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:-1^
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th|Pos:2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:3^
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:0,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-1^
+|Chord|Dur:4th|Pos:-4,-1
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Sing the Love of Jesus"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nSing, O sing the love, the love of Je-sus,\nSound His prais-es, prais-es far and near,\nSing the won-drous sto-ry o-ver,\n’Till the whole wide world shall hear.\n\nSing, O sing the love of Je-sus—\nSound His prais-es far and near;\nSing the won-drous sto-ry o-ver,\n’Till the whole wide world shall hear.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:9/8
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,1^
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th,Slur|Pos:-3,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:1,6
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:8th
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,1^
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th,Slur|Pos:-3,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:1,6
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:8th
+|Bar|Style:Double
+|Rest|Dur:4th,Dotted
+|Bar
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:-3,8
+|Chord|Dur:8th|Pos:-3,8
+|Chord|Dur:4th|Pos:-3,8
+|Rest|Dur:Half
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,6
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:1,8
+|TempoVariance|Style:Fermata|Pause:0|Pos:-8.5|Justify:Right|Placement:AtNextNote
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,6^
+|Chord|Dur:4th|Pos:-3,6
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

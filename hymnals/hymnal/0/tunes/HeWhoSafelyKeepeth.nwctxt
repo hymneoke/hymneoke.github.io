@@ -1,0 +1,171 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"He Who Safely Keepeth"|Author:"Ira David Sankey"|Lyricist:"Frances Jane (Fanny) Crosby, 1902"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Young People\'s Songs of Praise, edited by Ira. D. Sankey (Chicago, Illinois: Biglow & Main, 1902), # 153."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"15"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._He who safe-ly keep-eth,\nSlum-bers not, nor sleep-eth;\nTho’ by all the world for-sak-en,\nWhere-fore should I fear?\nThat which He hath spo-ken\nNe-ver can be bro-ken;\nWho shall harm the trust-ing heart\nWhen He is near?\n"
+|Lyric2|Text:"2._He will keep me ev-er,\nWhere no power can sev-er\nFrom my heart the love that hides me,\nIn His se-cret place;\nThere in faith a-bid-ing,\nAll to Him con-fid-ing,\nThro’ His Spir-it I am sealed\nAn heir of grace.\n"
+|Lyric3|Text:"3._He will keep me ev-er;\nLike a gen-tle riv-er\nPeace from Him, my Lord and Sav-ior,\nComes with joy to me;\nIn its qui-et flow-ing,\nLife and health bes-tow-ing,\nTill with-in the gates of pearl\nThe King I see!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:103|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,2
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:n-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Boundary|Style:NewSize|Lower:21
+|Chord|Dur:Half,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:Half|Pos:-5|Opts:Stem=Down
+|Boundary|Style:NewSize|Lower:16
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,2
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:b-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:Whole|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"He Who Safely Keepeth"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Church Organ"|Patch:19|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Whole|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:n4,6
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Boundary|Style:NewSize|Upper:18
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:Half|Pos:1,6
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:Whole|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

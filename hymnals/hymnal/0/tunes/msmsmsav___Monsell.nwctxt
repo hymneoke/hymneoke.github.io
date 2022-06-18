@@ -1,0 +1,195 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:44|CaretPos:2
+|SongInfo|Title:"Monsell, 76.76 D"|Author:"John Samuel Bewley Monsell, 1863"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 464."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._My sins, my sins, my Sav-ior!\nThey take such hold on me,\nI am not able to look up,\nSave on-ly, Christ, on Thee;\nIn Thee is all for-give-ness,\nIn Thee a-bun-dant grace,\nMy shad-ow and my sun-shine\nThe bright-ness of Thy face.\n"
+|Lyric2|Text:"2._My sins, my sins, my Sav-ior!\nHow sad on Thee they fall;\nSeen through Thy gen-tle pa-tience,\nI ten-fold feel them all;\nI know they are for-giv-en,\nBut still, their pain to me\nIs all the grief and an-guish\nThey laid, my Lord, on Thee.\n"
+|Lyric3|Text:"3._My sins, my sins, my Sav-ior!\nTheir guilt I nev-er knew\nTill with Thee in the de-sert\nI near Thy pas-sion drew;\nTill with Thee in the gar-den\nI heard Thy plead-ing prayer,\nAnd saw the sweat-drops blood-y\nThat told Thy sor-row there.\n"
+|Lyric4|Text:"4._There-fore my songs, my Sav-ior,\nE’en in this time of woe,\nShall tell of all Thy good-ness\nTo suff’r-ing man be-low;\nThy good-ness and Thy fa-vor,\nWhose pres-ence from a-bove\nRe-joice those hearts, my Sav-ior,\nThat live in Thee and love.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:108|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,n-4
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:n-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:n-4,-2
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:n-4,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,n-4
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:n-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:n-4,-2
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:n-4,-2
+|Chord|Dur:8th,Slur|Pos:b-4,-1|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:n-4,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:n-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:n-5,0
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:n-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Staff 2"|Label:"Staff 2"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:11|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:n1,3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:n-2,n7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,6
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:n1,3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:n-2,n7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Note|Dur:8th,Slur|Pos:6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:5,7|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,6
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-5,6
+|Bar
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

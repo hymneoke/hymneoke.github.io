@@ -1,0 +1,172 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:54|CaretPos:2
+|SongInfo|Title:"Kelbrook, 11.12.11.12"|Author:"J. Riley, 1878"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymnal of the Methodist Episcopal Church with Tunes (New York: Eaton & Mains, 1878), p. 282."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O tell me no more of this world’s vain store,\nThe time for such tri-fles with me now is o’er;\nA coun-try I’ve found where true joys a-bound,\nTo dwell I’m de-ter-mined on that hap-py ground.\n"
+|Lyric2|Text:"2._The souls that be-lieve in par-a-dise live,\nAnd me in that num-ber will Je-sus re-ceive;\nMy soul, don’t de-lay; He calls thee a-way;\nRise, fol-low thy Sav-ior, and bless the glad day.\n"
+|Lyric3|Text:"3._No mor-tal doth know what He can be-stow,\nWhat light, strength, and com-fort— go af-ter Him, go;\nLo, on-ward I move to a city a-bove,\nNone guess-es how won-drous my jour-ney will prove.\n"
+|Lyric4|Text:"4._Great spoils I shall win from death, hell, and sin,\n’Midst out-ward af-flic-tions shall feel Christ with-in;\nAnd when I’m to die, “Re-ceive me,” I’ll cry,\nFor Je-sus hath loved me, I can-not tell why:\n"
+|Lyric5|Text:"5._But this I do find, we two are so joined,\nHe’ll not live in glo-ry and leave me be-hind;\nSo this is the race I’m run-ning through grace,\nHence-forth, till ad-mit-ted to see my Lord’s face.\n"
+|Lyric6|Text:"6._And now I’m in care my neigh-bors may share\nThese bless-ings: to seek them will none of you dare?\nIn bond-age, O why, and death will you lie,\nWhen One here as-sures you free grace is so nigh?\n"
+|Clef|Type:Treble
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th,Slur|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2^,1^
+|Chord|Dur:8th|Pos:-2,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:#-6,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5^,-1^
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:n-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1^
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Kelbrook, 11.12.11.12"|Label:"Kelbrook, 11.12.11.12"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up,Slur=Downward
+|Chord|Dur:4th,Slur|Pos:0,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:0,5
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

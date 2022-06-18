@@ -1,0 +1,123 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:15|CaretPos:-2
+|SongInfo|Title:"Abschied, LM"|Author:"Wenzel Müller, 1828"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 39. From Müller\'s \"Abschied von der Heimat\" (Farewell to the Homeland)."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._“Lord, in Thy field I work all day,\nI read, I teach, I warn, I pray,\nAnd yet these will-ful wan-dering sheep\nWith-in Thy fold I can-not keep.\n"
+|Lyric2|Text:"2._“I jour-ney, yet no step is won—\nA-las! the wea-ry course I run!\nLike sail-ors ship-wrecked in their dreams\nAll power-less and be-night-ed seems.”\n"
+|Lyric3|Text:"3._What? wea-ried out with half a life?\nScared with this smooth un-blood-y strife?\nThink where thy cow-ard hopes had flown,\nHad Heaven held out the mar-tyr’s crown.\n"
+|Lyric4|Text:"4._How couldst thou hang up-on the cross,\nTo whom a wea-ry hour is loss?\nOr how the thorns and scourg-ing brook,\nWho shrink-est from a scorn-ful look?\n"
+|Lyric5|Text:"5._Yet ere thy cra-ven spir-it faints,\nHear thine own king, the King of saints;\nThough thou wert toil-ing in the grave,\n’Tis He can cheer thee, He can save.\n"
+|Lyric6|Text:"6._He is th’e-ter-nal mir-ror bright,\nWhere an-gels view the Fa-ther’s light,\nAnd yet in Him the simpl-est swain\nMay read his home-ly les-son plain.\n"
+|Lyric7|Text:"7._Ear-ly to quit His home on earth,\nAnd claim His high ce-les-tial birth,\nA-lone with His true Fa-ther found\nWith-in the tem-ple’s sol-emn round:\n"
+|Lyric8|Text:"8._Yet in meek du-ty to a-bide\nFor man-y_a year at Mar-y’s side,\nNor heed, though rest-less spir-its ask,\n“What? hath the Christ for-got His task?”\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,n-1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:#-3,n-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:#-3,n-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:b-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Abschied"|Label:"Abschied"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,#2
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:n-2,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-5,6
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

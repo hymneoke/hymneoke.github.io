@@ -1,0 +1,244 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Golden Time"|Author:"James Ramsey Murray"|Lyricist:"James Ramsey Murray, 1870"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Prize, edited by George F. Root (Chicago, Illinois: Root & Cady, 1870), number 169. "
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._See the gold-en sun-light,\nO’er the moun-tains beam-ing,\nBring-ing to the world the bright pro-phe-tic day;\nChas-ing all the sha-dows,\nAll the drea-ry sha-dows,\nOf the night of death and dark-ness far a-way.\n\nHail we now the gold-en time,\nHail the days our eyes have longed to see;\nSend the sound through ev-ery clime,\n’Tis the day of ju-bi-lee.\n"
+|Lyric2|Text:"2._See the gold-en pro-mise\nOf the pro-phet’s vi-sion\nCom-ing to its glo-ry in this day and hour;\nCom-ing in its new-ness,\nCom-ing in its true-ness,\nCom-ing in its ma-jes-ty and with great power.\n\nHail we now the gold-en time,\nHail the days our eyes have longed to see;\nSend the sound through ev-ery clime,\n’Tis the day of ju-bi-lee.\n"
+|Lyric3|Text:"3._See the gold-en ci-ty\nFrom the clouds des-cend-ing\nWhile be-fore its com-ing er-ror flies a-way;\nSee the won-drous glo-ry\nFrom its por-tals stream-ing,\nNow in-deed is come the ev-er-last-ing day.\n\nHail we now the gold-en time,\nHail the days our eyes have longed to see;\nSend the sound through ev-ery clime,\n’Tis the day of ju-bi-lee.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:90|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Text|Text:"Joyfully"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3,-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,3
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:Half|Pos:-3,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3,-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-4,3
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half|Pos:-5,0
+|Spacer|Width:450
+|Bar|Style:Double
+|Tempo|Tempo:105|Pos:8|Justify:Right
+|Boundary|Style:NewSize|Lower:12
+|Chord|Dur:4th|Pos:-4,-2
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:8|Justify:Center
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-4,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-5,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,2
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-4,-1
+|Spacer|Width:50
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"The Golden Time"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,7
+|Chord|Dur:4th|Pos:2,8
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,3
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:Half|Pos:-2,2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

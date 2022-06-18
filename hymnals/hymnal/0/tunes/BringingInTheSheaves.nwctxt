@@ -1,0 +1,228 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:93|CaretPos:0
+|SongInfo|Title:"Bringing in the Sheaves"|Author:"George A. Minor, 1880"|Lyricist:"Knowles Shaw, 1874"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Baptist Hymnal, edited by Walter H. Sims (Nashville, Tennessee: Convention Press, 1956), # 432."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Sow-ing in the morn-ing, sow-ing seeds of kind-ness,\nSow-ing in the noon-tide and the dew-y eve;\nWait-ing for the har-vest, and the time of reap-ing,\nWe shall come re-joic-ing, bring-ing in the sheaves.\n\nBring-ing in the sheaves, bring-ing in the sheaves,\nWe shall come re-joic-ing, bring-ing in the sheaves,\ning, bring-ing in the sheaves,\n"
+|Lyric2|Text:"2._Sow-ing in the sun-shine, sow-ing in the sha-dows,\nFear-ing nei-ther clouds nor win-ter’s chill-ing breeze;\nBy and by the har-vest, and the la-bor end-ed,\nWe shall come re-joic-ing, bring-ing in the sheaves.\n\nBring-ing in the sheaves, bring-ing in the sheaves,\nWe shall come re-joic-ing, bring-ing in the sheaves,\ning, bring-ing in the sheaves,\n"
+|Lyric3|Text:"3._Go-ing forth with weep-ing, sow-ing for the Mas-ter,\nThough the loss sus-tained our spir-it of-ten grieves;\nWhen our weep-ing’s o-ver, He will bid us wel-come,\nWe shall come re-joic-ing, bring-ing in the sheaves.\n\nBring-ing in the sheaves, bring-ing in the sheaves,\nWe shall come re-joic-ing, bring-ing in the sheaves,\ning, bring-ing in the sheaves,\n"
+|Clef|Type:Treble
+|Tempo|Tempo:97|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:8th|Pos:#-8,#-6|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-7,-5|Opts:Stem=Up
+|Spacer|Width:550
+|Bar
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Spacer|Width:575
+|Bar|Style:MasterRepeatOpen
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:12
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Bar
+|Ending|Endings:1|VertOffset:2
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:#-3,1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-2,2|Opts:Stem=Up
+|Bar|Style:MasterRepeatClose
+|Ending|Endings:2|VertOffset:2
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:3,6|Opts:Stem=Down
+|Note|Dur:16th|Pos:3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,3|Opts:Stem=Down
+|Bar|Style:MasterRepeatOpen
+|Boundary|Style:NewSize|Upper:11
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Ending|Endings:1
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Note|Dur:8th|Pos:6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:5,7|Opts:Stem=Down
+|Chord|Dur:16th|Pos:4,7|Opts:Stem=Down
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Bar|Style:MasterRepeatClose
+|Ending|Endings:2
+|Chord|Dur:4th|Pos:1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:3,6|Opts:Stem=Down
+|Note|Dur:16th|Pos:3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

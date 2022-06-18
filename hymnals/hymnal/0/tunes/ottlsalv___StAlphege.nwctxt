@@ -1,0 +1,111 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"St. Alphege, 76.76"|Author:"Henry John Gauntlett, 1848"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Church Hymns with Tunes, edited by Arthur S. Sullivan (London: Society for Promoting Christian Knowledge, 1874), # 241 (this is the source for the 1848 composition date).  Also in The Hymnal and Order of Service, Evangelical Lutheran Augustana Synod (Rock Island, Illinois: Augustana Book Concern, 1927), # 530. Also in The English Hymnal (London: Oxford University Press, 1906), # 371."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O that the Lord’s sal-va-tion\nWere out of Zi-on come,\nTo heal His an-cient na-tion,\nTo lead His out-casts home.\n"
+|Lyric2|Text:"2._How long the ho-ly cit-y\nShall hea-then feet pro-fane?\nRe-turn, O Lord, in pit-y,\nRe-build her walls a-gain.\n"
+|Lyric3|Text:"3._Let fall Thy rod of ter-ror;\nThy sav-ing grace im-part;\nRoll back the veil of er-ror;\nRe-lease the fet-tered heart.\n"
+|Lyric4|Text:"4._Let Is-rael, home re-turn-ing\nTheir lost Mes-si-ah see;\nGive oil of joy for mourn-ing,\nAnd bind Thy church to Thee.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:113|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"St. Alphege, 76.76"|Label:"St. Alphege, 76.76"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:7
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

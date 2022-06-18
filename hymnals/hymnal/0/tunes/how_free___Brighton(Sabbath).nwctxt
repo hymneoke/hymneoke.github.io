@@ -1,0 +1,106 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:2|CaretPos:0
+|SongInfo|Title:"Brighton (Sabbath), SM"|Author:"The Sabbath and Tune Book, 1859"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Sabbath and Tune Book, edited by Lowell Mason, Edwards A. Park & Austin Phelps (New York: Mason Brothers, 1859), p. 374."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._How free the foun-tain flows\nOf end-less life and joy!\nThat spring, which no con-fine-ment knows,\nWhose wa-ters nev-er cloy!\n"
+|Lyric2|Text:"2._How sweet the ac-cents sound\nFrom the Re-deem-er’s tongue!\n“As-sem-ble, all ye na-tions round,\nIn one o-be-dient throng.\n"
+|Lyric3|Text:"3._“The Spir-it bears the call\nTo all the dis-tant lands;\nThe Church, the bride, re-flects it back,\nWhile Je-sus wait-ing stands.\n"
+|Lyric4|Text:"4._“Ho, eve-ry thirst-y soul,\nAp-proach the sac-red spring;\nDrink, and your faint-ing spir-its cheer,\nRe-new the draught, and sing.\n"
+|Lyric5|Text:"5._“Let all that will, ap-proach;\nThe wa-ter free-ly take;\nFree from Mine o-pening heart it flows,\nYour rag-ing thirst to slake.”\n"
+|Lyric6|Text:"6._With thank-ful hearts we come\nTo taste the of-fered grace;\nAnd call on all that hear to join\nThe tri-al, and the praise.\n"
+|Tempo|Tempo:113|Pos:11
+|Clef|Type:Treble
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-2,1
+|Chord|Dur:Half|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:#-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:Half|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Brighton (Sabbath), SM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:-1,8
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:6|Opts:Stem=Down|Dur2:Half|Pos2:6
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

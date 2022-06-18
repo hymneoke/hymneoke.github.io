@@ -1,0 +1,217 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:5|CaretPos:-2
+|SongInfo|Title:"Shall You? Shall I?"|Author:"James McGranahan"|Lyricist:"James McGranahan, 1887"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns Nos. 1 to 6 Complete (Chicago, Illinois: Biglow & Main, 1894), # 309."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Some-one will en-ter the pear-ly gates\nBy and by, by and by,\nTaste of the glo-ries that there a-wait,\nShall you? shall I? Shall you? shall I?\nSome-one will tra-vel the streets of gold,\nBeau-ti-ful vi-sions will there be-hold,\nFeast on the plea-sures so long fore-told:\nShall you? shall I? Shall you? shall I?\n"
+|Lyric2|Text:"2._Some-one will glad-ly his cross lay down\nBy and by, by and by,\nFaith-ful ap-proved, shall re-ceive a crown,\nShall you? shall I? Shall you? shall I?\nSome-one the glo-ri-ous King will see,\nEv-er from sor-row of earth be free,\nHap-py with Him thro’ e-ter-ni-ty:\nShall you? shall I? Shall you? shall I?\n"
+|Lyric3|Text:"3._Some-one will knock when the door is shut\nBy and by, by and by,\nHear a voice say-ing, “I know you not,”\nShall you? shall I? Shall you? shall I?\nSome-one will call and shall not be heard,\nVain-ly will strive when the door is barred,\nSome-one will fail of the saint’s re-ward:\nShall you? shall I? Shall you? shall I?\n"
+|Lyric4|Text:"4._Some-one will sing the tri-umph-ant song\nBy and by, by and by,\nJoin in the praise with the blood-bought throng,\nShall you? shall I? Shall you? shall I?\nSome-one will greet on the gold-en shore\nLoved ones of earth who have gone be-fore,\nSafe in the glo-ry for-ev-er-more:\nShall you? shall I? Shall you? shall I?\n"
+|Clef|Type:Treble
+|Tempo|Tempo:108|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:0,2|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-1,1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:450
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3^,-1^
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-3,0,2
+|Chord|Dur:8th|Pos:-3,0,2
+|Chord|Dur:8th|Pos:-3,0,2
+|Chord|Dur:8th|Pos:-3,0,2
+|Chord|Dur:8th|Pos:-3,1,3
+|Chord|Dur:8th|Pos:-3,0,2
+|Bar
+|Chord|Dur:4th|Pos:-3,0,2
+|Chord|Dur:8th|Pos:-3,-1,1
+|Chord|Dur:4th|Pos:-3,-1,1
+|Spacer|Width:400
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3^,-1^
+|Chord|Dur:8th|Pos:-3,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Shall You? Shall I?"|Label:"Shall You? Shall I?"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:4th,Dotted|Pos:2,9
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:2^,6^
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,6
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:4th,Dotted|Pos:2,9
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:2^,6^
+|Chord|Dur:8th|Pos:2,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,194 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:75|CaretPos:0
+|SongInfo|Title:"Saint Cross, 10.4.10.4 D"|Author:"Frank Lambert, 1899"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Arundel Hymns, by Henry Fitzalan-Howard & Charles T. Gatty, 1902, # 41. Corrects error in last note (full note -> dotted half note)."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._There in the nar-row man-ger, cold and bleak\nMy Lord, Thou art;\nAnd there with-in those hands, so soft and weak,\nI lay my heart.\nBe-neath those ti-ny feet I bow my head,\nO bless-èd Child.\nAnd kiss the straw that forms Thy chilly bed\nIn win-ter wild.\n"
+|Lyric2|Text:"2._Show me thy won-drous Babe, O moth-er-maid,\nFore-told of yore;\nThe treas-ure on thy vir-gin bos-om laid\nLet me a-dore.\nThat small hand place up-on my pros-trate brow,\nO moth-er dear;\nFor crouch-ing in His in-fant pres-ence\nI quake with fear.\n"
+|Lyric3|Text:"3._A sin-ner kneel-ing at an in-fant’s cot,\nI call on Thee;\nA sin-ner at the cross, for-get me not,\nBut plead for me.\nAnd thus in faith as-sured I leave my heart,\nBlest Child, with Thee;\nA worth-less gift with which Thou wilt_not part\nE-ter-nal-ly.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|Tempo|Tempo:98|Pos:11|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,#-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half|Pos2:-3
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,n0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:#-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:4th|Pos:b-4,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:b-4,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:1,2
+|Chord|Dur:Half|Pos:n0,2
+|Bar
+|Chord|Dur:Half|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,b3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:b-4,1
+|Chord|Dur:4th|Pos:n-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:#-5,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Saint Cross, 10.4.10.4 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,n5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:#-1,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:#3,7
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:#-1,4
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:n-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:3,b8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:6,8
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:b4,9
+|Chord|Dur:Half|Pos:3,9
+|Bar
+|Chord|Dur:Half|Pos:3,n5
+|Chord|Dur:4th|Pos:3,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:6|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:6
+|Chord|Dur:4th|Pos:5,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:#2,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:5,6
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:-3,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

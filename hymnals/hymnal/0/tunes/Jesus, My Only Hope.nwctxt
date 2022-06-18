@@ -1,0 +1,170 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Jesus, My Only Hope"|Author:"William James Kirkpatrick"|Lyricist:"Frances Jane (Fanny) Crosby, 1886"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: On Joyful Wing, by John R. Sweney & William  J. Kirkpatrick (Philadelphia, Pennsylvania: John J. Hood, 1886), # 27.\r\n"
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:16|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:16|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:16|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:16|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Right Hand"|Label:"Right Hand"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Je-sus, my on-ly hope, friend ev-er dear,\nBend to my ear-nest prayer Thy gra-cious ear;\nCome from Thy throne a-bove, come and my dross re-move,\nFill me with per-fect love, Sav-ior, to Thee.\n"
+|Lyric2|Text:"2._Je-sus, my on-ly hope, grant me Thy grace,\nTeach me in joy and pain Thy hand to trace;\nKeep Thou my heart in peace, bid ev-ery mur-mur cease,\nCome and my faith in-crease, Sav-ior, in Thee.\n"
+|Lyric3|Text:"3._Je-sus, my on-ly hope, Je-sus, my king,\nHelp me with heart and voice Thy praise to sing;\nNow let Thy beams di-vine bright o’er my path-way shine,\nDraw me, O Sav-ior mine, clos-er to Thee.\n"
+|Lyric4|Text:"4._Je-sus, my on-ly hope, be Thou my guest;\nUn-der Thy might-y wings, O let me rest,\nRest till the an-gel band home to the prom-ised land\nBears me at Thy com-mand, Sav-ior, to Thee.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-2,0
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:Half|Pos:-2,0
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Note|Dur:16th,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:2|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-2,3
+|Spacer|Width:475
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Jesus, My Only Hope"|Label:"Jesus, My Only Hope"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:2,5
+|Chord|Dur:4th|Pos:2,n4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2,5
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Bar
+|Chord|Dur:Half|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Bar
+|Chord|Dur:Half|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Note|Dur:Half|Pos:5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Whole|Pos:1,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

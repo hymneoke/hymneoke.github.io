@@ -1,0 +1,160 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:51|CaretPos:-1
+|SongInfo|Title:"Wimborne, LM"|Author:"John Whitaker, 1820"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal (New York: Methodist Book Concern, 1905), # 439. Composition date found at http://hymnary.org/hymn/BSHR1924/page/117, accessed 18 July 2017."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Lord, how se-cure and blest are they\nWho feel the joys of par-doned sin!\nShould storms of wrath shake earth and sea,\nTheir minds have Heav’n and peace with-in.\n"
+|Lyric2|Text:"2._The day glides swift-ly o’er their heads,\nMade up of in-no-cence and love;\nAnd soft and si-lent as the shades\nTheir night-ly min-utes gen-tly move.\n"
+|Lyric3|Text:"3._Quick as their thoughts their joys come on,\nBut fly not half so swift a-way;\nTheir souls are ev-er bright as noon,\nAnd calm as sum-mer eve-nings be.\n"
+|Lyric4|Text:"4._How oft they look to heav’n-ly hills,\nWhere groves of liv-ing pleas-ure grow!\nAnd long-ing hopes and cheer-ful smiles\nSit un-dis-turbed up-on their brow.\n"
+|Lyric5|Text:"5._They scorn to seek our gold-en toys,\nBut spend the day and share the night\nIn num-bering o’er the rich-er joys\nThat Heav’n pre-pares for their de-light.\n"
+|Lyric6|Text:"6._While wretch-ed we, like worms and moles,\nLie grov-eling in the dust be-low,\nAl-might-y grace, re-new our souls,\nAnd we’ll as-pire to glo-ry, too.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th,Slur|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Slur|Pos:0,2
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Wimborne, LM"|Label:"Wimborne, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:8|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:Half|Pos:-1,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:8|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:6,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:Half|Pos:1,8
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:8
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,8
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:8
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:Half|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,9
+|Bar
+|Chord|Dur:Half|Pos:1,8
+|Chord|Dur:4th,Slur|Pos:8|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

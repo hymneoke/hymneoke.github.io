@@ -1,0 +1,165 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:53|CaretPos:7
+|SongInfo|Title:"Warrington, LM"|Author:"Ralph Harrison, 1784"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 1."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O God, Thou bot-tom-less a-byss!\nThee to per-fec-tion who can know?\nO height im-mense! What words suf-fice\nThy count-less at-trib-utes to show?\n"
+|Lyric2|Text:"2._Un-fath-om-a-ble depths Thou art;\nO plunge me in Thy mer-cy’s sea!\nVoid of true wis-dom is my heart;\nWith love em-brace and cov-er me:\n"
+|Lyric3|Text:"3._While Thee, all-in-fi-nite, I set\nBy faith be-fore my rav-ished eye,\nMy weak-ness bends be-neath the weight;\nO’er-powered I sink, I faint, I die.\n"
+|Lyric4|Text:"4._E-ter-ni-ty Thy foun-tain was,\nWhich, like Thee, no be-gin-ning knew;\nThou wast ere time be-gan his race,\nEre glowed with stars the_e-the-real blue.\n"
+|Lyric5|Text:"5._Great-ness un-speak-a-ble is Thine,\nGreat-ness, whose un-di-min-ished ray,\nWhen short-lived worlds are lost, shall shine,\nWhen earth and Heaven are fled a-way.\n"
+|Lyric6|Text:"6._Un-change-a-ble, all-per-fect Lord,\nEs-sen-tial life’s un-bound-ed sea,\nWhat lives and moves, lives by Thy Word;\nIt lives, and moves, and is from Thee.\n"
+|Lyric7|Text:"7._Thy par-ent-hand, Thy form-ing skill,\nFirm fixed this u-ni-ver-sal chain;\nElse emp-ty, bar-ren dark-ness still\nHad held his un-mo-lest-ed reign.\n"
+|Lyric8|Text:"8._What-e’er in earth, or sea, or sky,\nOr shuns or meets the wan-dering thought,\nEs-capes or strikes the search-ing eye,\nBy Thee was to per-fec-tion brought.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-3,1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:n-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-4,3|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,0
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Warrington, LM"|Label:"Warrington, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-3,6|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:5,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:10
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,7
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

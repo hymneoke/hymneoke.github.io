@@ -1,0 +1,208 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:85|SelectIndex:86|CaretPos:-1
+|SongInfo|Title:"Royal Oak, 76.76 D"|Author:"17th Century English tune, arr. by Martin Shaw"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 147."
+|PgSetup|StaffSize:21|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._All things bright and beau-ti-ful,\nAll crea-tures great and small,\nAll things wise and won-der-ful:\nThe Lord God made them all.\n\nEach lit-tle flower that o-pens,\nEach lit-tle bird that sings,\nHe made their glow-ing col-ors,\nHe made their ti-ny wings.\n"
+|Lyric2|Text:"2._All things bright and beau-ti-ful,\nAll crea-tures great and small,\nAll things wise and won-der-ful:\nThe Lord God made them all.\n\nThe rich man in his cas-tle,\nThe poor man at his gate,\nHe made them, high or low-ly,\nAnd or-dered their es-tate.\n"
+|Lyric3|Text:"3._All things bright and beau-ti-ful,\nAll crea-tures great and small,\nAll things wise and won-der-ful:\nThe Lord God made them all.\n\nThe pur-ple head-ed moun-tains,\nThe riv-er run-ning by,\nThe sun-set and the morn-ing\nThat bright-ens up the sky.\n"
+|Lyric4|Text:"4._All things bright and beau-ti-ful,\nAll crea-tures great and small,\nAll things wise and won-der-ful:\nThe Lord God made them all.\n\nThe cold wind in the win-ter,\nThe pleas-ant sum-mer sun,\nThe ripe fruits in the gar-den,\nHe made them eve-ry one.\n"
+|Lyric5|Text:"5._All things bright and beau-ti-ful,\nAll crea-tures great and small,\nAll things wise and won-der-ful:\nThe Lord God made them all.\n\nThe tall trees in the green-wood,\nThe mead-ows where we play,\nThe rush-es by the wa-ter,\nTo gath-er eve-ry day.\n"
+|Lyric6|Text:"6._All things bright and beau-ti-ful,\nAll crea-tures great and small,\nAll things wise and won-der-ful:\nThe Lord God made them all.\n\nHe gave us eyes to see them,\nAnd lips that we might tell\nHow great is God Al-might-y,\nWho has made all things well.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-8
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted,Slur|Pos:-7|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Whole|Pos2:-2
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-8
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-7|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Up,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:Half|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Note|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-7|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-8
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted,Slur|Pos:-7|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Whole|Pos2:-2
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Royal Oak"|Label:"Royal Oak"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Note|Dur:4th|Pos:3^|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:-7|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,3|Opts:Stem=Up
+|Note|Dur:4th,Slur|Pos:0|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:3|Opts:Stem=Down
+|Note|Dur:4th|Pos:4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Note|Dur:4th|Pos:3^|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:-7|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th,Slur|Pos:0|Opts:Stem=Up
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:n2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:n2
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th,Slur|Pos:3|Opts:Stem=Up
+|Note|Dur:Half|Pos:-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:5
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:-7
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

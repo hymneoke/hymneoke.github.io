@@ -1,0 +1,166 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Maryland, LMD"|Author:"Alexander Zarnock"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Tune Book of the Salvation Amy (London: Salvationist Publishing & Supplies, 1987), # 64."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Sing, Christ-mas bells, this is the morn\nWhere-on our Sav-ior King is born;\nSing out to all, the bond, the free,\nThe lit-tle child that sports in glee,\nThe rich, the poor, the high, the low,\nThe ag-èd folk that tot-tering go— \nPro-claim the morn that Christ is born,\nWho sav-eth them and sav-eth me!\n"
+|Lyric2|Text:"2._Sing, an-gel host, sing of the star\nA-bove the man-ger bed a-far;\nSing of the glo-ries of the night,\nThe Babe with king-ly robes be-dight;\nThe vir-gin’s sweet hu-mil-i-ty,\nSing to all men wher-e’er they be\nThis Christ-mas morn, the Christ is born\nWho sav-eth them and sav-eth me!\n"
+|Lyric3|Text:"3._Sing, all on earth, O ran-somed, sing!\nGod liv-eth, and we have a king!\nThe curse is gone, the bond are free,\nShown by these heav’n-ly signs that be;\nBy Beth-lehem’s star that bright-ly beamed,\nWe know that Is-rael is re-deemed;\nThat on this morn, the Christ is born\nWho sav-eth you and sav-eth me!\n"
+|Lyric4|Text:"4._Sing, O my rap-tured heart this morn,\nWhere-on the bless-èd Prince is born!\nSo all my songs shall be of love,\nFor my dear Lord who reigns a-bove;\nSo let my deeds be char-i-ty,\nIn-spired by Him who died for me;\nBy this fair morn, where-on is born\nThe Christ that sav-eth all and me!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Bar|Style:MasterRepeatOpen
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2
+|Bar|Style:MasterRepeatClose
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:#-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-4,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Maryland, LMD"|Label:"Maryland, LMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Bar|Style:MasterRepeatOpen
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:0,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Bar|Style:MasterRepeatClose
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,8|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:4,8|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:4,8
+|Chord|Dur:8th|Pos:3,8
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:2,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-2,#3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

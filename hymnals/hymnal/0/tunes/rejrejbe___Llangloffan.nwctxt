@@ -1,0 +1,191 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:22|CaretPos:4
+|SongInfo|Title:"Llangloffan, 76.76 D"|Author:"Daniel Silvan Evans, 1865"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The English Hymnal (London: Oxford University Press, 1906), # 207. Also in The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 231."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Re-joice, re-joice, be-liev-ers,\nAnd let your lights ap-pear.\nThe eve-ning is ad-vanc-ing,\nAnd dark-er night is near.\nThe Bride-groom is a-ris-ing,\nAnd soon He draw-eth nigh.\nUp, pray, and watch, and wres-tle:\nAt mid-night comes the cry.\n"
+|Lyric2|Text:"2._See that your lamps are burn-ing;\nRe-plen-ish them with oil.\nAnd wait for your sal-va-tion,\nThe end of earth-ly toil.\nThe watch-ers on the moun-tain\nPro-claim the Bride-groom near.\nGo meet Him as He com-eth,\nWith al-le-lu-ias clear.\n"
+|Lyric3|Text:"3._O wise and ho-ly vir-gins,\nNow raise your voic-es higher,\nUn-til in songs of tri-umph\nYe meet the an-gel choir.\nThe mar-riage feast is wait-ing,\nThe gates wide o-pen stand;\nRise up, ye heirs of glo-ry,\nThe Bride-groom is at hand.\n"
+|Lyric4|Text:"4._Our hope and ex-pec-ta-tion,\nO Je-sus, now ap-pear!\nA-rise, Thou sun so longed for,\nO’er this be-night-ed sphere!\nWith hearts and hands up-lift-ed,\nWe plead, O Lord, to see\nThe day of earth’s re-demp-tion\nThat brings us un-to Thee.\n"
+|Lyric5|Text:"5._Ye saints, who here in pa-tience\nYour cross and suf-ferings bore,\nShall live and reign for-ev-er,\nWhen sor-row is no more.\nA-round the throne of glo-ry\nThe Lamb ye shall be-hold;\nIn tri-umph cast be-fore Him\nYour di-a-dems of gold!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:113|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-7,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,#-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,#-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,#-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Llangloffan, 76.76 D"|Label:"Llangloffan, 76.76 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,#2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,#2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:5,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,#2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:4th|Pos:#2|Opts:Stem=Up
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Bar
+|Note|Dur:4th|Pos:3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,#2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

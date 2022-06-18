@@ -1,0 +1,164 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:33|SelectIndex:34|CaretPos:0
+|SongInfo|Title:"Lux Prima (Gounod), 87.87.77"|Author:"Charles François Gounod, 1872"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 47. Also in the Psalter Hymnal (Grand Rapids, Michigan: Board of Publications of the Christian Reformed Church, 1976), # 214."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Come, O come, Thou quick-ening Spir-it,\nGod from all e-ter-ni-ty!\nMay Thy pow-er nev-er fail us;\nDwell with-in us con-stant-ly.\nThen shall truth and life and light\nBan-ish all the gloom of night.\n"
+|Lyric2|Text:"2._Grant our hearts in full-est mea-sure\nWis-dom, coun-sel, pu-ri-ty,\nThat we ev-er may be seek-ing\nOn-ly that which pleas-eth Thee.\nLet Thy knowl-edge spread and grow,\nWork-ing er-ror’s o-ver-throw.\n"
+|Lyric3|Text:"3._Show us, Lord, the path of bless-ing;\nWhen we tres-pass on our way,\nCast, O Lord, our sins be-hind Thee,\nAnd be with us day by day.\nShould we stray, O Lord, re-call;\nWork re-pent-ance when we fall.\n"
+|Lyric4|Text:"4._With our spir-it bear Thou wit-ness\nThat we are the sons of God\nWho re-ly up-on Him sole-ly\nWhen we pass be-neath the rod;\nFor we know, as chil-dren should,\nThat the cross is for our good.\n"
+|Lyric5|Text:"5._Prompt us, Lord, to come be-fore Him\nWith a child-like heart to pray;\nSigh in us, O Ho-ly Spir-it,\nWhen we know not what to say.\nThen our prayer is not in vain,\nAnd our faith new strength shall gain.\n"
+|Lyric6|Text:"6._If our soul can find no com-fort,\nIf de-spond-en-cy grows strong,\nAnd the heart cries out in an-guish,\n“Oh my God, how long, how long?”\nCom-fort then our ach-ing breast,\nGrant it cour-age, pa-tience, rest.\n"
+|Lyric7|Text:"7._Ho-ly Spir-it, strong and might-y,\nThou who mak-est all things new,\nMake Thy work with-in us per-fect\nAnd the e-vil foe sub-due.\nGrant us weap-ons for the strife\nAnd with vic-tory crown our life.\n"
+|Lyric8|Text:"8._Guard, O God, our faith for-ev-er;\nLet not Sa-tan, death or shame\nEv-er part us from our Sav-ior;\nLord, our ref-uge is Thy name.\nThough our flesh cry ev-er: Nay!\nBe Thy Word to us still Yea!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:#-5,0
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Slur|Pos:0,n2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-2,1
+|Bar
+|Chord|Dur:4th|Pos:#-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:n-2
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Lux Prima (Gounod)"|Label:"Lux Prima (Gounod)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:4,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,8
+|Chord|Dur:4th|Pos:3,n9
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:n2,7
+|Chord|Dur:Half|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th,Slur|Pos:-2,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,8|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:Half|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

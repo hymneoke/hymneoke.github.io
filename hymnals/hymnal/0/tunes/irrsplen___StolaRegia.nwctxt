@@ -1,0 +1,178 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:56|CaretPos:4
+|SongInfo|Title:"Stola Regia, 76.76 D"|Author:"John Stainer, 1889"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 620."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._In roy-al robes of splen-dor,\nBe-fore the great King’s feet,\nThe princ-es of His king-dom,\nThe crowned a-pos-tles, meet;\nTo Him their songs a-dor-ing\nWith heart and tongue they bring,\nPure hearts and might-y voic-es—\nE’en as the an-gels sing.\n"
+|Lyric2|Text:"2._This Or-der sheds its lus-ter\nO’er all the hu-man race;\nA court of right-eous judg-ment,\nThe rock of Gos-pel grace;\nRock of His Church, for ag-es\nE-lect-ed and fore-known;\nWhose glo-rious mas-ter build-er\nIs head and cor-ner-stone.\n"
+|Lyric3|Text:"3._These are the Naz-a-re-ans,\nFamed her-alds to the world,\nWho, preach-ing Christ, His ban-ner\nOf vic-to-ry un-furled;\nDay un-to day shows knowl-edge;\nNight ut-ters speech to night;\nSo these to earth’s four cor-ners\nTheir won-drous tale re-cite.\n"
+|Lyric4|Text:"4._Christ’s bur-den light they prof-fer,\nHis eas-y yoke pro-claim;\nThe seed of life they scat-ter,\nThat all may own His name.\nThe earth brought forth and bud-ded,\nWher-e’er their plough-share ran,\nAnd fruits of in-crease fol-lowed\nThe faith of God made man.\n"
+|Lyric5|Text:"5._These are the sure foun-da-tion\nOn which the Tem-ple stands;\nThe liv-ing stones com-pact-ing\nThat house not made with hands;\nThe gates by which man en-ters\nJe-ru-sa-lem the new;\nThe bond which knits to-geth-er\nThe Gen-tile and the Jew.\n"
+|Lyric6|Text:"6._Let er-ror flee be-fore them,\nLet truth ex-tend her way;\nLet dread of fi-nal judg-ment\nTo faith and love give way;\nThat, loosed from our of-fens-es,\nWe then may num-bered be\nA-mong Thy saints in glo-ry\nA-round the throne with Thee.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:#-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,#-2
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,#-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:#-4,#-2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,#-4
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,#-2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:#-2,2
+|Chord|Dur:4th|Pos:n-2,3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Stola Regia, 76.76 D"|Label:"Stola Regia, 76.76 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,#4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:2,n4
+|Bar
+|Chord|Dur:Half|Pos:5,7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,#4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:Half|Pos:1,6
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:0,#3
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:1,6
+|Note|Dur:4th|Pos:5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:5,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:Half|Pos:#3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,#4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:#0,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:7,8
+|Bar
+|Chord|Dur:4th|Pos:6,8
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

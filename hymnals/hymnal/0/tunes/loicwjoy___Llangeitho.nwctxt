@@ -1,0 +1,226 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Llangeitho, 76.76.78.76"|Author:"Anonmous Welsh tune, 1839"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Rejoice in the Lord, edited by Erik Routley (Grand Rapids, Michigan: William B. Eerdmans Publishing, 1985), # 470."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.52|Right:2.54|Bottom:1.52|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Lo! I come with joy to do\nThe Mas-ter’s bless-èd will,\nHim in out-ward works pur-sue,\nAnd serve His pleas-ure still;\nFaith-ful to my Lord’s com-mands,\nI still would choose the bet-ter part:\nServe with care-ful Mar-tha’s hands,\nAnd hum-ble Mar-y’s heart.\n"
+|Lyric2|Text:"2._Care-ful, with-out care I am,\nNor feel my hap-py toil,\nKept in peace by Je-su’s name,\nSup-port-ed by His smile;\nJoy-ful thus my faith to show,\nI find His ser-vice my re-ward;\nEve-ry work I do be-low,\nI do it to the Lord.\n"
+|Lyric3|Text:"3._Thou, O Lord, in ten-der love\nDost all my bur-dens bear,\nLift my heart to things a-bove,\nAnd fix it ev-er there:\nCalm on tu-mult’s wheel I sit,\n’Midst bus-y mul-ti-tudes, a-lone,\nSweet-ly wait-ing at Thy feet,\nTill all Thy will be done.\n"
+|Lyric4|Text:"4._To the de-sert, or the cell,\nLet oth-ers blind-ly fly,\nIn this e-vil world I dwell,\nUn-hurt, un-spot-ted, I:\nHere I find a house of prayer,\nTo which I in-ward-ly re-tire,\nWalk-ing un-con-cerned in care,\nAnd un-con-sumed in fire.\n"
+|Lyric5|Text:"5._Thou, O Lord, my por-tion art,\nBe-fore I hence re-move!\nNow my treas-ure and my heart\nAre all laid up a-bove;\nFar a-bove these earth-ly things\n(While yet my hands are here em-ployed)\nSees my soul the King of kings\nAnd free-ly talks with God.\n"
+|Lyric6|Text:"6._O that all the art might know,\nOf liv-ing thus to Thee:\nFind their Heav’n be-gun be-low,\nAnd here Thy good-ness see:\nWalk in all the works pre-pared\nBy Thee to ex-er-cise their grace,\nTill they gain their full re-ward,\nAnd see Thy glo-rious face.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#,D#|Tonic:E
+|Tempo|Tempo:130|Pos:13|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:Half|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-3
+|Bar
+|Chord|Dur:Half|Pos:-7,-2
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-5|Opts:Stem=Down|Dur2:Half|Pos2:2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,#-1
+|Bar
+|Chord|Dur:Half|Pos:-6,0
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-7,-5
+|Chord|Dur:4th|Pos:#-8,-6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-7
+|Bar
+|Chord|Dur:Half|Pos:-7,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-7,0
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th,Triplet=First,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th,Triplet,Slur|Pos:1|Opts:Stem=Up,Beam
+|Note|Dur:8th,Grace|Pos:8|Opts:Stem=Up,Muted|Visibility:Never
+|Note|Dur:8th,Triplet=End|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:8th,Triplet=First,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th,Triplet,Slur|Pos:0|Opts:Stem=Up,Beam
+|Note|Dur:8th,Grace|Pos:6|Opts:Stem=Up,Muted|Visibility:Never
+|Note|Dur:8th,Triplet=End|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Llangeitho, Welsh"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#,D#|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:1|Opts:Stem=Down|Dur2:Half|Pos2:1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:-1,4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:2,5
+|Chord|Dur:4th|Pos:2,#4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:5,7
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:0,5
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down|Dur2:Half|Pos2:2
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:2,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Boundary|Style:NewSize|Upper:17|Lower:8
+|Chord|Dur:8th,Triplet=First,Slur|Pos:7|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th,Triplet,Slur|Pos:6|Opts:Stem=Up,Beam
+|Note|Dur:8th,Grace|Pos:12|Opts:Stem=Up,Muted|Visibility:Never
+|Note|Dur:8th,Triplet=End|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Chord|Dur:8th,Triplet=First,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th,Triplet,Slur|Pos:5|Opts:Stem=Up,Beam
+|Note|Dur:8th,Grace|Pos:12|Opts:Stem=Up,Muted|Visibility:Never
+|Note|Dur:8th,Triplet=End|Pos:6|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:13
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

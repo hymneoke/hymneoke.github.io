@@ -1,0 +1,246 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"His Words Are True"|Author:"William Howard Doane"|Lyricist:"Frances Jane (Fanny) Crosby, 1905"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Photocopied score, origin unknown."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.78|Right:2.54|Bottom:1.78|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:31|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._What won-der-ful words in the Gos-pel of grace\nOur lov-ing Re-deem-er has giv’n!\nHow hap-py are they who in spir-it are pure,\nFor theirs is the king-dom of Heav’n!\n\nTho’ all that is earth-ly will fade,\nAnd van-ish a-way from our view,\nWe know that as sure as the Sav-ior lives,\nThe words He has spok-en are true.\n"
+|Lyric2|Text:"2._He mak-eth the lil-ies to bloom in the field,\nAnd shel-ters the bird in its nest;\nHe call-eth the wear-y to come un-to Him,\nAnd find the sweet bless-ing of rest.\n\nTho’ all that is earth-ly will fade,\nAnd van-ish a-way from our view,\nWe know that as sure as the Sav-ior lives,\nThe words He has spok-en are true.\n"
+|Lyric3|Text:"3._To those that are thirst-ing and long-ing for Him,\nThe wa-ter of life He will give;\nAnd they that with pa-tience en-dure to the end,\nFor-ev-er in glo-ry shall live.\n\nTho’ all that is earth-ly will fade,\nAnd van-ish a-way from our view,\nWe know that as sure as the Sav-ior lives,\nThe words He has spok-en are true.\n"
+|Lyric4|Text:"4._Then why are we fear-ful, and where is our faith?\nHis own He will nev-er for-sake;\nAnd tho’ He may lead them where wa-ters are deep,\nHis prom-ise He nev-er will break.\n\nTho’ all that is earth-ly will fade,\nAnd van-ish a-way from our view,\nWe know that as sure as the Sav-ior lives,\nThe words He has spok-en are true.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:103|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:525
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Spacer|Width:125
+|Bar
+|Chord|Dur:8th,Dotted|Pos:n-5,-3
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Spacer|Width:300
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:11.5
+|Boundary|Style:NewSize|Lower:23
+|TempoVariance|Style:Fermata|Pause:0|Pos:5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:n-4,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:b-4,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:b-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-1^
+|Chord|Dur:4th|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"His Words Are True"|Label:"His Words Are True"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Standard Rules|Offset:-12
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nTho’ all that is earth-ly will fade,\nAnd van-ish a-way from our view,\nWe know that as sure as the Sav-ior lives,\nThe words He has spok-en are true.\n\nTho’ all that is earth-ly will fade,\nAnd van-ish a-way from our view,\nWe know that as sure as the Sav-ior lives,\nThe words He has spok-en are true.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:-1,n4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:n0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,5^
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,n4
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:8th|Pos:n0,b6
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:2
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,6^
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,3^
+|Chord|Dur:4th|Pos:-1,3
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4,5
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,7
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:16th|Pos:1,7
+|Chord|Dur:8th,Dotted|Pos:1,6
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,6^
+|Chord|Dur:4th|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

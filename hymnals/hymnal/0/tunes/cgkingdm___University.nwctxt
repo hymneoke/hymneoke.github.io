@@ -1,0 +1,133 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:46|CaretPos:22
+|SongInfo|Title:"University, CM"|Author:"Charles Collignon (1725–1785)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 675. Also in The English Hymnal (London: Oxford University Press, 1906), # 9."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The Church of God a king-dom is,\nWhere Christ in power doth reign;\nWhere spir-its yearn till, seen in bliss,\nTheir Lord shall come a-gain.\n"
+|Lyric2|Text:"2._Glad com-pa-nies of saints pos-sess\nThis Church be-low, a-bove;\nAnd God’s per-pet-ual calm doth bless\nTheir par-a-dise of love.\n"
+|Lyric3|Text:"3._An al-tar stands with-in the shrine\nWhere-on, once sac-ri-ficed,\nIs set, im-mac-u-late, di-vine,\nThe Lamb of God, the Christ.\n"
+|Lyric4|Text:"4._There rich and poor, from count-less lands,\nPraise God on mys-tic rood;\nThere na-tions reach forth ho-ly hands\nTo take God’s ho-ly food.\n"
+|Lyric5|Text:"5._There pure life-giv-ing streams o’er-flow\nThe sow-er’s gar-den-ground:\nAnd faith and love fair blos-soms show,\nAnd fruits of love a-bound.\n"
+|Lyric6|Text:"6._O King, O Christ, this end-less grace\nTo us and all men bring,\nTo see the vi-sion of Thy face\nIn joy, O Christ, our king.\n"
+|Tempo|Tempo:110|Pos:11
+|Clef|Type:Treble
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-7,-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-8|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-6
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"University, CM"|Label:"University, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:0,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam=End
+|Boundary|Style:NewSize|Upper:23
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:15|Lower:8
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:3
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:8th,Slur|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:1,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,1
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

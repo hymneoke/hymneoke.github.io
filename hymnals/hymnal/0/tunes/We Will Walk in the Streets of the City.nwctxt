@@ -1,0 +1,237 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"We Will Walk in the Streets of the City"|Author:"Thomas H. Peacock"|Lyricist:"A. Flamman, 1874"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gems of Praise, by John R. Sweney (Philadelphia, Pennsylvania: Methodist Episcopal Book-Room, 1876), p. 67."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:26|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._When we reach the gold-en ci-ty,\nWhen we pass the pear-ly gate,\nWhere our friends, who went be-fore us,\nFor our com-ing watch and wait.\n\nWe will walk in the streets of the ci-ty,\nWith our loved ones gone be-fore;\nWe will sit on the banks of the ri-ver,\nWe will meet to part no more.\n"
+|Lyric2|Text:"2._Here our hap-py hearts al-rea-dy\nTaste by faith the bliss of Heav’n;\nTo our hun-gry souls the man-na\nFrom a-bove is free-ly giv’n.\n\nWe will walk in the streets of the ci-ty,\nWith our loved ones gone be-fore;\nWe will sit on the banks of the ri-ver,\nWe will meet to part no more.\n"
+|Lyric3|Text:"3._But how great will be our plea-sure,\nWhen we, free from sin and pain,\nOn the o-ther side of Jor-dan,\nSee each o-ther there a-gain.\n\nWe will walk in the streets of the ci-ty,\nWith our loved ones gone be-fore;\nWe will sit on the banks of the ri-ver,\nWe will meet to part no more.\n"
+|Lyric4|Text:"4._Then we’ll glad-ly wait a lit-tle,\nGlad-ly still our bur-dens bear;\nSoon we’ll get a crown of glo-ry,\nSoon we’ll Je-sus’ “well done” hear.\n\nWe will walk in the streets of the ci-ty,\nWith our loved ones gone be-fore;\nWe will sit on the banks of the ri-ver,\nWe will meet to part no more.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th,Dotted,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:16th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Dotted,Slur|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-6,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th,Dotted,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:16th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Dotted,Slur|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-6,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Boundary|Style:NewSize|Lower:18
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Spacer|Width:300
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:17
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-1|Opts:Stem=Down
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-6,-1
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Bar
+|Boundary|Style:NewSize|Lower:13
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:b-2,1
+|Bar
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-3^,2^
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:24|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,4
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:22
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:8|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,7
+|Spacer|Width:400
+|Bar
+|Boundary|Style:NewSize|Upper:4
+|Chord|Dur:Half,Dotted|Pos:-3,4,6
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:18
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3^,1^
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:2,n7
+|Bar
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:Half,Dotted|Pos:1,8
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4,5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0^,4^
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

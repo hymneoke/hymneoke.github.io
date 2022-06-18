@@ -1,0 +1,150 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Marchfield, LM"|Author:"Edward Augustus Collier, 1912"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Psalter (Pittsburgh, Pennsylvania: United Presbyterian Board of Publication, 1912), # 330."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Great God! Thy glo-ries shall em-ploy\nMy ho-ly fear, my hum-ble joy;\nMy lips in songs of hon-or bring\nTheir trib-ute to th’e-ter-nal King.\n"
+|Lyric2|Text:"2._Earth, and the stars, and worlds un-known,\nDe-pend pre-car-ious on His throne;\nAll na-ture hangs up-on His word,\nAnd grace and glo-ry own their Lord.\n"
+|Lyric3|Text:"3._His sov-ereign power, what mor-tal knows?\nIf He com-mand, who dares op-pose?\nWith strength He girds Him-self a-round,\nAnd treads the re-bels to the ground.\n"
+|Lyric4|Text:"4._Who shall pre-tend to teach Him skill,\nOr guide the coun-sels of His will?\nHis wis-dom, like a sea di-vine,\nFlows deep and high be-yond our line.\n"
+|Lyric5|Text:"5._His name is ho-ly, and His eye\nBurns with im-mor-tal jeal-ous-y;\nHe hates the sons of pride, and sheds\nHis fier-y venge-ance on their heads.\n"
+|Lyric6|Text:"6._The beam-ings of His pierc-ing sight\nBring dark hy-poc-ri-sy to light;\nDeath and de-struc-tion na-ked lie,\nAnd hell un-cov-ered to His eye.\n"
+|Lyric7|Text:"7._Th’e-ter-nal law be-fore Him stands;\nHis jus-tice, with im-par-tial hands,\nDi-vides to all their due re-ward,\nOr by the scep-ter or the sword.\n"
+|Lyric8|Text:"8._His mer-cy, like a bound-less sea,\nWash-es our load of guilt a-way;\nWhile His own Son came down and died\nT’en-gage His jus-tice on our side.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:n-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:n-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,1
+|Chord|Dur:4th|Pos:b-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:n-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:b-5,0
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Marchfield, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half|Pos:1,7
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:1,7
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

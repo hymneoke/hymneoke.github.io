@@ -1,0 +1,149 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:59|CaretPos:0
+|SongInfo|Title:"Blaenhafren, 87.87 D"|Author:"Welsh tune"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 539."
+|PgSetup|StaffSize:19|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._We were crowd-ed in the cab-in,\nNot a soul would dare to sleep,\nIt was mid-night on the wa-ters,\nAnd a storm was on the deep.\n"
+|Lyric2|Text:"2._’Tis a fear-ful thing in win-ter,\nTo be shat-tered in the blast,\nAnd to hear the rat-tling trum-pet,\nThun-der, “Cut a-way the mast.”\n"
+|Lyric3|Text:"3._So we shud-dered there in si-lence,\nFor the stout-est held his breath,\nWhile the hun-gry sea was roar-ing,\nAnd the break-ers talked with death.\n"
+|Lyric4|Text:"4._As thus we _ sat in dark-ness,\nEach one bus-y in his prayers,\n“We are lost!” the cap-tain shout-ed,\nAs he stag-gered down the stairs.\n"
+|Lyric5|Text:"5._But his lit-tle daugh-ter whis-pered,\nAs she took his i-cy hand,\n“Is-n’t God up-on the o-cean,\nJust the same as on the land?”\n"
+|Lyric6|Text:"6._Then we kissed the lit-tle maid-en,\nAnd we spoke in bet-ter cheer,\nAnd we an-chored safe in har-bor,\nWhere the morn was shin-ing clear.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,#-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,#-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:#-3
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-7,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:16th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,#-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,#-3
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,#-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Blaenhafren, 87.87 D"|Label:"Blaenhafren, 87.87 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:16th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-3,#2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:16th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:16th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:16th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-3,#2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:16th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:16th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

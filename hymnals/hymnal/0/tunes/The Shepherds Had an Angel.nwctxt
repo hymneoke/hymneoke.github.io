@@ -1,0 +1,149 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Shepherds Had an Angel"|Author:"Traditional English carol"|Lyricist:"Christina Georgina Rossetti, 1856"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Carols Old and Carols New, by Charles L. Hutchins (Boston, Massachusetts: Parish Choir, 1916), # 601. Also in The Methodist Hymnal (Baltimore, Maryland: Methodist Publishing House, 1939), # 436."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:40|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._The shep-herds had an an-gel,\nThe wise men had a star,\nBut what have I, a lit-tle child,\nTo guide me home from far\nWhere glad stars sing to-ge-ther,\nAnd sing-ing an-gels are?\n"
+|Lyric2|Text:"2._Lord Je-sus is my guar-dian,\nSo I can no-thing lack;\nThe lambs lie in His bo-_-som\nA-long life’s dan-gerous track:\nThe will-ful lambs that go a-stray\nHe, bleed-ing, brings them back.\n"
+|Lyric3|Text:"3._Those shep-herds, through the lonely night,\nSat watch-ing by their sheep,\nUn-til they saw the heaven-ly host\nWho nei-ther tire nor sleep,\nAll sing-ing “Glo-ry, glo-ry”\nIn fes-ti-val they keep.\n"
+|Lyric4|Text:"4._Christ watch-es me, His little lamb,\nCares for me day and night,\nThat I may be His own in Heaven:\nSo an-gels clad in white\nShall sing their “Glo-ry, glo-ry,”\nFor my sake in the height.\n"
+|Lyric5|Text:"5._Lord, bring me near-er day_by day,\nTill I my voice u-nite,\nAnd sing my “Glo-ry, glo-_-ry”\nWith an-gels clad in white.\nAll glo-ry, glory, giv’n to Thee,\nThro’ all the heav’n-ly height.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:107|Pos:13|Justify:Right
+|TimeSig|Signature:6/8
+|Note|Dur:8th|Pos:-4
+|Spacer|Width:600
+|Bar
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|RestChord|Dur:4th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:-3
+|Note|Dur:8th|Pos:-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-7,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Chord|Dur:4th,Slur|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-8,-5
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5,-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4,-1
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Shepherds Had an Angel"|Label:"Shepherds Had an Angel"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:6/8
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

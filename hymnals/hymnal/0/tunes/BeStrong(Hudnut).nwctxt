@@ -1,0 +1,154 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Be Strong (Hudnut)"|Author:"Theodore Edson Perkins"|Lyricist:"Wililam Herbert Hudnut, Sr., 1910, alt."|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Redemption and Praise, edited by John A. Davis & John R. Clements (Chicago, Illinois: Bilhorn Brothers, 1906; with supplement of ca. 1910), # 27 (in supplement)."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Quit you like men, be strong, be strong;\nThere’s a bur-den_to bear, there’s a grief to share;\nThere’s a heart that breaks ’neath a load of care—\nBut fare ye forth with a song,\nBut fare ye forth with a song.\n"
+|Lyric2|Text:"2._Quit you like men, be strong, be strong;\nThere’s a bat-tle_to fight, there’s a wrong to right;\nThere’s a God who bless-es the good with might—\nSo fare ye forth with a song,\nSo fare ye forth with a song.\n"
+|Lyric3|Text:"3._Quit you like men, be strong, be strong;\nThere’s a work to do, there’s a world_to make new;\nThere’s a call for men who are brave and true—\nSpeed on! speed on with a song,\nSpeed on! speed on with a song.\n"
+|Lyric4|Text:"4._Quit you like men, be strong, be strong;\nThere’s a year of grace, there’s a God to face,\nThere’s an-o-ther heat in the great world race—\nSpeed on! speed on with a song,\nSpeed on! speed on with a song.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:98|Pos:11|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:8th,Dotted|Pos:-2|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-2
+|Chord|Dur:16th|Pos:-1|Opts:Stem=Up|Dur2:16th|Pos2:-1
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up|Dur2:4th|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:b-2,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted,Slur|Pos:#-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Chord|Dur:8th,Dotted|Pos:n-4,1
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:n-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Up|Dur2:16th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down|Dur2:4th|Pos2:-1
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Up|Dur2:16th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:n-4,0
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:#2,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Dotted,Slur|Pos:4,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:4,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:8th,Dotted|Pos:3,6
+|Chord|Dur:16th|Pos:n1,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:2
+|Chord|Dur:16th|Pos:2|Opts:Stem=Down|Dur2:16th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:2|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:2
+|Chord|Dur:16th|Pos:2|Opts:Stem=Down|Dur2:16th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:b3,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

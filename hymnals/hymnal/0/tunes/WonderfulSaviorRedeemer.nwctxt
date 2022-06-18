@@ -1,0 +1,200 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Wonderful Savior, Redeemer"|Author:"Wellington K. Jacobs"|Lyricist:"Wellington K. Jacobs, 1902"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Mennonite Hymnal (Newton, Kansas: Faith & Life Press, 1969), # 559."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Treble Clef"|Label:"Treble Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:27|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Won-der-ful Sav-ior, Re-deem-er,\nThou in ten-d’rest love\nWatch-est o’er ev-ery be-liev-er,\nFrom Thy throne a-bove.\n\nWon-der-ful Sav-ior!\nMer-ci-ful Sav-ior!\nMy hope and Re-deem-er,\nWho shed His blood for me.\n"
+|Lyric2|Text:"2._Thou hast in great-est com-pas-sion\nDied our souls to save;\nPur-chased for us our re-demp-tion,\nHope be-yond the grave.\n\nWon-der-ful Sav-ior!\nMer-ci-ful Sav-ior!\nMy hope and Re-deem-er,\nWho shed His blood for me.\n"
+|Lyric3|Text:"3._O-pen my heart e’er to hear Thee,\nQuick to hear Thy voice;\nFill Thou my soul with Thy prais-es,\nLet my heart re-joice.\n\nWon-der-ful Sav-ior!\nMer-ci-ful Sav-ior!\nMy hope and Re-deem-er,\nWho shed His blood for me.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-2,0|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:8th|Pos:-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Spacer|Width:375
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:11
+|Chord|Dur:4th,Dotted|Pos:-3,-1^|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,1^
+|Chord|Dur:8th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down
+|Note|Dur:4th,Dotted|Pos:-3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Wonderful Savior"|Label:"Wonderful Savior"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-5
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _\nJesus, _ _ won-der-ful Sav-ior!\nJesus, _ _ mer-ci-ful Sav-ior!\n_ _ _ _ _ _ _ _ _ _ _ _\nfor me.\n\nWon-der-ful Sav-ior!\nMer-ci-ful Sav-ior!\nMy hope and Re-deem-er,\nWho shed His blood for me.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:6/8
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,8
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,8
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:4th,Dotted|Pos:0,7^
+|Chord|Dur:8th|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Note|Dur:8th|Pos:7|Opts:Stem=Up
+|Note|Dur:8th|Pos:7|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,8^
+|Chord|Dur:8th|Pos:8|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Note|Dur:8th|Pos:7|Opts:Stem=Up
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:7
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:7
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:2,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:4th|Pos:3,8
+|Note|Dur:8th|Pos:7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Note|Dur:4th,Dotted|Pos:4|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

@@ -1,0 +1,239 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Christmas, Glad Christmas"|Author:"Katherine McK. Irvine"|Lyricist:"Katherine McK. Irvine, 1901"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Master\'s Call, by Edmund S. Lorenz (Dayton, Ohio: United Brethren Publishing House, 1902), # 172."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:19|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"French Horn"|Patch:60|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Christ-mas, glad Christ-mas,\nIs with us once more,\nAnd all the rich bless-ings\nFrom the Christ we a-dore.\nSo lit-tle child-ren sing out the glad cry,\nPeace is our watch-word,\n’Twill reach God on high.\n"
+|Lyric2|Text:"2._Good will to all let\nOur ban-ners now show,\nAnd high-er and grand-er\nMay our an-thems still grow.\nSo lit-tle child-ren sing out the glad cry,\nGood will our an-them,\n’Twill reach God on high.\n"
+|Lyric3|Text:"3._Wave then our pen-nant\nO’er all the broad earth,\nLet voic-es of child-ren\nStill pro-claim the great worth.\nSo lit-tle child-ren sing out the glad cry,\nSweet al-le-lu-ia,\n’Twill reach God on high.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:80|Pos:12|Justify:Right
+|TimeSig|Signature:3/8
+|Note|Dur:8th|Pos:1
+|Text|Text:"Solo"|Font:StaffItalic|Pos:8|Justify:Right
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Bar
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Note|Dur:16th|Pos:-3
+|Note|Dur:16th|Pos:-3
+|Bar
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:-1
+|Rest|Dur:8th
+|Spacer|Width:225
+|Bar|Style:Double
+|Text|Text:"Duet or Chorus"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Staff-1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:100|StereoPan:64|Device:0|Channel:6
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble|AutoSys:N
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:3/8
+|Chord|Dur:8th|Pos:-4,-1,1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-6,-4,-1|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:-4,-1,1|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,-2,0|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th|Pos:-4,-2,0|Opts:Stem=Down,Slur=Downward
+|Bar
+|Chord|Dur:8th|Pos:-4,-1,1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Down,Slur=Downward
+|Rest|Dur:8th|Opts:Stem=Down
+|Bar|Style:Double
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:16th|Pos:0,2|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:16th|Pos:0,2|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:16th,Slur|Pos:-2,0|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:16th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:16th,Slur|Pos:n2|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:16th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:16th,Slur|Pos:b2|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:16th|Pos:0|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-4,-1,1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-4,-2,0|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-4,-1,1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-4,0,2|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:-5,-2,0|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1|Opts:Stem=Down,Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Christmas, Glad Christmas"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:3/8
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:8th|Pos:-6,1
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:16th|Pos:-1,1
+|Note|Dur:16th|Pos:3
+|Chord|Dur:16th|Pos:-1,1
+|Note|Dur:16th|Pos:3
+|Bar
+|Note|Dur:4th|Pos:1
+|Chord|Dur:8th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Rest|Dur:8th
+|Bar|Style:Double
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Rest|Dur:8th
+|Bar
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:4th|Pos:0
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:-6,1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:-6,1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

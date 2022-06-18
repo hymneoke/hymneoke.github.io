@@ -1,0 +1,212 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Jesus, King Most Wonderful"|Author:"Johann Miles Blose"|Lyricist:"Johann Miles Blose, 1901"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Master\'s Call, by Edmund S. Lorenz (Dayton, Ohio: United Brethren Publishing House, 1902), # 127."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._O Je-sus, light of all be-low,\nThou fount of life and fire,\nSur-pass-ing all the joys we know,\nAll that we can de-sire.\n\nO Je-sus, king most won-der-ful,\nWon-der-ful, won-der-ful,\nO Je-sus, king most won-der-ful,\nIn whom all joys are found.\n"
+|Lyric2|Text:"2._May ev-ery heart con-fess Thy name,\nAnd ev-er Thee a-dore;\nAnd seek-ing Thee it-self in-flame,\nTo seek Thee more and more.\n\nO Je-sus, king most won-der-ful,\nWon-der-ful, won-der-ful,\nO Je-sus, king most won-der-ful,\nIn whom all joys are found.\n"
+|Lyric3|Text:"3._Thee may our tongues for-ev-er bless;\nThee may we love a-lone;\nAnd ev-er in our lives ex-press\nThe im-age of Thine own.\n\nO Je-sus, king most won-der-ful,\nWon-der-ful, won-der-ful,\nO Je-sus, king most won-der-ful,\nIn whom all joys are found.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:Common
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:#-4,#-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:n-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:#-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:#-4,#-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,#-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Spacer|Width:325
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:14
+|Boundary|Style:NewSize|Lower:11
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Down,XNoteSpace=1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|DynamicVariance|Style:Crescendo|Pos:6|Visibility:Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Down,Diminuendo
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Stem=Down,Crescendo
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2|Opts:Crescendo
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|DynamicVariance|Style:Crescendo|Pos:6|Visibility:Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Down,Diminuendo
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Jesus, King Most Wonderful"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:0,4
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4,6
+|Chord|Dur:8th|Pos:-3,4,6
+|Chord|Dur:4th|Pos:-3,4,6
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:2,#4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,4
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,5
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:15
+|TempoVariance|Style:Fermata|Pause:0|Pos:-6|Justify:Right|Placement:AtNextNote
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|DynamicVariance|Style:Crescendo|Pos:10|Visibility:Never
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7|Opts:Crescendo
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6|Opts:Crescendo
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5|Opts:Crescendo
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|DynamicVariance|Style:Crescendo|Pos:10|Visibility:Never
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7|Opts:Crescendo
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

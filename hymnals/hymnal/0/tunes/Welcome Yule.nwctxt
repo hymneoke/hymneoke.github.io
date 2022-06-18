@@ -1,0 +1,325 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:59|CaretPos:5
+|SongInfo|Title:"Welcome Yule"|Author:"Air from Deuteromelia, 1609"|Lyricist:"From Sloane Manuscript, Reign of Henry VI"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source:  Carols Old and Carols New, by Charles L. Hutchins (Boston, Massachusetts: Parish Choir, 1916), # 673."
+|PgSetup|StaffSize:15|Zoom:3|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:15|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"String Ensemble 1"|Patch:48|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n1._Wel-come be Thou, Hea-ven King,\nWel-come born in one morn-ing,\nWel-come for whom we shall sing,\nWel-come for whom we shall sing,\nWel-come Yule.\n"
+|Lyric2|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n2._Wel-come be ye, Stephen and John,\nWel-come Inno-cents ev-ery one,\nWel-come Thom-as Mar-tyr one,\nWel-come Thom-as Mar-tyr one,\nWel-come Yule.\n"
+|Lyric3|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n3._Wel-come be ye, good New Year,\nWel-come Twelfth Day, both in fere,\nWel-come saint-es lef and dear,\nWel-come saint-es lef and dear,\nWel-come Yule.\n"
+|Lyric4|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n4._Wel-come be ye, Can-dle-mas,\nWel-come be ye, Queen of Bliss,\nWel-come both to more and less,\nWel-come both to more and less,\nWel-come Yule.\n"
+|Lyric5|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n5._Wel-come be ye, that are here,\nWel-come all that make good cheer,\nWel-come all, an-o-ther year,\nWel-come all, an-o-ther year,\nWel-come Yule.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:11|Justify:Center
+|TimeSig|Signature:Common
+|MPC|Controller:vol|Style:Linear Sweep|TimeRes:Quarter|SweepRes:1|Pt1:0,95|Pt2:4,105|Pt3:4,110|Pt4:4,127|Pos:0
+|Dynamic|Style:p|Pos:-14
+|Dynamic|Style:p|Pos:-6
+|Text|Text:"Moderato"|Font:StaffItalic|Pos:8
+|Note|Dur:4th|Pos:-6
+|Note|Dur:4th|Pos:-8
+|Note|Dur:4th|Pos:-7
+|Note|Dur:4th|Pos:-5
+|Bar
+|Dynamic|Style:ff|Pos:-10|Visibility:Never
+|Text|Text:"cresc."|Font:StaffItalic|Pos:-14
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-6
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-3
+|Bar
+|Dynamic|Style:mf|Pos:-14
+|Note|Dur:8th,Dotted,Staccato|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:16th,Staccato|Pos:-4|Opts:Stem=Up,Beam
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Dynamic|Style:f|Pos:-14
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,-2^,1|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th,Slur|Pos:-5,-2^,0|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,-2^,1|Opts:Stem=Down,Beam
+|Chord|Dur:16th,Slur|Pos:-3,-2,2|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-4,-2,1
+|Instrument|Name:"Flute"|Patch:73|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:10|Justify:Right
+|Bar|Style:LocalRepeatOpen
+|Boundary|Style:NewSize|Upper:6|Lower:25
+|Dynamic|Style:p|Opts:Velocity=100,Volume=110|Pos:8|Justify:Right
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:8th,Dotted,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Dotted,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:2|Opts:Stem=Down,Beam=End
+|Note|Dur:Half|Pos:1
+|Bar
+|Note|Dur:8th,Dotted,Slur|Pos:0|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:8th,Dotted,Slur|Pos:0|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Note|Dur:Half|Pos:#-3
+|Bar
+|Dynamic|Style:mf|Opts:Volume=115|Pos:10
+|Note|Dur:8th,Dotted|Pos:-1
+|Note|Dur:16th|Pos:b0
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:1
+|Note|Dur:4th|Pos:1
+|Bar
+|DynamicVariance|Style:Crescendo|Pos:8
+|Note|Dur:8th,Dotted|Pos:n0
+|Note|Dur:16th|Pos:1
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:2
+|Note|Dur:4th|Pos:2
+|Bar
+|Dynamic|Style:f|Opts:Volume=120|Pos:8
+|Note|Dur:4th,Dotted,Slur|Pos:1
+|Note|Dur:8th,Slur|Pos:0
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:8th,Dotted,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th,Dotted,Slur|Pos:1|Opts:Stem=Down,Beam
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam=End
+|Note|Dur:Half|Pos:1
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Staff-1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:100|StereoPan:64|Device:0|Channel:6
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Boundary|Style:Collapse
+|Clef|Type:Treble
+|TimeSig|Signature:Common
+|RestMultiBar|NumBars:5|PrintOnce:Y|WhenHidden:ShowBars,ShowRests
+|Bar|Style:LocalRepeatOpen
+|Boundary|Style:EndCollapse
+|Flow|Style:Segno|Pos:8|Justify:Right
+|Chord|Dur:4th,Slur|Pos:-5,0|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Downward,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:4th,Slur|Pos:-6,-1|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:-4^,-2|Opts:Stem=Down|Dur2:Half|Pos2:1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-5,-2,0|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-5,-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,#-3,-1,2|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-2,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:0|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:16th,Slur|Pos:-1|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:Half|Pos:-5,#-3
+|Bar
+|Dynamic|Style:mf|Opts:Volume=115|Pos:10|Visibility:Never
+|Chord|Dur:8th,Dotted,Slur|Pos:-6,n-3,-1|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th,Slur|Pos:-2,b0|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-5,-2,n0|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:16th,Slur|Pos:-1,1|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:1,3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Dynamic|Style:f|Opts:Volume=120|Pos:8|Justify:Right|Visibility:Never
+|Chord|Dur:4th,Dotted|Pos:1|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,-2,1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:16th,Slur|Pos:-5,0|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,1|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:16th,Slur|Pos:-3,2|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:4th,Slur|Pos:-4,1|Opts:Slur=Downward
+|Dynamic|Style:ff|Opts:Velocity=60,Volume=127|Pos:10
+|Chord|Dur:4th|Pos:-2,1,3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:8|Opts:Stem=Up|Dur2:Half|Pos2:1,3
+|Note|Dur:8th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,4,6
+|MPC|Controller:tempo|Style:Linear Sweep|TimeRes:Quarter|SweepRes:2|Pt1:0,110|Pt2:4,100|Pos:15
+|Chord|Dur:4th|Pos:2,4,5,7
+|Bar
+|Chord|Dur:8th|Pos:1,3,5,8
+|Rest|Dur:16th
+|Chord|Dur:16th,Slur|Pos:-5,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,1|Opts:Stem=Up,Beam
+|Chord|Dur:16th,Slur|Pos:-3,2|Opts:Stem=Up,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:11|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4,3
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:8|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Church Organ"|Patch:19|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|MPC|Controller:vol|Style:Linear Sweep|TimeRes:Quarter|SweepRes:1|Pt1:0,95|Pt2:4,105|Pt3:4,110|Pt4:4,127|Pos:10
+|TimeSig|Signature:Common
+|Rest|Dur:8th
+|Note|Dur:8th,Staccato|Pos:-1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Staccato|Pos:2|Opts:Stem=Down,Beam
+|Note|Dur:8th,Staccato|Pos:1|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Staccato|Pos:0|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Staccato|Pos:-1|Opts:Stem=Up,Beam
+|Note|Dur:8th,Staccato|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th,Staccato|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th,Staccato|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Staccato|Pos:5|Opts:Stem=Down,Beam
+|Note|Dur:8th,Staccato|Pos:4|Opts:Stem=Down,Beam
+|Note|Dur:8th,Staccato|Pos:3|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Staccato|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Staccato|Pos:1|Opts:Stem=Down,Beam
+|Note|Dur:8th,Staccato|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th,Staccato|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:8th,Staccato|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Staccato|Pos:3|Opts:Stem=Down,Beam
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:6|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th|Pos:6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4^,3^|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th,Slur|Pos:-4,3|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th,Slur|Pos:-5,2|Opts:Stem=Up,Slur=Downward,Beam
+|Chord|Dur:8th,Slur|Pos:-6,1|Opts:Stem=Up,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:-7,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-8,-1
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,6
+|Instrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:11|Justify:Right
+|Bar|Style:LocalRepeatOpen
+|Boundary|Style:NewSize|Upper:19|Lower:4
+|Flow|Style:Segno|Pos:8
+|Chord|Dur:Half,Slur|Pos:3|Opts:Stem=Down|Dur2:Whole|Pos2:3
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:3
+|Note|Dur:Half|Pos:6
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:#2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:7|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:3
+|Note|Dur:16th|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th,Dotted,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:3
+|Note|Dur:16th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:0,4
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Bar
+|SustainPedal|Pos:-7|Justify:Right
+|Dynamic|Style:mf|Opts:Volume=115|Pos:10|Visibility:Never
+|Chord|Dur:4th|Pos:n-5,-1,n2
+|Chord|Dur:4th|Pos:2,6
+|DynamicVariance|Style:Crescendo|Pos:14|Visibility:Never
+|Chord|Dur:Half,Accent|Pos:2,9
+|Bar
+|SustainPedal|Status:Released|Pos:-7|Justify:Right
+|SustainPedal|Pos:-7
+|Chord|Dur:4th|Pos:-4,0,3
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:Half,Accent|Pos:3,10
+|Bar
+|Dynamic|Style:f|Opts:Volume=120|Pos:8|Justify:Right|Visibility:Never
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:6
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,3,7
+|Bar
+|Chord|Dur:Half,Dotted,Accent|Pos:-1,3,6
+|Dynamic|Style:ff|Opts:Velocity=60,Volume=127|Pos:10
+|Chord|Dur:8th,Slur|Pos:-1,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-5,2
+|MPC|Controller:tempo|Style:Linear Sweep|TimeRes:Quarter|SweepRes:2|Pt1:0,110|Pt2:4,100|Pos:15
+|TempoVariance|Style:Rallentando|Pos:10
+|Chord|Dur:4th|Pos:-7,0
+|Bar
+|SustainPedal|Pos:-7|Justify:Right
+|Chord|Dur:Half|Pos:-8,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-1,3
+|SustainPedal|Status:Released|Pos:-7|Justify:Right
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

@@ -1,0 +1,235 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Save, Oh, Save!"|Author:"Daniel Otis Teasley"|Lyricist:"Clara McAlister Brooks, 1913"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Grace and Glory, edited by Andrew L. Byers, Daniel O. Teasley & Henry C. Clausen (Anderson, Indiana: Gospel Trumpet, 1918), # 204."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.78|Right:2.54|Bottom:1.78|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._O-ver the bil-lows sigh-ing,\nMil-lions in sin are dy-ing,\nDy-ing in sad des-pair.\nPoint them to Cal-vary’s moun-tain,\nTo the Re-deem-er there.\n\nOut from the dark-ness\nThere comes the sad cry:\n“Save us, oh, save us,\nWe per-ish and die.”\n"
+|Lyric2|Text:"2._Glo-ry our way o’er-spread-ing,\nBright is the path we’re tread-ing,\nUn-der a cloud-less sky;\nWhile in their sun-less pri-son\nHelp-less the hea-then die.\n\nOut from the dark-ness\nThere comes the sad cry:\n“Save us, oh, save us,\nWe per-ish and die.”\n"
+|Lyric3|Text:"3._Hope-less-ly blind and weep-ing,\nSow-ing in sin and reap-ing,\nReap-ing its sure re-ward.\nTell them of Je-sus’ dy-ing,\nHow it doth life af-ford.\n\nOut from the dark-ness\nThere comes the sad cry:\n“Save us, oh, save us,\nWe per-ish and die.”\n"
+|Lyric4|Text:"4._Still is the Sav-ior plead-ing,\nGo with the torch of free-dom,\nGo with His love a-flame!\nLove will be-guile the wan-derer,\nHome from his guilt and shame.\n\nOut from the dark-ness\nThere comes the sad cry:\n“Save us, oh, save us,\nWe per-ish and die.”\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:#-6,-4
+|Chord|Dur:8th|Pos:n-7,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:#-6^,-4^
+|Chord|Dur:4th|Pos:-6,-4
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-7,-5
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-8,-6
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-3^
+|Chord|Dur:4th|Pos:-6,-3
+|Rest|Dur:8th
+|Bar|Style:Double
+|Spacer|Width:300
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:16
+|Chord|Dur:Half|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Boundary|Style:NewSize|Lower:18
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th,Dotted|Pos2:-3^
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:b-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-6,-3
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Save, Oh, Save!, C. Brooks"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _\nOut from the dark-ness,\nthe soul crush-ing dark-ness,\nThere comes from the mill-ions\nthe heart pierc-ing cry:\n“Save us from per-ish-ing,\nsave us from dy-ing.\nCome, save us, oh, save us,\nwe per-ish and die.”\n\nOut from the dark-ness\nThere comes the sad cry:\n“Save us, oh, save us,\nWe per-ish and die.”\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:8th|Pos:2,b7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:4th,Dotted|Pos:-1,5
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:2
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:2,9
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th|Pos:5,9
+|Chord|Dur:8th|Pos:5,9
+|Chord|Dur:8th|Pos:5,9
+|Chord|Dur:8th|Pos:5,9
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:5,9
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

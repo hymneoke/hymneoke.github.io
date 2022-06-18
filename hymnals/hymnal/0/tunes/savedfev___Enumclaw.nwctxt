@@ -1,0 +1,238 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:56|CaretPos:3
+|SongInfo|Title:"Enumclaw, 87.87 D"|Author:"Henry A. Lewis, 1887"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Triumphant Songs No.1, edited by Edwin O. Excell & Sam P. Jones (Toronto, Ontario, Canada: William Briggs, 1887), # 149. Fixed some note duration errors found in the published version."
+|PgSetup|StaffSize:19|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.27|Right:2.54|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Sing, my soul, oh, sing with rap-ture\nOf God’s won-drous love to thee,\nHow He broke the chains of dark-ness,\nAnd from death hath set thee free.\n\nOh the glo-ry, ra-diant glo-ry,\nShin-ing in my soul to-day;\nAll of dark-ness, doubts and sad-ness,\nAre for-ev-er passed a-way.\n"
+|Lyric2|Text:"2._Oh, the bliss of this sal-va-tion,\nFull sal-va-tion from all sin,\nPar-doned, cleansed, and saved for-ev-er,\nJe-sus Christ en-throned with-in.\n\nOh the glo-ry, ra-diant glo-ry,\nShin-ing in my soul to-day;\nAll of dark-ness, doubts and sad-ness,\nAre for-ev-er passed a-way.\n"
+|Lyric3|Text:"3._I am saved, I have the wit-ness,\nOf the Spir-it, full and free;\nAll is peace, and joy, and glad-ness,\nJe-sus Christ a-bides with me.\n\nOh the glo-ry, ra-diant glo-ry,\nShin-ing in my soul to-day;\nAll of dark-ness, doubts and sad-ness,\nAre for-ev-er passed a-way.\n"
+|Lyric4|Text:"4._We are one, oh bless-èd un-ion,\nHeav’n-ly fel-low-ship di-vine;\nDay by day we walk to-geth-er,\nI am His, and He is mine.\n\nOh the glo-ry, ra-diant glo-ry,\nShin-ing in my soul to-day;\nAll of dark-ness, doubts and sad-ness,\nAre for-ev-er passed a-way.\n"
+|Lyric5|Text:"5._Soon with-in the gold-en cit-y,\nWhere my loved ones wait for me,\nThere the King in His own beau-ty,\nFace to face I soon shall see.\n\nOh the glo-ry, ra-diant glo-ry,\nShin-ing in my soul to-day;\nAll of dark-ness, doubts and sad-ness,\nAre for-ev-er passed a-way.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:F#|Tonic:E
+|TimeSig|Signature:9/8
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,-1^
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,1^
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|TimeSig|Signature:12/8
+|Chord|Dur:8th,Slur|Pos:-5,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Whole|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:Whole|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5^,0^
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-5,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Whole|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:1^
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-2^
+|Note|Dur:4th,Dotted|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Enumclaw, H. A. Lewis 1887"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:E
+|TimeSig|Signature:9/8
+|Chord|Dur:4th|Pos:n-4,n3
+|Chord|Dur:8th|Pos:n-4,n3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-4,n3
+|Chord|Dur:4th,Dotted|Pos:n3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:n3
+|Chord|Dur:8th,Slur|Pos:n4|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:n3
+|Note|Dur:8th|Pos:n3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:n3,n4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n3,n5
+|Chord|Dur:4th,Dotted|Pos:n3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:n3
+|Chord|Dur:8th,Slur|Pos:n3|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:n3
+|Note|Dur:8th|Pos:n5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:n3,n6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n0^,n6^
+|Chord|Dur:4th|Pos:n0,n6
+|Chord|Dur:8th|Pos:n-1,n4
+|Chord|Dur:4th|Pos:n-1,n3
+|Chord|Dur:8th|Pos:n-3,#2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:n-4,n3
+|Chord|Dur:4th|Pos:n-4,n3
+|Chord|Dur:8th|Pos:n-4,n3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-4,n3
+|Chord|Dur:4th,Dotted|Pos:n3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:n3
+|Chord|Dur:8th,Slur|Pos:n4|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:n3
+|Note|Dur:8th|Pos:n3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:n3,n4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n3,n5
+|Chord|Dur:4th,Dotted|Pos:n3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:n3
+|Chord|Dur:8th,Slur|Pos:n3|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:n3
+|Note|Dur:8th|Pos:n5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:n3,n7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n0^,n7^
+|Chord|Dur:4th|Pos:n0,n7
+|Chord|Dur:8th|Pos:n0,n7
+|Chord|Dur:4th|Pos:n0,n6
+|Chord|Dur:8th|Pos:n0,n6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:n-4,n5
+|TimeSig|Signature:12/8
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted,Staccato,Slur|Pos:n-1,n6|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted,Staccato,Slur|Pos:n-1,n6|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted,Staccato|Pos:n-1,n6
+|Chord|Dur:4th|Pos:n8|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:n-1
+|Note|Dur:8th|Pos:n6|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n3,n5
+|Chord|Dur:4th,Dotted|Pos:n3,n5
+|Chord|Dur:4th|Pos:n3,n7
+|Chord|Dur:8th|Pos:n3,n7
+|Chord|Dur:4th|Pos:n3,n5
+|Chord|Dur:8th|Pos:n3|Opts:Stem=Down|Dur2:8th|Pos2:n3
+|Bar
+|Chord|Dur:4th,Slur|Pos:n0,n4
+|Chord|Dur:8th,Slur|Pos:#-1,n4
+|Chord|Dur:4th,Slur|Pos:n0,n4
+|Chord|Dur:8th,Slur|Pos:n1,n4
+|Chord|Dur:4th|Pos:#2,n4
+|Chord|Dur:8th|Pos:n0,n4
+|Chord|Dur:4th|Pos:n1,n4
+|Chord|Dur:8th|Pos:#2,n4
+|Bar
+|Chord|Dur:4th|Pos:n3|Opts:Stem=Down|Dur2:4th|Pos2:n3
+|Chord|Dur:8th|Pos:n3|Opts:Stem=Down|Dur2:8th|Pos2:n3
+|Chord|Dur:4th|Pos:n3|Opts:Stem=Down|Dur2:4th|Pos2:n3
+|Chord|Dur:8th|Pos:n3|Opts:Stem=Down|Dur2:8th|Pos2:n3
+|Chord|Dur:4th,Dotted|Pos:n3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:n3
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted,Staccato,Slur|Pos:n-1,n6|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted,Staccato,Slur|Pos:n-1,n6|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted,Staccato|Pos:n-1,n6
+|Chord|Dur:4th|Pos:n8|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:n-1
+|Note|Dur:8th|Pos:n6|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n3,n5
+|Chord|Dur:4th,Dotted|Pos:n3,n5
+|Chord|Dur:4th|Pos:n3|Opts:Stem=Down|Dur2:4th|Pos2:n3
+|Chord|Dur:8th|Pos:n3|Opts:Stem=Down|Dur2:8th|Pos2:n3
+|Chord|Dur:8th|Pos:n3|Opts:Stem=Up|Dur2:4th|Pos2:n3
+|Note|Dur:8th|Pos:n5|Opts:Stem=Up
+|Chord|Dur:8th|Pos:n3,n7
+|Bar
+|Chord|Dur:4th,Slur|Pos:n0|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:n7^
+|Note|Dur:8th,Slur|Pos:n0|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:n0|Opts:Stem=Down
+|Note|Dur:8th,Slur|Pos:n0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:n0,n7
+|Chord|Dur:8th|Pos:n0,n7
+|Chord|Dur:4th|Pos:n0,n6
+|Chord|Dur:8th|Pos:n0,n6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:n-4^
+|Note|Dur:4th,Dotted|Pos:n6|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:n-4,n5
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

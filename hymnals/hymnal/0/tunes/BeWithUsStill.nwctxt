@@ -1,0 +1,262 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Be with Us Still"|Author:"Charles Hutchinson Gabriel"|Lyricist:"Warren R. Fitch, 1906"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Gospel Chorus (Cincinnati, Ohio: Fillmore Music House, 1907), # 10."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Treble Clef"|Label:"Treble Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:6|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._God of all might, our fa-thers’ God,\nThis land we love be-longs to Thee,\nFrom shores the pil-grims’ feet first trod,\nFar west-ward stretch-ing to the sea;\nLest in our van-i-ty and pride\nWe cease to do Thy right-eous will,\nAnd from the right now turn a-side,\n\nBe with us still! Be with us still!\nGod of all might be with us still!\n"
+|Lyric2|Text:"2._In free-dom’s cause our fa-thers fought\nAnd crossed the wild and storm-y deep;\nThe price-less boon which here they bought,\nMay we, their child-ren, ev-er keep;\nThat as a na-tion strong we may\nOur high-est des-ti-ny ful-fill,\nNor fool-ish-ly go far a-stray.\n\nBe with us still! Be with us still!\nGod of all might be with us still!\n"
+|Lyric3|Text:"3._By greed of power or lust of gain\nMay we be tempt-ed nev-er-more!\nFor-bid, O Lord, that we should stain\nFair free-dom’s flag with hu-man gore\nFor sake of con-quest; ra-ther, let\nChrist’s ten-der love our bo-soms fill;\nLest in our fol-ly we for-get,\n\nBe with us still! Be with us still!\nGod of all might be with us still!\n"
+|Lyric4|Text:"4._If for an em-pire we will seek\nStill o-ther lands be-yond the sea,\nWe’ll wait, O Lord, till Thou dost speak,\nFor Thou wouldst have all peo-ple free;\nO let us not, in free-dom’s name,\nGo forth to pil-lage, burn and kill;\nLest for such deeds we blush with shame.\n\nBe with us still! Be with us still!\nGod of all might be with us still!\n"
+|Clef|Type:Treble|OctaveShift:Octave Down
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,1
+|Chord|Dur:8th|Pos:n0,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,1
+|Chord|Dur:8th|Pos:n0,2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:0,n3
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,3
+|Spacer|Width:575
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:n0,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,n3
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Rest|Dur:8th
+|Bar
+|Clef|Type:Treble
+|Instrument|Name:"[#001]"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-7|Justify:Right
+|Note|Dur:8th|Pos:-3
+|Spacer|Width:300
+|Bar|Style:Double
+|TimeSig|Signature:4/4
+|Note|Dur:8th|Pos:3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:#-2,n0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0,#1
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,#1
+|Chord|Dur:8th|Pos:0,2
+|Note|Dur:8th|Pos:0
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Dotted,Slur|Pos2:4
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0,4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:0,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:1,4
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-1
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:125
+|Bar
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-1
+|Chord|Dur:8th|Pos:1,3
+|Spacer|Width:125
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Ritenuto|Pos:8
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:3,4
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Be with Us Still"|Label:"Be with Us Still"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-6
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nBe with us still!\nBe with us still!\n\nBe with us still! Be with us still!\nGod of all might be with us still!\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:0,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-2,b3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:b-4,2
+|Bar
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,3
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:1,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-1,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:0,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:#-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:b0,#3
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half|Pos:-5,4
+|Rest|Dur:8th
+|Bar
+|Instrument|Name:"[#092]"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:8|Justify:Right
+|Rest|Dur:8th
+|Bar|Style:Double
+|TimeSig|Signature:4/4
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th,Slur|Pos:-5,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-5,2|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:-5,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th|Pos:-5,1
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:-5,4|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-2,2|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th,Slur|Pos:-2,2|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-2,n1
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,n1
+|Chord|Dur:8th|Pos:-2,2
+|Rest|Dur:4th
+|Chord|Dur:8th,Slur|Pos:b1,5|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,n1
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-5,4|Opts:Stem=Down
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Bar
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=End
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:-5,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:n-2,#3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:8th|Pos:0,b4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-5,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

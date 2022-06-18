@@ -1,0 +1,193 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:5|CaretPos:-1
+|SongInfo|Title:"Aus Meines Herzens Grunde"|Author:"Neu Catechismus-Gesangbüchlein, 1598"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 210."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Ye sons of men, oh, heark-en:\nYour heart and mind pre-pare;\nTo hail th’al-might-y Sav-ior,\nOh sin-ners, be your care.\nHe who of grace a-lone\nOur life and light was giv-en,\nThe prom-ised Lord from Heav-en,\nUn-to our world is shown.\n"
+|Lyric2|Text:"2._Pre-pare the way be-fore Him;\nPre-pare for Him the best.\nCast out what-e’er of-fend-eth\nThis great, this heav’n-ly guest.\nMake straight, make plain, the way:\nThe low-ly val-leys rais-ing,\nThe heights of pride a-bas-ing,\nHis path all e-ven lay.\n"
+|Lyric3|Text:"3._The hum-ble heart and low-ly\nGod lift-eth up on high;\nBe-neath His feet in an-guish\nThe haugh-ty soul shall lie.\nThe heart, sin-cere and right,\nThat heeds God’s in-vi-ta-tion\nAnd makes true prep-a-ra-tion,\nIt is the Lord’s de-light.\n"
+|Lyric4|Text:"4._Pre-pare my heart, Lord Je-sus,\nTurn not from me a-side,\nAnd grant that I re-ceive Thee\nThis bless-èd Ad-ven-tide.\nFrom stall and man-ger low\nCome Thou to dwell with-in me;\nLoud prais-es will I sing Thee\nAnd forth Thy glo-ry show.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:n-7,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:8th|Pos:-8,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-3^
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:n-7,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:8th|Pos:-8,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-3^
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:n-7,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:8th|Pos:-8,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-3^
+|Chord|Dur:4th|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Staff 2"|Label:"Staff 2"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,4^
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:16th,Slur|Pos:6|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Note|Dur:16th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,4^
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:-5,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,6^
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,4^
+|Chord|Dur:4th|Pos:-5,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

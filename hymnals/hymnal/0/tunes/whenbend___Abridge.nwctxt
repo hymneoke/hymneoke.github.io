@@ -1,0 +1,145 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Abridge, CM"|Author:"Isaac Smith, ca. 1770"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 282."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._When bend-ing o’er the brink of life,\nMy trem-bling soul shall stand;\nI wait to pass death’s aw-ful flood,\nGreat God, at Thy com-mand!\n"
+|Lyric2|Text:"2._When weep-ing friends sur-round my bed,\nAnd close my sight-less eyes,\nWhen shat-tered by the weight of years\nThis bro-ken bod-y lies— \n"
+|Lyric3|Text:"3._When eve-ry long loved scene of life\nStands read-y to de-part,\nWhen that last sigh which shakes the frame\nShall rend this burst-ing heart— \n"
+|Lyric4|Text:"4._O, Thou great source of joy su-preme,\nWhose arm a-lone can save,\nDis-pel the dark-ness that sur-rounds\nThe en-trance to the grave!\n"
+|Lyric5|Text:"5._Lay Thy sup-port-ing gen-tle hand\nBe-neath my sink-ing head;\nAnd with a ray of love di-vine,\nIl-lume my dy-ing bed!\n"
+|Lyric6|Text:"6._I lean on Thy dear faith-ful breast\nAs I re-sign my breath!\nAnd in Thy fond em-brac-es, lose\n“The bit-ter-ness of death!”\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-7,-4|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-2,3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-2,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-2,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,n-1|Opts:Tie=Upward
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Down,Tie=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down,Tie=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-2,3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Abridge, CM"|Label:"Abridge, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:5
+|Chord|Dur:4th|Pos:4,7|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:3,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-1,8|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,9|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:8|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:7|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-2,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-1,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:2|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward
+|Chord|Dur:4th|Pos:4,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:8
+|Note|Dur:4th|Pos:1|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-4,b7|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-3,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Tie=Downward
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,Tie=Downward|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

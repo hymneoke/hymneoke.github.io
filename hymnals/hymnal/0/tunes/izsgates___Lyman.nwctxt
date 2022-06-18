@@ -1,0 +1,189 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:71|SelectIndex:72|CaretPos:0
+|SongInfo|Title:"Lyman, 12.12.88"|Author:"Arranged from Beethoven"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Book of Praise for the Sunday School, edited by George A. Bell & Hubert P. Main (New York: Biglow & Main, 1875), p. 7."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._In Zi-on’s sac-red gates\nLet hymns of praise be-gin,\nWhile acts of faith and love\nIn cease-less beau-ty shine;\nIn mer-cy there, while God is known,\nBe-fore His throne with songs ap-pear.\n"
+|Lyric2|Text:"2._The prom-is-es I sing,\nWhich sov-ereign love hath spoke;\nNor will our heav’n-ly king\nHis words of grace re-voke;\nThey stand se-cure, and stead-fast still,\nNor Zi-on’s hill a-bides so sure.\n"
+|Lyric3|Text:"3._The moun-tains melt a-way,\nWhen once the Judge ap-pears;\nAnd sun and moon de-cay,\nThat mea-sure mor-tal years;\nBut still the same, in ra-diant lines,\nThy prom-ise shines thro’ all the flame.\n"
+|Lyric4|Text:"4._Re-joice! Our Lord is king!\nOur God and king a-dore;\nYea, all give thanks and sing,\nAnd tri-umph ev-er-more;\nLift up the heart, lift up the voice,\nRe-joice a-loud, let all re-joice.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:113|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,0^
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,1^
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:n-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3^
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-3
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Dotted,Slur|Pos2:1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th,Slur|Pos:n-4|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:b-4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-5^,2
+|Chord|Dur:4th|Pos:-5,0
+|Note|Dur:8th|Pos:-3
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Dotted,Slur|Pos2:1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th,Slur|Pos:n-4|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:b-4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,2^
+|Chord|Dur:4th|Pos:-5,2
+|Note|Dur:8th|Pos:4
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Dotted,Slur|Pos2:4
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:b-2,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,0^
+|Chord|Dur:4th|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Lyman, 12.12.8.8"|Label:"Lyman, 12.12.8.8"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,2^
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Rest|Dur:8th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5^|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5^
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Rest|Dur:8th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5^|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5^
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Rest|Dur:8th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th,Slur|Pos:-2,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:-1,4|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:0,b4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,5^
+|Chord|Dur:4th|Pos:-2,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

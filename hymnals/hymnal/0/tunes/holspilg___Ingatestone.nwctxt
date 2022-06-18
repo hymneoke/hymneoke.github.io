@@ -1,0 +1,197 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Ingatestone, 87.87.87"|Author:"Arthur Henry Brown, 1894"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal, Revised and Enlarged, edited by  \tWilliam W. Rousseau &  John Ireland Tucker (New York: Century Company, 1894), # 298."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Ho-ly Spir-it, Lord of glo-ry,\nLook on us Thy flock to-day,\nMeek-ly kneeling at Thy foot-stool\nFor Thy sev-en-fold gifts we pray;\nGuide us all our earth-ly jour-ney\nIn the true and nar-row way.\n"
+|Lyric2|Text:"2._Foes on eve-ry hand are round us,\nAnd our hearts are weak and frail;\nGird us with Thy heaven-ly ar-mor;\nNev-er let us yield or quail;\nGive us vic-tory in the strug-gle\nWhen the hosts of sin as-sail.\n"
+|Lyric3|Text:"3._Bless-èd Je-sus, draw Thou near us,\nAs be-fore Thy cross we bow;\nHelp us to be true and faith-ful,\nSeal our sac-ra-men-tal vow;\nWe Thy sol-diers are, and ser-vants;\nHear our sol-emn prom-ise now.\n"
+|Lyric4|Text:"4._Lead us by Thy guid-ing pres-ence\nThrough the waste with dan-ger rife;\nFeed us with the heaven-ly man-na,\nThat we faint not in the strife;\nSlake our wea-ry spir-its’ thirst-ing\nFrom the liv-ing well of life.\n"
+|Lyric5|Text:"5._Look-ing ev-er un-to Je-sus,\nLean-ing on His staff and rod;\nMay we fol-low in His foot-steps,\nTread the path that He has trod,\nTill we dwell with Him for ev-er\nIn the par-a-dise of God!\n"
+|Clef|Type:Treble
+|Key|Signature:F#|Tonic:G
+|Tempo|Tempo:125|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,1
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:#-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-5
+|Bar
+|Chord|Dur:Half|Pos:-5,2
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Ingatestone, Arthur Brown"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:Half|Pos:-2,8
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Boundary|Style:NewSize|Upper:20
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:#6|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:13
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:-1,7
+|Bar
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:1,#3
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:4,8
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

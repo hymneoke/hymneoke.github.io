@@ -1,0 +1,204 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"He Took My Feet from the Miry Clay"|Author:"Traditional Spiritual"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing Company, 1974), # 243."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._He took my feet from_the mir-y clay,\nYes, He did! Yes, He did!\nAnd placed them on the rock to stay,\nYes, He did! Yes, He did!\n\nI can tell the world a-bout this,\nI can tell the na-tions I’m blest,\nTell them that Je-sus made me whole,\nAnd He brought joy, joy to my soul!\n"
+|Lyric2|Text:"2._O my Lord did just what He said,\nYes, He did! Yes, He did!\nHe healed the sick and_He raised the dead,\nYes, He did! Yes, He did!\n\nI can tell the world a-bout this,\nI can tell the na-tions I’m blest,\nTell them that Je-sus made me whole,\nAnd He brought joy, joy to my soul!\n"
+|Lyric3|Text:"3._O Je-sus washed my sins a-way,\nYes, He did! Yes, He did!\nAnd made me hap-py all the day,\nYes, He did! Yes, He did!\n\nI can tell the world a-bout this,\nI can tell the na-tions I’m blest,\nTell them that Je-sus made me whole,\nAnd He brought joy, joy to my soul!\n"
+|Lyric4|Text:"4._He died on_the cross to save my soul,\nYes, He did! Yes, He did!\nHe ran-somed me and made me whole,\nYes, He did! Yes, He did!\n\nI can tell the world a-bout this,\nI can tell the na-tions I’m blest,\nTell them that Je-sus made me whole,\nAnd He brought joy, joy to my soul!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Note|Dur:4th|Pos:-2
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-4
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5^,0^
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5^,-2^
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Note|Dur:4th|Pos:-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5^,0^
+|Chord|Dur:Half|Pos:-5,0
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5^,-2^
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-7^,-2^
+|Chord|Dur:Half|Pos:-7,-2
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:26
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-7
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-2^
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:#-6
+|Note|Dur:4th|Pos:-2^|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-5
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:Half|Pos:-2,0
+|Spacer|Width:450
+|Bar
+|Note|Dur:8th|Pos:-5
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-2,0
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:-5,-3,2
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"He Took My Feet"|Label:"He Took My Feet"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Whole|Pos:3,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:3^,5^
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Chord|Dur:8th|Pos:3^,5^
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Whole|Pos:3,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:3^,5^
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-2^,3^
+|Chord|Dur:Half|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-4^,0^
+|Chord|Dur:Half|Pos:-4,0
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:2
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:Half|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:Half|Pos:#-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:3
+|Note|Dur:Half|Pos:6|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:3
+|Note|Dur:4th,Dotted|Pos:6|Opts:Stem=Up
+|Note|Dur:Half|Pos:7|Opts:Stem=Up
+|Bar
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,219 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Tell the Whole Wide World"|Author:"John Robson Sweney"|Lyricist:"Eliza Edmunds Hewitt, 1896"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Love and Praise No. 3, edited by John R. Sweney, William J. Kirkpatrick & Henry L. Gilmour (Philadelphia, Pennsylvania: John J. Hood, 1896), p. 104."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:17|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-17
+|Lyric1|Text:"1._Tell the whole wide world of Je-sus,\nBear the news from shore to shore;\nTell-ing sin-ners of the Sav-ior,\nLet the light spread more and more.\n\nTell the world, the whole wide world,\nBear the news from shore to shore;\nTell the whole wide world of Je-sus,\nPraise His name for-ev-er-more!\n"
+|Lyric2|Text:"2._Send a-broad the Gos-pel her-alds,\nLet them take the bless-èd light;\nIn-to ev-ery land of dark-ness,\nPierc-ing through the shades of night.\n\nTell the world, the whole wide world,\nBear the news from shore to shore;\nTell the whole wide world of Je-sus,\nPraise His name for-ev-er-more!\n"
+|Lyric3|Text:"3._Yes, we’ll send the joy-ful mes-sage,\nO-ver mount-ain, o-ver wave;\nTell-ing ev-ery-where of Je-sus,\nAnd His might-y power to save.\n\nTell the world, the whole wide world,\nBear the news from shore to shore;\nTell the whole wide world of Je-sus,\nPraise His name for-ev-er-more!\n"
+|Lyric4|Text:"4._While we pray for o-ther na-tions,\nSend them help with will-ing hand,\nLet us not for-get the home fields,\nJe-sus for our na-tive land!\n\nTell the world, the whole wide world,\nBear the news from shore to shore;\nTell the whole wide world of Je-sus,\nPraise His name for-ev-er-more!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:125
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2|Opts:Stem=Down
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:3
+|Note|Dur:8th,Dotted|Pos:-1|Opts:Stem=Down
+|Note|Dur:16th|Pos:-1|Opts:Stem=Down
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:2
+|Note|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Note|Dur:8th,Dotted|Pos:0
+|Note|Dur:16th|Pos:0
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:3
+|Note|Dur:8th,Dotted,Slur|Pos:n-2|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-1
+|Chord|Dur:16th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:-1
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|TempoVariance|Style:Fermata|Pause:1|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"All over the World"|Label:"All over the World"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:30|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:4,8
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Spacer|Width:300
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:22
+|Rest|Dur:4th
+|Spacer|Width:550
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:3,7
+|Rest|Dur:4th
+|Spacer|Width:575
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:n3,8
+|Chord|Dur:4th|Pos:3,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

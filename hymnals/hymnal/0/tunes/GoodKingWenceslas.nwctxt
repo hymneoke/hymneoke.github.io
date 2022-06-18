@@ -1,0 +1,204 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Good King Wenceslas"|Author:"13th Century Spring Carol"|Lyricist:"John Mason Neale, 1853"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal (New York: Methodist Publishing House, 1932), # 107."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:41|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Good King Wen-ces-las looked out on the Feast of Ste-phen,\nWhen the snow lay round a-bout, deep and crisp and e-ven.\nBright-ly shone the moon that night, though the frost was cru-el,\nWhen a poor man came in sight, ga-thering win-ter fu-el.\n"
+|Lyric2|Text:"2._“Hi-ther, page, and stand by me, if you know it, tell-ing,\nYon-der pea-sant, who is he? Where and what his dwell-ing?”\n“Sire, he lives a good league hence, un-der-neath the mount-ain,\nRight a-gainst the for-est fence, by Saint Ag-nes’ fount-ain.”\n"
+|Lyric3|Text:"3._“Bring me flelsh, and bring me wine, bring me pine logs hi-ther,\nYou and I will see him dine, when we bear them thi-ther.”\nPage and mon-arch, forth they went, forth they went to-ge-ther,\nThrough the cold wind’s wild la-ment and the bit-ter wea-ther.\n"
+|Lyric4|Text:"4._“Sire, the night is dark-er now, and the wind blows strong-er,\nFails my heart, I know not how; I can go no long-er.”\n“Mark my foot-steps, my good page, tread now in them bold-ly,\nYou shall find the wint-er’s rage freeze your blood less cold-ly.”\n"
+|Lyric5|Text:"5._In his mas-ter’s steps he trod, where the snow lay dint-ed;\nHeat was in the ver-y sod which the saint had print-ed.\nThere-fore, Christ-ian men, be sure, wealth or rank pos-sess-ing,\nYou who now will bless the poor shall your-selves find bless-ing.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:175|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-8|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-7|Opts:Stem=Down
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-7,-2|Opts:Stem=Up
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-8|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Slur|Pos:-7|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-5,-2|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:#-5,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-7,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-8,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:#-6,-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,-1|Opts:Stem=Up
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Boundary|Style:NewSize|Lower:37
+|Chord|Dur:Half,Slur|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-5,-2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Tempus Adest Floridum"|Label:"Tempus Adest Floridum"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Boundary|Style:NewSize|Upper:9
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:#0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:n0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:3
+|Note|Dur:4th,Slur|Pos:0|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-4,3,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

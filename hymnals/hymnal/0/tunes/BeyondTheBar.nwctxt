@@ -1,0 +1,264 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:104|SelectIndex:105|CaretPos:-1
+|SongInfo|Title:"Beyond the Bar"|Author:"Fred H. Byshe"|Lyricist:"Thomas M. Eastwood, 1909"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Ministry in Song, by W. C. Everett & Edwin O. Excell (Nashville, Tennessee: Smith & Lamar, 1909)."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.78|Right:2.54|Bottom:1.78|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:8|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Be-yond the bar on yon-der shore,\nA-cross life’s trou-bled sea,\nThere is a ci-ty bright and fair,\nPre-pared for me, pre-pared for me.\n\nI’ll need no light of sun or star,\nWhen I my Sav-ior’s face shall see;\nThat will be light e-nough for me,\nThrough-out a blest e-ter-ni-ty,\nBe-yond the bar, be-yond the bar.\n"
+|Lyric2|Text:"2._Be-yond the bar the King a-bides,\nA-mong His jew-els rare;\nAnd some day I shall dwell with Him—\nMy home is there; my home is there.\n\nI’ll need no light of sun or star,\nWhen I my Sav-ior’s face shall see;\nThat will be light e-nough for me,\nThrough-out a blest e-ter-ni-ty,\nBe-yond the bar, be-yond the bar.\n"
+|Lyric3|Text:"3._Be-yond the bar there is no death,\nAnd sor-row reigns no more;\nThere are no bruised and bleed-ing hearts\nOn that blest shore, on that blest shore.\n\nI’ll need no light of sun or star,\nWhen I my Sav-ior’s face shall see;\nThat will be light e-nough for me,\nThrough-out a blest e-ter-ni-ty,\nBe-yond the bar, be-yond the bar.\n"
+|Lyric4|Text:"4._Be-yond the bar we’ll meet a-gain,\nThe friends we’ve missed so long;\nAnd with them sing for-ev-er-more,\nUn-end-ing song, un-end-ing song.\n\nI’ll need no light of sun or star,\nWhen I my Sav-ior’s face shall see;\nThat will be light e-nough for me,\nThrough-out a blest e-ter-ni-ty,\nBe-yond the bar, be-yond the bar.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:90|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-8,-6
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Down
+|Spacer|Width:400
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th,Dotted|Pos2:2
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:1|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Note|Dur:16th|Pos:-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th,Dotted|Pos2:0
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th,Dotted|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:1|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Note|Dur:16th|Pos:2|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th,Dotted|Pos2:2
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:1|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Note|Dur:16th|Pos:-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th,Dotted|Pos2:0
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Note|Dur:16th|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th,Dotted|Pos2:2
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Staccato|Pos:-5,0
+|Chord|Dur:8th,Staccato|Pos:-5,1
+|Chord|Dur:8th,Staccato|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted,Staccato|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,n-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:8th,Dotted|Pos:-4,0|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-7,-5
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Beyond the Bar"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nNeed no light of sun or star,\nWhen my Sav-ior’s face I see;\nlight e-nough, e-nough for me,\nThro’ a blest e-ter-ni-ty.\n\nI’ll need no light of sun or star,\nWhen I my Sav-ior’s face shall see;\nThat will be light e-nough for me,\nThrough-out a blest e-ter-ni-ty,\nBe-yond the bar, be-yond the bar.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,6
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted|Pos2:1,5
+|Note|Dur:8th,Slur|Pos:8|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th,Dotted,Slur|Pos:7|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:16th,Slur|Pos:6|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,6
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:0,n5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,n4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,n4
+|Chord|Dur:8th|Pos:2,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-2,b4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:14
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,5
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:3,5
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:n-3,2
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Boundary|Style:NewSize|Upper:9
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:b-1,b3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-2,n3
+|Chord|Dur:16th|Pos:-2,4
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

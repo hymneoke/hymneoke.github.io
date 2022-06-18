@@ -1,0 +1,187 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:29|CaretPos:9
+|SongInfo|Title:"Angel’s Story, 76.76 D"|Author:"Arthur Henry Mann, 1881"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1940), # 187. Also in Tabernacle Hymns Number Four (Chicago, Illinois: Tabernacle Publishing, 1953), # 254."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._In heaven-ly love a-bid-ing, no change my heart shall fear.\nAnd safe in such con-fid-ing, for noth-ing chang-es here.\nThe storm may roar with-out me, my heart may low be laid,\nBut God is round a-bout me, and can I be dis-mayed?\n"
+|Lyric2|Text:"2._Wher-ev-er He may guide me, no want shall turn me back.\nMy shep-herd is be-side me, and noth-ing can I lack.\nHis wis-dom ev-er wak-ing, His sight is nev-er dim.\nHe knows the way He’s tak-ing, and I will walk with Him.\n"
+|Lyric3|Text:"3._Green pas-tures are be-fore me, which yet I have not seen.\nBright skies will soon be over me, where dark-est clouds have been.\nMy hope I can-not mea-sure, my path to life is free.\nMy Sav-ior has my treas-ure, and He will walk with me.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-7|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:#-2,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:#-6,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,#-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-7|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-7|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:#-2,3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Angel\'s Story, 76.76 D"|Label:"Angel\'s Story, 76.76 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:#3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:#3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,#6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Up
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:#3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:#3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

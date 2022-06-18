@@ -1,0 +1,207 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I Had a Dream of Heaven"|Author:"Traditional English melody"|Lyricist:"Richard W. Adams, 2010"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Tune: \"Terra Beata\"."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:39|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._In_my deep-est dream I hear\nA dis-tant trum-pet call,\n“Get up and see, come un-to Me”:\nI sight a gold-en wall—\nBe-hold, Je-ru-sa-lem!\nWith an-gels round the throne,\nAnd em-erald rain-bow all a-glow,\nA-bove a crys-tal sea.\n"
+|Lyric2|Text:"2._I see the ran-somed saints,\nA mul-ti-tude un-told,\nSo glor-ious bright, with crowns of light,\nThe vic-tor’s palm they hold;\nI hear e-ter-nal choirs,\nSinging praise un-to the Lamb,\n“Sal-va-tion power burst in-to flower,\nAnd o-ver-comes the night.”\n"
+|Lyric3|Text:"3._Pro-ceed-ing from the throne,\nFlows_a crys-tal ri-ver pure,\nIt life be-stows wher-e’er it goes,\nAnd eve-ry ill will cure;\nA-long the wa-ter’s edge,\nAre trees of fade-less bloom,\nNo more we grieve, for their heal-ing leaves,\nGod’s love and bless-ing show.\n"
+|Lyric4|Text:"4._I walk the gold-en streets,\nWhere_no temp-ter can en-snare,\nNo dar-kness here, no_more guilt or fear,\nNo sha-dow an-y-where;\nFor no-thing base or false\nCan live with-in these walls:\nNo sec-ret sin can hide with-in,\nNo e-vil in-ter-fere.\n"
+|Lyric5|Text:"5._Too soon the morn-ing comes,\nAnd_the veil ob-scures my sight,\nBut now I see what_my goal must be,\nThat heaven-ly ci-ty bright—\nThe walls whose cor-ner-stone\nIs Je-sus Christ our Lord,\nBy faith in Him, the prize we win:\nGod’s love e-ter-nal-ly.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Slur=Upward,Beam=First,XNoteSpace=1,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-7|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Spacer|Width:250
+|Bar
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,2|Opts:Stem=Down
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,1|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-7|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Spacer|Width:450
+|Bar
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Terra Beata, SMD"|Label:"Terra Beata, SMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Note|Dur:4th|Pos:4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-2,4|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-2,4|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-2,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

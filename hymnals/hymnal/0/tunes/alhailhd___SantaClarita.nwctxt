@@ -1,0 +1,143 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:35|CaretPos:3
+|SongInfo|Title:"Santa Clarita, 11.9.11.9"|Author:"George Blackburn Holsinger, 1901"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Brethren Hymnal (Elgin, Illinois: Brethren Publishing House, 1901), # 118."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._All hail! hap-py day,\nWhen en-robed in our clay,\nThe Re-deem-er ap-peared up-on earth:\nHow can we re-frain\nFor to join the glad strain,\nAnd to hail our Im-man-u-el’s birth?\n"
+|Lyric2|Text:"2._How bound-less that love,\nFirst be-got-ten a-bove,\nAnd through Je-sus to sin-ners made known?\nLift, lift up the voice,\nAnd ex-ult-ing re-joice,\nFor Je-ho-vah to earth is come down.\n"
+|Lyric3|Text:"3._Ye an-gels of God,\nSound His prais-es a-broad,\nAnd ac-knowl-edge Him Jah, the I Am:\nWe al-so will join\nIn a hymn so di-vine,\nGiv-ing glo-ry to God and the Lamb.\n"
+|Lyric4|Text:"4._To Christ we will sing,\nAs our high priest and king,\nAnd our proph-et to teach us the road:\nBut more than all this,\nFor al-might-y He is,\nAnd we own Him our cru-ci-fied God!\n"
+|Lyric5|Text:"5._To Je-sus-’ praise\nLet us spend all our days,\nFor ’tis He our sur-e-ty has stood:\nHe so-journed be-low,\nThat His mer-cy might flow,\nAnd He pur-chased our par-don with blood!\n"
+|Lyric6|Text:"6._O may the re-turn\nOf this once bless-èd morn,\nBe for ev-er re-mem-bered with joy\nSweet ac-cents of praise,\nAll our voic-es shall raise,\nHal-le-lu-jahs shall be our em-ploy.\n"
+|Lyric7|Text:"7._Let ech-o pro-long,\nThe har-mo-ni-ous song,\nHal-le-lu-jahs a-gain and a-gain:\nHe kin-dles the fire,\nWhom the na-tions de-sire;\nAnd to Him we de-vote the glad strain.\n"
+|Lyric8|Text:"8._Blest Je-sus, while we\nPay our trib-ute to Thee,\nLet us wor-ship, ad-mire, and a-dore,\nAc-cept as Thy crown,\nWhat be-fore was Thy own,\nHal-le-lu-jahs and praise ev-er-more.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:100|Pos:11|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,DblDotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4,5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:5,8
+|Chord|Dur:4th|Pos:6,8
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,8
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4,5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:Half,DblDotted|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

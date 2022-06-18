@@ -1,0 +1,120 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Ferrier, 77.77"|Author:"John Bacchus Dykes, 1862"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sunday School Hymns and Songs (Anderson, Indiana: Warner Press, 1931), # 29. Also in The Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Publication & Sabbath-School Work, 1907), # 711."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O this soul, how dark and blind;\nO this fool-ish, earth-ly mind;\nEv-er fro-ward self-ish will,\nWhich re-fus-es to be still!\n"
+|Lyric2|Text:"2._O these ev-er roam-ing eyes,\nUp-ward that re-fuse to rise;\nThese still way-ward feet of mine,\nFound in eve-ry path but Thine!\n"
+|Lyric3|Text:"3._O these puls-es felt with-in,\nBeat-ing for the world and sin;\nSend-ing round the fe-vered blood,\nIn a fierce and car-nal flood!\n"
+|Lyric4|Text:"4._O this stub-born prayer-less knee,\nHands so sol-emn clasped to Thee,\nLong-ings of the soul that go,\nLike the wild wind to and fro.\n"
+|Lyric5|Text:"5._To and fro with-out an aim,\nTurn-ing i-dly whence they came,\nBring-ing in no joy, no bliss— \nAdd-ing to my wea-ri-ness!\n"
+|Lyric6|Text:"6._Giv-er of the heav’n-ly peace,\nBid, O bid, these tu-mults cease;\nMin-is-ter Thy ho-ly balm,\nFill me with Thy Spir-it’s calm.\n"
+|Lyric7|Text:"7._Thou the life, the truth, the way,\nLeave me not in sin to stay;\nBear-er of the sin-ner’s guilt,\nLead me, lead me, as Thou wilt.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:107|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th,Slur|Pos:-5,0|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-4,1|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-4,0|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:8th,Slur|Pos:-6,-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Ferrier, 77.77"|Label:"Ferrier, 77.77"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:24|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,7|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=End
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:Half|Pos:0,7|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,#3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,#3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:-3,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,8|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:-2,7|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-4,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,3|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:0,2|Opts:Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

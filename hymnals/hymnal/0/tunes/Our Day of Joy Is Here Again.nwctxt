@@ -1,0 +1,199 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Our Day of Joy Is Here Again"|Author:"Andrew L. Skoog"|Lyricist:"Andrew L. Skoog, 1892"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal of the Evangelical Mission Covenant Church of America (Chicago, Illinois: Covenant Press, 1950), # 123."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Our day of joy is here a-gain,\nWith love and peace and song;\nCome, let us join th’an-gel-ic strain\nWith voic-es clear and strong.\n\nGlor-y to our God, we sing,\nGlor-y to our Lord and king;\nPeace, good-will with all a-bide\nThis ho-ly Christ-mas tide.\n"
+|Lyric2|Text:"2._When dark-ness lay up-on this earth,\nA glor-ious light did shine,\nGod sent a Gift of price-less worth\nAnd showed His love di-vine.\n\nGlor-y to our God, we sing,\nGlor-y to our Lord and king;\nPeace, good-will with all a-bide\nThis ho-ly Christ-mas tide.\n"
+|Lyric3|Text:"3._Now to the man-ger let us go\nTo wor-ship and a-dore\nThe ten-der babe up-on the straw,\nOur Sav-ior ev-er-more.\n\nGlor-y to our God, we sing,\nGlor-y to our Lord and king;\nPeace, good-will with all a-bide\nThis ho-ly Christ-mas tide.\n"
+|Lyric4|Text:"4._How won-der-ful that God’s own Son\nShould so Him-self a-base!\nHe thrust the might-y from their throne,\nAnd gave the low-ly grace.\n\nGlor-y to our God, we sing,\nGlor-y to our Lord and king;\nPeace, good-will with all a-bide\nThis ho-ly Christ-mas tide.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:550
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-8,-6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-5^
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-5
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-6
+|Chord|Dur:4th|Pos:-7,-6
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-6
+|Spacer|Width:400
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:23
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,0^
+|Chord|Dur:4th|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Nu Glädjens Timme"|Label:"Nu Glädjens Timme"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,2^
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,n1
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Note|Dur:8th|Pos:2
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th|Pos:-5,2,5
+|Chord|Dur:8th|Pos:-5,2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,5^
+|Chord|Dur:4th|Pos:-2,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

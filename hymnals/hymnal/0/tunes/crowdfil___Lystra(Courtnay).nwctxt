@@ -1,0 +1,219 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Lystra, 98.98 D"|Author:"John Courtnay, before 1902"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns of Prayer and Praise with Tunes, by C. E. B. Young (London: Oxford University Press, 1921), # 6."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._A crowd fills the court of the tem-ple,\nA sound as of praise stirs the air,\nJe-ru-sa-lem thrills with e-mo-tion,\nThe Lord of the tem-ple is there!\nIn vain is the priest-ly dis-pleas-ure\nTo si-lence the an-thems that ring;\nHo-san-na! Ho-san-na! Ho-san-na!\nThe chil-dren all joy-ful-ly sing.\n"
+|Lyric2|Text:"2._And if in this tem-ple of wor-ship,\nWhere now we are met in His name,\nThe Lord should ap-pear in His beau-ty,\nHim-self His own Gos-pel pro-claim,\nWhat an-thems of grate-ful de-vo-tion\nA-round Him would ech-o and ring;\nHo-san-na! Ho-san-na! Ho-san-na!\nThe chil-dren would joy-ful-ly sing.\n"
+|Lyric3|Text:"3._Lord! make each young heart Thine own tem-ple,\nRe-veal Thy sweet pres-ence with-in,\nIl-lu-mine our minds by Thy com-ing,\nEx-pel eve-ry long-ing for sin:\nAnd when in our souls we a-dore Thee,\nHow pure the glad praise we shall bring!\nHo-san-na! Ho-san-na! Ho-san-na!\nThe chil-dren will joy-ful-ly sing.\n"
+|Lyric4|Text:"4._And when in that tem-ple of glo-ry,\nWhere falls nev-er shad-ow of night,\nWhere sor-row and sin nev-er sad-den,\nAnd Thou shalt Thy-self be the light;\nWhen round Thee the ran-somed are throng-ing,\nHigh Heav’n with their prais-es will ring,\nHo-san-na! Ho-san-na! Ho-san-na!\nThy chil-dren for ev-er will sing.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:83|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:16th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-4
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,n-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,0^
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:16th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-3
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:16th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-2
+|Note|Dur:16th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,0^
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,n-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,0^
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-1,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,3^
+|Chord|Dur:4th|Pos:-2,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Lystra, John Courtnay"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,7
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,n4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,5^
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,7
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,n4
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,5^
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,n4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5^|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:5^
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:5,7
+|Bar
+|Chord|Dur:8th|Pos:5,8
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:4,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:4th|Pos:3,8
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:8th,Dotted|Pos:5,8
+|Chord|Dur:16th|Pos:5,8
+|Chord|Dur:8th|Pos:5,8
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:5,8
+|Chord|Dur:8th|Pos:5,9
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,8^
+|Chord|Dur:4th|Pos:1,8
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

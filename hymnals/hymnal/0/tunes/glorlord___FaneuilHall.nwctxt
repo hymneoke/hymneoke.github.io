@@ -1,0 +1,171 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Faneuil Hall, 12.12.88"|Author:"Franz J. Haydn, 1798, arr Charles Case, 1902"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Spirit of Praise, by Charles C. Case, William J. Kirkpatrick & Jacob H. Hall (Dayton, Virginia: Ruebush-Kiefer, 1911), # 1."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The glo-ry of the Lord,\nThe heav’ns de-clare a-broad;\nThe fir-ma-ment dis-plays\nThe hand-i-work of God;\nDay un-to day de-clar-eth speech,\nAnd night to night doth knowl-edge teach.\n"
+|Lyric2|Text:"2._A-loud they do not speak,\nThey ut-ter forth no word,\nNor in-to lan-guage break;\nTheir voice is nev-er heard;\nTheir line thro’ all the earth ex-tends,\nTheir words to earth’s re-mot-est ends.\n"
+|Lyric3|Text:"3._In them He for the sun\nHath set a dwell-ing place,\nRe-joic-ing as a man\nOf strength to run a race;\nHe, bride-groom-like in his ar-ray,\nComes from his cham-ber, bring-ing day.\n"
+|Lyric4|Text:"4._His dai-ly go-ing forth\nIs from the end of Heav’n;\nThe fir-ma-ment to him\nIs for his cir-cuit given— \nHis cir-cuit reach-es to its ends,\nAnd eve-ry-where his heart ex-tends.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:-1,2
+|Bar
+|Chord|Dur:Half,Slur|Pos:1|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th,Slur|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Faneuil Hall, 12.12.88"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:4th|Pos:-2,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,9
+|Bar
+|Chord|Dur:Half,Slur|Pos:8|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:6,8
+|Chord|Dur:4th,Slur|Pos:3,6
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:6,8
+|Chord|Dur:4th,Slur|Pos:3,6
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th,Slur|Pos:4,6
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:6,8
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

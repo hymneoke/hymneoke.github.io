@@ -1,0 +1,260 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Some Other Day"|Author:"George Coles Stebbins"|Lyricist:"Anna Belle Russell, 1917"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Alexander\'s Gospel Songs and Solos, edited by Charles M. Alexander (Philadelphia, Pennsylvania: Sterling Music, 1917), p. 74."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.27|Right:2.54|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:26|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Some oth-er day, some oth-er time,\nI’ll give to God my heart.\nWords such as these are oft-en heard,\nThey soothe the con-science truth has stirred;\nAn-oth-er chance of life de-ferred,\nThey bid the Lord de-part.\n\nTo-day thy God is call-ing thee,\n“My son, give Me thine heart.”\nHis grace a-lone can sa-tis-fy:\nChoose now the bet-ter part.\n"
+|Lyric2|Text:"2._Some oth-er day, some oth-er time,\nI will a Christ-ian be;\nO yes, I know I should, but still\nJust now I want my own sweet will,\nOf world-ly plea-sures want my fill,\nNot now to bend the knee.\n\nTo-day thy God is call-ing thee,\n“My son, give Me thine heart.”\nHis grace a-lone can sa-tis-fy:\nChoose now the bet-ter part.\n"
+|Lyric3|Text:"3._Some oth-er day, some oth-er time,\nFor Heav’n I will pre-pare;\nAye, there, I sure-ly mean to go,\nI’ll not be lost, the way I know,\nThere’s al-ways time while here be-low,\nI’ll Heav-en’s glo-ries share.\n\nTo-day thy God is call-ing thee,\n“My son, give Me thine heart.”\nHis grace a-lone can sa-tis-fy:\nChoose now the bet-ter part.\n"
+|Lyric4|Text:"4._Some oth-er day, some oth-er time?\nTake warn-ing from God’s Word.\nThere’s al-ways dan-ger in de-lay,\nYou’ve on-ly prom-ise of to-day,\nAc-cept the Sav-ior while you may,\nAnd know your prayer is heard.\n\nTo-day thy God is call-ing thee,\n“My son, give Me thine heart.”\nHis grace a-lone can sa-tis-fy:\nChoose now the bet-ter part.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:90|Pos:11|Justify:Right
+|TimeSig|Signature:3/4
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0|Opts:Stem=Up|Dur2:Half|Pos2:-4,-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:0|Opts:Stem=Up|Dur2:4th|Pos2:-7,-4
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-7,-4,-2
+|Chord|Dur:4th|Pos:-7,b-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-8,-6
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-8
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up
+|Spacer|Width:425
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-9,-7,-4
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:#-3
+|Note|Dur:8th|Pos:-2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1|Opts:Stem=Up|Dur2:Half|Pos2:n-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:#-3,n-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Up|Dur2:Half|Pos2:-5,-3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:b1
+|Spacer|Width:275
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:n-1
+|Note|Dur:8th|Pos:0
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Up|Dur2:Half|Pos2:-4,-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up|Dur2:4th|Pos2:-4,0
+|Note|Dur:8th|Pos:b2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,-1,1
+|Chord|Dur:4th|Pos:-4,-1,1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0|Opts:Stem=Up|Dur2:Half|Pos2:-4,-2
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-7,-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-9,-7,-4
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:17
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:#-3,n-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:4th,Dotted,Slur|Pos2:-2,3
+|Chord|Dur:8th,Slur|Pos:0,3,5|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:3,5,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:#-3,n-1
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-3,-1
+|Chord|Dur:8th,Slur|Pos:0,2,4|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:2,4,6
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:275
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:4th,Dotted,Slur|Pos2:-3,2
+|Chord|Dur:8th,Slur|Pos:0,2,4|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-1,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:300
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:4th,Dotted,Slur|Pos2:-2,0
+|Chord|Dur:8th,Slur|Pos:-2,0,3|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:0,3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:#-3,n-1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:4th,Dotted,Slur|Pos2:-2,0
+|Chord|Dur:8th,Slur|Pos:-2,0,3|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:0,3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:#-3,n-1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-1,1
+|Chord|Dur:8th,Slur|Pos:-1,1,3
+|Chord|Dur:4th|Pos:1,3,6
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:4th,Dotted,Slur|Pos2:-4
+|Chord|Dur:8th,Slur|Pos:-1,1,3|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-2,0,3|Opts:Stem=Down,Beam=End
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Some Other Day, A. Russell"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-5
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nTo-day thy God is call-ing thee,\n“My son, give Me thine heart.”\nHis grace a-lone can sa-tis-fy:\nChoose now the bet-ter part.\n\nTo-day thy God is call-ing thee,\n“My son, give Me thine heart.”\nHis grace a-lone can sa-tis-fy:\nChoose now the bet-ter part.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Rest|Dur:4th,Dotted
+|Bar
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:1,3
+|Spacer|Width:375
+|Bar
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam
+|TempoVariance|Style:Fermata|Pause:0|Pos:-6|Justify:Center|Placement:AtNextNote
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Rest|Dur:4th,Dotted
+|Bar
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Rest|Dur:4th,Dotted
+|Bar
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:11
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:0,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,8
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:-2,8
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:Half|Pos:4,8
+|Chord|Dur:4th|Pos:-3,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,8
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

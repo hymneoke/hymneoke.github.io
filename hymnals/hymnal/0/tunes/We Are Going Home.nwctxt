@@ -1,0 +1,200 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"We Are Going Home"|Author:"James McGranahan"|Lyricist:"Daniel Webster Whittle, 1881"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns Nos. 1 to 6 Complete, by Ira D. Sankey, James McGranahan & George C. Stebbins (Chicago, Illinois: Biglow & Main, 1894), # 218."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Our way is oft-en rug-ged\nWhile here on earth we roam,\nAnd thorns are on the path-way,\nBut we are go-ing home.\n\nWe’re go-ing, go-ing,\nYes, we are go-ing home;\nWe soon shall cross the riv-er,\nAnd be with Christ at home.\n"
+|Lyric2|Text:"2._To Mar-ah’s bit-ter wa-ters\nWe oft have mur-m’ring come,\nBut God the cup has sweet-ened,\nAnd so we’re go-ing home.\n\nWe’re go-ing, go-ing,\nYes, we are go-ing home;\nWe soon shall cross the riv-er,\nAnd be with Christ at home.\n"
+|Lyric3|Text:"3._When of the des-ert wea-ry,\nOur God His grace has shown,\nBy rest-ing us at E-lim,\nWith sweet fore-tastes of home.\n\nWe’re go-ing, go-ing,\nYes, we are go-ing home;\nWe soon shall cross the riv-er,\nAnd be with Christ at home.\n"
+|Lyric4|Text:"4._With hun-ger oft-en faint-ing,\nWe’ve made com-plain-ing moan;\nBut, fed by heaven-ly man-na,\nWe still are go-ing home.\n\nWe’re go-ing, go-ing,\nYes, we are go-ing home;\nWe soon shall cross the riv-er,\nAnd be with Christ at home.\n"
+|Lyric5|Text:"5._Some stand to-day on Ne-bo,\nThe jour-ney near-ly done,\nAnd some are in the val-ley;\nBut all are go-ing home.\n\nWe’re go-ing, go-ing,\nYes, we are go-ing home;\nWe soon shall cross the riv-er,\nAnd be with Christ at home.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:113|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:550
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,0
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:450
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,0
+|Spacer|Width:325
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:19
+|Note|Dur:4th|Pos:2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:b-1,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"We Are Going Home"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,8
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,7
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:10
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th,Slur|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

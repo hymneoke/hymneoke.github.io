@@ -1,0 +1,227 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Befiehl, 76.76 D"|Author:"Johann Michael Haydn (1737-1806)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Mennonite Hymnal (Newton, Kansas: Faith and Life Press, 1969), # 338."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:1.78|Top:2.54|Right:1.78|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Thy way and all thy sor-rows,\nGive thou in-to His hand,\nHis gra-cious care un-fail-ing,\nWho doth the heav’ns com-mand.\nTheir course and path He giv-eth\nTo clouds and air and wind;\nA way thy feet may fol-low,\nHe too for thee will find.\n"
+|Lyric2|Text:"2._On Him be thy re-li-ance,\nAs thou wouldst pros-per well;\nTo make thy work en-dur-ing\nThy mind on His must dwell.\nGod yield-eth naught to sor-row\nAnd self tor-ment-ing care;\nNaught, naught with him a-vail-eth;\nNo power save that of prayer.\n"
+|Lyric3|Text:"3._Thy truth and grace, O Fa-ther,\nBe-hold and sure-ly know,\nBoth what is good and e-vil,\nFor mor-tal man be-low:\nAnd what-so-e’er Thou choos-est\nThou dost, great God, ful-fill,\nAnd in-to be-ing bring-est\nWhat-e’er is in Thy will.\n"
+|Lyric4|Text:"4._Thy way is ev-er o-pen;\nThou dost on naught de-pend;\nThine act is on-ly bless-ing,\nThy path light with-out end.\nThy work can no man hin-der;\nThy pur-pose none can stay,\nSince Thou to bless Thy chil-dren\nThrough all dost make a way.\n"
+|Lyric5|Text:"5._In vain the powers of dark-ness\nThy will, O God, op-pose;\nHigh o-ver all un-doubt-ing,\nThy pleas-ure on-ward goes.\nWhat-e’er Thy will re-solv-eth,\nWhat-e’er Thou dost in-tend,\nIts des-tined work per-form-eth\nTrue to its aim and end.\n"
+|Lyric6|Text:"6._Then hope, my fee-ble spir-it,\nAnd be thou un-dis-mayed;\nGod helps in eve-ry tri-al,\nAnd makes thee un-a-fraid.\nA-wait God’s time with pleas-ure,\nThen shall thine eyes be-hold\nThe sun of joy and glad-ness\nHis bright-est beams un-fold.\n"
+|Lyric7|Text:"7._A-rise, a-rise! thy sad-ness,\nThy cares send far a-way;\nA-way each thought af-flict-ing\nThat on the heart doth prey.\nNot in thy hands the guid-ance\nOf all e-vents doth dwell;\nGod on His throne o’er-rul-eth,\nHe guid-eth all things well.\n"
+|Lyric8|Text:"8._Leave all to His di-rec-tion;\nIn wis-dom He doth reign;\nThy won-der far ex-ceed-ing,\nHis will His course main-tain;\nSo He as Him be-seem-eth,\nWith won-der-work-ing skill,\nShall put a-way the sor-rows\nThat now thy spir-it fill.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:113|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Rest|Dur:4th
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Slur|Pos:-3,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Rest|Dur:4th,Dotted
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Befiehl, 76.76 D"|Label:"Befiehl, 76.76 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:25|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:8|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:8|Opts:Stem=Up,Beam=End
+|Bar
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Rest|Dur:4th
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:7
+|Note|Dur:4th|Pos:n-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Slur|Pos:0,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:3,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:0,4
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Rest|Dur:4th,Dotted
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

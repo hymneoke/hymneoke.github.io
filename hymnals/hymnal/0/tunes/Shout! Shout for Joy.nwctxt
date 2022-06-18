@@ -1,0 +1,232 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:72|CaretPos:0
+|SongInfo|Title:"Shout! Shout for Joy"|Author:"Joseph Lincoln Hall"|Lyricist:"Lizzie Douglas Foulks DeArmond, 1900"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Service of Praise, by J. Lincoln Hall, Irvin H. Mack & C. Austin Miles (Philadelphia, Pennsylvania: Hall-Mack, 1900), # 179."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.27|Right:2.54|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Shout! Shout for joy, and sing a-loud with glad-ness!\nLo! In the east the star of hope ap-pears;\nJe-sus has ris-en from the tomb tri-umph-ant,\nVan-quished is death thro’ all the com-ing years.\n\nShout! Shout! Shout! Shout!\nShout for joy, and sing a-loud with glad-ness,\nVan-quished is death thro’ all the com-ing years.\n"
+|Lyric2|Text:"2._Not with des-pair, we view the grave’s cold por-tals,\nJe-sus has robbed it of the dark-some gloom;\nOn-ly the pas-sage-way from earth to Hea-ven,\nBright with God’s light, is the once dread-ed tomb.\n\nShout! Shout! Shout! Shout!\nShout for joy, and sing a-loud with glad-ness,\nVan-quished is death thro’ all the com-ing years.\n"
+|Lyric3|Text:"3._We, too, shall rise from glo-ry un-to glo-ry,\nFree from earth’s fet-ters, clad with right-eous-ness;\nShout! Shout for joy, ye an-gels, join the cho-rus;\nHe lives! The Christ, for-ev-er-more to bless.\n\nShout! Shout! Shout! Shout!\nShout for joy, and sing a-loud with glad-ness,\nVan-quished is death thro’ all the com-ing years.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:#-5,0
+|Chord|Dur:16th|Pos:-5,-1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up|Dur2:8th|Pos2:-1
+|Chord|Dur:8th|Pos:0|Opts:Stem=Up|Dur2:8th|Pos2:0
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down|Dur2:4th|Pos2:1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:#-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:Half|Pos:n-3,2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up|Dur2:8th|Pos2:-1
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down|Dur2:8th|Pos2:0
+|Chord|Dur:8th|Pos:1|Opts:Stem=Up|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up|Dur2:8th|Pos2:2
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up|Dur2:4th|Pos2:1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:Half|Pos:-4,1
+|Spacer|Width:375
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:12
+|Chord|Dur:Whole|Pos:-6,-4,-2,1
+|Bar
+|Chord|Dur:Whole|Pos:-6,-4,-1
+|Bar
+|Chord|Dur:Whole|Pos:-5,#-3,-1,2
+|Bar
+|Chord|Dur:Whole|Pos:-5,-3,-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,3
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Bar
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Down|Dur2:8th|Pos2:-1
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down|Dur2:8th|Pos2:0
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:Half|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Shout! Shout for Joy"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,#2
+|Chord|Dur:16th|Pos:-1,2
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,6
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Chord|Dur:8th|Pos:7|Opts:Stem=Down|Dur2:8th|Pos2:7
+|Chord|Dur:4th|Pos:8|Opts:Stem=Down|Dur2:4th|Pos2:8
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down|Dur2:4th|Pos2:6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:Half|Pos:-1,6
+|Bar|Style:Double
+|Instrument|Name:"Church Organ"|Patch:19|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:8
+|Chord|Dur:4th,Slur|Pos:-8,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted,Slur|Pos:-8,-1|Opts:Slur=Upward
+|Chord|Dur:16th,Slur|Pos:-7,0|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-6,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-8,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-12,-3|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted,Slur|Pos:-12,-3|Opts:Slur=Upward
+|Chord|Dur:16th,Slur|Pos:-11,-2|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-10,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-12,-3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-7,0|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted,Slur|Pos:-7,0|Opts:Slur=Upward
+|Chord|Dur:16th,Slur|Pos:-7,1|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:#-5,#2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-7,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,3|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,3|Opts:Slur=Upward
+|Chord|Dur:16th,Slur|Pos:-3,4|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-2,5|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Upward
+|Bar
+|Boundary|Style:NewSize|Upper:14
+|Instrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:8
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Chord|Dur:8th|Pos:7|Opts:Stem=Down|Dur2:8th|Pos2:7
+|Chord|Dur:4th|Pos:8|Opts:Stem=Down|Dur2:4th|Pos2:8
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down|Dur2:4th|Pos2:6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:Half|Pos:-1,6
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

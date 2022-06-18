@@ -1,0 +1,189 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Cape Hatteras, CM"|Author:"James Hearknett Wallis, 1915"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Christmas Carols, by James M. McLaughlin (Boston, Massachusetts: Ginn & Company, 1915), # 3. Full name found at http://www.hymnary.org."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Ring out, ye bells, your mu-sic tells\nOnce a-gain the sto-ry\nOf that sweet Child, who, un-de-filed,\nCame from realms of glo-ry;\nRing in the King who comes to bring\nThe reign of God on earth,\nA world of peace and right-eous-ness,\nThe old world’s sec-ond birth.\n"
+|Lyric2|Text:"2._Ring in the star that shines from far\nGod’s own light be-stow-ing;\nNo oth-er light can break our night,\nHeav’n’s own dawn fore-show-ing;\nIt turns a-bove with God’s dear love,\nA love that naught can dim,\n’Twill burn and shine, that light di-vine,\nTill all are drawn to Him.\n"
+|Lyric3|Text:"3._Ring on, ye bells, your mu-sic tells\nHu-man love is grow-ing;\nThat strifes will cease, and tides of peace\nUp the world come flow-ing:\nRing in that sea of har-mo-ny,\nThat flood of hu-man love,\nO’er whose still breast once more will rest\nThe Spir-it like a dove.\n"
+|Lyric4|Text:"4._What though your spells, ye Christ-mas bells,\nAg-es have been ring-ing,\nAnd an-gels bright through sin’s long night,\nChrist-mas car-ols sing-ing;\nStill ring your chime, till eve-ry clime\nHas heard the an-gel throng,\nAnd eve-ry sound is lost and drowned\nIn their e-ter-nal song.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Half,Dotted
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,#-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,#-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,#-2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Slur|Pos:3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:n-2
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:#-4,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:Whole|Pos:-5,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Cape Hatteras, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:Whole|Pos:0,4
+|Bar
+|Chord|Dur:Whole|Pos:0,4
+|Bar
+|Chord|Dur:Whole|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Note|Dur:4th|Pos:7
+|Bar
+|Chord|Dur:4th|Pos:6,7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:3,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:0,2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Whole|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Note|Dur:4th|Pos:7
+|Bar
+|Chord|Dur:4th|Pos:6,7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:3,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,#3
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,#3
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,#3
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:4
+|Note|Dur:4th,Slur|Pos:5|Opts:Stem=Up
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:4,7
+|Bar
+|Chord|Dur:4th|Pos:#3,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th|Pos:-3,n6
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Whole|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

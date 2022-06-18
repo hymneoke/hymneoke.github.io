@@ -1,0 +1,139 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:23|CaretPos:2
+|SongInfo|Title:"Crosby, 76.87"|Author:"John David Brunk, 1911"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Shortened version of Brunk\'s tune Holy Place."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Join all ye joy-ful na-tions\nThe_ac-claiming hosts of Heav-’n!\nThis hap-py morn a child is born\nTo us a son is giv-en.\n"
+|Lyric2|Text:"2._The mes-sen-ger and to-ken\nOf e-ter-nal fa-vor,\nGod hath sent down to us His Son,\nA u-ni-ver-sal Sav-ior!\n"
+|Lyric3|Text:"3._The won-der-ful Mes-si-ah,\nJoy of eve-ry na-tion,\nJe-sus His name, with God the fame,\nThe Lord of all cre-a-tion.\n"
+|Lyric4|Text:"4._The coun-se-lor of sin-ners,\nAlmight-y to de-liv-er,\nThe Prince of Peace, whose love’s in-crease,\nShall reign in Man for-ev-er.\n"
+|Lyric5|Text:"5._Go see the King of glo-ry,\nDiscern the heaven-ly stran-ger,\nSo poor and mean, His court and inn,\nHis cra-dle is a man-ger.\n"
+|Lyric6|Text:"6._Who from His fa-ther’s bos-om\nBut_now for us de-scend-ed\nWho built the skies, on earth He lies,\nWith on-ly beasts at-tend-ed.\n"
+|Lyric7|Text:"7._Whom all the an-gels wor-ship,\nLies_hid in hu-man na-ture;\nIn-car-nate see the de-i-ty,\nThe in-fi-nite Cre-a-tor!\n"
+|Lyric8|Text:"8._See the stu-pen-dous bless-ing\nGod to us hath giv-en!\nA child of man, in length a span,\nWho fills both earth and Heav-en.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:130|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:b-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:b-2
+|Chord|Dur:4th|Pos:-4,n-2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Slur|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:b-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:b-2
+|Chord|Dur:4th|Pos:-4,n-2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,0
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Crosby, 77.87"|Label:"Crosby, 77.87"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:b3,n4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Slur|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:2,n4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:2,n4
+|Chord|Dur:4th,Slur|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:b-4,n4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Half,Slur|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

@@ -1,0 +1,182 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Arise, My Soul, This Easter Morn"|Author:"L. Nielsen"|Lyricist:"Wilhelm A. Wexels, 1858, tr. Jens C. Aaberg"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymnal for Church and Home, edited by Jens  C. Aaberg (Blair, Nebraska: Danish Lutheran Publishing House, 1927), # 109."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._A-rise, my soul, this Eas-ter morn\nWith joy and prais-es hea-ven-born,\nAnd hear good news from death’s dark por-tals\nTo all dis-tressed and griev-ing mor-tals.\n\nO bless-èd Eas-ter morn-ing, shower\nOn us thy power.\n"
+|Lyric2|Text:"2._Dis-armed and crushed, for-ev-er fell\nThis morn the power of death and hell,\nFor He who lay in death’s grim pri-son\nWith might and glo-ry is a-ris-en.\n\nO bless-èd Eas-ter morn-ing, shower\nOn us thy power.\n"
+|Lyric3|Text:"3._Come, souls by sin and death dis-mayed\nWith all that in the grave ye laid\nTo Him who rose on Eas-ter mor-row\nAnd brings you balm for all your sor-row.\n\nO bless-èd Eas-ter morn-ing, shower\nOn us thy power.\n"
+|Lyric4|Text:"4._My soul, why shouldst thou grieve and pine?\nThe peace and joy of Heav’n are thine,\nThe Lord a-rose with might su-per-nal,\nAnd thou art heir to life e-ter-nal.\n\nO bless-èd Eas-ter morn-ing, shower\nOn us thy power.\n"
+|Lyric5|Text:"5._Come, peo-ple of the Lord, em-ploy\nYour heart and soul in songs of joy,\nGo forth to meet with prais-es ring-ing,\nThe Lord who life for death is bring-ing.\n\nO bless-èd Eas-ter morn-ing, shower\nOn us thy power.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:107|Pos:12|Justify:Right
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:0
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:n-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:0
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-7,-4,0
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:-3
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-7
+|Note|Dur:8th|Pos:-3
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-7
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-8,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:n-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-2,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th,Slur|Pos:#-3,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5^,2|Opts:Stem=Up,Lyric=Always,Beam=End
+|Chord|Dur:8th|Pos:0|Opts:Stem=Up,Lyric=Always|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,n-3
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:n-4|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Spacer|Width:275
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:16
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Chord|Dur:4th|Pos:#-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:0
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-5,n-3
+|Note|Dur:8th|Pos:-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-4,-2,3
+|Chord|Dur:4th|Pos:-3,-2,2
+|Chord|Dur:4th|Pos:-4,-2,1
+|Bar
+|Chord|Dur:Half|Pos:-5,-3,0
+|Chord|Dur:4th|Pos:-2,1^|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Spacer|Width:625
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5^
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Up|Dur2:Half|Pos2:2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Note|Dur:4th|Pos:-4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:8th|Pos:6|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:5|Opts:Stem=Up|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:#2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-1,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:2,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:7
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Bar
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:0
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:1
+|Bar
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down|Dur2:Whole|Pos2:2
+|Note|Dur:Half|Pos:-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

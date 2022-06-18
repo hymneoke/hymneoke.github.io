@@ -1,0 +1,241 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Hail, Hail, Hail"|Author:"George J. Kurzenknabe"|Lyricist:"Alexcenah Thomas, 1889"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sowing and Reaping, by John H. Kurzenknabe (Boston, Massachusetts: Oliver Ditson, 1889), # 119."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:22|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Hail, hail, hail the bless-èd Christ-mas morn;\nHail, hail, hail, the Prince of Peace is born;\nThe Lord of life and pow-er,\nOf wis-dom, love and grace,\nHas come to heal His peo-ple,\nTo save the fall-en race.\n\nHail, hail, hail, let an-gels pros-trate fall;\nHail, hail, hail, and crown Him Lord of all.\n"
+|Lyric2|Text:"2._Hail, hail, hail, to Christ our in-fant king;\nHail, hail, hail, the choirs ce-les-tial sing;\nThe heav’n-ly host re-joic-es\nThrough-out the star-ry sky,\nWhile all our hap-py voic-es\nSing praise to God on high.\n\nHail, hail, hail, let an-gels pros-trate fall;\nHail, hail, hail, and crown Him Lord of all.\n"
+|Lyric3|Text:"3._Joy, joy, joy, our hearts are glad to-day;\nJoy, joy, joy, let sor-row flee a-way;\nFor Christ, our Light was giv-en\nTo ban-ish all our woe,\nAnd He came down from Heav-en,\nHis love for us to show.\n\nHail, hail, hail, let an-gels pros-trate fall;\nHail, hail, hail, and crown Him Lord of all.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#,D#|Tonic:E
+|Tempo|Tempo:95|Pos:13|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-4,#-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Spacer|Width:600
+|Bar
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-3
+|Spacer|Width:175
+|Bar
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Rest|Dur:8th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:10
+|Boundary|Style:NewSize|Lower:15
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Hail, Hail, Hail"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#,D#|Tonic:E
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:3,#5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:6|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,8
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:1,2
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:8th|Pos:-4,5
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

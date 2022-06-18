@@ -1,0 +1,157 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Madvig, 11.11.11.11"|Author:"George W. Haskell, 1913"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Life Songs, edited by John D. Brunk & Samuel F. Coffman (Scottdale, Pennsylvania: Mennonite Publishing House, 1916), # 202."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Give your heart to Je-sus, soul with care op-pressed,\nHe will lift your bur-den, He will give you rest.\nTell Him all your sor-row, let Him know your grief;\nHe will be your help-er, He will give re-lief.\n"
+|Lyric2|Text:"2._Give your heart to Je-sus, souls that are at rest,\nTast-ing shal-low pleas-ures, that can nev-er last.\nShun the world’s al-lure-ments; leave the ways of sin;\nHeed the Guest that’s knock-ing, let the Mas-ter in.\n"
+|Lyric3|Text:"3._Give your heart to Je-sus, lay it at His feet;\n’Tis the on-ly of-fering for the Mas-ter meet.\nLet Him be your Sav-ior, be your all in all;\nHe will guard and keep you, you can nev-er fall.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:160|Pos:12|Justify:Right
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-7,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:n-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-4|Opts:Stem=Up|Dur2:Whole,Dotted|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,1
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:n-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-4|Opts:Stem=Up|Dur2:Whole,Dotted|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:Half|Pos:b-2,1
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,3
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Madvig, 11.11.11.11"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:1,8
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4,8
+|Chord|Dur:Half,Dotted|Pos:4,6
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:Half|Pos:4,8
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

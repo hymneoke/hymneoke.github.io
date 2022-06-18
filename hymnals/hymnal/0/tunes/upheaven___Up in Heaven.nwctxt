@@ -1,0 +1,137 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:49|SelectIndex:50|CaretPos:-5
+|SongInfo|Title:"Up in Heaven, 87.77.5"|Author:"John Stainer, 1889"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 565."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Up in Heav-en, up in Heav-en,\nIn the bright place far a-way,\nHe whom bad men cru-ci-fied,\nSit-teth at His Fa-ther’s side,\nTil the judg-ment day.\n"
+|Lyric2|Text:"2._And He loves His lit-tle chil-dren,\nAnd He plead-eth for them there,\nAsk-ing the great God of Heav’n\nThat their sins may be for-given,\nAnd He hears their prayer.\n"
+|Lyric3|Text:"3._Nev-er more a help-less ba-by,\nBorn in pov-er-ty and pain,\nBut with aw-ful glo-ry crowned,\nWith His an-gels stand-ing round,\nHe shall come a-gain.\n"
+|Lyric4|Text:"4._Then the wick-ed souls shall trem-ble,\nAnd the good souls shall re-joice;\nPar-ents, chil-dren, eve-ry one,\nThen shall stand be-fore His throne,\nAnd shall hear His voice.\n"
+|Lyric5|Text:"5._And all faith-ful ho-ly Chris-tians,\nWho their mas-ter’s work have done,\nShall ap-pear at His right hand\nAnd in-her-it the fair land\nThat His love has won.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:112|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th|Pos:-6,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:#-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:#-5,-3
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th|Pos:b-7,-5,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|Note|Dur:8th,Slur|Pos:n-6|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:8th|Pos:#-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Up in Heaven, 87.77.5"|Label:"Up in Heaven, 87.77.5"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:6/8
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:0,3
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Note|Dur:8th|Pos:2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,#4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:#4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:0,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Boundary|Style:NewSize|Upper:17
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Note|Dur:8th|Pos:#4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:8th,Slur|Pos:#0|Opts:Stem=Up
+|Note|Dur:4th|Pos:1|Opts:Stem=Up,Slur=Downward
+|Boundary|Style:NewSize|Upper:13
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

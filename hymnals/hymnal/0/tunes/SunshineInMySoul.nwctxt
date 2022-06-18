@@ -1,0 +1,224 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Sunshine in My Soul"|Author:"John Robson Sweney"|Lyricist:"Eliza Edmunds Hewitt, 1887"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing, 1974), # 399. Also in The Baptist Hymnal (Nashville, Tennessee: Convention Press, 1991), # 430."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.03|Top:2.54|Right:2.03|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:15|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-18
+|Lyric1|Text:"1._There is sun-shine in my soul to-day,\nMore glor-i-ous and bright\nThan glows in a-ny earth-ly sky,\nFor Je-sus is my light.\n\nO there’s sun-shine, bless-èd sun-shine,\nWhen the peace-ful, hap-py mo-ments roll;\nWhen Je-sus shows His smil-ing face,\nThere is sun-shine in the soul.\n"
+|Lyric2|Text:"2._There is mu-sic in my soul to-day,\nA ca-rol to my king,\nAnd Je-sus, list-en-ing, can hear\nThe songs I can-not sing.\n\nO there’s sun-shine, bless-èd sun-shine,\nWhen the peace-ful, hap-py mo-ments roll;\nWhen Je-sus shows His smil-ing face,\nThere is sun-shine in the soul.\n"
+|Lyric3|Text:"3._There is spring-time in my soul to-day,\nFor, when the Lord is near,\nThe dove of peace sings in my heart,\nThe flowers of grace ap-pear.\n\nO there’s sun-shine, bless-èd sun-shine,\nWhen the peace-ful, hap-py mo-ments roll;\nWhen Je-sus shows His smil-ing face,\nThere is sun-shine in the soul.\n"
+|Lyric4|Text:"4._There is glad-ness in my soul to-day,\nAnd hope and praise and love,\nFor bless-ings which He gives me now,\nFor joys “laid up” a-bove.\n\nO there’s sun-shine, bless-èd sun-shine,\nWhen the peace-ful, hap-py mo-ments roll;\nWhen Je-sus shows His smil-ing face,\nThere is sun-shine in the soul.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-6,-1|Opts:XNoteSpace=1
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,1|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Down,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:8th,Dotted,Slur|Pos:-6,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,n2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,3
+|Spacer|Width:250
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:7
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-4,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-8,-6
+|Chord|Dur:16th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,3
+|Chord|Dur:8th,Dotted|Pos:-4,2
+|Chord|Dur:16th|Pos:-4,1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:8th,Dotted,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:16th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Sunshine in My Soul"|Label:"Sunshine in My Soul"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:30|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:9
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _\nO there’s sun-shine in my soul,\nbless-èd sun-shine in my soul,\n_ _ _ _ _ _ _ _\nhap-py mo-ments roll;\n\nO there’s sun-shine, bless-èd sun-shine,\nWhen the peace-ful, hap-py mo-ments roll;\nWhen Je-sus shows His smil-ing face,\nThere is sun-shine in the soul.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,1|Opts:XNoteSpace=1
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:22
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Note|Dur:8th,Dotted|Pos:4
+|Note|Dur:16th|Pos:4
+|Note|Dur:8th,Dotted|Pos:4
+|Note|Dur:16th|Pos:4
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,1
+|Note|Dur:8th,Dotted|Pos:4
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Note|Dur:16th|Pos:4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Chord|Dur:8th,Dotted,Slur|Pos:1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:2,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

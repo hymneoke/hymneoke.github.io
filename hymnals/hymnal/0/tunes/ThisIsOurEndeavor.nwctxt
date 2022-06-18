@@ -1,0 +1,183 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"This Is Our Endeavor"|Author:"Ira David Sankey"|Lyricist:"Frances Jane (Fanny) Crosby, 1893"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Photocopied score, origin unknown. Publication date found at http://www.hymnary.org."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Lone-ly hearts to com-fort,\nWear-y lives to cheer—\nThis is our en-dea-vor,\nThis our mis-sion here;\nSeek-ing out the lost ones\nOn the mount-ains cold,\nWe would glad-ly bring them\nTo the Shep-herd’s fold.\n"
+|Lyric2|Text:"2._Press-ing on to-ge-ther,\nDo-ing good to all,\nIn the name of Je-sus,\nLift-ing those who fall;\nTo the poor and friend-less\nGive with o-pen hand—\nThis is our en-dea-vor,\nThis the Lord’s com-mand.\n"
+|Lyric3|Text:"3._On-ward, ev-er on-ward,\nTrust-ing in the Lord,\nLook we for the prom-ise\nOf a blest re-ward,\nRobes and palms of glor-y,\nMan-sions bright and fair,\nWel-come from the Sav-ior,\nRest for ev-er there.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|TimeSig|Signature:6/8
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,#-3
+|Chord|Dur:4th|Pos:n-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Rest|Dur:8th
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-4^
+|Chord|Dur:4th|Pos:-6,-4
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,#-3
+|Chord|Dur:4th|Pos:n-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-2^
+|Chord|Dur:4th|Pos:-7,-2
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-4^
+|Chord|Dur:4th|Pos:-6,-4
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"This Is Our Endeavor"|Label:"This Is Our Endeavor"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:6/8
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,3^
+|Chord|Dur:4th|Pos:-1,3
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:8th|Pos:0,#2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^
+|Chord|Dur:4th|Pos:-4,3
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,3^
+|Chord|Dur:4th|Pos:-1,3
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,3^
+|Chord|Dur:4th|Pos:-1,3
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

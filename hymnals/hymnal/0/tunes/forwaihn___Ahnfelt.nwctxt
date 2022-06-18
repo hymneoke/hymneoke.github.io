@@ -1,0 +1,186 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:38|CaretPos:7
+|SongInfo|Title:"Ahnfelt, 76.76 D"|Author:"Oskar Ahnfelt, 1872"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Covenant Hymnal, 10th edition (Chicago, Illinois: Covenant Book Concern, 1931), # 367."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The long roll-call is sound-ing,\nLet Is-ra-el a-wake!\nAnd eve-ry heart re-spond-ing,\nNew zeal and cour-age take.\nWith all up-on the al-tar\nAnd spir-it all a-glow,\nWe can-not stay nor fal-ter\nWhen du-ty bids us go.\n"
+|Lyric2|Text:"2._We’ll find the way re-tard-ed\nBy li-ons in the path,\nAnd eve-ry strong-hold guard-ed\nBy might-y men of Gath.\nBut if these things af-fright us,\nWhen shall the way be free?\nWhen Sa-tan shall in-vite us—\nAnd that will nev-er be.\n"
+|Lyric3|Text:"3._If Chris-tians did not weak-en\nWhen near-ing Sa-tan’s grounds,\nHis king-dom would be shak-en\nFrom cen-ter to its bounds.\nOur weak-ness shall not mat-ter,\nUn-less it comes of doubt;\nOne shall a thou-sand scat-ter\nAnd two ten thou-sand rout.\n"
+|Lyric4|Text:"4._The hour is here for mov-ing,\nWait not the mor-row’s sun;\nThe Church our faith is prov-ing,\nThe vic-tory must be won.\nThen gird the ar-mor, broth-er,\nTo loi-ter would be shame;\nPress close to one an-oth-er,\nAnd for-ward in His name.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:108|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-7|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-7
+|Bar
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-7|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-7
+|Bar
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-4^
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-1,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-1,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-4^
+|Chord|Dur:4th|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Ahnfelt, 76.76 D"|Label:"Ahnfelt, 76.76 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,5^
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,5^
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

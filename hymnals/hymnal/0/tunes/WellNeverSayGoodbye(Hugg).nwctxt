@@ -1,0 +1,225 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"We’ll Never Say Goodbye"|Author:"George Crawford Hugg"|Lyricist:"George Crawford Hugg, 1894"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of the Pentecost, edited by Charles H. Gabriel & Isaac Naylor (New York: George Hughes, 1894), # 151."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:19|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._In the morn of morns when we all meet there,\nIn the home fair a-bove the sky,\nWe’ll re-call the scenes we have left be-hind,\nBut we ne-ver will say “good-bye.”\n\nIn the dawn-ing of the morn-ing,\nIn that home far a-bove the sky;\nHap-py meet-ing, hap-py greet-ing,\nWhen we ne-ver say “good-bye.”\n"
+|Lyric2|Text:"2._Ne-ver sad-ness there, nei-ther grief nor tear,\nIn that beau-ti-ful home on high!\nBut they swell the song, hap-py ran-somed throng,\nAnd they ne-ver will say “good-bye.”\n\nIn the dawn-ing of the morn-ing,\nIn that home far a-bove the sky;\nHap-py meet-ing, hap-py greet-ing,\nWhen we ne-ver say “good-bye.”\n"
+|Lyric3|Text:"3._With our kin-dred dear, in that home of love,\nWhile the ag-es e-ter-nal fly,\nWe will meet and sing at the Sav-ior’s feet,\nBut we ne-ver will say “good-bye.”\n\nIn the dawn-ing of the morn-ing,\nIn that home far a-bove the sky;\nHap-py meet-ing, hap-py greet-ing,\nWhen we ne-ver say “good-bye.”\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:102|Pos:11|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-4,2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Spacer|Width:350
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:13
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th,Dotted|Pos:-8,-6
+|Chord|Dur:16th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-8,-6
+|Chord|Dur:16th|Pos:-7,-5
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Rest|Dur:4th
+|Chord|Dur:4th,Dotted|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"We’ll Never Say Goodbye"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:3
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nIn the dawn-ing clear of the morn-ing fair,\n_ _ _ _ _ _ _ _ _ _\nmeet-ing there, hap-py greet-ing there,\n\nIn the dawn-ing of the morn-ing,\nIn that home far a-bove the sky;\nHap-py meet-ing, hap-py greet-ing,\nWhen we ne-ver say “good-bye.”\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:Double
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,4
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,2
+|Bar
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Rest|Dur:4th
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4,6
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

@@ -1,0 +1,206 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:1|CaretPos:-17
+|SongInfo|Title:"The Christmas Stars Are Shining"|Author:"F. W. Dawkins"|Lyricist:"Julia Bachope Goddard, 1889, alt."|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: World-Famous Christmas Songs, by George Rittenhouse (New York: Robbins Music, 1929), # 30. Verse 3 adapted from A Hymnal and Service Book for Sunday Schools, Day Schools, Guilds, Brotherhoods etc., edited by Charles L. Hutchins (Boston, Massachusetts: Parish Choir, 1893), # 555."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._The Christ-mas stars are shin-ing,\nThe winds are wail-ing low;\nAnd o’er the earth is echo-ing\nThe song of long a-go;\nFrom moun-tain o-ver val-ley,\nIs heard the glor-ious cry,\n“O com-fort ye My peo-ple,\nThe Prince of Peace draws nigh.”\n"
+|Lyric2|Text:"2._Sing of the Christ Child’s com-ing,\nIn low-li-est es-tate;\nWhen long time kings and pro-phets\nWith ea-ger hearts did wait.\nWher-e’er His foot-steps lin-ger\nShall blos-som forth the rose;\nAnd peace shall be a-bound-ing,\nWher-e’er His Spir-it goes.\n"
+|Lyric3|Text:"3._O Babe in hum-ble man-ger,\nA-mongst the poor of earth,\nSee kings bring gold and in-cense\nTo of-fer at Thy birth;\nThe host of Heav’n tri-umph-ant,\nA glor-ious strain did sing,\n“Peace and good will for ev-er\nThrough Christ, the new-born King.”\n"
+|Lyric4|Text:"4._A-wake, a-wake, O Zi-on,\nAnd put on all thy strength;\nFilled is the throne of Da-vid,\nThy king hath come at length.\nHis star hath shone in Hea-ven,\nAnd an-gels at His birth,\nHave brought the fair e-van-gel,\n“Peace and good will on earth.”\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:#-3,1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,n0
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,n0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up|Dur2:8th|Pos2:-1
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Boundary|Style:NewSize|Lower:21
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:-3
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-3^
+|Chord|Dur:4th|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"The Christmas Stars Are Shining"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:-1,6
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:0,n5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,6^
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:8th|Pos:4,7
+|Bar
+|Chord|Dur:4th,Slur|Pos:3,7
+|Chord|Dur:8th|Pos:3,n5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th|Pos:3,n5
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,6^
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:5,6
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:8th|Pos:3,n5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,6^
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:#2,b8
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down|Dur2:4th|Pos2:6
+|Chord|Dur:8th|Pos:5,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:4,6
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:-1,6
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

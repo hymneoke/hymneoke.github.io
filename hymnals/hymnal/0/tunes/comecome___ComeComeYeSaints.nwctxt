@@ -1,0 +1,206 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:47|CaretPos:2
+|SongInfo|Title:"Come, Come, Ye Saints"|Author:"Adapted by Jesse Tom White, Sacred Harp, 1844"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing, 1975), # 405."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Come, come, ye saints, no toil nor la-bor fear;\nBut with joy, wend your way.\nThough hard to you this jour-ney may ap-pear,\nGrace shall be as your day.\n’Tis bet-ter far for us to strive\nOur use-less cares from us to drive;\nDo this, and joy your hearts will swell\nAll is well! All is well!\n"
+|Lyric2|Text:"2._Why should we mourn or think our lot is hard?\n’Tis not so, all is right.\nWhy should we think to earn a great re-ward,\nIf we now shun the fight?\nGird up your loins; fresh cour-age take;\nOur God will nev-er us for-sake,\nAnd soon we’ll have this tale to tell,\nAll is well! All is well!\n"
+|Lyric3|Text:"3._We’ll find the place which God for us pre-pared,\nIn His house full of light,\nWhere none shall come to hurt or make a-fraid;\nThere the saints will shine bright.\nWe’ll make the air with mu-sic ring,\nShout prais-es to our God and King;\nA-bove the rest these words we’ll tell,\nAll is well! All is well!\n"
+|Lyric4|Text:"4._And should we die be-fore our jour-ney’s through,\nHap-py day! All is well!\nWe then are free from toil and sor-row, too;\nWith the just we shall dwell!\nBut if our lives are spared a-gain\nTo see the saints their rest ob-tain,\nO how we’ll make this cho-rus swell,\nAll is well! All is well!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Bar|Style:Double
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,-2|Opts:Stem=Up
+|Bar|Style:Double
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:8th,Dotted|Pos:-7,-2
+|Chord|Dur:16th|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Bar|Style:Double
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-5,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,1|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:Whole|Pos:-5,-2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Come, Come, Ye Saints"|Label:"Come, Come, Ye Saints"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:Half|Pos:-1,3|Opts:Stem=Down
+|Bar|Style:Double
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-4,7|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-4,5|Opts:Stem=Down
+|Bar|Style:Double
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,1
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:Half|Pos:-1,3|Opts:Stem=Down
+|Bar|Style:Double
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-4,7|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,5|Opts:Stem=Down
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Note|Dur:8th|Pos:3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-4,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:Whole|Pos:-4,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

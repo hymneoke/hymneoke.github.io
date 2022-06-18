@@ -1,0 +1,118 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:18|CaretPos:4
+|SongInfo|Title:"Wigan (Graham), 77.77"|Author:"Thomas Graham, 1874"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Church Hymns with Tunes, edited by Arthur S. Sullivan (London: Society for Promoting Christian Knowledge, 1874), # 107."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Giv-er of the per-fect gift!\nOn-ly hope of hu-man race!\nHear the prayer our hearts up-lift\nTrem-bling at Thy throne of grace.\n"
+|Lyric2|Text:"2._Though the_ac-cus-ing voice with-in\nSpeaks of man-y_a wrong to Thee,\nThou canst cleanse from eve-ry sin,\nThou canst set the con-science free.\n"
+|Lyric3|Text:"3._Who can save us, Lord, but Thou?\nLet Thy mer-cy show Thy power;\nLo, we plead Thy prom-ise now,\nNow, in this ac-cept-ed hour.\n"
+|Lyric4|Text:"4._Oh! may these our Lent-en days,\nBlest by Thee, with Thee be passed,\nThat with pur-er, nobl-er praise\nWe may keep Thy feast at last.\n"
+|Lyric5|Text:"5._God the ho-ly Trin-i-ty,\nGrant the mer-cy we im-plore;\nGod the One, all praise to Thee\nThrough the ag-es ev-er-more!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:107|Pos:11|Justify:Right
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down|Dur2:4th|Pos2:-3
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:Whole|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:0,n5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-4,b5
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:n-3,2
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:Half|Pos:-4,n5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:6,8|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:5,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,8
+|Bar
+|Chord|Dur:8th,Slur|Pos:5,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:Whole|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

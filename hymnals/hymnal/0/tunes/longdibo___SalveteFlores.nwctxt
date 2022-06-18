@@ -1,0 +1,126 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:2|CaretPos:0
+|SongInfo|Title:"Salvete Flores, LM"|Author:"John Bacchus Dykes, 1875"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 68."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Long did both kings and proph-ets wait\nTo see the Lord of glo-ry great\nAp-pear, to an-swer that great end,\nTo prove the fall-en sin-ner’s friend.\n"
+|Lyric2|Text:"2._Of Him the proph-ets long fore-told,\nThe fa-thers wished him to be-hold;\nHim all the na-tions did de-sire\nAnd an-gels wished Him to ad-mire.\n"
+|Lyric3|Text:"3._Their proph-e-cies are now ful-filled;\nThe glo-rious mys-ter-y re-vealed:\nThe Child is born, the Son is giv’n,\nThe Prince of life is come from Heav’n.\n"
+|Lyric4|Text:"4._His name is Je-sus Christ the Lord,\nThe great and ev-er-last-ing Word:\nHe came to ex-e-cute the plan,\nTo save the fall-en race of man.\n"
+|Lyric5|Text:"5._He is the Lord from Heav-en come,\nOur hu-man na-ture to as-sume,\nOur sins to bear, His blood to shed,\nAnd bruise and crush the ser-pent’s head.\n"
+|Lyric6|Text:"6._He left His glo-rious throne a-bove,\nAnd comes with pit-y, grace, and love:\nHe comes to call the sons of men,\nAnd turn them to their God a-gain.\n"
+|Lyric7|Text:"7._We praise Thee, O Thou King of peace!\nWho art our life and right-eous-ness;\nThou vir-gin’s Son, Thou Da-vid’s Star:\nNo crea-ture can Thy love de-clare.\n"
+|Lyric8|Text:"8._All such are tru-ly dead in sin,\nWho feel them-selves not moved with-in,\nTo join with Chris-tians here on earth,\nTo show and praise the Sav-ior’s birth.\n"
+|Tempo|Tempo:103|Pos:11
+|Clef|Type:Treble
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-5|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-5|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-8,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:#-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Salvete Flores"|Label:"Salvete Flores"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:24|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:#-1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

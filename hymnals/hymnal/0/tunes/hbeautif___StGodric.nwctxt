@@ -1,0 +1,148 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:34|SelectIndex:35|CaretPos:-4
+|SongInfo|Title:"St. Godric, 66.66.88"|Author:"John Bacchus Dykes, 1862"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal and Order of Service (Evangelical Lutheran Augustana Synod, Lectionary Edition, 1925), # 145."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._How beau-ti-ful the sight\nOf breth-ren who a-gree\nIn friend-ship to u-nite,\nAnd bonds of char-i-ty;\n’Tis like the pre-cious oint-ment, shed\nO’er all his robes, from Aa-ron’s head.\n"
+|Lyric2|Text:"2._’Tis like the dews that fill\nThe cups of Her-mon’s flowers;\nOr Zi-on’s fruit-ful hill,\nBright with the drops of showers,\nWhen min-gling o-dors breathe a-round,\nAnd glo-ry rests on all the ground\n"
+|Lyric3|Text:"3._For there the Lord com-mands\nBless-ings, a bound-less store,\nFrom His un-spar-ing hands,\nYea, life for-ev-er-more;\nThrice hap-py they who meet a-bove\nTo spend e-ter-ni-ty in love!\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:115|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:#-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:1
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-7,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-8,#-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-9,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-9,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-8,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"St. Godric, 66.66.88"|Label:"St. Godric, 66.66.88"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:5,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:2,#7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:1
+|Chord|Dur:4th|Pos:0,1
+|Bar
+|Chord|Dur:4th|Pos:-1,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:n3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

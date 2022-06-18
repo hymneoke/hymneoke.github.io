@@ -1,0 +1,236 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Follow Jesus (Warner)"|Author:"From “The Diadem”"|Lyricist:"Anna Bartlett Warner, 1865"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Diadem, edited by Silas J. Vail (New York: Horace Waters, 1865), # 32."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._The world looks ve-ry beau-ti-ful\nAnd full of joy to me;\nThe sun shines out in glo-ry bright,\nOn ev-ery thing I see.\nI know I shall be hap-py,\nWhile in the world I stay,\nFor I will fol-low Je-sus,\nFor I will fol-low Je-sus,\nYes, I will fol-low Je-sus,\nFol-low Je-sus all the way.\n"
+|Lyric2|Text:"2._I’m but a lit-tle pil-grim here,\nMy jour-ney’s just be-gun;\nThey tell me I shall sor-row meet\nBe-fore my jour-ney’s done.\nThe world is full of sor-row\nAnd suf-fer-ing, they say—\nBut I will fol-low Je-sus,\nBut I will fol-low Je-sus,\nYes, I will fol-low Je-sus,\nFol-low Je-sus all the way.\n"
+|Lyric3|Text:"3._Then on my lit-tle pil-grim-age\nWhat-ev-er I may meet,\nI’ll take it— joy and sor-row all\nAnd lay at Je-sus’ feet.\nHe’ll com-fort me in trou-ble,\nHe’ll wipe my tears a-way;\nWith joy I’ll fol-low Je-sus,\nWith joy I’ll fol-low Je-sus,\nWith joy I’ll fol-low Je-sus,\nFol-low Je-sus all the way.\n"
+|Lyric4|Text:"4._Then tri-als can-not weih me down,\nAnd pain I need not fear;\nFor when I’m close by Je-sus’ side,\nGrief can-not come too near.\nNot ev-en death can harm me,\nWhen death I meet one day,\nTo Heav’n I’ll fol-low Je-sus,\nTo Heav’n I’ll fol-low Je-sus,\nTo Heav’n I’ll fol-low Je-sus,\nFol-low Je-sus all the way.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:84|Pos:11|Justify:Center
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:#-3,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:-2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Follow Jesus (Warner)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-1,6
+|Spacer|Width:550
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:-4,3,6
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Spacer|Width:200
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:-1,6
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

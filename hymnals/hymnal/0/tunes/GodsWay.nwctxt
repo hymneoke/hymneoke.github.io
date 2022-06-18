@@ -1,0 +1,253 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:2|CaretPos:0
+|SongInfo|Title:"God’s Way"|Author:"Lida Shivers Leech"|Lyricist:"Lida Shivers Leech, 1911"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Gospel Message No. 1, edited by J. Lincoln Hall, C. Austin Miles & Adam Geibel (New York & Philadelphia, Pennsylvania: Hall-Mack, 1911), # 22."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:18|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Violin"|Patch:40|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._God’s way is the best way,\nTho’ I may not see\nWhy sor-rows and tri-als\nOft ga-ther ’round me;\nHe ev-er is seek-ing\nMy gold to re-fine,\nSo hum-bly I trust Him,\nMy Sav-ior di-vine.\n\nGod’s way is the best way,\nGod’s way is the right way,\nI’ll trust in Him al-way,\nHe know-eth the best.\n"
+|Lyric2|Text:"2._God’s way is the best way,\nMy path He hath planned,\nI’ll trust in Him al-way\nWhile hold-ing His hand.\nIn sha-dow or sun-shine\nHe ev-er is near,\nWith Him for my ref-uge,\nI nev-er need fear.\n\nGod’s way is the best way,\nGod’s way is the right way,\nI’ll trust in Him al-way,\nHe know-eth the best.\n"
+|Lyric3|Text:"3._God’s way shall be my way,\nHe know-eth the best.\nAnd lean-ing up-on Him,\nSweet, sweet is my rest.\nNo harm can be-fall me,\nSafe, safe shall I be,\nI’ll cling to Him ev-er,\nSo pre-cious is He.\n\nGod’s way is the best way,\nGod’s way is the right way,\nI’ll trust in Him al-way,\nHe know-eth the best.\n"
+|Tempo|Tempo:100|Pos:11
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Text|Text:"Duet"|Font:StaffItalic|Pos:9
+|TimeSig|Signature:6/8
+|Note|Dur:4th,Dotted|Pos:-2
+|Text|Text:"Expressivoso"|Font:StaffItalic|Pos:9|Justify:Center
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:4th,Dotted|Pos:-2
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th,Dotted|Pos:-3
+|Note|Dur:8th|Pos:-5
+|Note|Dur:8th,Dotted|Pos:-2
+|Note|Dur:16th|Pos:-3
+|Spacer|Width:250
+|Bar
+|Note|Dur:Half,Dotted|Pos:-4
+|Spacer|Width:525
+|Bar
+|Note|Dur:4th,Dotted|Pos:-2
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:4th,Dotted|Pos:-2
+|Bar
+|Note|Dur:4th,Dotted|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Spacer|Width:450
+|Bar
+|Note|Dur:Half,Dotted|Pos:-3
+|Spacer|Width:300
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:4th,Dotted|Pos:-2
+|Note|Dur:4th,Dotted|Pos:-4
+|Spacer|Width:275
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:#-3
+|Bar
+|Note|Dur:Half,Dotted|Pos:-2
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:4th,Dotted|Pos:-6
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th,Dotted|Pos:-5
+|Note|Dur:8th|Pos:-5
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|Note|Dur:8th,Dotted|Pos:-2
+|Note|Dur:16th|Pos:-3
+|Spacer|Width:300
+|Bar
+|Note|Dur:Half,Dotted|Pos:-4
+|Spacer|Width:250
+|Bar|Style:Double
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:14
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:11
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Spacer|Width:300
+|Text|Text:"Animato"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,2
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Bar
+|TempoVariance|Style:Ritenuto|Pos:9|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-7,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"God’s Way, Lida Leech 1911"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:110|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"French Horn"|Patch:60|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/8
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:6|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Dotted|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Note|Dur:8th,Dotted|Pos:5|Opts:Stem=Up
+|Note|Dur:16th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:6|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Dotted|Pos:5|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:7|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Note|Dur:8th|Pos:7|Opts:Stem=Up
+|Note|Dur:8th|Pos:8|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:6|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Dotted|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:6|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Note|Dur:8th|Pos:n4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:b7|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:8th|Pos:7|Opts:Stem=Up
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:6|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th,Dotted|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:-6|Justify:Center|Placement:AtNextNote
+|Note|Dur:8th,Dotted|Pos:5|Opts:Stem=Up
+|Note|Dur:16th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Dynamic|Style:ff|Opts:Velocity=127|Pos:14|Visibility:Never
+|Instrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-9
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,8
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5,7
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:5,9
+|Chord|Dur:8th|Pos:5,7
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:4th,Dotted|Pos:4,8
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5,8
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

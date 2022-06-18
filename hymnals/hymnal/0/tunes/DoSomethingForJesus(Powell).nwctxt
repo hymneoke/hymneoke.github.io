@@ -1,0 +1,246 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Do Something for Jesus (Powell)"|Author:"Benjamin Newton Hultsman, Jr."|Lyricist:"Ada Powell, 1904"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Best Gospel Songs and Their Composers, by Anthony J. Showalter (Dalton, Georgia: A. J. Showalter Company, 1904), # 199."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Do some-thing for Je-sus, be-liev-er,\nSome tal-ent was giv-en to you;\nWhat-ev-er in life is your sta-tion,\nThere’s some-thing or o-ther to do.\n\nDo some-thing for Je-sus,\nDo some-thing for Je-sus,\nOh, work in His vine-yard, I pray;\nBring one to be-lieve Him,\nTo love and re-ceive Him,\nDo some-thing for Je-sus to-day.\n"
+|Lyric2|Text:"2._Why stand you so i-dle and list-less?\nOh, rouse you, dear Christ-ian, take heed;\nThe weak and the err-ing are near you,\nThe sick and the help-less in need.\n\nDo some-thing for Je-sus,\nDo some-thing for Je-sus,\nOh, work in His vine-yard, I pray;\nBring one to be-lieve Him,\nTo love and re-ceive Him,\nDo some-thing for Je-sus to-day.\n"
+|Lyric3|Text:"3._The har-vest so swift-ly is pass-ing,\nThere’s work for the fee-ble and strong;\nAnd fol-low-ing af-ter the Sav-ior,\nThere’s work for the old and the young.\n\nDo some-thing for Je-sus,\nDo some-thing for Je-sus,\nOh, work in His vine-yard, I pray;\nBring one to be-lieve Him,\nTo love and re-ceive Him,\nDo some-thing for Je-sus to-day.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:88|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-7,-5
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:Half|Pos:-7,-2
+|Chord|Dur:8th|Pos:-7,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:#-6,-2
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-1^
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:500
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-2^
+|Chord|Dur:4th|Pos:-7,-2
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:14
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Down
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-7,-5
+|DynamicVariance|Style:Crescendo|Pos:7|Visibility:Never
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:8th|Pos:-7,0|Opts:Stem=Down,Diminuendo
+|Rest|Dur:16th
+|Chord|Dur:16th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:#-6,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-1^
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-2^
+|Chord|Dur:4th|Pos:-7,-2
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Do Something for Jesus"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,3
+|Chord|Dur:16th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Spacer|Width:500
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down|Dur2:16th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,2^
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,3
+|Chord|Dur:16th|Pos:0,2
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^
+|Chord|Dur:4th|Pos:-4,3
+|Spacer|Width:150
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,7
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th|Pos:1,3
+|Rest|Dur:16th
+|Chord|Dur:16th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,2^
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,3
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^
+|Chord|Dur:4th|Pos:-4,3
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

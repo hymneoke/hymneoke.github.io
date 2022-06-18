@@ -1,0 +1,216 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Palestine Song"|Author:"Arranged from Alexander Zarnock"|Lyricist:"C. W. Ross, 1894"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Song and Study for God\'s Little Ones (Evanston, Illinois: R. R. McCabe Company, 1894),  p. 104."
+|PgSetup|StaffSize:15|Zoom:3|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.41|Top:2.54|Right:2.41|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:29|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1. First the line on coast we make;\nMe-rom next, a marsh-y lake; _\nThen the Sea of Gal-i-lee,\nEx-act-ly west of Car-mel, see.\nThe Jor-dan riv-er flows thro’ both _\nTo the Dead Sea on the south; _\nAnd the Great Sea west-ward lies _\nStretch-ing far as sun-set skies.\n"
+|Lyric2|Text:"2. Look-ing north-ward you may view\nLe-ba-non and Her-mon, too; _\nCar-mel and Gil-bo-a grim, _\nTa-bor, E-bal, Ger-i-zim. _\nNear Je-ru-sa-lem we see _\nOl-iv-et and Cal-va-ry.\nJu-de-a’s hills rise south and west\nOf lone-ly Ne-bo’s low-ering crest.\n"
+|Lyric3|Text:"3._On Zi-on stands Je-ru-sa-lem;\nSix miles south is Beth-le-hem;\nOn Ol-ive’s slopes is Beth-a-ny,\nBeth-ab-a-ra by Jor-dan see.\nOur Sav-ior drank at Sy-char’s well;\nOf boy-hood days let Naz-areth tell;\nAt Ca-na wa-ter turned to wine, _\nShowed our Lord to be di-vine.\n"
+|Lyric4|Text:"4. Ca-per-naum by Ga-li-lee,\nNear its twin Beth-sai-da see; _\nCæ-sa-re-a Phil-lip-pi\nAt Her-mon’s base is seen to lie;\nA-long the coast these three ap-pear, _\nGa-za, Jop-pa, Cæ-sa-rea; _\nSouth to Beth-el we may go,\nTo Heb-ron next and Jer-i-cho.\n"
+|Lyric5|Text:"5._From hea-then Tyre ma-ter-ials came\nTo_build a tem-ple to God’s name;\nThe sor-rowing wi-dow’s son at Nain _\nJe-sus raised to life a-gain.\nSee Dan, where Jor-dan’s wa-ters rise,\nBeer-she-ba near-er tro-pic skies; _\nNorth and south these ci-ties stand,\nAnd mark the length of Is-rael’s land.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:92|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:Half|Pos:-2,0
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Rest|Dur:8th,Dotted
+|Chord|Dur:16th|Pos:-5,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,2
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-5,3
+|Chord|Dur:8th|Pos:-5,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Palestine Song"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:3,5
+|Spacer|Width:575
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:Half|Pos:3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,6
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:0,7
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,6
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Rest|Dur:8th,Dotted
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down|Dur2:16th|Pos2:3
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down|Dur2:16th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:0,7
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,6
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:Half|Pos:3,5
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

@@ -1,0 +1,231 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Broken Hearts"|Author:"John Marchant Whyte"|Lyricist:"John Marchant Whyte, 1890"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Finest of Wheat, edited George D. Elderkin (Chicago, Illinois: Robert R. McCabe, 1890), # 88.\r\n\r\nTune Name: Carrara."
+|PgSetup|StaffSize:16|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.54|Right:2.29|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Like the mu-sic of a fount-ain\nWhich a thirst-y trav-eler hears,\nSpeaks a voice from Cal-v’ry’s mount-ain,\n“I am more than all thy fears.”\n\nO ye brok-en hearts, look up-ward!\nHear the an-gel voic-es call-ing,\nLift your eyes to Cal-v’ry’s Je-sus,\nBrok-en heart-ed there for you.\n"
+|Lyric2|Text:"2._Tho’ thy heart is crushed and brok-en,\nLike a storm tossed ship at sea,\nSink-ing, dy-ing, Christ hath spok-en,\n“It is I, look un-to Me.”\n\nO ye brok-en hearts, look up-ward!\nHear the an-gel voic-es call-ing,\nLift your eyes to Cal-v’ry’s Je-sus,\nBrok-en heart-ed there for you.\n"
+|Lyric3|Text:"3._Tho’ thy song hath naught but sor-row,\nLike a bird’s whose breast is torn,\nFly to Christ, nor wait the mor-row,\nHe hath all thy sor-rows borne.\n\nO ye brok-en hearts, look up-ward!\nHear the an-gel voic-es call-ing,\nLift your eyes to Cal-v’ry’s Je-sus,\nBrok-en heart-ed there for you.\n"
+|Lyric4|Text:"4._Look a-way be-yond thy sad-ness,\nUp to Je-sus turn thy gaze;\nThen thy song shall turn to glad-ness—\nThen thy tongue shall sound His praise.\n\nO ye brok-en hearts, look up-ward!\nHear the an-gel voic-es call-ing,\nLift your eyes to Cal-v’ry’s Je-sus,\nBrok-en heart-ed there for you.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:100|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,0
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,0
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Rest|Dur:4th
+|Spacer|Width:175
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:16
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th,Slur|Pos:-3,0|Opts:Slur=Upward
+|Note|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:16th,Slur|Pos:n-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Note|Dur:8th,Dotted,Slur|Pos:-1|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,3
+|Chord|Dur:16th|Pos:-3,3
+|Chord|Dur:8th,Dotted|Pos:-2,n3
+|Chord|Dur:16th|Pos:-2,3
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th,Slur|Pos:-5,-3
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-4,-3
+|Chord|Dur:16th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"brok-en hearts,\ncall-ing you,\nLift your eyes to Je-sus\n\nO ye brok-en hearts, look up-ward!\nHear the an-gel voic-es call-ing,\nLift your eyes to Cal-v’ry’s Je-sus,\nBrok-en heart-ed there for you.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:-2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:-2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Rest|Dur:4th
+|Bar
+|Boundary|Style:NewSize|Upper:11
+|Chord|Dur:4th,Dotted|Pos:2,8|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,8|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:2,8|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:2,7|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,7|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:5,7
+|Chord|Dur:16th|Pos:5,#6
+|Chord|Dur:4th|Pos:5,7
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,8|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,7
+|Chord|Dur:4th|Pos:2,8
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:4th|Pos:2,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-2,5
+|Spacer|Width:175
+|Bar
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,217 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"In the Temple the Children Sang"|Author:"Oran Williams"|Lyricist:"Mary Gilbert-Wray, 1902"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Joyful Praise, by Charles H. Gabriel (Cincinnati, Ohio: Jennings & Graham, 1902), # 145. "
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._In the tem-ple the child-ren sang,\nHo-san-na, ho-san-na!\nThro’ its arch-es the cho-rus rang,\nHo-san-na to the Lord!\n\nIn the tem-ple to-day we sing;\nLoud our voic-es in glad-ness ring;\nPraise to Je-sus, our Lord and king,\nHo-san-na to the Lord!\n"
+|Lyric2|Text:"2._Christ the child-ren’s glad voic-es heard,\nHo-san-na, ho-san-na!\nVoic-es sweet as the wood-land bird,\nHo-san-na to the Lord!\n\nIn the tem-ple to-day we sing;\nLoud our voic-es in glad-ness ring;\nPraise to Je-sus, our Lord and king,\nHo-san-na to the Lord!\n"
+|Lyric3|Text:"3._Now with prais-es our hearts we bring,\nHo-san-na, ho-san-na!\nLord, re-ceive our free of-fer-ing,\nHo-san-na to the Lord!\n\nIn the tem-ple to-day we sing;\nLoud our voic-es in glad-ness ring;\nPraise to Je-sus, our Lord and king,\nHo-san-na to the Lord!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:11|Justify:Center
+|TimeSig|Signature:6/8
+|Chord|Dur:4th|Pos:-6,-4
+|Text|Text:"Duet"|Font:StaffItalic|Pos:9|Justify:Center
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,#-3
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:#-5,1
+|Chord|Dur:4th|Pos:-4,-2
+|Text|Text:"School"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Rest|Dur:8th
+|Bar
+|Text|Text:"Duet"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,#-3
+|Chord|Dur:4th|Pos:-4,-2
+|Text|Text:"School"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-2,3
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:#-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-2^
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down|Dur2:4th|Pos2:-2
+|Rest|Dur:8th|Opts:Stem=Up
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:12
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"In the Temple the Children Sang"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|TimeSig|Signature:6/8
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:6
+|Bar
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Rest|Dur:8th
+|Bar
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:6
+|Spacer|Width:225
+|Bar
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,5^
+|Chord|Dur:4th|Pos:3,5
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,3^
+|Chord|Dur:4th|Pos:-1,3
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

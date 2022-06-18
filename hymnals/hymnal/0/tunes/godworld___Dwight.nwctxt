@@ -1,0 +1,134 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Dwight, LM"|Author:"Arr. from Bellini by Joseph P. Holbrook, 1868"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs for the Sanctuary, edited by Charles S. Robinson (New York & Chicago, Illinois: A. S. Barnes, 1872), p. 205. Note: This hymnal lists only Holbrook\'s name as the composer. Credit to Vincenzo Bellini (1803-1835)) as the original source appears in The New Laudes Domini, edited by Charles S. Robinson & Edward Judson (New York: Century Company, 1892), p. 105."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._God of the world! Thy glo-ries shine\nThrough earth and Heav’n, with rays di-vine;\nThy smile gives beau-ty to the flower,\nThine an-ger to the tem-pest power.\n"
+|Lyric2|Text:"2._God of our lives! the throb-bing heart\nDoth at Thy beck its ac-tion start— \nThrobs on, o-be-dient to Thy will,\nOr ceas-es, at Thy fa-tal chill.\n"
+|Lyric3|Text:"3._God of e-ter-nal life! Thy love\nDoth eve-ry stain of sin re-move;\nThe cross, the cross— its hal-lowed light\nShall drive from earth her cheer-less night.\n"
+|Lyric4|Text:"4._God of all good-ness! to the skies\nOur hearts in grate-ful an-thems rise;\nAnd to Thy ser-vice shall be giv’n\nThe rest of life— the whole of Heav’n.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:98|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-1|Opts:Stem=Up|Dur2:16th|Pos2:-1
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th,Slur|Pos:-4,0|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th,Dotted|Pos:-4,2
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:4th|Pos:-4,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:b-3,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted,Slur|Pos:1|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:16th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Dwight, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th,Dotted|Pos:4,7
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:-3,4,7
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:-3,5
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,7
+|Chord|Dur:4th|Pos:-3,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

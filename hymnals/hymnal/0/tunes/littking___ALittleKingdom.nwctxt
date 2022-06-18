@@ -1,0 +1,189 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:76|SelectIndex:77|CaretPos:1
+|SongInfo|Title:"A Little Kingdom, CMD"|Author:"Alonzo Potter Howard, 1873"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: American Hymns Old and New, by Albert Christ-Janer, Charles W. Hughes & Carleton S. Smith (New York: Columbia University Press, 1980), p. 355."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._A lit-tle king-dom I pos-sess,\nWhere thoughts and feel-ings dwell,\nAnd ver-y hard I find the task\nOf gov-ern-ing it well;\nFor pas-sion tempts and trou-bles me,\nA way-ward will mis-leads,\nAnd self-ish-ness its shad-ow casts,\nOn all my will and deeds.\n"
+|Lyric2|Text:"2._How can I learn to rule my-self,\nTo be the child I should,\nHon-est and brave, nor ev-er tire\nOf try-ing to be good?\nHow can I keep a sun-ny soul\nTo shine a-long life’s way?\nHow can I tune my lit-tle heart,\nTo sweet-ly sing all day?\n"
+|Lyric3|Text:"3._Dear Fa-ther, help me with the love\nThat cast-est out my fear!\nTeach me to lean on Thee and feel\nThat thou art ver-y near.\nThat no temp-ta-tion is un-seen,\nNo child-ish grief too small,\nSince Thou, with pa-tience in-fi-nite,\nDost soothe and com-fort all.\n"
+|Lyric4|Text:"4._I do not ask for an-y crown\nBut that which all may win;\nNor try to con-quer an-y world\nEx-cept the one with-in.\nBe Thou my guide un-til I find,\nLed by a ten-der hand,\nThy hap-py king-dom in my-self\nAnd dare to take com-mand.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4,-1
+|Chord|Dur:8th|Pos:-7,-4,-2
+|Chord|Dur:4th|Pos:-8,-4,-3
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Chord|Dur:4th|Pos:-6,n-4,-2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,#-3,2
+|Chord|Dur:8th|Pos:-5,-3,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-6,-5,-1
+|Chord|Dur:4th|Pos:-5,-2,0
+|Chord|Dur:4th|Pos:-6,n-4,-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,n0
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:8th,Slur|Pos:-4,-2,1|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,-2,2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2,3
+|Chord|Dur:8th|Pos:-3,-2,2
+|Chord|Dur:4th|Pos:-4,-2,1
+|Chord|Dur:4th|Pos:-6,n-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3,2
+|Chord|Dur:8th|Pos:-5,-3,2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"A Little Kingdom, CMD"|Label:"A Little Kingdom, CMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:8th,Slur|Pos:-4,3|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-3,4
+|Note|Dur:4th|Pos:-1
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:#2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:#2
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:8th|Pos:n5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5,2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Chord|Dur:8th|Pos:2,3
+|Chord|Dur:4th|Pos:3,4
+|Chord|Dur:4th|Pos:2,#3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th,Slur|Pos:-6,1|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-7,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:0,3,n5
+|Chord|Dur:4th|Pos:1,3,6
+|Chord|Dur:4th|Pos:3,b5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

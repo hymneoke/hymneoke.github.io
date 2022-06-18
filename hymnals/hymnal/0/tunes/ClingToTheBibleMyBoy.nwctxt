@@ -1,0 +1,272 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Cling to the Bible, My Boy"|Author:"Daniel Brink Towner"|Lyricist:"William Shakespeare Hays, 1890"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns New and Old No. 2, edited by Daniel B. Towner (New York: Fleming H. Revell, 1890), # 40."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.52|Right:2.54|Bottom:1.52|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:31|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._As your jour-ney thro’ life to the grave you pur-sue,\nThere is one thing in ear-nest I wish you to do.\nO-h! lis-ten, my boy, while I say this to you—\nOh! cling to the Bi-ble, my boy.\n\nThen cling to the Bi-ble, my boy,\nOh! cling to the Bi-ble, my boy;\nWhile liv-ing or dy-ing, all else let-ting go,\nOh! cling to the Bi-ble, my boy.\n"
+|Lyric2|Text:"2._You may meet with mis-for-tunes and sor-rows and tears,\nYou may bat-tle with sin and with Sa-tan for years.\nBe a Chris-tian! press on! do not have an-y fears,\nBut cling to the Bi-ble, my boy.\n\nThen cling to the Bi-ble, my boy,\nOh! cling to the Bi-ble, my boy;\nWhile liv-ing or dy-ing, all else let-ting go,\nOh! cling to the Bi-ble, my boy.\n"
+|Lyric3|Text:"3._Put your faith in our Fa-ther, and you will be strong;\nKeep your eye on the cross and you’ll ne-ver go wrong;\nSing the sweet songs of praise as you jour-ney a-long,\nAnd cling to the Bi-ble, my boy.\n\nThen cling to the Bi-ble, my boy,\nOh! cling to the Bi-ble, my boy;\nWhile liv-ing or dy-ing, all else let-ting go,\nOh! cling to the Bi-ble, my boy.\n"
+|Lyric4|Text:"4._Ev-ery time that you read it you’ll learn some-thing new,\nO-f Je-sus who died on the cross to save you;\nTo the Lord, to your-self, and to Hea-ven be true,\nAnd cling to the Bi-ble, my boy.\n\nThen cling to the Bi-ble, my boy,\nOh! cling to the Bi-ble, my boy;\nWhile liv-ing or dy-ing, all else let-ting go,\nOh! cling to the Bi-ble, my boy.\n"
+|Lyric5|Text:"5._’Tis the an-chor of hope, and the lamp that gives light;\n’Tis the star that will shine thro’ your life’s dark-est night.\nIf you fol-low its guid-ance you’ll al-ways be right.\nOh! cling to the Bi-ble, my boy.\n\nThen cling to the Bi-ble, my boy,\nOh! cling to the Bi-ble, my boy;\nWhile liv-ing or dy-ing, all else let-ting go,\nOh! cling to the Bi-ble, my boy.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:85|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Up|Dur2:16th|Pos2:-3
+|Chord|Dur:16th|Pos:-3,-2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:b-5,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:16th|Pos:-6,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3^
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Boundary|Style:NewSize|Lower:22
+|Bar|Style:Double
+|Instrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:13
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:8
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:0,2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,2^
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:8th|Pos:b-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:0,n3
+|Bar
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3^
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Cling to the Bible, My Boy"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-5
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nthe Bi-ble, my boy,\n_ _ _ _ _ _\nthe Bi-ble, my boy,\n\nThen cling to the Bi-ble, my boy,\nOh! cling to the Bi-ble, my boy;\nWhile liv-ing or dy-ing, all else let-ting go,\nOh! cling to the Bi-ble, my boy.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:16th|Pos:2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-5,2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:16th|Pos:2|Opts:Stem=Up|Dur2:16th|Pos2:2
+|Chord|Dur:16th|Pos:2|Opts:Stem=Down|Dur2:16th|Pos2:2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:2
+|Chord|Dur:16th|Pos:2|Opts:Stem=Down|Dur2:16th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Boundary|Style:NewSize|Upper:19
+|Chord|Dur:16th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:8th|Pos2:2
+|Note|Dur:16th|Pos:b8|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,7
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,2^,4^
+|Chord|Dur:4th|Pos:-5,2,4
+|Boundary|Style:NewSize|Upper:10
+|Bar|Style:Double
+|Instrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-8
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,9
+|Chord|Dur:16th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,9
+|Bar
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:9^
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Lyric=Always
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Lyric=Always
+|Chord|Dur:4th|Pos:5,9|Opts:Lyric=Always
+|Chord|Dur:8th|Pos:5,9
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,9
+|Chord|Dur:16th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:6^
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Lyric=Always
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Lyric=Always
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Always
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,6
+|Bar
+|Chord|Dur:8th|Pos:4,9
+|Chord|Dur:8th|Pos:4,9
+|Chord|Dur:8th|Pos:4,9
+|TempoVariance|Style:Fermata|Pause:0|Pos:12|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:5,9
+|TempoVariance|Style:Fermata|Pause:0|Pos:12|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:3,6
+|Bar
+|Boundary|Style:NewSize|Upper:5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,2^,4^
+|Chord|Dur:4th|Pos:-5,2,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

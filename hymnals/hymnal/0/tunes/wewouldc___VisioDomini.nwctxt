@@ -1,0 +1,173 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Visio Domini, 11.10.11.10"|Author:"John Bacchus Dykes, 1871"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Souce: New Psalms and Hymns (Richmond, Virginia: Presbyterian Commitee of Publication, 1901), # 665. Also in The Methodist Hymnal (New York: Methodist Book Concern, 1905), # 323."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._We would see Je-sus; for the shad-ows length-en\nA-cross this lit-tle land-scape of our life;\nWe would see Je-sus, our weak faith to strength-en\nFor the last wea-ri-ness, the fi-nal strife.\n"
+|Lyric2|Text:"2._We would see Je-sus, the great rock foun-da-tion\nWhere-on our feet were set with sov-ereign grace;\nNor life nor death, with all their ag-i-ta-tion,\nCan thence re-move us, if we see His face.\n"
+|Lyric3|Text:"3._We would see Je-sus; oth-er lights are pal-ing,\nWhich for long years we have re-joiced to see;\nThe bless-ings of our pil-grim-age are fail-ing;\nWe would not mourn them, for we go to Thee.\n"
+|Lyric4|Text:"4._We would see Je-sus; yet the spir-it lin-gers\nRound the dear ob-jects it has loved so long,\nAnd earth from earth can scarce un-clasp its fin-gers;\nOur love to Thee makes not this love less strong.\n"
+|Lyric5|Text:"5._We would see Je-sus: sense is all too bind-ing,\nAnd heaven ap-pears too dim, too far a-way;\nWe would see Thee, Thy-self our hearts re-mind-ing\nWhat Thou hast suf-fered, our great debt to pay.\n"
+|Lyric6|Text:"6._We would see Je-sus: this is all we’re need-ing;\nStrength, joy, and will-ing-ness come with the sight;\nWe would see Je-sus, dy-ing, ris-en, plead-ing;\nThen wel-come day, and fare-well mor-tal night.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:113|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|TempoVariance|Style:Fermata|Pause:1|Pos:6|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:#-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Note|Dur:8th,Slur|Pos:-2^|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-4,#-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:#-2,0
+|Note|Dur:4th|Pos:-1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-2
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Visio Domini"|Label:"Visio Domini"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:23|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:0,6
+|TempoVariance|Style:Fermata|Pause:1|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,5
+|Note|Dur:8th|Pos:5
+|Note|Dur:8th|Pos:5
+|Bar
+|Chord|Dur:Half|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:13
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:7
+|Note|Dur:4th|Pos:6
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:3,#6
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half|Pos:0,6
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:n2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:Half|Pos:1,7
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Note|Dur:4th|Pos:4
+|Chord|Dur:4th|Pos:3,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

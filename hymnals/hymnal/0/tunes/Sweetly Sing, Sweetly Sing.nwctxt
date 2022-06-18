@@ -1,0 +1,190 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Sweetly Sing, Sweetly Sing"|Author:"Bradbury’s Golden Chain"|Lyricist:"Julia W. Sampson Haskell, 1861"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Bradbury\'s Golden Chain of Sabbath School Melodies (New York: Ivison, Phinney & Company, 1861), # 70."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Sweet-ly sing, sweet-ly sing,\nPrais-es to our heaven-ly king;\nLet us raise, let us raise,\nHigh our note of praise;\nPraise to Him whose name is Love,\nPraise to Him who reigns a-bove;\nRaise your songs, raise your songs,\nNow with thank-ful tongues.\n"
+|Lyric2|Text:"2._An-gels bright, an-gels bright,\nRobed in gar-ments pure and white,\nChant His praise, chant His praise,\nIn me-lo-dious lays;\nBut from that bright, hap-py throng,\nNe’er can come this sweet-est song—\nRe-deeming love, re-deeming love,\nBrought us here a-bove.\n"
+|Lyric3|Text:"3._Far a-way, far a-way,\nWe in sin’s dark val-ley lay;\nJe-sus came, Je-sus came,\nBless-èd be His name!\nHe re-deemed us by His grace,\nThen pre-pared in Heaven a place\nTo re-ceive— to re-ceive\nAll who will be-lieve.\n"
+|Lyric4|Text:"4._Now we know— now we know\nWe to Heaven must short-ly go;\nSoon the call— soon the call\nComes to one adn all.\nSav-ior! when our time shall come,\nTake us to our heaven-ly home,\nThere we’ll raise notes of praise,\nThrough un-end-ing days.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:90|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Rest|Dur:4th
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,2
+|Spacer|Width:475
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Spacer|Width:525
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Sweetly Sing, Sweetly Sing"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:2/4
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:4th|Pos:3
+|Spacer|Width:550
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:4th|Pos:3
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:4th|Pos:3
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:3
+|Rest|Dur:4th
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th|Pos:3
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:4th|Pos:3
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:3
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

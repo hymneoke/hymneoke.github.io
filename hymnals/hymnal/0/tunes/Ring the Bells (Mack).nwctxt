@@ -1,0 +1,378 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Ring the Bells (Mack)"|Author:"Joseph Lincoln Hall"|Lyricist:"Irvin H. Mack, 1900"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Service of Praise, edited by J. Lincoln Hall, Irvin H. Mak & C. Austin Miles (Philadelphia, Pennsylvania: Hall-Mack, 1900), # 159."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:0.76|Right:2.54|Bottom:0.76|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._The bells of Heav’n are ring-ing,\nAre tell-ing of the King;\nWho came sal-va-tion bring-ing\nAnd heal-ing in His wing.\nHe came to lift op-pres-sion,\nTo ban-ish sin and wrong;\nHe came, our light, to scat-ter night,\nAnd give to earth a song.\n\nRing, ring, ring,\nO ring, ye bells, ye mer-ry bells,\nO ring, ring, ring,\nO ring, ye bells, ye mer-ry bells,\nO ring, ring, ring,\nYe Christ-mas bells, ring, ring,\nRing, O ring ye bells, ye mer-ry bells.\n"
+|Lyric2|Text:"2._O ring, ye bells of Heav-en,\nRe-ech-o loud and long;\nLet un-to men be giv-en\nA new and hap-py song.\nO ring a-loud in glad-ness,\nLet heaven-ly joy be known;\nO earth, a-wake, this joy par-take,\nClaim Je-sus as your own.\n\nRing, ring, ring,\nO ring, ye bells, ye mer-ry bells,\nO ring, ring, ring,\nO ring, ye bells, ye mer-ry bells,\nO ring, ring, ring,\nYe Christ-mas bells, ring, ring,\nRing, O ring ye bells, ye mer-ry bells.\n"
+|Lyric3|Text:"3._O ring, ye bells of Hea-ven,\nUp-on this day of cheer;\nO ring the glor-ious tid-ings,\nFor Christ the King is here.\nRe-ech-o o’er the hill-tops,\nRe-sound-ing ev-ery-where;\nThe Sav-ior dear comes hearts to cheer:\nHis king-dom earth may share.\n\nRing, ring, ring,\nO ring, ye bells, ye mer-ry bells,\nO ring, ring, ring,\nO ring, ye bells, ye mer-ry bells,\nO ring, ring, ring,\nYe Christ-mas bells, ring, ring,\nRing, O ring ye bells, ye mer-ry bells.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:102|Pos:11|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:n-7,n-5
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:n-7,n-5
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2^
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-4
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:n-5|Opts:Stem=Up|Dur2:8th|Pos2:n-5
+|Chord|Dur:4th|Pos:b-5,-4
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:n-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-4^
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:n-7,n-5
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,2^
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:n-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-1^
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Bar|Style:Double
+|Text|Text:"Unison"|Font:StaffItalic|Pos:7.5
+|Boundary|Style:NewSize|Lower:13
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:13
+|Instrument|Name:"Tubular Bells"|Patch:14|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:20
+|Chord|Dur:4th,Dotted|Pos:-6,-4,1|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-6,-3,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-4^,1^|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-4,1|Opts:Stem=Down
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15
+|Text|Text:"Parts"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:n-7,n-5
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:n-7,n-5
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Text|Text:"Unison"|Font:StaffItalic|Pos:8
+|Instrument|Name:"Tubular Bells"|Patch:14|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:14
+|Chord|Dur:4th,Dotted|Pos:-5,-3,2|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-5,-2,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2^,2^|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,-2,2
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15
+|Text|Text:"Parts"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,n-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,n-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,b-4
+|Bar
+|Text|Text:"Unison"|Font:StaffItalic|Pos:8
+|Instrument|Name:"Tubular Bells"|Patch:14|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:14
+|Chord|Dur:4th,Dotted|Pos:-4,1,3|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-4,1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-1^,3^
+|Chord|Dur:4th|Pos:-4,-1,3
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15
+|Chord|Dur:8th|Pos:-4,1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1,3
+|Chord|Dur:4th,Dotted|Pos:n-4,0,1,n3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1,2,4
+|Spacer|Width:300
+|Bar
+|Instrument|Name:"Tubular Bells"|Patch:14|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:14
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:4th,Slur|Pos:3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Lyric=Never|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:4th|Pos:3|Opts:Stem=Up,Lyric=Never
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:4th,Slur|Pos:3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Lyric=Never|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:3|Opts:Stem=Up,Lyric=Never
+|Bar
+|Instrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:9
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-1^
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:n-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Lyric=Always|Dur2:Half,Dotted|Pos2:-1^
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Lyric=Always,Beam=End
+|Note|Dur:8th|Pos:n-5|Opts:Stem=Down,Lyric=Always
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-1^|Opts:Lyric=Always
+|Chord|Dur:4th|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Ring the Bells (Mack)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,5^
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:4th|Pos:b3,6
+|Chord|Dur:8th|Pos:3,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th|Pos:1,6
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:b2,b6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:1,n6
+|Chord|Dur:8th|Pos:0,4
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,7
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4^,6^
+|Chord|Dur:4th|Pos:4,6
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:12
+|Instrument|Name:"Chorused Piano"|Patch:5|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-11.5
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Instrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-11.5
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Instrument|Name:"Chorused Piano"|Patch:5|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-11.5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,5^
+|Chord|Dur:4th|Pos:1,5
+|Instrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-11.5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Instrument|Name:"Chorused Piano"|Patch:5|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-9
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4^,6^
+|Chord|Dur:4th|Pos:4,6
+|Instrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-11.5
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:4th,Dotted|Pos:-1,3,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar
+|Instrument|Name:"Chorused Piano"|Patch:5|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-9
+|Chord|Dur:4th,Dotted|Pos:1,4,6
+|Clef|Type:Treble
+|Chord|Dur:4th,Dotted|Pos:-4,-1,1
+|Clef|Type:Bass
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5,7
+|Clef|Type:Treble
+|Chord|Dur:4th,Dotted|Pos:-4,0,2
+|Bar
+|Boundary|Style:NewSize|Upper:15
+|Instrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-9
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3^
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Note|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3^
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Note|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,6^
+|Chord|Dur:4th|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

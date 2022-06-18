@@ -1,0 +1,234 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Onward Roll the Ages"|Author:"James Ramsey Murray"|Lyricist:"Henry Melville King, 1888"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Royal Praise, by James R. Murray (Cincinnati, Ohio: John Church, 1888), # 22."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:19|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._On-ward roll the ag-es, full of grace to men;\nTell the joy-ful tid-ings, Christ will come a-gain.\nSing a-loud the an-them, shout the tri-umph song.\nAll earth’s teem-ing na-tions shall to Christ be-long.\n\nOn-ward roll the ag-es, full of grace to men;\nTell the joy-ful tid-ings, sing the glad re-frain.\n"
+|Lyric2|Text:"2._Forth the sow-ers go-ing, bear the liv-ing truth,\nAnd with prayer are sow-ing in the heart of youth.\nShowers of grace are fall-ing, morn-ing, night and noon;\nAll the earth is bloom-ing, har-vest will be soon.\n\nOn-ward roll the ag-es, full of grace to men;\nTell the joy-ful tid-ings, sing the glad re-frain.\n"
+|Lyric3|Text:"3._Join your hap-py voic-es in the song we sing;\nChrist, the low-ly Sav-ior, is th’ex-alt-ed king.\nLift the joy-ful chor-us, up to Heav-en’s dome;\nSoon we’ll blend our prais-es in the har-vest home.\n\nOn-ward roll the ag-es, full of grace to men;\nTell the joy-ful tid-ings, sing the glad re-frain.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:82|Pos:12|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th,Dotted|Pos:n-4,1
+|Chord|Dur:16th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Up|Dur2:16th|Pos2:-3
+|Chord|Dur:8th|Pos:n-4,-2
+|Chord|Dur:8th|Pos:b-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Spacer|Width:400
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th,Dotted|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:n-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:#-3,2
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:#-3,2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Up|Dur2:16th|Pos2:-3
+|Chord|Dur:8th|Pos:n-4,-2
+|Chord|Dur:8th|Pos:b-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Onward Roll the Ages"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:2/4
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th|Pos:2,3
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th|Pos:2,3
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

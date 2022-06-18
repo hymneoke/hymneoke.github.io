@@ -1,0 +1,146 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:43|CaretPos:-2
+|SongInfo|Title:"Nun Komm, 77.77"|Author:"Johann Walther, 1524, harm. by Johann S. Bach"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Lutheran Hymnal (St. Louis, Missouri: Concordia Publishing House, 1941), # 95. Also in The English Hymnal (London: Oxford University Press, 1906), # 110."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._John in vi-sion saw the day\nWhen the Judge will has-ten down;\nHeav’n and earth shall flee a-way\nFrom the ter-ror of His frown:\n"
+|Lyric2|Text:"2._Dead and liv-ing, small and great,\nRais-ed from the earth and sea;\nAt His bar shall hear their fate,\nWhat will then be-come of me?\n"
+|Lyric3|Text:"3._Can I bear His aw-ful looks?\nShall I stand in judg-ment then,\nWhen I see the o-pened books,\nWrit-ten by th’Al-might-y’s pen?\n"
+|Lyric4|Text:"4._If He to re-mem-brance bring,\nAnd ex-pose to pub-lic view,\nEve-ry work and se-cret thing,\nAh, my soul, what canst thou do?\n"
+|Lyric5|Text:"5._When the list shall be pro-duced\nOf the tal-ents I en-joyed;\nMeans and mer-cies, how a-bused!\nTime and strength, how mis-em-ployed!\n"
+|Lyric6|Text:"6._Con-science then, com-pelled to read,\nMust al-low the charge is true;\nSay, my soul, what canst thou plead\nIn that hour, what wilt thou do?\n"
+|Lyric7|Text:"7._But the book of life I see,\nMay my name be writ-ten there!\nThen from guilt and dan-ger free,\nGlad I’ll meet Him in the air:\n"
+|Lyric8|Text:"8._That’s the book I hope to plead,\n’Tis the Gos-pel o-pened wide;\nLord, I am a wretch in-deed!\nI have sinned, but Thou hast died.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,-1|Opts:Stem=Up,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:n-4,-2|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:#-3,-1|Opts:Tie=Upward
+|Chord|Dur:Half|Pos:-5,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,-2|Opts:Stem=Up,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:#-3,-1|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:n-3,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:2
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Beam,Tie=Upward
+|Note|Dur:16th|Pos:-3|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:Half|Pos:-4,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6,1|Opts:Stem=Up,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:#-3,-1|Opts:Tie=Upward
+|Chord|Dur:Half|Pos:-5,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:#-6|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:n-4,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4,-1|Opts:Stem=Up,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:-7,-2|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-1|Opts:Tie=Upward
+|Chord|Dur:Half|Pos:n-7,-2|Opts:Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Nun Komm, 77.77"|Label:"Nun Komm, 77.77"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Beam=First,Tie=Downward
+|Chord|Dur:8th|Pos:n1,3|Opts:Stem=Down,Beam=End,Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:#2,4|Opts:Stem=Down,Beam=First,Tie=Downward
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:0,6|Opts:Tie=Downward
+|Chord|Dur:Half|Pos:-4,5|Opts:Tie=Downward
+|Bar
+|Boundary|Style:NewSize|Upper:20
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:8|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:2,4|Opts:Stem=Down,Beam=First,Tie=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,4|Opts:Tie=Downward
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End,Tie=Downward
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:Half|Pos:1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:#2,4|Opts:Stem=Down,Tie=Downward
+|Note|Dur:8th,Slur|Pos:3^|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:n2,3|Opts:Stem=Down,Beam=End,Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:Half|Pos:-4,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:n1
+|Note|Dur:8th|Pos:n-2|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:#-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:n-1|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:b-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End,Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th,Dotted|Pos2:3
+|Note|Dur:16th,Slur|Pos:0|Opts:Stem=Down,Beam,Tie=Downward
+|Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam=End,Tie=Downward
+|Note|Dur:8th|Pos:0^|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:8th|Pos:#2|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:8th|Pos2:0
+|Chord|Dur:Half|Pos:-4,0|Opts:Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

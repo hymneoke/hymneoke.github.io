@@ -1,0 +1,177 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Along the Path of Life"|Author:"Asa Hull"|Lyricist:"Birdie Bell, 1884"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Jewels of Praise, by Asa Hull (New York: Daniel W. Knowles, 1884), # 1."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:32|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
+|Lyric1|Text:"1._“Pil-grim, whi-ther jour-ney you\nA-long the path of life?\nWhat’s the goal you have in view\nA-long the path of life?”\n“Far be-yond our vi-sion, friend,\nIs my jour-ney’s bless-èd end;\nHea-ven-ward my foot-steps wend\nA-long the path of life.”\n"
+|Lyric2|Text:"2._“Pil-grim, why not halt and rest\nA-long the path of life?\nQuick-ly on your way you’ve pressed\nA-long the path of life.”\n“Nay, but through His pre-cious grace\nSoon I’ll end this earth-ly race;\nI have no a-bid-ing place\nA-long the path of life.”\n"
+|Lyric3|Text:"3._“Pil-grim, why look you so glad\nA-long the path of life?”\n“Near-ing home, should I be sad\nA-long the path of life?\nWhere yon crys-tal tow-ers shine\nI shall see my King di-vine,\nAnd e-ter-nal bliss be mine\nBe-yond this path of life.”\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Along the Path of Life"|Label:"Along the Path of Life"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-2,6
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-5,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:8th|Pos:5,6
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

@@ -1,0 +1,184 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Solid Rock, LM refrain"|Author:"William Batchelder Bradbury, 1863"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._With grate-ful heart my thanks I bring,\nBe-fore the great Thy praise I sing;\nI wor-ship in Thy ho-ly place\nAnd praise Thee for Thy truth and grace;\nFor truth and grace to-geth-er shine\nIn Thy most ho-ly Word di-vine,\nIn Thy most ho-ly Word di-vine.\n"
+|Lyric2|Text:"2._I cried to Thee and Thou didst save,\nThy word of grace new cour-age gave;\nThe kings of earth shall thank Thee, Lord,\nFor they have heard Thy won-drous Word;\nYea, they shall come with songs of praise,\nFor great and glo-rious are Thy ways,\nFor great and glo-rious are Thy ways.\n"
+|Lyric3|Text:"3._O Lord, en-throned in glo-ry bright,\nThou reign-est in the heaven-ly height;\nThe proud in vain Thy fa-vor seek,\nBut Thou hast mer-cy for the meek;\nThrough trou-ble though my path-way be,\nThou wilt re-trieve and strength-en me,\nThou wilt re-trieve and strength-en me.\n"
+|Lyric4|Text:"4._Thou wilt stretch forth Thy might-y arm\nTo save me when my foes a-larm;\nThe work Thou hast for me be-gun\nShall by Thy grace be ful-ly done;\nFor-ev-er mer-cy dwells with Thee;\nO Lord, my Mak-er, think on me,\nO Lord, my Mak-er, think on me.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:103|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-8,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-6,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-8,-3|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Solid Rock, LM"|Label:"Solid Rock, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-5,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-1,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

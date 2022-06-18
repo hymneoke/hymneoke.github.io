@@ -1,0 +1,216 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:80|CaretPos:2
+|SongInfo|Title:"Gastorius, 87.87.877"|Author:"Severus Gastorius, 1675"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Evangelical Hymnal (St. Louis, Missouri: Eden Publishing House, 1917), # 137."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._What-e’er my God or-dains is right:\nHis ho-ly will a-bid-eth;\nI will be still what-e’er He doth;\nAnd fol-low where He guid-eth;\nHe is my God; though dark my road,\nHe holds me that I shall not fall:\nWhere-fore to Him I leave it all.\n"
+|Lyric2|Text:"2._What-e’er my God or-dains is right:\nHe nev-er will de-ceive me;\nHe leads me by the prop-er path:\nI know He will not leave me.\nI take, con-tent, what He hath sent;\nHis hand can turn my griefs a-way,\nAnd pa-tient-ly I wait His day.\n"
+|Lyric3|Text:"3._What-e’er my God or-dains is right:\nHis lov-ing thought at-tends me;\nNo poi-son can be in the cup\nThat my phy-si-cian sends me.\nMy God is true; each morn a-new\nI’ll trust His grace un-end _ ing,\nMy life to Him com-mend _ ing.\n"
+|Lyric4|Text:"4._What-e’er my God or-dains is right:\nHe is my friend and Fa-ther;\nHe suf-fers naught to do me harm,\nThough man-y storms may gath-er,\nNow I may know both joy and woe,\nSome day I shall see clear _ ly\nThat He hath loved me dear _ ly.\n"
+|Lyric5|Text:"5._What-e’er my God or-dains is right:\nThough now this cup, in drink-ing,\nMay bit-ter seem to my faint heart,\nI take it, all un-shrink-ing.\nMy God is true; each morn a-new\nSweet com-fort yet shall fill my heart,\nAnd pain and sor-row shall de-part.\n"
+|Lyric6|Text:"6._What-e’er my God or-dains is right:\nHere shall my stand be tak-en;\nThough sor-row, need, or death be mine,\nYet I am not for-sak-en.\nMy Fa-ther’s care is round me there;\nHe holds me that I shall not fall:\nAnd so to Him I leave it all.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:112|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:1|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:1|Pos:7|Placement:AtNextNote
+|Note|Dur:4th|Pos:-2
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:1|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:1|Pos:6|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|TempoVariance|Style:Fermata|Pause:1|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:n-3|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:1|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:#-6|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:1|Pos:6|Placement:AtNextNote
+|Note|Dur:4th|Pos:-5
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-7,-2
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Gastorius, 87.87.87"|Label:"Gastorius, 87.87.87"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Note|Dur:4th|Pos:3
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,7|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:1|Pos:10|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|TempoVariance|Style:Fermata|Pause:1|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,5
+|Note|Dur:4th|Pos:3
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,7|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:1|Pos:10|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|TempoVariance|Style:Fermata|Pause:1|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:8th|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:#-1,4
+|TempoVariance|Style:Fermata|Pause:1|Pos:10|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:n-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,7
+|TempoVariance|Style:Fermata|Pause:1|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-4,7
+|Bar
+|Chord|Dur:4th|Pos:-3,#6
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:#-1,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-4,3
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

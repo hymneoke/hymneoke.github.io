@@ -1,0 +1,237 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I Am Standing on the Word of God"|Author:"Daniel Brink Towner"|Lyricist:"E. M. Wadsworth, 1910"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns of the Christian Life (Harrisburg, Pennsylvania: Christian Publications, 1936), # 46."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:9|BoundaryBottom:40|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._I am stand-ing on the Word of God,\nWhich came to men of old;\nThe Ho-ly Book our fa-thers loved,\nAnd trea-sured more than gold.\n\nI am stand-ing, stand-ing on the Word,\nThough the earth change and de-cay,\nIt shall nev-er, nev-er pass a-way,\nI am stand-ing on the Word of God.\n"
+|Lyric2|Text:"2._I am stand-ing on the Word of God,\n’Tis ho-ly and ’tis true;\nThrough ag-es it has been our light,\nWith splen-dor ev-er new.\n\nI am stand-ing, stand-ing on the Word,\nThough the earth change and de-cay,\nIt shall nev-er, nev-er pass a-way,\nI am stand-ing on the Word of God.\n"
+|Lyric3|Text:"3._I am stand-ing on the Word of God,\n’Tis full of life di-vine;\nGod’s Spir-it lives in ev-’ry word,\nAnd moves in ev-’ry line.\n\nI am stand-ing, stand-ing on the Word,\nThough the earth change and de-cay,\nIt shall nev-er, nev-er pass a-way,\nI am stand-ing on the Word of God.\n"
+|Lyric4|Text:"4._I am stand-ing on the Word of God,\nAnd thus I am se-cure;\nThough blows the temp-est wild and hard,\n’Twill ev-er-more en-dure.\n\nI am stand-ing, stand-ing on the Word,\nThough the earth change and de-cay,\nIt shall nev-er, nev-er pass a-way,\nI am stand-ing on the Word of God.\n"
+|Lyric5|Text:"5._I am stand-ing on the Word of God,\nAnd on my dy-ing bed\nI’ll share its con-so-la-tions, Lord,\nWhen death’s dark vale I tread.\n\nI am stand-ing, stand-ing on the Word,\nThough the earth change and de-cay,\nIt shall nev-er, nev-er pass a-way,\nI am stand-ing on the Word of God.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:150|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:Half|Pos:-7,-5
+|Chord|Dur:Half|Pos:-6,-4
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-6,-3
+|Chord|Dur:4th,Slur|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-7,-5|Opts:Slur=Upward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Slur|Pos:-8,-6|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-3,-1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-4,-2
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:Half|Pos:-7,-5
+|Chord|Dur:Half|Pos:-6,-4
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-6,-3
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5|Opts:Slur=Upward
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Slur|Pos:-8,-6
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-6,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-6,-3
+|Spacer|Width:325
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:30
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Whole|Pos:-1,1
+|Chord|Dur:Whole|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,0
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Whole|Pos:-3,1
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Whole|Pos:-1,1
+|Chord|Dur:Whole|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-6,-2
+|Bar
+|Chord|Dur:Whole|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Standing on the Word"|Label:"Standing on the Word"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-14
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nI am stand-ing, standing,\n_ _ _ _ _ _ _ _ _ _ _ _ _\nIt shall nev-er, nev-er,\n\nI am stand-ing, stand-ing on the Word,\nThough the earth change and de-cay,\nIt shall nev-er, nev-er pass a-way,\nI am stand-ing on the Word of God.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half|Pos:0,3
+|Chord|Dur:Half|Pos:-1,5
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:2,4
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:4|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-1,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half|Pos:0,3
+|Chord|Dur:Half|Pos:-1,5
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:2,4
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,5
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:2,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:1
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:2,3
+|Bar
+|Chord|Dur:Whole|Pos:2,4
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,5
+|Bar
+|Chord|Dur:Whole|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

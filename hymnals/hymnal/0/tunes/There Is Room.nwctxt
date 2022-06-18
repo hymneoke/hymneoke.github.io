@@ -1,0 +1,225 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"There Is Room"|Author:"Alfred Beirly"|Lyricist:"Alfred Beirly, 1887"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Triumphant Songs, by Edwin O. Excell (Chicago, Illinois: E. O. Excell, 1887), # 60."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:27|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Wea-ry spir-it, seek-ing rest,\nIn the Sav-ior re-pose;\nLay thy bur-den at His feet,\nHe will light-en thy woes.\n\nCome, come be-liev-ing, whol-ly trust-ing, be free;\nThere is room in the pre-sence of Je-sus for thee,\nJe-sus for thee.\n"
+|Lyric2|Text:"2._Art thou wan-d’ring from the fold?\nTake this prom-ise di-vine:\nIf re-pent-ant thou wilt come,\nJe-sus’ par-don is thine.\n\nCome, come be-liev-ing, whol-ly trust-ing, be free;\nThere is room in the pre-sence of Je-sus for thee,\nJe-sus for thee.\n"
+|Lyric3|Text:"3._La-den soul, with sin op-pressed,\nJe-sus beck-ons thee home;\nWilt thou rest in His em-brace?\nLeave thy sor-row and come.\n\nCome, come be-liev-ing, whol-ly trust-ing, be free;\nThere is room in the pre-sence of Je-sus for thee,\nJe-sus for thee.\n"
+|Lyric4|Text:"4._Wea-ry spir-it, bur-dened one,\nSeek the Com-fort-er nigh;\nRest con-fid-ing in His love;\nJe-sus hears ev-ery sigh.\n\nCome, come be-liev-ing, whol-ly trust-ing, be free;\nThere is room in the pre-sence of Je-sus for thee,\nJe-sus for thee.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:115|Pos:13|Justify:Right
+|TimeSig|Signature:9/8
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Slur=Upward,Beam=First,XNoteSpace=1
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Rest|Dur:4th,Dotted
+|Bar|Style:MasterRepeatOpen
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9|Justify:Right
+|Spacer|Width:100
+|Boundary|Style:NewSize|Lower:19
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:3
+|Rest|Dur:8th,Slur|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Down
+|Note|Dur:8th|Pos:-4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Rest|Dur:8th
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Lower:18
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:n-7,n-5
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Bar
+|Ending|Endings:1|VertOffset:2
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Rest|Dur:4th,Dotted
+|Bar|Style:MasterRepeatClose
+|Ending|Endings:2|VertOffset:2
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"There Is Room"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:25|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _\nCome, come, O come, be-liev-ing,\n\nCome, come be-liev-ing, whol-ly trust-ing, be free;\nThere is room in the pre-sence of Je-sus for thee,\nJe-sus for thee.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:9/8
+|Chord|Dur:4th|Pos:-3,4|Opts:XNoteSpace=1
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th,Slur|Pos:-3,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-1,4
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:18
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:8th,Slur|Pos:-3,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Rest|Dur:4th,Dotted
+|Bar|Style:MasterRepeatOpen
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:4th|Pos:4,6
+|Rest|Dur:8th
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:4,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Rest|Dur:8th
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:8
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Bar
+|Ending|Endings:1
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:4
+|Rest|Dur:4th,Dotted|Opts:Stem=Up
+|Bar|Style:MasterRepeatClose
+|Ending|Endings:2
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

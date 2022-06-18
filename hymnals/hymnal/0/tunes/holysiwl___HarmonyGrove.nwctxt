@@ -1,0 +1,225 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:39|CaretPos:12
+|SongInfo|Title:"Harmony Grove, LM"|Author:"Henry Kemble Oliver, 1839"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Carmina Sacra, by Lowell Mason (Boston, Massachusetts: John Hubbard Wilkins & Richard B. Carter, 1844), p. 63."
+|PgSetup|StaffSize:21|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|WithNextStaff:Brace|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._A ho-ly state is wed-ded life,\nAnd blest, where God joins man and wife:\nA type of Je-sus and His bride,\nBe-loved and hon-ored at His side.\n"
+|Lyric2|Text:"2._Where man-ly worth and gen-tle grace\nIn god-li-ness keep step a-pace,\nThere wed-ded love grows nev-er stale,\nNor Heav-en’s bless-ings ev-er fail.\n"
+|Lyric3|Text:"3._Where by the Word the Lord is guest,\nAnd all through faith and prayer is blest,\nThere with God’s grace will all be filled.\nAnd God Him-self that house will build.\n"
+|Lyric4|Text:"4._The skill-ful hand and strong-er arm,\nStill plied with zeal and ar-dor warm,\nWith watch-ful eye and fru-gal care,\nFull soon a com-pe-tence pre-pare.\n"
+|Lyric5|Text:"5._This chaste es-tate of par-a-dise,\nIs left to man be-low the skies;\nPro-lif-ic har-bin-ger of good,\nPer-en-nial fount of broth-er-hood:\n"
+|Lyric6|Text:"6._From this all sta-tions em-a-nate,\nThe home, the Church, and powers of state;\nBlest nurs-er-y of vir-tuous worth,\nBe thou held sac-red still on earth!\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:3/2
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:Half|Pos:1
+|Note|Dur:4th|Pos:3
+|Note|Dur:4th|Pos:-2
+|Bar
+|Note|Dur:Half,Dotted|Pos:-1
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-2
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:1
+|Note|Dur:Half|Pos:4
+|Note|Dur:Half|Pos:4
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:5.5|Justify:Center|Placement:AtNextNote
+|Note|Dur:Half|Pos:3
+|Rest|Dur:4th
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:Half|Pos:1
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:Half,Dotted|Pos:-2
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:Half|Pos:-1
+|Note|Dur:Half|Pos:-2
+|Bar
+|Note|Dur:Whole|Pos:-1
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Staff-1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|WithNextStaff:Brace|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:6
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:3/2
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:Half|Pos:-4
+|Note|Dur:Half|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:Half,Dotted|Pos:-4
+|Note|Dur:4th|Pos:#-4
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-1
+|Note|Dur:Half|Pos:-1
+|Note|Dur:Half|Pos:-1
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|Note|Dur:Half|Pos:-2
+|Rest|Dur:4th
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:Half|Pos:-4
+|Note|Dur:Half|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:Half,Dotted|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-3
+|Note|Dur:Half,Dotted|Pos:-4
+|Note|Dur:4th|Pos:-5
+|Bar
+|Note|Dur:Whole|Pos:-6
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Staff-2"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|WithNextStaff:Brace|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:7
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble|OctaveShift:Octave Down
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:3/2
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:Half|Pos:1
+|Note|Dur:Half|Pos:3
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:Half,Dotted|Pos:1
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:1
+|Note|Dur:Half|Pos:#2
+|Note|Dur:Half|Pos:2
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:5.5|Justify:Center|Placement:AtNextNote
+|Note|Dur:Half|Pos:3
+|Rest|Dur:4th
+|Note|Dur:4th|Pos:3
+|Note|Dur:4th|Pos:3
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:Half|Pos:1
+|Note|Dur:Half|Pos:3
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:Half,Dotted|Pos:0
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:3
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:2
+|Note|Dur:Half|Pos:1
+|Note|Dur:Half|Pos:0
+|Bar
+|Note|Dur:Whole|Pos:-1
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Harmony Grove, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:12|Lines:5|WithNextStaff:Brace|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:3/2
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th|Pos:4
+|Bar
+|Note|Dur:Half|Pos:4
+|Note|Dur:Half|Pos:4
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:Half,Dotted|Pos:4
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:2
+|Note|Dur:Half|Pos:-2
+|Note|Dur:Half|Pos:-2
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:5.5|Justify:Center|Placement:AtNextNote
+|Note|Dur:Half|Pos:1
+|Rest|Dur:4th
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:Half|Pos:1
+|Note|Dur:Half|Pos:1
+|Note|Dur:4th|Pos:3
+|Note|Dur:4th|Pos:4
+|Bar
+|Note|Dur:Half,Dotted|Pos:1
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:0
+|Note|Dur:Half|Pos:1
+|Note|Dur:Half|Pos:1
+|Bar
+|Note|Dur:Whole|Pos:-3
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

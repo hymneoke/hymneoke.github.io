@@ -1,0 +1,194 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Christian Brother, o’er the Main"|Author:"William Howard Doane"|Lyricist:"Frances Jane (Fanny) Crosby, 1891"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Photocopied score, origin unknown."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:37|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:4
+|Lyric1|Text:"1._Christ-ian bro-ther o’er the main\nCar-ry the news of Je-sus;\nGo where night and dark-ness reign\nLov-ing-ly haste a-way.\n\nCar-ry the news o’er wa-ters blue,\nPer-ish-ing souls are wait-ing for you;\nStretch-ing their hands, they plead for light,\nBless-èd Gos-pel light.\n"
+|Lyric2|Text:"2._On-ward quick-ly, hear their cry\nO-ver the deep re-sound-ing;\nSave the mill-ions ere they die,\nEar-nest-ly haste a-way.\n\nCar-ry the news o’er wa-ters blue,\nPer-ish-ing souls are wait-ing for you;\nStretch-ing their hands, they plead for light,\nBless-èd Gos-pel light.\n"
+|Lyric3|Text:"3._Tell of Ju-dah’s Morn-ing Star,\nPeace-ful-ly, calm-ly shin-ing;\nSpread its beams o’er climes a-far,\nPray’r-ful-ly haste a-way.\n\nCar-ry the news o’er wa-ters blue,\nPer-ish-ing souls are wait-ing for you;\nStretch-ing their hands, they plead for light,\nBless-èd Gos-pel light.\n"
+|Lyric4|Text:"4._Christ-ian breth-ren, preach the Word,\nPub-lish a free sal-va-tion;\nLo, in heav’n your bright re-ward;\nJoy-ful-ly haste a-way.\n\nCar-ry the news o’er wa-ters blue,\nPer-ish-ing souls are wait-ing for you;\nStretch-ing their hands, they plead for light,\nBless-èd Gos-pel light.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:n-4,#1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:n-4,#1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:n-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3^
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Rest|Dur:8th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:8|Placement:AsStaffSignature
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:#-6,n-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,n0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,#-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Bar
+|Chord|Dur:4th|Pos:#-3,2
+|Chord|Dur:8th|Pos:-2,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Christian Brother"|Label:"Christian Brother"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:8|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:6/8
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,8
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Rest|Dur:8th
+|Bar|Style:Double
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,#3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:n1,#6
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:8th|Pos:2,n6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

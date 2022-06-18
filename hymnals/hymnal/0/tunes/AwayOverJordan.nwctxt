@@ -1,0 +1,202 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Away Over Jordan"|Author:"Edward E. Nickerson"|Lyricist:"Alice Terrell, 1880"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Rescue Ssongs, by Henry H. Hadley (New York: S.T. Gordon & Son, 1890), # 26."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:35|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Oh! we are going to wear a crown,\nTo wear a star-ry crown.\nOh! we are going to wear a crown,\nTo wear a star-ry crown.\n\nA-way o-ver Jor-dan,\nWith my bless-èd Je-sus,\nA-way o-ver Jor-dan,\nTo wear a star-ry crown.\n"
+|Lyric2|Text:"2._You must re-pent to wear a crown,\nTo wear a star-ry crown.\nYou must re-pent to wear a crown,\nTo wear a star-ry crown.\n\nA-way o-ver Jor-dan,\nWith my bless-èd Je-sus,\nA-way o-ver Jor-dan,\nTo wear a star-ry crown.\n"
+|Lyric3|Text:"3._You must be saved to wear a crown,\nTo wear a star-ry crown.\nYou must be saved to wear a crown,\nTo wear a star-ry crown.\n\nA-way o-ver Jor-dan,\nWith my bless-èd Je-sus,\nA-way o-ver Jor-dan,\nTo wear a star-ry crown.\n"
+|Lyric4|Text:"4._You must be cleansèd to wear that crown,\nTo wear that star-ry crown.\nYou must be cleansèd to wear that crown,\nTo wear that star-ry crown.\n\nA-way o-ver Jor-dan,\nWith my bless-èd Je-sus,\nA-way o-ver Jor-dan,\nTo wear a star-ry crown.\n"
+|Lyric5|Text:"5._You must live right to wear that crown,\nTo wear that star-ry crown.\nYou must live right to wear that crown,\nTo wear that star-ry crown.\n\nA-way o-ver Jor-dan,\nWith my bless-èd Je-sus,\nA-way o-ver Jor-dan,\nTo wear a star-ry crown.\n"
+|Lyric6|Text:"6._You_must fight the fight to wear that crown,\nTo wear that star-ry crown.\nYou_must fight the fight to wear that crown,\nTo wear that star-ry crown.\n\nA-way o-ver Jor-dan,\nWith my bless-èd Je-sus,\nA-way o-ver Jor-dan,\nTo wear a star-ry crown.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:B
+|Tempo|Tempo:105|Pos:11|Justify:Right
+|TimeSig|Signature:Common
+|Chord|Dur:8th,Dotted,Slur|Pos:-5|Opts:Stem=Up,Beam=First|Dur2:4th,Dotted|Pos2:-5
+|Note|Dur:16th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-5
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:8th,Dotted,Slur|Pos:-5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:16th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-5
+|Rest|Dur:8th
+|Spacer|Width:225
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:21
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-3,-1|Opts:StemLength=6
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Away Over Jordan"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-9
+|Lyric1|Text:"A-way o-ver Jor-dan,\nWith my bless-èd Je-sus,\nA-way o-ver Jor-dan,\nTo wear a star-ry crown.\n\nA-way o-ver Jor-dan,\nWith my bless-èd Je-sus,\nA-way o-ver Jor-dan,\nTo wear a star-ry crown.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:B
+|TimeSig|Signature:Common
+|Chord|Dur:8th,Dotted,Slur|Pos:2|Opts:Stem=Up,Slur=Downward,Lyric=Never,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:16th|Pos:3|Opts:Stem=Up,Lyric=Never,Beam=End
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:0,4|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Lyric=Never,Beam=End
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Lyric=Never,Beam=First|Dur2:4th|Pos2:0,4
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Lyric=Never,Beam=End
+|Chord|Dur:4th|Pos:2,7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:Half,Dotted|Pos2:4
+|Chord|Dur:8th,Dotted,Slur|Pos:2|Opts:Stem=Up,Slur=Downward,Lyric=Never,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:16th|Pos:3|Opts:Stem=Up,Lyric=Never,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:0,4|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Lyric=Never,Beam=End
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:4
+|Chord|Dur:4th,Dotted|Pos:-3,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,3|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2|Opts:Lyric=Never
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:6
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:4th,Dotted|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

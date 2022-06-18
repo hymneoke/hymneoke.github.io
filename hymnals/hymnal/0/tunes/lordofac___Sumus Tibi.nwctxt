@@ -1,0 +1,236 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:61|CaretPos:1
+|SongInfo|Title:"Sumus Tibi, 11.11.11 D"|Author:"Henry Elliott Button, 1891"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Worship and Song, edited by Benjamin S. Winchester & Grace W. Conant (Boston, Massachusetts/New York/Chicago, Illinois: Pilgrim Press, 1913), # 155."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Lord of all cre-a-tion,\nNow be-fore Thy throne,\nWe Thy peo-ple bring Thee\nGifts that are Thine own.\nThine is all the great-ness,\nPower and glo-ry Thine,\nHigh o’er all ex-alt-ed,\nMaj-es-ty di-vine.\n\nOf Thine own we of-fer,\nOf Thy gifts we give,\nUn-to Thee, O Fa-ther,\nIn whose life all live.\n"
+|Lyric2|Text:"2._All the gold and sil-ver,\nCorn on plains and hills,\nGrass up-on the moun-tains,\nWa-ter in the rills—\nAll things yield Thee glo-ry,\nWith Thy light they shine;\nThou all art in-spir-est—\nSci-ence, skill are Thine.\n\nOf Thine own we of-fer,\nOf Thy gifts we give,\nUn-to Thee, O Fa-ther,\nIn whose life all live.\n"
+|Lyric3|Text:"3._Bod-y, soul, and spir-it,\nThought and speech, and song,\nCome of Thee, Cre-a-tor,\nAnd to Thee be-long.\nThese in bound-en du-ty\nWe de-vote to Thee;\nThine is all the dow-er,\nThine the glo-ry be.\n\nOf Thine own we of-fer,\nOf Thy gifts we give,\nUn-to Thee, O Fa-ther,\nIn whose life all live.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-7,-4
+|Bar
+|Chord|Dur:Half|Pos:-7,-4
+|Chord|Dur:Half|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4|Opts:Stem=Down|Dur2:Whole|Pos2:-3
+|Note|Dur:Half|Pos:-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:b-5,0
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,n-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half,Slur|Pos:-5|Opts:Stem=Down|Dur2:Whole|Pos2:2
+|Note|Dur:Half|Pos:-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,n0
+|Chord|Dur:4th|Pos:-3,n-1
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:n-1,2
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Whole|Pos2:0
+|Note|Dur:4th,Slur|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-6,-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4,-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-7,-4
+|Bar
+|Chord|Dur:Half|Pos:-7,-4
+|Chord|Dur:Half|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:Whole|Pos2:0
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:-2|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,n-4,0
+|Bar
+|Chord|Dur:4th|Pos:-6,-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-3
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole|Pos:-4|Opts:Stem=Up|Dur2:Whole|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Sumus Tibi, H. Elliott Button"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,6
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:4,5
+|Bar
+|Chord|Dur:Whole|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,n5
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:n1,b7
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:Half|Pos:-3,6
+|Bar
+|Chord|Dur:Half,Slur|Pos:2|Opts:Stem=Up|Dur2:Whole|Pos2:-2
+|Note|Dur:Half|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:Half|Pos:b3,5
+|Bar
+|Chord|Dur:4th|Pos:2,n4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:Half,Slur|Pos:5|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Chord|Dur:Half|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:3,n5
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:n4,6
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:6,8
+|Chord|Dur:4th|Pos:-1,9
+|Chord|Dur:4th|Pos:-1,8
+|Bar
+|Chord|Dur:Half|Pos:2,8
+|Chord|Dur:Half|Pos:2,8
+|Bar
+|Chord|Dur:4th,Slur|Pos:5,7|Opts:Slur=Downward
+|Note|Dur:4th,Slur|Pos:4|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward|Dur2:Half|Pos2:5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,6
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:4,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down|Dur2:Whole|Pos2:5
+|Note|Dur:4th,Slur|Pos:2|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:5
+|RestChord|Dur:4th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

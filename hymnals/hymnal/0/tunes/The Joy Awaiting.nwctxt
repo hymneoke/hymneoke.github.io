@@ -1,0 +1,201 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Joy Awaiting"|Author:"Robert Harkness"|Lyricist:"Maud Fraser Jackson, 1909"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Alexander\'s Hymns No. 3, edited by Charles M. Alexander (New York: Fleming H. Revell, 1915), # 167."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Sat-is-fied my high-est long-ing,\nEarth-ly griefs as naught shall be,\nWhen I wake with Christ in glo-ry,\nWhen His face I see.\n\nWhen His face I see,\nWhen His face I see,\nOh, the joy for me a-wait-ing,\nWhen His face I see.\n"
+|Lyric2|Text:"2._Hu-man mind can-not con-ceive it,\nMy Re-deem-er’s face so fair;\nBut I know they need no sun-shine,\nBut His smile up there.\n\nWhen His face I see,\nWhen His face I see,\nOh, the joy for me a-wait-ing,\nWhen His face I see.\n"
+|Lyric3|Text:"3._Tho’ oft-times the way He lead-eth,\nIs a way of mys-ter-y;\nThere shall be no more of dark-ness\nWhen His face I see.\n\nWhen His face I see,\nWhen His face I see,\nOh, the joy for me a-wait-ing,\nWhen His face I see.\n"
+|Lyric4|Text:"4._Here my tongue can ne-ver ut-ter\nAll the praise with-in my heart;\nThere, in Hea-ven’s song of tri-umph,\nI shall have a part.\n\nWhen His face I see,\nWhen His face I see,\nOh, the joy for me a-wait-ing,\nWhen His face I see.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:F
+|Tempo|Tempo:105|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Boundary|Style:NewSize|Lower:23
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:#-5|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:14
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"The Joy Awaiting, Frazer"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-3
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nWhen His face I see,\nWhen His face I see,\nOh, the joy for me a-wait-ing,\nWhen His face I see.\n\nWhen His face I see,\nWhen His face I see,\nOh, the joy for me a-wait-ing,\nWhen His face I see.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:Half|Pos:-2,1
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,#4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Spacer|Width:300
+|Bar
+|Boundary|Style:NewSize|Upper:17
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,8
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4,8
+|Chord|Dur:8th|Pos:n3,6
+|Chord|Dur:8th|Pos:3,6
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,193 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Beauraing, 77.77 D"|Author:"Robert Allen Jennings, Jr., 1908"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Helpful Gospel Songs, edited by F. A. Enslow, Robert A. Jennings & F. Leroy Enslow (Philadelphia, Pennsylvania; Chicago, Illinois; and Siloam Springs, Arkansas: Praise Publishing, 1908), # 12."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Light of life, se-raph-ic fire,\nLove di-vine, Thy-self im-part;\nEve-ry faint-ing soul in-spire,\nShine in eve-ry droop-ing heart;\nEve-ry mourn-ful sin-ner cheer,\nScat-ter all our guilt-y gloom,\nSon of God, ap-pear, ap-pear!\nTo Thy hu-man tem-ples come.\n"
+|Lyric2|Text:"2._Come in this ac-cept-ed hour,\nBring Thy heav’n-ly king-dom in;\nFill us with Thy glo-rious power,\nRoot-ing out the seeds of sin;\nNoth-ing more can we re-quire,\nWe will cov-et noth-ing less;\nBe Thou all our hearts’ de-sire,\nAll our joy and all our peace.\n"
+|Lyric3|Text:"3._Whom but Thee have we in Heav’n?\nWhom have we on earth but Thee?\nOn-ly Thou to us be giv’n,\nAll be-side is van-i-ty;\nGrant us love, we ask no more;\nEve-ry oth-er gift re-move;\nPleas-ure, fame, and wealth, and power,\nStill we all en-joy in love.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:135|Pos:12|Justify:Right
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-4,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-4,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:Half|Pos:-4,1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-4,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Beauraing, 77.77 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:1,6
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:Half|Pos:1,3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:2,5
+|Chord|Dur:4th|Pos:2,n4
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Rest|Dur:4th|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:Half|Pos:-3,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Rest|Dur:4th|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

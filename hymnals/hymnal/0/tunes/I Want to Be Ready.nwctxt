@@ -1,0 +1,215 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I Want to Be Ready"|Author:"African-American Spiritual"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Ev\'ry Time I Feel the Spirit, by Gwendolin S. Warren (New York: Henry Holt, 1997), pp. 60-61."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-27
+|Lyric1|Text:"I want to be rea-dy,\nI want to be rea-dy,\nI want to be rea-dy,\nTo walk in Je-ru-sa-lem just like John.\n\n1._John_said the ci-ty was just four-square,\nWalk in Je-ru-sa-lem just like John.\nAnd he de-clared he’d meet me there,\nWalk in Je-ru-sa-lem just like John.\n"
+|Lyric2|Text:"I want to be rea-dy,\nI want to be rea-dy,\nI want to be rea-dy,\nTo walk in Je-ru-sa-lem just like John.\n\n2._O John, O John, what do you say?\nWalk in Je-ru-sa-lem just like John.\nThat_I’ll be there at the com-ing day,\nWalk in Je-ru-sa-lem just like John.\n"
+|Lyric3|Text:"I want to be rea-dy,\nI want to be rea-dy,\nI want to be rea-dy,\nTo walk in Je-ru-sa-lem just like John.\n\n3._When_Pet-er_was preach-ing at Pen-te-cost\nWalk in Je-ru-sa-lem just like John.\nHe_was en-dowed with the Ho-ly Ghost,\nWalk in Je-ru-sa-lem just like John.\n"
+|Lyric4|Text:"I want to be rea-dy,\nI want to be rea-dy,\nI want to be rea-dy,\nTo walk in Je-ru-sa-lem just like John.\n\n4._If you get there be-fore I do,\nWalk in Je-ru-sa-lem just like John.\nTell all my friend I’m_a-com-in’, too,\nWalk in Je-ru-sa-lem just like John.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:80|Pos:12|Justify:Right
+|TimeSig|Signature:2/4
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4^|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:-4^
+|Chord|Dur:16th,Dotted|Pos:-4|Opts:Stem=Up,Beam=End,ArticulationsOnStem|Dur2:16th,Dotted|Pos2:-4
+|Chord|Dur:32nd|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:32nd|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1^,1^|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th,Dotted|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:32nd|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:16th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5^,-3^
+|Chord|Dur:16th,Dotted|Pos:-5,-3
+|Chord|Dur:32nd|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:16th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:16th,Slur|Pos:-6|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-7|Opts:Stem=Up,Beam=End
+|Note|Dur:16th|Pos:-6
+|Bar
+|Chord|Dur:16th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:16th|Pos:-7,-2
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:16th|Pos:-6,-4
+|Note|Dur:8th|Pos:-6
+|Bar
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-4
+|Bar|Style:Double
+|Text|Text:"Leader"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:8
+|Instrument|Name:"[#017]"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th,Slur|Pos:0
+|Note|Dur:8th|Pos:-2
+|Note|Dur:16th|Pos:-2
+|Note|Dur:16th|Pos:-2
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-2
+|Note|Dur:4th|Pos:-4
+|Spacer|Width:500
+|Bar
+|Instrument|Name:"[#001]"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15
+|Text|Text:"Response"|Font:StaffItalic|Pos:9
+|Chord|Dur:16th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:16th|Pos:-6,-2
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-4
+|Instrument|Name:"[#017]"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15
+|Note|Dur:8th|Pos:0
+|Bar
+|Text|Text:"Leader"|Font:StaffItalic|Pos:9
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-2
+|Note|Dur:4th|Pos:-4
+|Bar
+|Instrument|Name:"[#001]"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:14
+|Text|Text:"Response"|Font:StaffItalic|Pos:9
+|Chord|Dur:16th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:16th|Pos:-7,-2
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"I Want to Be Ready"|Label:"I Want to Be Ready"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:31|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Standard Rules|Offset:8
+|Lyric1|Text:"I want to be rea-dy,\nI want to be rea-dy,\nI want to be rea-dy,\nTo walk in Je-ru-sa-lem just like John.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1^,3^|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:16th,Dotted|Pos:1,3|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:32nd|Pos:1,3|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,8|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th|Pos:-3,8|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3^,8^|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:16th,Dotted|Pos:-3,8|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:32nd|Pos:-3,8|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,8|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Slur=Downward
+|Chord|Dur:16th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:16th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=End
+|Boundary|Style:NewSize|Upper:22
+|Bar
+|Chord|Dur:8th|Pos:-2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2^,4^|Opts:Slur=Downward
+|Chord|Dur:16th,Dotted|Pos:-2,4|Opts:Slur=Downward
+|Chord|Dur:32nd|Pos:-2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:16th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:28
+|Rest|Dur:8th
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Half
+|Bar
+|Chord|Dur:16th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Rest|Dur:8th
+|Bar
+|Rest|Dur:Half
+|Bar
+|Rest|Dur:Half
+|Bar
+|Chord|Dur:16th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

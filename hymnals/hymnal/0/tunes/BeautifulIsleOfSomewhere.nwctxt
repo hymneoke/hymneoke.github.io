@@ -1,0 +1,197 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Beautiful Isle of Somewhere"|Author:"John Sylvester Fearis"|Lyricist:"Jessie Brown Pounds, 1897"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns and Sacred Songs, edited by Edwin O. Excell (Chicago, Illinois: Hope Publishing Company, 1918), # 222. "
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Some-where the sun is shin-ing,\nSome-where the song-birds dwell;\nHush, then, thy sad re-pin-ing,\nGod lives, and all is well.\n\nSome-where, some-where,\nBeau-ti-ful Isle of Some-where!\nLand of the true, where we live a-new,\nBeau-ti-ful Isle of Some-where!\n"
+|Lyric2|Text:"2._Some-where the day is long-er,\nSome-where the task is done;\nSome-where the heart is strong-er,\nSome-where the guer-don won.\n\nSome-where, some-where,\nBeau-ti-ful Isle of Some-where!\nLand of the true, where we live a-new,\nBeau-ti-ful Isle of Some-where!\n"
+|Lyric3|Text:"3._Some-where the load is lift-ed,\nClose by an o-pen door;\nSome-where the clouds are rift-ed,\nSome-where the an-gels sing.\n\nSome-where, some-where,\nBeau-ti-ful Isle of Some-where!\nLand of the true, where we live a-new,\nBeau-ti-ful Isle of Some-where!\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:105|Pos:13|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-4,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th,Dotted,Slur|Pos:-6,-3|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:#-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Spacer|Width:275
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:23
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-5,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-6,-4|Opts:Stem=Up
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:#-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-4,2|Opts:Stem=Down
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:n-2,-1|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-6,-1|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Beautiful Isle Somewhere"|Label:"Beautiful Isle Somewhere"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,1|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-2,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-3^,4^|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-2,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Stem=Down
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:6
+|Chord|Dur:4th,Slur|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:2,4|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:1,4|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Bar
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

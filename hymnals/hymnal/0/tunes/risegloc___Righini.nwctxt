@@ -1,0 +1,145 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:22|CaretPos:6
+|SongInfo|Title:"Righini, 12.10.12.4"|Author:"Vincenzo Righini (1756-1812) "|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal (New York: Methodist Book Concern, 1905), # 629."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Rise, glo-rious Con-queror, rise,\nIn-to Thy na-tive skies;\nAs-sume Thy right;\nAnd where in man-y_a fold\nThe clouds are back-ward rolled\nPass through those gates of gold,\nAnd reign in light!\n"
+|Lyric2|Text:"2._Vic-tor o’er death and hell!\nChe-ru-bic le-gions swell!\nThy ra-diant train;\nPrais-es all heaven in-spire;\nEach an-gel sweeps his lyre.\nAnd waves his wings of fire—\nThou Lamb once slain!\n"
+|Lyric3|Text:"3._En-ter, in-car-nate God!\nNo feet but Thine have trod\nThe ser-pent down:\nBlow the full trum-pets blow!\nWid-er your por-tals throw!\nSav-ior tri-um-phant, go\nAnd take Thy crown!\n"
+|Lyric4|Text:"4._Li-on of Ju-dah! Hail!\nAnd let Thy name pre-vail\nFrom age to age;\nLord of the roll-ing years,\nClaim for Thine own the spheres,\nFor Thou hast bought with tears\nThy her-it-age!\n"
+|Lyric5|Text:"5._Yet— who are these be-hind\nIn num-bers more than mind\nCan count or say—\nClothed in im-mor-tal stoles\nIl-lu-min-ing the poles—\nA gal-ax-y of souls\nIn white ar-ray?\n"
+|Lyric6|Text:"6._And then was heard a-far\nStar an-swer-ing to star—\n“Lo! these have come\nFol-lowers of Him who gave\nHis life their lives to save;\nAnd now their palms they wave,\nBrought safe-ly home!”\n"
+|Lyric7|Text:"7._O Lord! as-cend Thy throne!\nFor Thou shalt rule a-lone\nBe-side Thy Sire,\nWith the Great Par-a-clete,\nThe Three in One com-plete,\nBe-fore whose aw-ful feet\nAll foes ex-pire!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:Common
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Whole|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Whole|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Righini, 12.10.12.4"|Label:"Righini, 12.10.12.4"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:Common
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:6,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:Half|Pos:4,6
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Whole|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:Half|Pos:4,6
+|Bar
+|Chord|Dur:Half|Pos:-1,4
+|Chord|Dur:4th|Pos:2,n4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Whole|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

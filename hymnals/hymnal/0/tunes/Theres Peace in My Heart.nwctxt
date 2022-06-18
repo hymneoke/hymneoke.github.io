@@ -1,0 +1,206 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:58|CaretPos:5
+|SongInfo|Title:"There’s Peace in My Heart"|Author:"Daniel Brink Towner"|Lyricist:"Helen A. Himes, 1903"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Gospel Hymn Book, edited by Daniel B. Towner (Dayton, Ohio: Lorenz Publishing Company, 1903),  # 167."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._There’s peace in my heart to-night,\nSo sweet, and still, and strong;\nAnd in-to my life has dawned a light,\nWhich fills my heart with song.\nPeace, peace, wond-er-ful peace,\nPeace from the heart of God;\nPeace, peace, wond-er-ful peace,\nPeace from the heart of God.\n"
+|Lyric2|Text:"2._There’s joy in my heart to-night,\nSo full, so pure, so deep;\nThe Fa-ther of love hath given to me\nThe gift of gifts to keep.\nJoy, joy, won-der-ful joy,\nJoy in my heart to-night;\nJoy, joy, won-der-ful joy,\nJoy in my heart to-night.\n"
+|Lyric3|Text:"3._The Lord to my heart has come;\nHe deigns to dwell with me;\nHe cleans-es my life from stain of sin\nThat I like Him may be.\nSing, sing, joy-ful-ly sing,\nSing of His love to me,\nSing, sing, joy-ful-ly sing,\nSing of His love to me.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:90|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:725
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:16th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th,Dotted|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3^
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down|Dur2:4th|Pos2:-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-5,-2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,n0
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Spacer|Width:325
+|Bar
+|Boundary|Style:NewSize|Lower:20
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th,Dotted|Pos:-2|Opts:Stem=Down
+|Boundary|Style:NewSize|Lower:16
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"There’s a Peace in My Heart"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:2
+|Chord|Dur:16th|Pos:2|Opts:Stem=Down|Dur2:16th|Pos2:2
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,6^
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Spacer|Width:275
+|Bar
+|Boundary|Style:NewSize|Upper:21
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:8th|Pos:3,n5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Up
+|Note|Dur:4th,Dotted|Pos:5|Opts:Stem=Up
+|Boundary|Style:NewSize|Upper:17
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

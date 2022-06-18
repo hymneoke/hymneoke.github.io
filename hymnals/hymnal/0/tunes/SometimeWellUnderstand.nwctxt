@@ -1,0 +1,231 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Some Time We’ll Understand"|Author:"James McGranahan"|Lyricist:"Maxwell Newton Cornelius, 1891"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns Nos. 1 to 6 Complete, by Ira D. Sankey, James McGranahan & George C. Stebbins (Chicago, Illinois: Biglow & Main, 1894), # 533. Also in Tabernacle Hymns Number Three (Chicago, Illinois: Tabernacle Publishing, 1951), # 82."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.16|Top:2.54|Right:2.16|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-18
+|Lyric1|Text:"1._Not now, but in the com-ing years,\nIt may be in the bet-ter land,\nWe’ll read the mean-ing of our tears,\nAnd there, some time, we’ll un-der-stand.\n\nThen trust in God through all the days;\nFear not, for He doth hold thy hand;\nThough dark thy way, still sing and praise,\nSome time, some time we’ll un-der-stand.\n"
+|Lyric2|Text:"2._We’ll catch the brok-en thread a-gain,\nAnd fin-ish what we here be-gan;\nHeav’n will the mys-ter-ies ex-plain,\nAnd then, ah then, we’ll un-der-stand.\n\nThen trust in God through all the days;\nFear not, for He doth hold thy hand;\nThough dark thy way, still sing and praise,\nSome time, some time we’ll un-der-stand.\n"
+|Lyric3|Text:"3._We’ll know why clouds in-stead of sun\nWere o-ver many a cher-ished plan;\nWhy song has ceased when scarce be-gun;\n’Tis there, some time, we’ll un-der-stand.\n\nThen trust in God through all the days;\nFear not, for He doth hold thy hand;\nThough dark thy way, still sing and praise,\nSome time, some time we’ll un-der-stand.\n"
+|Lyric4|Text:"4._Why what we long for most of all,\nE-ludes so oft our ea-ger hand;\nWhy hopes are crushed and cas-tles fall,\nUp there, some time, we’ll un-der-stand.\n\nThen trust in God through all the days;\nFear not, for He doth hold thy hand;\nThough dark thy way, still sing and praise,\nSome time, some time we’ll un-der-stand.\n"
+|Lyric5|Text:"5._God knows the way, He holds the key,\nHe guides us with un-err-ing hand;\nSome time with tear-less eyes we’ll see;\nYes, there, up there, we’ll un-der-stand.\n\nThen trust in God through all the days;\nFear not, for He doth hold thy hand;\nThough dark thy way, still sing and praise,\nSome time, some time we’ll un-der-stand.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:102|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:575
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-8,-6
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-8,-6
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,b-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-6^,-1^|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Down
+|Spacer|Width:175
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:9
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,n2
+|Chord|Dur:8th|Pos:n-5,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-8,-6
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|DynamicVariance|Style:Decrescendo|Pos:11
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th,Slur|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:b-2,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,2
+|PerformanceStyle|Style:Ad Libitum|Pos:9
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Sometime Well Understand"|Label:"Sometime Well Understand"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:30|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:10
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\ndoth hold_thy_hand\n\nThen trust in God through all the days;\nFear not, for He doth hold thy hand;\nThough dark thy way, still sing and praise,\nSome time, some time we’ll un-der-stand.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,1
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-3^,4^
+|Chord|Dur:8th|Pos:-3,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:22
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-2,n7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:-3,4
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:8
+|Note|Dur:4th,Slur|Pos:5|Opts:Stem=Down
+|Note|Dur:4th,Dotted|Pos:6
+|Chord|Dur:8th|Pos:-1,4
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

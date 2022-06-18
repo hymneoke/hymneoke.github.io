@@ -1,0 +1,154 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:42|CaretPos:10
+|SongInfo|Title:"Shiplake, 10.10.10.10"|Author:"Francis Everard William Hulton, 1889"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient & Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 590."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Un-chang-ing God, hear from e-ter-nal Heav’n:\nWe plead Thy gifts of grace, for-ev-er given,\nThy call, with-out re-pent-ance, call-ing still,\nThe sure e-lec-tion of Thy sov-ereign will.\n"
+|Lyric2|Text:"2._Out of our faith in Thee, who canst not lie,\nOut of our heart’s de-sire, goes up our cry,\nFrom hope’s sweet vi-sion of the thing to be,\nFrom love to those who still are loved by Thee.\n"
+|Lyric3|Text:"3._Bring Thy be-lov-èd back, Thine Is-ra-el,\nThine own e-lect who from Thy fa-vor fell,\nBut not from Thine e-lec-tion! O for-give,\nSpeak but the word, and lo! the dead shall live.\n"
+|Lyric4|Text:"4._Fa-ther of mer-cies! these the long a-stray,\nThese in soul blind-ness now the far a-way,\nThese are not al-iens, but Thy sons of yore,\nOh, by Thy Fa-ther-hood, re-store, re-store!\n"
+|Lyric5|Text:"5._Breathe on Thy Church, that it may greet the day;\nStir up her will to toil, and teach, and pray,\nTill Zi-on-ward a-gain sal-va-tion come,\nAnd all her out-cast chil-dren are at home.\n"
+|Lyric6|Text:"6._Tri-une Je-ho-vah, Thine the grace and power,\nThine all the work, its past, its fu-ture hour,\nO Thou, who fail-est not, Thy gifts ful-fill,\nAnd crown the call-ing of Thy change-less will.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-5,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:#-4,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Whole|Pos:-8,-3
+|Bar
+|Chord|Dur:Half|Pos:-8,-3
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:#-2,2
+|Bar
+|Chord|Dur:Half,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:1
+|Note|Dur:Half|Pos:-2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:#-4,1
+|Chord|Dur:4th|Pos:#-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-2,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:#-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Whole|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-1
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Whole|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Shiplake, 10.10.10.10"|Label:"Shiplake, 10.10.10.10"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,#3
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:Whole|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,4
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:-2,5,7
+|Bar
+|Chord|Dur:Whole|Pos:-3,4,8
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,#3
+|Chord|Dur:4th|Pos:#1,6
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:Half|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,9
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:Half,Slur|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:6
+|Note|Dur:Half|Pos:3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2,7
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:Whole|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

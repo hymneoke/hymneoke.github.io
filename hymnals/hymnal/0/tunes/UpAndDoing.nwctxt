@@ -1,0 +1,252 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Up and Doing"|Author:"William A. Post"|Lyricist:"Eliza Edmunds Hewitt, 1913"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sunday School Voices No.2, edited by Charles H. Gabriel (Chicago, Illinois:  Hope Publishing, 1913), # 150."
+|PgSetup|StaffSize:15.5|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.27|Right:2.54|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Hear the Mas-ter as He bade fare-well;\nThis the mes-sage, Chris-tian, go and tell;\nTell the sto-ry of His power to save,\nSince His life He gave.\n\nUp and do-ing, at the King’s com-mand,\nEv-ery-where will go the her-ald band;\nSpread the Gos-pel, spread the Gos-pel,\nSend its light to ev-ery land.\n"
+|Lyric2|Text:"2._Hum-bly lis-ten to the King’s com-mand,\nBear good tid-ings now to ev-ery land;\n“Un-to all the world” His word must go,\nBless-ing to be-stow.\n\nUp and do-ing, at the King’s com-mand,\nEv-ery-where will go the her-ald band;\nSpread the Gos-pel, spread the Gos-pel,\nSend its light to ev-ery land.\n"
+|Lyric3|Text:"3._On-ward march-ing, at the King’s com-mand,\nHas-ten, has-ten, in a work so grand,\nTill the na-tions see the heav’n-ly Light—\nKnow His sav-ing might.\n\nUp and do-ing, at the King’s com-mand,\nEv-ery-where will go the her-ald band;\nSpread the Gos-pel, spread the Gos-pel,\nSend its light to ev-ery land.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:98|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:10
+|Chord|Dur:8th|Pos:-4,1|Opts:StemLength=5
+|Chord|Dur:8th|Pos:-4,2|Opts:StemLength=5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:Half|Pos2:3
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:0
+|Spacer|Width:175
+|Bar
+|Boundary|Style:NewSize|Lower:18
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-4^,1^
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:n-5,0
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,b2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:Half|Pos2:3
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:b-2|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"Up and do-ing, up and do-ing,\nAt the King’s com-mand,\nRea-dy we will be, His her-ald band;\nSpeed the Gos-pel, glo-rious tid-ings,\nSpread the Gos-pel,\n\nUp and do-ing, at the King’s com-mand,\nEv-ery-where will go the her-ald band;\nSpread the Gos-pel, spread the Gos-pel,\nSend its light to ev-ery land.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,4|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,2|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th,Slur|Pos:-2,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:1,6|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:1,5|Opts:Lyric=Never
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Spacer|Width:375
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4,5
+|Bar
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:4,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:Half|Pos2:6
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:8|Opts:Lyric=Never
+|Note|Dur:8th|Pos:7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4,5
+|Bar
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:4,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:Half|Pos2:6
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Down|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Boundary|Style:NewSize|Upper:9
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

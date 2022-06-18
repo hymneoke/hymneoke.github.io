@@ -1,0 +1,255 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I’m Going to Meet Him"|Author:"J. Howard Entwisle"|Lyricist:"Ada Blenkhorn, 1898"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Love and Praise No. 5, edited by John R. Sweney, J. Howard Entwisle & Frank M. Davis (Philadelphia, Pennsylvania: John J. Hood, 1898), # 27."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._A-gain in all His beau-ty the Lord shall come,\nI’m go-ing to meet my Je-sus by and by;\nTo meet His faith-ful child-ren and call them home,\nI’m go-ing to meet my Je-sus by and by.\n\nGo-ing by and by, go-ing by and by;\nI’ll be there to an-swer when the Sav-ior calls,\nGo-ing to meet Him by and by.\n"
+|Lyric2|Text:"2._How glad will be the morn-ing when I shall rise,\nI’m go-ing to meet my Je-sus by and by;\nTo meet my Sav-ior com-ing from out the skies,\nI’m go-ing to meet my Je-sus by and by.\n\nGo-ing by and by, go-ing by and by;\nI’ll be there to an-swer when the Sav-ior calls,\nGo-ing to meet Him by and by.\n"
+|Lyric3|Text:"3._I’ll hear the trum-pet sound-ing so loud and clear,\nI’m go-ing to meet my Je-sus by and by;\nThe day is not far dis-tant, ’tis draw-ing near,\nI’m go-ing to meet my Je-sus by and by.\n\nGo-ing by and by, go-ing by and by;\nI’ll be there to an-swer when the Sav-ior calls,\nGo-ing to meet Him by and by.\n"
+|Lyric4|Text:"4._Will you be glad to meet Him on that great day?\nI’m go-ing to meet my Je-sus by and by;\nHe bids you to be rea-dy, to watch and pray,\nI’m go-ing to meet my Je-sus by and by.\n\nGo-ing by and by, go-ing by and by;\nI’ll be there to an-swer when the Sav-ior calls,\nGo-ing to meet Him by and by.\n"
+|Lyric5|Text:"5._With shout-ing and ho-san-nas the earth shall ring,\nI’m go-ing to meet my Je-sus by and by;\nAnd I shall soon be-hold Him, my Lord, my king,\nI’m go-ing to meet my Je-sus by and by.\n\nGo-ing by and by, go-ing by and by;\nI’ll be there to an-swer when the Sav-ior calls,\nGo-ing to meet Him by and by.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:525
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-7,-2
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,0
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:8th,Triplet=First|Pos:-4,1
+|Chord|Dur:8th,Triplet|Pos:-4,1
+|Chord|Dur:8th,Triplet=End|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:8th,Dotted|Pos:-4,2
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-7,-2
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,0
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th,Dotted|Pos:b-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:8th,Triplet=First|Pos:-4,1
+|Chord|Dur:8th,Triplet|Pos:-4,1
+|Chord|Dur:8th,Triplet=End|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,2
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,0
+|Bar
+|Boundary|Style:NewSize|Lower:24
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Rest|Dur:4th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:20
+|Chord|Dur:Half|Pos:-3^,-1^|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:-1^,n2^
+|Chord|Dur:8th,Dotted|Pos:-1,2
+|Chord|Dur:16th|Pos:-1,0
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,n2
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:n-5,0
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up|Dur2:16th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Triplet=First|Pos:-4,1
+|Chord|Dur:8th,Triplet|Pos:-4,1
+|Chord|Dur:8th,Triplet=End|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:b-2,3
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"I’m Going to Meet Him"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nGo-ing to meet Him by and by, by and by,\nGo-ing to meet Him by and by, by and by;\n\nGo-ing by and by, go-ing by and by;\nI’ll be there to an-swer when the Sav-ior calls,\nGo-ing to meet Him by and by.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:8th|Pos:4,5
+|Bar
+|Chord|Dur:8th,Triplet=First|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th,Triplet|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th,Triplet=End|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,3
+|Chord|Dur:8th,Dotted,Slur|Pos:1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th,Slur|Pos:1,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Triplet=First|Pos:1,4
+|Chord|Dur:8th,Triplet|Pos:1,4
+|Chord|Dur:8th,Triplet=End|Pos:1,4
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,6
+|Chord|Dur:8th,Dotted|Pos:1,7
+|Chord|Dur:16th|Pos:1,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Rest|Dur:4th
+|Bar|Style:Double
+|Rest|Dur:4th
+|Chord|Dur:8th,Triplet=First|Pos:0,7
+|Chord|Dur:8th,Triplet|Pos:0,7
+|Chord|Dur:8th,Triplet=End|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Triplet=First|Pos:2,5
+|Chord|Dur:8th,Triplet|Pos:2,5
+|Chord|Dur:8th,Triplet=End|Pos:2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th,Slur|Pos:1,5|Opts:Slur=Downward
+|Note|Dur:4th|Pos:7
+|Boundary|Style:NewSize|Upper:10
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,n5
+|Chord|Dur:8th,Dotted|Pos:4,7
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:8th,Triplet=First|Pos:1,4
+|Chord|Dur:8th,Triplet|Pos:1,4
+|Chord|Dur:8th,Triplet=End|Pos:1,4
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

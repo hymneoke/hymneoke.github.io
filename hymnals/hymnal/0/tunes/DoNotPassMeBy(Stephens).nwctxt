@@ -1,0 +1,207 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Do Not Pass Me By"|Author:"Peter Philip Bilhorn"|Lyricist:"Minnie H. Stephens, 1894"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Soul Winning Songs, Part 1, by Peter P. Bilhorn (Chicago, Illinois: 1896), # 8."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:29|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Do not pass me by, dear Sav-ior,\nTho’ so full of sin I am;\nTrem-bling-ly I seek Thy fa-vor,\nHelp me, O Thou bleed-ing Lamb!\n\nJe-sus, Sav-ior,\nIn my need to Thee I cry.\nJe-sus, Sav-ior,\nBless me, do not pass me by.\n"
+|Lyric2|Text:"2._I can on-ly plead, dear Sav-ior,\nBring-ing now my-self to Thee,\nAll Thy prom-is-es so faith-ful,\nAnd the love Thou gav-est me.\n\nJe-sus, Sav-ior,\nIn my need to Thee I cry.\nJe-sus, Sav-ior,\nBless me, do not pass me by.\n"
+|Lyric3|Text:"3._Lord, the sins of all my life-time\nNow to Thee do I con-fess;\nTurn-ing from the guilt that was mine,\nTo Thy lov-ing ten-der-ness.\n\nJe-sus, Sav-ior,\nIn my need to Thee I cry.\nJe-sus, Sav-ior,\nBless me, do not pass me by.\n"
+|Lyric4|Text:"4._Do not pass me by, dear Sav-ior,\nPur-i-fy me, Lord, I cry;\nO for-give me, keep me, save me,\nHelp me, do not pass me by!\n\nJe-sus, Sav-ior,\nIn my need to Thee I cry.\nJe-sus, Sav-ior,\nBless me, do not pass me by.\n"
+|Lyric5|Text:"5._Now He is my Lord and Sav-ior,\nFor He did not pass me by;\nIn His love so won-drous ten-der,\nHe has heard my hum-ble cry.\n\nJe-sus, Sav-ior,\nIn my need to Thee I cry.\nJe-sus, Sav-ior,\nBless me, do not pass me by.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:105|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-8,-6
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:Half|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-8,-6
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:Half|Pos:-3,2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Rest|Dur:4th
+|Spacer|Width:150
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:17
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-6,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:#-5,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:Half|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Do Not Pass Me By"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:27
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nJe-sus, Sav-ior, Je-sus, Sav-ior\n_ _ _ _ _ _ _\nJe-sus, Sav-ior, Je-sus, Sav-ior\n\nJe-sus, Sav-ior,\nIn my need to Thee I cry.\nJe-sus, Sav-ior,\nBless me, do not pass me by.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:Half|Pos:0,5
+|Bar
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Rest|Dur:4th
+|Bar|Style:Double
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:4th,Slur|Pos:0|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-2
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

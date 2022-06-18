@@ -1,0 +1,208 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:92|CaretPos:0
+|SongInfo|Title:"Singing of Jesus"|Author:"John Robson Sweney"|Lyricist:"Fanny Anderson, 1887"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Redeeming Love, by John R. Sweney, Charles C. McCabe, Tullius C. O\'Kane, and William J. Kirkpatrick (Philadelphia, Pennsylvania: John J. Hood, 1887), # 1."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._O I am sing-ing of Je-sus,\nHap-py as mor-tal can be;\nHow can I help but a-dore Him,\nHe is so gra-cious to me:\nHold-ing me up when I fal-ter,\nGiv-ing me light from His throne,\nCheer-ing me on with His coun-sel,\nKeep-ing my hand in His own?\n"
+|Lyric2|Text:"2._O I am sing-ing of Je-sus,\nPrais-ing Him all the day long,\nSing-ing His in-fin-ite mer-cy,\nTell-ing His good-ness in song.\nO I am sing-ing of Je-sus,\nSing-ing His won-der-ful love;\nSing-ing of rest for the wea-ry,\nRest in His king-dom a-bove.\n"
+|Lyric3|Text:"3._O I am sing-ing of Je-sus,\nSongs He de-light-eth to hear;\nSing-ing, be-liev-ing, o-bey-ing,\nWait-ing till He shall ap-pear.\nSing-ing, be-liev-ing, o-bey-ing,\nThis is my con-stant em-ploy;\nHe is my strength and Re-deem-er,\nHe is my com-fort and joy.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-5,0^|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Rest|Dur:8th
+|Flow|Style:Fine|Pos:9|Justify:Center
+|Bar
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-4^
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Bar
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:#-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down
+|Text|Text:"Use first four lines as chorus"|Font:StaffItalic|Pos:9|Justify:Right
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2^
+|Chord|Dur:4th,Dotted|Pos:-3,-2
+|Bar|Style:LocalRepeatClose|Repeat:3
+|Flow|Style:DCalFine|Pos:9|Justify:Right
+|AddStaff|Name:"Singing of Jesus"|Label:"Singing of Jesus"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,8
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,3^
+|Chord|Dur:4th|Pos:-1,3
+|Rest|Dur:8th
+|Flow|Style:Fine|Pos:11|Justify:Right
+|Bar
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Bar
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,3^
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,#3
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Bar
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,5^
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Bar|Style:LocalRepeatClose|Repeat:3
+|Flow|Style:DCalFine|Pos:11|Justify:Right
+!NoteWorthyComposer-End

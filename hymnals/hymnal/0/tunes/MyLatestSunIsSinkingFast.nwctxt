@@ -1,0 +1,243 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"My Latest Sun Is Sinking Fast"|Author:"William Batchelder Bradbury, 1862"|Lyricist:"Jefferson Hascall, 1860"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns Nos. 1 to 6 Complete, by Ira D. Sankey, James McGranahan & George C. Stebbins (Chicago, Illinois: Biglow & Main, 1894), # 97. Also in the Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1940), # 53, and in Bradbury’s Golden Shower of Sunday School Melodies (New York: Ivison, Phinney & Com­pany, 1862), # 50."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:14|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-18
+|Lyric1|Text:"1._My lat-est sun is sink-ing fast,\nMy race is near-ly run;\nMy strong-est tri-als now are past,\nMy tri-umph is be-gun.\n\nO come, an-gel band,\nCome and a-round me stand;\nO bear me a-way on your snow-y wings\nTo my e-ter-nal home;\nO bear me a-way on your snow-y wings\nTo my e-ter-nal home.\n"
+|Lyric2|Text:"2._I know I’m near the ho-ly ranks\nOf friends and kin-dred dear,\nFor_I hear the waves on Jor-dan’s banks,\nThe cross-ing must be near.\n\nO come, an-gel band,\nCome and a-round me stand;\nO bear me a-way on your snow-y wings\nTo my e-ter-nal home;\nO bear me a-way on your snow-y wings\nTo my e-ter-nal home.\n"
+|Lyric3|Text:"3._I’ve al-most reached my heav-’nly home,\nMy spir-it loud-ly sings;\nThy ho-ly ones, be-hold, they come!\nI hear the noise of wings.\n\nO come, an-gel band,\nCome and a-round me stand;\nO bear me a-way on your snow-y wings\nTo my e-ter-nal home;\nO bear me a-way on your snow-y wings\nTo my e-ter-nal home.\n"
+|Lyric4|Text:"4._O bear my long-ing heart to Him,\nWho bled and died for me;\nWhose blood now cleans-es from all sin,\nAnd gives me vic-to-ry.\n\nO come, an-gel band,\nCome and a-round me stand;\nO bear me a-way on your snow-y wings\nTo my e-ter-nal home;\nO bear me a-way on your snow-y wings\nTo my e-ter-nal home.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:108|Pos:11|Justify:Center
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:16th,Slur|Pos:-4,-2|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:10
+|Boundary|Style:NewSize|Lower:6
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,3^
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"My Latest Sun Is Sinking"|Label:"My Latest Sun Is Sinking"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:29|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:5
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _\nO come, an-gel band,\nCome and a-round me stand;\nO bear me a-way on your snow-y wings\nTo my e-ter-nal home;\nO bear me a-way on your snow-y wings\nTo my e-ter-nal home.\n\nO come, an-gel band,\nCome and a-round me stand;\nO bear me a-way on your snow-y wings\nTo my e-ter-nal home;\nO bear me a-way on your snow-y wings\nTo my e-ter-nal home.\n"
+|Clef|Type:Bass
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-1,3
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,6^
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:16th,Slur|Pos:-1,3|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:16th|Pos:-1,3|Opts:Stem=Down,Beam=End
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Spacer|Width:375
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:21
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Spacer|Width:325
+|Bar
+|Note|Dur:4th|Pos:6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th,Dotted|Pos:6^|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6^
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,6^
+|Chord|Dur:4th|Pos:-1,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

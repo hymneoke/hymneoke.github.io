@@ -1,0 +1,117 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:17|CaretPos:8
+|SongInfo|Title:"St. Anne, CM"|Author:"William Croft, 1708"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 111."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Come, let us lift our voic-es high,\nHigh as our joys a-rise,\nAnd join the songs a-bove the sky,\nWhere pleas-ure nev-er dies.\n"
+|Lyric2|Text:"2._Je-sus, the God that fought and bled,\nAnd con-quered when He fell;\nThat rose, and at His char-iot wheels\nDragged all the powers of hell.\n"
+|Lyric3|Text:"3._Je-sus, our God, in-vites us here\nTo this tri-um-phal feast,\nAnd brings im-mor-tal bless-ings down\nFor each re-deem-ed guest.\n"
+|Lyric4|Text:"4._The Lord, how glo-rious is His face!\nHow kind His smiles ap-pear!\nAnd oh! what melt-ing words He says\nTo eve-ry hum-ble ear.\n"
+|Lyric5|Text:"5._“For you, the chil-dren of My love,\nIt was for you I died;\nBe-hold My hands, be-hold My feet,\nAnd look in-to My side!\n"
+|Lyric6|Text:"6._“These are the wounds for you I bore,\nThe to-kens of My pains,\nWhen I came down to free your souls\nFrom mis-er-y and chains.\n"
+|Lyric7|Text:"7._“Jus-tice un-sheathed its fier-y sword,\nAnd plunged it in My heart;\nIn-fi-nite pangs for you I bore,\nAnd most tor-ment-ing smart.\n"
+|Lyric8|Text:"8._“When hell, and all its spite-ful powers,\nStood dread-ful in My way,\nTo res-cue those dear lives of yours,\nI gave My own a-way.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-2|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,-4|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,#-3|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-2|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-6,1|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1|Opts:Slur=Upward,Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"St. Anne, CM"|Label:"St. Anne, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:23|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End,Tie=Upward
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:4th|Pos:1,6|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:4,6|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,6|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:1,5|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,Tie=Upward|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:#2,4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:1,3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:1,3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3|Opts:Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

@@ -1,0 +1,237 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Jesus Passed Through Jericho"|Author:"Charles Hutchinson Gabriel"|Lyricist:"Eliza Edmunds Hewitt, 1915"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Northfield Hymnal No. 3, edited by Charles M. Alexander & May W. Moody (East Northfield, Massachusetts: The Bookstore, 1918), # 27."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Je-sus passed thro’ Jer-i-cho,\nAs to the cross He went;\nTo the sin-ful and the lost\nThe Son of God was sent;\nAll the suff-ering ones of earth,\nThe blind, the halt, the lame,\nCalled His kind com-pas-sion forth,\nFor un-to them He came.\n\nSav-ior, I be-lieve;\nLet me now my sight re-ceive;\nChrist of Jer-i-cho,\nLet me Thy sal-va-tion know.\n"
+|Lyric2|Text:"2._Je-sus passed thro’ Jer-i-cho;\nWith joy the blind man heard;\nHeed-ing not the world’s re-proach,\nHe begged a heal-ing word;\nThis his op-por-tun-i-ty,\nFor him sal-va-tion’s day;\n“Lord, I would re-ceive my sight;\nHave mer-cy now, I pray.”\n\nSav-ior, I be-lieve;\nLet me now my sight re-ceive;\nChrist of Jer-i-cho,\nLet me Thy sal-va-tion know.\n"
+|Lyric3|Text:"3._Je-sus passed thro’ Jer-i-cho,\nAnd still He pass-eth by;\nWould you from your sin be free?\nTo Him lift up your cry;\nCall to Him in hum-ble faith,\nHe com-eth now this way!\nLo, the Christ of Jer-i-cho\nWill save your soul to-day.\n\nSav-ior, I be-lieve;\nLet me now my sight re-ceive;\nChrist of Jer-i-cho,\nLet me Thy sal-va-tion know.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:113|Pos:12|Justify:Right
+|TimeSig|Signature:4/2
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,#-3
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,n-3
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:#-3,n-1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:b-1,1
+|Chord|Dur:Whole|Pos:-2,0
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:Whole|Pos:-5,-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,#-3
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-7,n-3
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:#-3,n-1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:b-1,1
+|Chord|Dur:Whole|Pos:-2,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:Whole|Pos:-4|Opts:Stem=Up|Dur2:Whole|Pos2:-4
+|Spacer|Width:225
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:13
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:Half|Pos:-1,2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:Half|Pos:-2,0
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Down
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:7
+|Chord|Dur:4th|Pos:-5,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:7
+|Chord|Dur:4th|Pos:-5,-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/2
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,n4
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,b4
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:Whole|Pos:1,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th,Dotted|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th,Dotted|Pos:3,8
+|Chord|Dur:8th|Pos:3,8
+|Chord|Dur:4th,Dotted|Pos:3,8
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:Whole|Pos:5|Opts:Stem=Down|Dur2:Whole|Pos2:5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,n4
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,b4
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:Whole|Pos:1,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th,Dotted|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:4,6
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:4th,Dotted|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:Whole|Pos:1,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:Half|Pos:2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:4th,Dotted|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:Half|Pos:1,8
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:b0,5
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,3
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,b3
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,6
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:1,n3
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

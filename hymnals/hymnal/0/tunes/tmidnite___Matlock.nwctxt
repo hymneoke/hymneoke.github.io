@@ -1,0 +1,177 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Matlock, 88.88.88"|Author:"Michael Wise, 1684"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 361, 743."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Through mid-night gloom from Mac-e-don\nThe cry of myr-iads as of one,\nThe voice-ful si-lence of de-spair,\nIs el-o-quent in aw-ful prayer,\nThe soul’s ex-ceed-ing bit-ter cry,\n“Come o’er and help us, or we die.”\n"
+|Lyric2|Text:"2._How mourn-ful-ly it ech-oes on,\nFor half the earth is Mac-e-don!\nThese breth-ren to their breth-ren call,\nAnd by the Love which loved them all,\nAnd by the whole world’s Life they cry,\n“O ye that live, be-hold we die!”\n"
+|Lyric3|Text:"3._By oth-er sounds our ears are won\nThan that which wails from Mac-e-don;\nThe roar of gain is round us rolled,\nOr we un-to them-selves are sold,\nAnd can-not list the al-ien cry,\n“O hear and help us, lest we die!”\n"
+|Lyric4|Text:"4._Yet with that cry from Mac-e-don\nThe ver-y car of Christ rolls on!\n“I come; who would a-bide My day,\nIn yon-der wilds pre-pare My way!\nMy voice is cry-ing in their cry:\nHelp ye the dy-ing, lest ye die.”\n"
+|Lyric5|Text:"5._O once, for men, of man the Son,\nYes, Thine the cry from Mac-e-don!\nO by the king-dom and the power\nAnd glo-ry of Thine ad-vent hour,\nWake heart and will to hear their cry;\nHelp us to help them, lest we die!\n"
+|Lyric6|Text:"6._Yet fair the hope that speeds us on\nWith psalms of praise for Mac-e-don!\nThy bless-ing giv’n, Thy prom-ise bright,\nAre ear-nest sweet of morn-ing light,\nTill “Al-le-lu-ia” be the cry\nOf souls that live and shall not die!\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-7,-3
+|Bar
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:#-8,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-7,#-2
+|Chord|Dur:4th|Pos:-8,-1
+|Chord|Dur:4th|Pos:-8,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,#-2
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-8,-3
+|Chord|Dur:4th|Pos:-8,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-8,-6
+|TempoVariance|Style:Fermata|Pause:2|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,#-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-3,#-1
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,#-1
+|Chord|Dur:4th|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Matlock, 88.88.88"|Label:"Matlock, 88.88.88"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:#-4,#1
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,#1
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Boundary|Style:NewSize|Upper:23
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:18
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:3,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:-2,3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:2|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:#-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-2,2
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

@@ -1,0 +1,225 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Someone Is Looking to You"|Author:"Charles Hutchinson Gabriel, 1906"|Lyricist:"William McPherson Lighthall, 1901"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs for the King\'s Business, by Franklin E. Belden (Chicago, Illinois: F. G. Fischer, 1909), # 60. Original publication date found at http://www.hymnary.org."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:32|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Let your light shine wher-so-e’er you go,\nSome-one is look-ing to you!\nBright-er each day let it gleam and glow,\nSome-one is look-ing to you!\n\nLook-ing to you, yes, look-ing to you!\nLet your light shine the dark-ness through;\nO be faith-ful, be loy-al, and true,\nFor some-one is look-ing to you!\n"
+|Lyric2|Text:"2._Some-one is grop-ing his way to God,\nSome-one is look-ing to you!\nFol-low-ing on where your feet have trod,\nSome-one is look-ing to you!\n\nLook-ing to you, yes, look-ing to you!\nLet your light shine the dark-ness through;\nO be faith-ful, be loy-al, and true,\nFor some-one is look-ing to you!\n"
+|Lyric3|Text:"3._Some-one your coun-sel will sure-ly take,\nSome-one is loo-king to you!\nAnd by your life his de-ci-sion make,\nSome-one is look-ing to you!\n\nLook-ing to you, yes, look-ing to you!\nLet your light shine the dark-ness through;\nO be faith-ful, be loy-al, and true,\nFor some-one is look-ing to you!\n"
+|Lyric4|Text:"4._Some-one has al-most ac-cept-ed Him,\nSome-one is look-ing to you!\nAnd may be lost if your light grows dim,\nSome-one is look-ing to you!\n\nLook-ing to you, yes, look-ing to you!\nLet your light shine the dark-ness through;\nO be faith-ful, be loy-al, and true,\nFor some-one is look-ing to you!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,#-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-2,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:n-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-1,1|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-1,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,0^|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Rest|Dur:8th|Opts:Stem=Down
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:26
+|Chord|Dur:16th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-1,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Up
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:16th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4^
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Someone Is Looking toYou"|Label:"Someone Is Looking toYou"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/8
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,n4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-2,5|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,9|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,9|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,9|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,8^|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,8|Opts:Stem=Down
+|Rest|Dur:8th|Opts:Stem=Down
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:2
+|Chord|Dur:16th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:16th|Pos:-3,8|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,8|Opts:Stem=Down
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,9|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:1,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:16th|Pos:4,8|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:4,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:4,8|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:16th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

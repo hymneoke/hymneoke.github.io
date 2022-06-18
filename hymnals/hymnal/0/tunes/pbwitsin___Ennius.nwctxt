@@ -1,0 +1,193 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Ennius, 77.77 D"|Author:"Leonard C. Everett (1818–1867)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymn and Tune Book of the Methodist Episcopal Church, South (Nashville, Tennessee: Publishing House of the Methodist Episcopal Church, South, 1899), # 671. Though this hymnal was printed after Everett\'s death, he was said to be the music editor of the 1859 edition.\r\n\r\nThis tune is *also* attributed to J. W. [John?] Belcher, in the Book of Hymns and Tunes: Comprising the Psalms and Hymns for the Worship of God, Approved by the General Assembly of 1866, Arranged with Appropriate Tunes and an Appendix, Prepared by the Presbyterian Committee of Publication, by Authority of the Assembly of 1873 (Richmond, Virginia: Presbyterian Committee of Publication, 1874), p. 285."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Pil-grim, bur-dened with thy sin,\nCome the way to Zi-on’s gate:\nThere, till mer-cy lets thee in,\nKnock, and weep, and watch, and wait.\nKnock— He knows the sin-ner’s cry;\nWeep— He loves the mourn-er’s tears;\nWatch, for sav-ing grace is nigh;\nWait, till heaven-ly light ap-pears.\n"
+|Lyric2|Text:"2._Hark, it is the Bride-groom’s voice:\n“Wel-come, pil-grim to thy rest!”\nNow with-in the gate re-joice,\nSafe, and sealed, and bought, and blest\nSafe, from all the lures of vice;\nSealed, by signs the cho-sen know;\nBought by love, and life the price;\nBlest, the might-y debt to owe.\n"
+|Lyric3|Text:"3._Ho-ly pil-grim, what for thee\nIn a world like this re-main?\nFrom thy guard-ed breast shall flee\nFear, and shame, and doubt, and pain;\nFear, the hope of Heav’n shall fly;\nShame, from glo-ry’s view re-tire;\nDoubt, in cer-tain rap-ture die;\nPain, in end-less bliss ex-pire.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:80|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Ennius, 77.77 D"|Label:"Ennius, 77.77 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:0,5|Opts:Stem=Down,ArticulationsOnStem
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:ArticulationsOnStem
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

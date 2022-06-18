@@ -1,0 +1,166 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Sheltered Dale, 86.86.86"|Author:"Christoph Willibald Glück (1714-1787)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal (New York: Methodist Publishing House, 1939), # 455."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Here feast I at my Fa-ther’s board\nWho starved a-mong the swine;\nFor me must eve-ry foot be fleet\nAnd eve-ry lamp must shine;\nFor me the mer-ry mu-sic sounds,\nThe danc-ers dip and twine.\n"
+|Lyric2|Text:"2._My heart beats fast a-gainst my robe,\nThe best robe, soft and red;\nWith sob-bing breath and tight-ening throat\nAnd tears in rap-ture shed,\nI feel His ring up-on my hand,\nHis bless-ings on my head.\n"
+|Lyric3|Text:"3._Ah, bit-ter was the way, and oft\nMy blood my path would trace;\nAnd guilt and grief and stab-bing shame\nWith all my steps kept pace;\nAnd yet I fam-ished not for bread\nSo sore as for His face.\n"
+|Lyric4|Text:"4._The road seemed end-less. On I fared,\nWrest-ing each mile from death;\nThen such an awe up-on me fell\nI scarce could draw my breath;\nMy spir-it felt His com-ing as\nOf one that suc-cor-eth.\n"
+|Lyric5|Text:"5._Blind, faint-ing, to His might-y breast\nHe caught and held me fast;\nI knew the for-tress of His arms\nA-bout my weak-ness cast;\nAnd, when He kissed my trai-tor cheek,\nI guessed His heart at last.\n"
+|Lyric6|Text:"6._The pit-eous words I oft had conned\nI trem-bling strove to say;\nBut sud-den glo-ry round me poured\nA bright-er, rich-er day.\nIn won-der-ment I lift-ed up\nMy head that droop-ing lay.\n"
+|Lyric7|Text:"7._The glo-ry streamed from out His eyes,\nAs from all Beau-ty’s throne.\nO depths of love un-think-a-ble\nThat in that splen-dor shone!\nO pain of love that tra-vail-eth\nAnd bleed-eth for its own.\n"
+|Lyric8|Text:"8._O gleam of wis-dom hoar with eld\nEre sang the stars of morn!\nO shift-ing, blend-ing, daz-zling lights\nThat thrilled my hope for-lorn\nTo un-dreamed mir-a-cles of joy\nAnd surge of life re-born!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:130|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:n-7
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6^,-2^
+|Chord|Dur:Half|Pos:-6,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:Half|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th,Slur|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,-1^
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th,Slur|Pos:0,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3^
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Sheltered Dale, 86.86.86"|Label:"Sheltered Dale, 86.86.86"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:-4,7
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1^,1^
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2^,6^
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Bar
+|Chord|Dur:Half|Pos:n5,7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:Half|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Chord|Dur:4th|Pos:b5,6
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:Half|Pos:5,7
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:Half|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2^,4^
+|Chord|Dur:Half|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

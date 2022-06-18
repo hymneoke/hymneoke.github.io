@@ -1,0 +1,165 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:49|CaretPos:1
+|SongInfo|Title:"Korea, 87.87 D"|Author:"Korean Carol"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal, edited by Carol M. Giesbrecht (Baptist Federation of Canada, 1973), # 32."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._On a day when men were count-ed,\nGod be-came the Son of Man,\nThat His name in eve-ry cen-sus\nShould be en-tered was His plan.\nGod, the Lord of all cre-a-tion,\nHum-bly takes a crea-ture’s place;\nHe whose form no man has wit-nessed\nHas to-day a hu-man face.\n"
+|Lyric2|Text:"2._On a night, while si-lent shep-herds\nWatched their flocks up-on the plain,\nCame a mes-sage with its sum-mons\nBrought by song of an-gel train:\nLo, in Beth-lehem’s lit-tle vil-lage\nHas ar-rived the shep-herd King,\nAnd each shep-herd to his Mas-ter\nMust his sheep as of-fering bring.\n"
+|Lyric3|Text:"3._When there shone the star of Da-vid\nIn the span-gled east-ern sky,\nKings ar-rived to pay their hom-age\nTo the Christ, the Lord most high.\nYet not all, for lo, there sound-eth\nThrough the streets a fear-ful cry;\nFor a king who will not wor-ship\nHas de-creed that Christ must die.\n"
+|Lyric4|Text:"4._Yet it’s Christ-mas, and we greet Him,\nCom-ing e-ven now to save;\nFor the Lord of our sal-va-tion\nWas not cap-tive to the grave.\nOut of E-gypt came the Sav-ior,\nMan’s Im-man-u-el to be—\nChrist-mas shines with East-er glo-ry,\nGlo-ry of e-ter-ni-ty.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:11|Justify:Center
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Note|Dur:16th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-9,-5
+|Bar
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:16th|Pos:0|Opts:Stem=Up
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:-1
+|Bar
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-7
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Korea, 87.87 D"|Label:"Korea, 87.87 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:2/4
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-2
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-2
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-5
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-4
+|Note|Dur:4th|Pos:-8
+|Bar
+|Note|Dur:Half|Pos:-4^
+|Bar
+|Note|Dur:Half|Pos:-4^
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:4th|Pos:-5
+|Bar
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:4
+|Bar
+|Note|Dur:4th,Dotted|Pos:3
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-4
+|Note|Dur:4th|Pos:-8
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

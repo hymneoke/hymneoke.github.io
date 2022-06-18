@@ -1,0 +1,236 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Master’s Call"|Author:"W. S. Martin"|Lyricist:"Mrs. J. P. Bixby, 1887"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Triumph Songs, by Edwin O. Excell (Chicago, Illinois: E. O. Excell, 1887), # 105."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:22|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._The Mas-ter has come, He call-eth for me,\nOh, pre-cious the mess-age and true;\nWith haste, Lord, I rise and come un-to Thee,\nAll praise for the glad in-ter-view.\n\nThe Mas-ter is come, He call-eth for thee;\nHe call-eth for thee, He call-eth for thee,\nHe call-eth, He call-eth for thee and for me.\n"
+|Lyric2|Text:"2._The Mas-ter has come, He call-eth for thee,\nYes, Je-sus the Mas-ter has come;\nBe-lieve in His word, and trust in His grace,\nWhy long-er in sin shouldst thou roam?\n\nThe Mas-ter is come, He call-eth for thee;\nHe call-eth for thee, He call-eth for thee,\nHe call-eth, He call-eth for thee and for me.\n"
+|Lyric3|Text:"3._The Mas-ter has come, He call-eth for thee,\nA-way with thy ea-rth-ly care;\nHe of-fers sweet rest, O sin-ner, to thee;\nThy bur-den He glad-ly will bear.\n\nThe Mas-ter is come, He call-eth for thee;\nHe call-eth for thee, He call-eth for thee,\nHe call-eth, He call-eth for thee and for me.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:85|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Down
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:b-4,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,0^
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:b-4,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:#-6,-1
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-5^
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Down|Dur2:4th|Pos2:-5
+|Spacer|Width:150
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Spacer|Width:475
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:-5^
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th|Pos:#-5,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|TempoVariance|Style:Ritenuto|Pos:7
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"The Master’s Call"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nThe Mas-ter, the Mas-ter is come,\nHe call-eth, He call-eth for thee\n\nThe Mas-ter is come, He call-eth for thee;\nHe call-eth for thee, He call-eth for thee,\nHe call-eth, He call-eth for thee and for me.\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,7^
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,2^
+|Chord|Dur:4th|Pos:0,2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,5^
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,5^
+|Chord|Dur:4th|Pos:3,5
+|Boundary|Style:NewSize|Upper:9
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:#-1,5
+|Chord|Dur:8th|Pos:#0,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

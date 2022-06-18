@@ -1,0 +1,299 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:75|CaretPos:5
+|SongInfo|Title:"New Braunfels, 13.11.12.11"|Author:"John Clarke (1770–1836)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Southern Harmony, by William Walker (1809–1875), # 160."
+|PgSetup|StaffSize:20|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Ye shall shine as the stars\nIn the fade-less for-ev-er,\nWho turn un-to Je-sus the per-ish-ing here,\nWho gen-tly are lead-ing\nThe lambs to the pas-ture\nWhere _ flow-eth the wa-ter\nSo cool-ing and clear.\nWhere _ flow-eth the wa-ter\nSo cool-ing and clear.\n"
+|Lyric2|Text:"2._Then _ prayer-ful-ly, care-ful-ly,\nGo to your la-bors,\nAnd deal with them wise-ly, the souls of your care,\nNev _ er for-get-ting,\nThough loft-y or low-ly,\nHow _ cost-ly a gem\nIs the spir-it they bear.\nHow _ cost-ly a gem\nIs the spir-it they bear.\n"
+|Lyric3|Text:"3._Souls that look yearn-ing-ly\nIn _ to _ your fac-es,\nCatch _ ing the beams of the heav-en-ly light,\nTurn _ ing but slow-ly\nFrom sin’s de-sert plac-es,\nIn _ to _ the beau-ti-ful path-way of light.\nIn _ to _ the beau-ti-ful path-way of light.\n"
+|Lyric4|Text:"4._Bet _ ter, by far, than\nAll _ world-ly be-stow-ment,\nIs _ the re-ward that your ser-vice will win;\nTurn-ing to right-eous-ness\nSouls _ of the chil-dren,\nStoop _ ing to gath-er\nThe _ poor-est ones in.\nStoop _ ing to gath-er\nThe _ poor-est ones in.\n"
+|Lyric5|Text:"5._Time, _ with its guer-dons\nO _ hon-or and treas-ure,\nSoon _ will be lost in the meas-ure-less sea,\nBut yon-der a crown,\nThat is starred with the glo-ry\nOf _ souls for thy hire,\nWill be wait-ing for thee.\nOf _ souls for thy hire,\nWill be wait-ing for thee.\n"
+|Lyric6|Text:"6._Then _ turn not thy hand from\nThe work that’s be-fore thee,\nNor suf-fer thy heart to grow care-less and cold;\nThe seeds ye are sow-ing,\nWith _ pa-tience and prayer,\nEre _ long will be wav-ing\nIn har-vests of gold.\nEre _ long will be wav-ing\nIn har-vests of gold.\n"
+|Lyric7|Text:"7._And _ work, with a will,\nFor the ag-es are be-ing\nCon-densed in the cy-cles of won-der-ful years;\nThe tread of the Might-y One\nGo-eth be-fore thee,\nAnd _ soon will the dawn\nOf His bright-ness ap-pear.\nAnd _ soon will the dawn\nOf His bright-ness ap-pear.\n"
+|Lyric8|Text:"8._Not _ long may it be till\nThe Mas-ter shall call thee;\nNot long till the time of thy mis-sion is o’er—\nThen work while the day lasts,\nAnd e’er the night’s shad-ow\nShall _ gath-er its gloom,\nAnd ye la-bor no more.\nShall _ gath-er its gloom,\nAnd ye la-bor no more.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:65|Pos:13|Justify:Right
+|TimeSig|Signature:3/8
+|Rest|Dur:8th
+|Chord|Dur:16th|Pos:-8,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-7,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:16th|Pos:-5,-1
+|Chord|Dur:16th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,2
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"New Braunfels, 13.11.12.11"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Rest|Dur:8th
+|Note|Dur:16th|Pos:-6
+|Note|Dur:16th|Pos:-5
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:16th|Pos:-3
+|Note|Dur:16th|Pos:-4
+|Bar
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Note|Dur:16th|Pos:1
+|Note|Dur:16th|Pos:1
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:3
+|Note|Dur:16th|Pos:3|Opts:Stem=Down
+|Note|Dur:16th|Pos:3|Opts:Stem=Down
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:16th|Pos:0
+|Note|Dur:16th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:16th|Pos:-1
+|Note|Dur:16th|Pos:-1
+|Bar
+|Note|Dur:8th,Dotted|Pos:0
+|Note|Dur:16th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:Half|Pos:-1
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Staff-1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:6
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:3/8
+|Rest|Dur:8th
+|Note|Dur:16th|Pos:-3
+|Note|Dur:16th|Pos:-3
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:16th|Pos:-3
+|Note|Dur:16th|Pos:-3
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:16th|Pos:-3
+|Note|Dur:16th|Pos:-3
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Bar
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Note|Dur:16th|Pos:4
+|Note|Dur:16th|Pos:4
+|Bar
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:16th|Pos:1
+|Note|Dur:16th|Pos:1
+|Bar
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:4th|Pos:4
+|Note|Dur:16th|Pos:-3
+|Note|Dur:16th|Pos:-3
+|Bar
+|Note|Dur:8th,Dotted|Pos:1
+|Note|Dur:16th|Pos:1
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:Half|Pos:-3
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

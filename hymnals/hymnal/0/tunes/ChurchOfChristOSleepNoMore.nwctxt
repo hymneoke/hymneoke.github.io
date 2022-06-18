@@ -1,0 +1,202 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Church of Christ, O Sleep No More"|Author:" William Howard Doane"|Lyricist:"Frances Jane (Fanny) Crosby, 1905"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Jubilant Voices for Sunday Schools and Devotional Meetings, edited by W. Howard Doane, Elisha A. Hoffman, William J. Kirkpatrick & Charles H. Gabriel (Chicago, Illinois: Hope Publishing Company, 1905), # 21."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:27|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Church of Christ, thy Lord is call-ing;\nOpe thine eyes, be-hold and see,\nPre-cious souls, in chains of bond-age,\nPlead-ing now for aid from thee.\nUp and work for those that per-ish,\nHaste, the time will soon be o’er;\nFold thy arms of love a-round them,\nChurch of Christ, O sleep no more.\n"
+|Lyric2|Text:"2._Lo, a-gain thy Lord is call-ing;\nPreach the Word, its truth pro-claim;\nLift thy voice and, like a trump-et,\nSound a-loud Je-ho-vah’s name.\nBod-ing clouds are in the dist-ance,\nBil-lows foam, and surg-es roar,\nDark and wild the night is com-ing,\nChurch of Christ, O sleep no more.\n"
+|Lyric3|Text:"3._Still a-gain thy Lord is call-ing;\nTake the lamp that once He gave;\nLet its beams of peer-less glor-y\nShine a-far the lost to save.\nDo His will and do it quick-ly,\nFor the time will soon be o’er;\nHe may come when least ex-pect-ed,\nChurch of Christ, O sleep no more.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-3,1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-3,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down,Slur=Upward
+|TempoVariance|Style:Ritenuto|Pos:8|Justify:Right
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:Half|Pos:-5,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,3|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:1|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,2|Opts:Slur=Upward
+|TempoVariance|Style:Ritenuto|Pos:8|Justify:Right
+|Chord|Dur:4th|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-5,0|Opts:Slur=Upward
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Men"|Label:"Colorado Springs"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:-2,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:0,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:-2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up,Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:-2,5|Opts:Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

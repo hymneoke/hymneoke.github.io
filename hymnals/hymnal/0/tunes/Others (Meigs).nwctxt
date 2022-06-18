@@ -1,0 +1,206 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Others"|Author:"Elizabeth McEwen Shields"|Lyricist:"Charles D. Meigs, 1902"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Cokesbury Worship Hymnal, edited by C. A. Bowen (Baltimore, Maryland: The Methodist Publishing House, 1938), # 177. Also in Favorite Hymns of Praise (Chicago, Illinois: Tabernacle Publishing Company, 1971), # 185."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Lord, help me live from day to day\nIn such a self-for-get-ful way\nThat e-ven when I kneel to pray\nMy prayer shall be for— O-thers.\n\nO-thers, Lord, yes o-thers,\nLet this my mot-to be,\nHelp me to live for o-thers,\nThat I may live like Thee.\n"
+|Lyric2|Text:"2._Help me in all the work I do\nTo ev-er be sin-cere and true\nAnd know that all I’d do for You\nMust needs be done for— O-thers.\n\nO-thers, Lord, yes o-thers,\nLet this my mot-to be,\nHelp me to live for o-thers,\nThat I may live like Thee.\n"
+|Lyric3|Text:"3._Let “Self” be cru-ci-fied and slain\nAnd bur-ied deep: and all in vain\nMay ef-forts be to rise a-gain,\nUn-less to live for— O-thers.\n\nO-thers, Lord, yes o-thers,\nLet this my mot-to be,\nHelp me to live for o-thers,\nThat I may live like Thee.\n"
+|Lyric4|Text:"4._And when my work on earth is done,\nAnd my new work in Heav’n’s be-gun,\nMay I for-get the crown I’ve won,\nWhile think-ing still of— O-thers.\n\nO-thers, Lord, yes o-thers,\nLet this my mot-to be,\nHelp me to live for o-thers,\nThat I may live like Thee.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:90|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Spacer|Width:525
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:n-4,-2
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,2
+|Spacer|Width:175
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:n-4,-2
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,b3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-5
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Spacer|Width:350
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:25
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down
+|Rest|Dur:4th
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:8th,Dotted|Pos:#-6,-2
+|Chord|Dur:16th|Pos:-6,-2
+|Bar
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:4th|Pos:n-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Rest|Dur:8th
+|TempoVariance|Style:Ritenuto|Pos:8
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Others"|Label:"Others"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|TempoVariance|Style:Fermata|Pause:0|Pos:11|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,6
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:5,7
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,6
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:8th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:5
+|Chord|Dur:16th|Pos:-2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:Half|Pos:1,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:1
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Rest|Dur:4th
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th,Dotted|Pos:n1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:5,7
+|Bar
+|Chord|Dur:Half|Pos:5,9
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

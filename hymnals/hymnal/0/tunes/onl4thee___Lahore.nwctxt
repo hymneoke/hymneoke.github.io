@@ -1,0 +1,109 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:37|CaretPos:-8
+|SongInfo|Title:"Lahore, 11.11.11.11"|Author:"William Fiske Sherwin, 1873"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Echoes from Zion, edited by William F. Sherwin (New York: Horace Waters & Son, 1874), p. 63"
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Pre-cious Sav-ior, may I live\nOn-ly for Thee.\nSpend the pow-ers Thou dost give,\nOn-ly for Thee.\n"
+|Lyric2|Text:"2._Be my spir-it’s deep de-sire\nOn-ly for Thee.\nMay my in-tel-lect as-pire\nOn-ly for Thee.\n"
+|Lyric3|Text:"3._In my joys may I re-joice\nOn-ly for Thee.\nIn my choic-es make my choice\nOn-ly for Thee.\n"
+|Lyric4|Text:"4._Meek-ly may I suf-fer grief\nOn-ly for Thee.\nGrate-ful-ly ac-cept re-lief\nOn-ly for Thee.\n"
+|Lyric5|Text:"5._Be my smiles and be my tears\nOn-ly for Thee.\nBe my young and rip-er years\nOn-ly for Thee.\n"
+|Lyric6|Text:"6._Be my sing-ing and my sighing\nOn-ly for Thee.\nBe my sick-ness and my dying\nOn-ly for Thee.\n"
+|Lyric7|Text:"7._Be my ris-ing, be my glory\nOn-ly for Thee.\nBe my whole e-ter-ni-ty\nOn-ly for Thee.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:145|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,-1^
+|Chord|Dur:Half|Pos:-3,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-2
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3^
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Lahore, William Sherwin"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2^,6^
+|Chord|Dur:Half|Pos:2,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down|Dur2:Half|Pos2:2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down|Dur2:Half|Pos2:2
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,7
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2^,4^
+|Chord|Dur:Half|Pos:2,4
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

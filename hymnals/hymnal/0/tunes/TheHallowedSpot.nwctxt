@@ -1,0 +1,217 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Hallowed Spot"|Author:"Arranged by Tullius Clinton O’Kane"|Lyricist:"William Hunter, 1843"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Rodeheaver\'s Gospel Solos and Duets Number 3, compiled by Yumbert P. Rodeheaver, C. Austin Miles & Bentley D. Ackley (Winona Lake, Indiana: Rodeheaver Hall-Mack, 1938), # 3. Original publication date found at http://www.hymnary.org."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.54|Right:2.29|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._There is a spot to me more dear\nThan na-tive vale or moun-tain;\nA spot for which af-fec-tion’s tear\nSprings grate-ful from its foun-tain.\n’Tis not where kin-dred souls a-bound,\nThough that is al-most hea-ven,\nBut where I first my Sav-ior found,\nAnd felt my sins for-giv-en.\n"
+|Lyric2|Text:"2._Hard was my toil to reach the shore,\nLong tossed up-on the o-cean;\nA-bove me was the thun-der’s roar,\nBe-neath, the wave’s com-mo-tion.\nDark-ly the pall of night was thrown\nA-round me faint with ter-ror;\nIn that dark hour how did my groan\nAs-cend for years of er-ror.\n"
+|Lyric3|Text:"3._Sink-ing and pant-ing as for breath\nI knew not help was near me;\nI cried, “Oh, save me, Lord from death,\nIm-mor-tal Je-sus, hear me.”\nThen quick as thought I felt Him mine,\nMy Sav-ior stood be-fore me;\nI saw His bright-ness round me shine,\nAnd shout-ed “Glo-ry, Glo-ry.”\n"
+|Lyric4|Text:"4._O sac-red hour! O hal-lowed spot!\nWhere love di-vine first found me;\nWher-ev-er falls my dis-tant lot,\nMy heart shall lin-ger round thee.\nAnd when from earth I rise, to soar\nUp to my home in hea-ven,\nDown will I cast my eyes once more,\nWhere I was first for-giv-en.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:150|Pos:12|Justify:Right
+|TimeSig|Signature:3/2
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:575
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half,Dotted|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-6,-1
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half,Dotted|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:Half,Dotted|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half,Dotted|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-1
+|Chord|Dur:4th|Pos:-4,-1
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:Half,Dotted|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,0
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Rest|Dur:4th
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-6,-1
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half,Dotted|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"The Hallowed Spot"|Label:"The Hallowed Spot"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:3/2
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:-3,4
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:Half,Dotted|Pos:1,4
+|Rest|Dur:4th
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half,Dotted|Pos:-3,6
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,216 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"My Mother’s Prayer"|Author:"Winfield Scott Weeden"|Lyricist:"Judson Wheeler Van DeVenter, 1895"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1946), # 95."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:1.78|Top:2.54|Right:1.78|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:35|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._I nev-er can for-get the day\nI heard my mo-ther kind-ly say,\n“You’re leav-ing now my ten-der care;\nRe-mem-ber, child, your mo-ther’s prayer.”\n\nWhen-e’er I think of her so dear,\nI feel her an-gel spir-it near;\nA voice comes float-ing on the air,\nRe-mind-ing me of Mo-ther’s prayer.\n"
+|Lyric2|Text:"2._I nev-er can for-get the voice\nThat al-ways made my heart re-joice;\nThough I have wan-dered God knows where,\nStill I re-mem-ber Mo-ther’s prayer.\n\n1,2,3._When-e’er I think of her so dear,\nI feel her an-gel spir-it near;\nA voice comes float-ing on the air,\nRe-mind-ing me of Mo-ther’s prayer.\n"
+|Lyric3|Text:"3._Tho’ years have gone, I can’t for-get\nThose words of love— I hear them yet;\nI see her by the old arm chair,\nMy mo-ther dear, in hum-ble prayer.\n\n4._______O praise the Lord for sav-ing grace!\nWe’ll meet up yon-der face to face;\nThe home a-bove to-geth-er share,\nIn an-swer to my mo-ther’s prayer.\n"
+|Lyric4|Text:"4._I nev-er can for-get the hour\nI felt the Sav-ior’s cleans-ing pow’r.\nMy sin soul guilt be can-celed there,\n’Twas there He an-swered Mo-ther’s prayer.\n\nWhen-e’er I think of her so dear,\nI feel her an-gel spir-it near;\nA voice comes float-ing on the air,\nRe-mind-ing me of Mo-ther’s prayer.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|Tempo|Tempo:90|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:475
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-8,-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-8,-6
+|Chord|Dur:16th|Pos:-8,-5
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:550
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Spacer|Width:475
+|Bar
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Spacer|Width:500
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:25
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Spacer|Width:875
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,1
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,-1
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,2
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,n-2
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,b-2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-4
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"My Mother’s Prayer"|Label:"My Mother’s Prayer"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:4
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,3
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-1,2
+|Bar
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,7
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,3
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,3
+|Chord|Dur:16th|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,6
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,3
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:b-1,2
+|Bar
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,7
+|Chord|Dur:4th,Dotted|Pos:-4,5
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:4th,Dotted|Pos:4,7
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,3
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

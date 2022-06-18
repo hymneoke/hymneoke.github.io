@@ -1,0 +1,179 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"There’s a Song in the Air"|Author:"Karl Pomeroy Harrington, 1904"|Lyricist:"Josiah Gilbert Holland, 1872"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sing to the Lord (Kansas City, Missouri: Lillenas Publishing Company, 1993), # 196."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:35|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._There’s a song in the air!\nThere’s a star in the sky!\nThere’s a mo-ther’s deep prayer\nAnd a ba-by’s low cry!\nAnd the star rains its fire\nWhile the beau-ti-ful sing,\nFor the man-ger of Beth-le-hem\nCra-dles a king!\n"
+|Lyric2|Text:"2._There’s a tu-mult of joy\nO’er the won-der-ful birth,\nFor the vir-gin’s sweet boy\nIs the Lord of the earth.\nAy! the star rains its fire\nWwhile the beau-ti-ful sing,\nFor the man-ger of Beth-le-hem\nCra-dles a king!\n"
+|Lyric3|Text:"3._In the light of that star\nLie the ag-es im-pearled;\nAnd that song from a-far\nHas swept o-ver the world.\nEv-ery hearth is a-flame,\nAnd the beau-ti-ful sing\nIn the homes of the na-tions\nThat Je-sus is king!\n"
+|Lyric4|Text:"4._We re-joice in the light,\nAnd we e-cho the song\nThat comes down through the night\nFrom the hea-ven-ly throng.\nAy! we shout to the love-ly\nE-van-gel they bring,\nAnd we greet in His cra-dle\nOur Sav-ior and king!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-7,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-7,-4
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:8th,Dotted|Pos:-6,-5|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-6,-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Spacer|Width:125
+|Bar
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-6,-5|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-6,-4|Opts:Stem=Up
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-4|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:#-6,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-7,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-4|Opts:Stem=Up
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-6,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-6,2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:n-3,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Christmas Song"|Label:"Christmas Song"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Note|Dur:4th|Pos:3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Note|Dur:4th|Pos:3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,b5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:0,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Note|Dur:4th|Pos:3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:0,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:4,b8|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

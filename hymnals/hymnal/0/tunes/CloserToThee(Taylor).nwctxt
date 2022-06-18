@@ -1,0 +1,155 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Closer to Thee"|Author:"Austin Taylor"|Lyricist:"Austin Taylor, 1911"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Church Gospel Songs and Hymns (West Monroe, Louisiana: Central Printers & Publishers, 1983), # 45."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Clos-er to Thee, near to Thy side,\nClos-er, dear Lord, I would a-bide;\nHold me in Thy em-brace,\n’Neath ev-’ry smile of grace;\nGrant me, Thy child, a place\nClos-er to Thee.\n"
+|Lyric2|Text:"2._Clos-er to Thee, near to Thy breast,\nClos-er to Thee, Lord, let me rest;\nGuide me when I would stray,\nKeep me from sin each day,\nDraw me, dear Lord, I pray,\nClos-er to Thee.\n"
+|Lyric3|Text:"3._Clos-er to Thee, hap-py and free,\nGrant me, O Lord, ev-er to be;\nHear me in ev-’ry cry,\nStand near when I must die;\nThen take me home on high,\nClos-er to Thee.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:#-6,n-4
+|Chord|Dur:8th|Pos:b-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:4th|Pos:n-4,#1
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-4,-2
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,b2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:#-6,n-4
+|Chord|Dur:8th|Pos:b-4,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-4,-1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,0
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Closer to Thee (Taylor)"|Label:"Closer to Thee"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:6/8
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:5
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:4th,Dotted|Pos:-2,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,8
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,8
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,7
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

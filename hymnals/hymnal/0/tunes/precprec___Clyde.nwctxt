@@ -1,0 +1,104 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:13|SelectIndex:14|CaretPos:-4
+|SongInfo|Title:"Clyde, PM"|Author:"Arthur Seymour Sullivan (1842-1900)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Baptist Hymnal, edited by W. Howard Doane & Elias H. Johnson (Philadelphia, Pennsylvania: American Baptist Publication Society, 1883), # 246."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Pre-cious, pre-cious blood of Je-sus,\nShed on Cal-va-ry,\nShed for re-bels, shed for sin-ners,\nShed for me.\n"
+|Lyric2|Text:"2._Pre-cious blood, that hath re-deemed us!\nAll the price is paid;\nPer-fect par-don now is of-fered,\nPeace is made.\n"
+|Lyric3|Text:"3._Pre-cious, pre-cious blood of Je-sus,\nLet it make thee whole;\nLet it flow in might-y cleans-ing\nO’er thy soul.\n"
+|Lyric4|Text:"4._Though thy sins are red like crim-son,\nDeep in scar-let glow,\nJe-sus’ pre-cious blood can make them\nWhite as snow.\n"
+|Lyric5|Text:"5._Pre-cious, pre-cious blood of Je-sus,\nEv-er flow-ing free!\nO be-lieve it, O re-ceive it,\n’Tis for thee.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:b-2,1
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-1
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:n-5,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole|Pos:-4|Opts:Stem=Up|Dur2:Whole|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:Whole|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Clyde, Arthur S. Sullivan"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,5
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:0,9
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Whole|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:6,8
+|Chord|Dur:4th|Pos:5,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,6
+|Chord|Dur:Half|Pos:1,7
+|Bar
+|Chord|Dur:Whole|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

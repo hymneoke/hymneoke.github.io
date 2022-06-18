@@ -1,0 +1,223 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Not Made with Hands"|Author:"Elisha Albright Hoffman"|Lyricist:"E. A. Fergerson, 1903"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Christian Church Hymnal, edited by Harvey R. Christie (Cincinnati, Ohio: Standard Publishing,1906), # 400."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.29|Right:2.54|Bottom:2.29|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Christ Je-sus went a build-ing to pre-pare\nIn Heav’n’s fair lands,\nAnd it will be decked with jew-els rare\nNot made with hands.\n\nI know, I know\nIn Heav’n for me a man-sion stands\nA home, a home\nNot made with hands.\n"
+|Lyric2|Text:"2._Look yon-der and a man-sion you can see,\nAll fair it stands,\nA beau-ti-ful home pre-pared for me\nNot made with hands.\n\nI know, I know\nIn Heav’n for me a man-sion stands\nA home, a home\nNot made with hands.\n"
+|Lyric3|Text:"3._I’ve ne-ver been to Hea-ven, but I’m told\nIn those fair lands\nThe streets are all paved with shin-ing gold,\nNot made with hands.\n\nI know, I know\nIn Heav’n for me a man-sion stands\nA home, a home\nNot made with hands.\n"
+|Lyric4|Text:"4._The ho-ly an-gels, beau-ti-ful and bright,\nDwell in those lands,\nAnd soon we shall reach that home of light\nNot made with hands.\n\nI know, I know\nIn Heav’n for me a man-sion stands\nA home, a home\nNot made with hands.\n"
+|Lyric5|Text:"5._Some of my friends have jour-neyed on be-fore,\nFrom earth’s dark lands,\nTo dwell in that home for-ev-er-more\nNot made with hands.\n\nI know, I know\nIn Heav’n for me a man-sion stands\nA home, a home\nNot made with hands.\n"
+|Lyric6|Text:"6._Some morn-ing fair, some bright and gold-den day,\nWhen God com-mands,\nI’ll go to the home not far a-way\nNot made with hands.\n\nI know, I know\nIn Heav’n for me a man-sion stands\nA home, a home\nNot made with hands.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-3
+|Spacer|Width:600
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Note|Dur:4th|Pos:-1
+|Spacer|Width:400
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:1
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th|Pos:-1
+|Spacer|Width:325
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:1
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Slur|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Slur=Upward,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Spacer|Width:400
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:22
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Note|Dur:4th|Pos:-3
+|Spacer|Width:375
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-1
+|Note|Dur:4th,Slur|Pos:-3|Opts:Slur=Upward
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-3
+|Spacer|Width:175
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:1
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-6,-3
+|Note|Dur:4th|Pos:-3
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-1
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3
+|Spacer|Width:175
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:1
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:-6,-3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Slur|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Slur=Upward,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-6
+|Lyric1|Text:"I know, I know\nA home, a home\n\nI know, I know\nIn Heav’n for me a man-sion stands\nA home, a home\nNot made with hands.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th,Slur|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th,Slur|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Boundary|Style:NewSize|Upper:17
+|Chord|Dur:Half,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Lyric=Never|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Lyric=Never,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Lyric=Never,Beam=End
+|Chord|Dur:4th|Pos:-1,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Lyric=Never
+|Bar|Style:Double
+|Rest|Dur:4th
+|Bar
+|Boundary|Style:NewSize|Upper:7
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-1,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Slur|Pos:6|Opts:Stem=Up,Slur=Downward|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

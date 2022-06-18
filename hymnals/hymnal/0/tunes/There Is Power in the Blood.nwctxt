@@ -1,0 +1,231 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"There Is Power in the Blood"|Author:"Lewis Edgar Jones"|Lyricist:"Lewis Edgar Jones, 1899"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Tabernacle Hymns Number Three (Chicago, Illinois: Tabernacle Publishing, 1950), # 46."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.52|Right:2.54|Bottom:1.52|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Would you be free from the bur-den of sin?\nThere’s power in the blood, power in the blood;\nWould you o’er e-vil a vic-to-ry win?\nThere’s won-der-ful power in the blood.\n\nThere is power, power, won-der work-ing power\nIn the blood of the Lamb;\nThere is power, power, won-der work-ing power\nIn the pre-cious blood of the Lamb.\n"
+|Lyric2|Text:"2._Would you be free from your pas-sion and pride?\nThere’s power in the blood, power in the blood;\nCome for a cleans-ing to Cal-va-ry’s tide;\nThere’s won-der-ful power in the blood.\n\nThere is power, power, won-der work-ing power\nIn the blood of the Lamb;\nThere is power, power, won-der work-ing power\nIn the pre-cious blood of the Lamb.\n"
+|Lyric3|Text:"3._Would you be whit-er, much whit-er than snow?\nThere’s power in the blood, power in the blood;\nSin stains are lost in its life giv-ing flow.\nThere’s won-der-ful power in the blood.\n\nThere is power, power, won-der work-ing power\nIn the blood of the Lamb;\nThere is power, power, won-der work-ing power\nIn the pre-cious blood of the Lamb.\n"
+|Lyric4|Text:"4._Would you do ser-vice for Je-sus your king?\nThere’s power in the blood, power in the blood;\nWould you live dai-ly His prais-es to sing?\nThere’s won-der-ful power in the blood.\n\nThere is power, power, won-der work-ing power\nIn the blood of the Lamb;\nThere is power, power, won-der work-ing power\nIn the pre-cious blood of the Lamb.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up
+|Spacer|Width:525
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,n0|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:n-4,#1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up
+|Spacer|Width:525
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0|Opts:Stem=Up
+|Spacer|Width:400
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:26
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Spacer|Width:475
+|Bar
+|Chord|Dur:8th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Spacer|Width:475
+|Bar
+|Chord|Dur:8th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-5,0|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Power in the Blood"|Label:"Power in the Blood"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,#3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Bar
+|Boundary|Style:NewSize|Upper:8
+|Chord|Dur:Half,Dotted|Pos:-2,2|Opts:Stem=Down
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:1
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:0,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Bar
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Rest|Dur:4th|Opts:Stem=Down
+|Bar
+|Rest|Dur:4th|Opts:Stem=Down
+|Chord|Dur:8th,Dotted,Slur|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th,Slur|Pos:2,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th|Opts:Stem=Up
+|Chord|Dur:8th,Dotted,Slur|Pos:-2,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th,Slur|Pos:-2,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:0,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Bar
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-2,2,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,286 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:62|CaretPos:-1
+|SongInfo|Title:"In the Lowly Manger Lying"|Author:"Harrison Millard"|Lyricist:"Harrison Millard, 1873"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sunday School Harmonies No. 2 (Boston, Massachusetts: Universalist Publishing House, 1882), # 10."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._In the low-ly man-ger ly-ing,\nSee, the love-ly Babe ap-pears!\nRound Him beams the light un-dy-ing,\nAnd His smile thro’ dark-ness cheers!\n\nAn-gels wake the bless-èd cho-rus,\nLo! the night hath passed a-way!\nSee, the King who reign-eth o’er us\nWas a babe on Christ-mas day!\n"
+|Lyric2|Text:"2._Won-d’ring shep-herds watch-ing night-ly,\nSaw the star a-bove them shine,\nAnd it led them, gleam-ing bright-ly,\nTo the Lord of love di-vine!\n\nAn-gels wake the bless-èd cho-rus,\nLo! the night hath passed a-way!\nSee, the King who reign-eth o’er us\nWas a babe on Christ-mas day!\n"
+|Lyric3|Text:"3._Tell the sweet and won-drous sto-ry,\nHow the Son of God on high,\nLeft His home of peace and glo-ry,\nIn the realms be-yond the sky!\n\nAn-gels wake the bless-èd cho-rus,\nLo! the night hath passed a-way!\nSee, the King who reign-eth o’er us\nWas a babe on Christ-mas day!\n"
+|Lyric4|Text:"4._Sing of how He came to mor-tals\nThro’ His love and kind-li-ness!\nHow He o-pened Heav’n’s bright por-tals,\nAll His child-ren there to bless!\n\nAn-gels wake the bless-èd cho-rus,\nLo! the night hath passed a-way!\nSee, the King who reign-eth o’er us\nWas a babe on Christ-mas day!\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:-4,1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:8th,Slur|Pos:-5,0|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-6,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-5,#-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:4th
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:4th
+|Spacer|Width:275
+|Bar|Style:Double
+|Text|Text:"Refrain  Girls"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:17
+|Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Down
+|Note|Dur:8th|Pos:0
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Bar
+|Text|Text:"Boys"|Font:StaffItalic|Pos:9
+|Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Down
+|Note|Dur:8th|Pos:0
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-1
+|Rest|Dur:4th
+|Bar
+|Text|Text:"Tutti"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Down
+|Text|Text:"a tempo"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Staff-1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:6
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Boundary|Style:Collapse
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:Common
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Boundary|Style:NewSize|Upper:7
+|Boundary|Style:EndCollapse
+|Rest|Dur:8th
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-6,-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up,Beam=End
+|Rest|Dur:8th
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-6,-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up,Beam=End
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th,Slur|Pos:-9|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-9|Opts:Stem=Up,Beam=End
+|Rest|Dur:8th
+|Note|Dur:8th,Slur|Pos:-9|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-9|Opts:Stem=Up,Beam=End
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-6,-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up,Beam=End
+|Rest|Dur:8th
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-6,-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up,Beam=End
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th,Slur|Pos:-9|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-9|Opts:Stem=Up,Beam=End
+|Rest|Dur:8th
+|Note|Dur:8th,Slur|Pos:-9|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-9|Opts:Stem=Up,Beam=End
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"In the Lowly Manger Lying"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:25|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,#3
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,#3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-10,-3
+|Rest|Dur:4th,Dotted
+|Chord|Dur:8th|Pos:-10,-3
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:-7,0
+|Rest|Dur:4th,Dotted
+|Chord|Dur:8th|Pos:-7,0
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:-10,-3
+|Rest|Dur:4th,Dotted
+|Chord|Dur:8th|Pos:-10,-3
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:-7,0
+|Rest|Dur:4th,Dotted
+|Chord|Dur:8th|Pos:-7,0
+|Rest|Dur:4th,Dotted
+|Boundary|Style:NewSize|Upper:8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:Half|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

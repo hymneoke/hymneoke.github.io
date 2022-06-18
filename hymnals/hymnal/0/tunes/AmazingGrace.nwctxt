@@ -1,0 +1,151 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Amazing Grace"|Author:"Virginia Harmony, 1831"|Lyricist:"John Newton, 1779"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:1.52|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:23|BoundaryBottom:50|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:4|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._A-maz-ing grace! How sweet the sound\nThat saved a wretch like me!\nI once was lost, but now am found;\nWas blind, but now I see.\n"
+|Lyric2|Text:"2._’Twas grace that taught my heart to fear,\nAnd grace my fears re-lieved;\nHow pre-cious did that grace ap-pear\nThe hour I first be-lieved.\n"
+|Lyric3|Text:"3._Through ma-ny dan-gers, toils and snares,\nI have al-rea-dy come;\n’Tis grace hath brought me safe thus far,\nAnd grace will lead me home.\n"
+|Lyric4|Text:"4._The Lord has prom-ised good to me,\nHis Word my hope se-cures;\nHe will my Shield and Por-tion be,\nAs long as life en-dures.\n"
+|Lyric5|Text:"5._Yea, when this flesh and heart shall fail,\nAnd mor-tal life shall cease,\nI shall pos-sess, with-in the veil,\nA life of joy and peace.\n"
+|Lyric6|Text:"6._The world shall soon dis-solve like snow,\nThe sun re-fuse to shine;\nBut God, who called me here be-low,\nShall be for-e-ver mine.\n"
+|Lyric7|Text:"7._When we’ve been there ten thou-sand years,\nBright shin-ing as the sun,\nWe’ve no less days to sing God’s praise\nThan when we’d first be-gun.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|Spacer|Width:825
+|Bar
+|Chord|Dur:Half|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-5,-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-6,-4|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:-7,-5|Opts:Stem=Up
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:-7,-2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"New Britain"|Label:"New Britain"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:3
+|StaffInstrument|Patch:19|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:0,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:0,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Slur=Downward
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-2,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:0,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

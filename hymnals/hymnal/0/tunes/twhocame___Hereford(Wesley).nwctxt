@@ -1,0 +1,170 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:34|CaretPos:-3
+|SongInfo|Title:"Hereford (Wesley), LM"|Author:"Samuel Sebastian Wesley, 1872"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 698."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O Thou who cam-est from a-bove,\nThe pure ce-les-tial fire to_im-part,\nKin-dle a flame of sac-red love\nOn the mean al-tar of my heart.\n"
+|Lyric2|Text:"2._There let it for Thy glo-ry burn\nWith in-ex-tin-guish-a-ble blaze,\nAnd trem-bling to its source re-turn,\nIn hum-ble prayer and fer-vent praise.\n"
+|Lyric3|Text:"3._Je-sus, con-firm my heart’s de-sire\nTo work and speak and think for Thee;\nStill let me guard the ho-ly fire,\nAnd still stir up Thy gift in me.\n"
+|Lyric4|Text:"4._Read-y for all Thy per-fect will,\nMy acts of faith and love re-peat,\nTill death Thy end-less mer-cies seal,\nAnd make my sac-ri-fice com-plete.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:113|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Bar
+|Note|Dur:8th,Dotted,Slur|Pos:-3^
+|Chord|Dur:16th,Slur|Pos:-3^,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Hereford (Wesley), LM"|Label:"Hereford"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,9|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:8|Opts:Stem=Up
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:4th|Pos:-3,9|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4,7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:6,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:6,9|Opts:Stem=Down
+|Chord|Dur:4th|Pos:10|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:9|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:5,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,9|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,9|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,9|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

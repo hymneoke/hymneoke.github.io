@@ -1,0 +1,220 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"A Bright and Glorious Kingdom"|Author:"William Batchelder Bradbury"|Lyricist:"Charles Eugene Knox, 1864"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Golden Censer, by William B. Bradbury (New York: William B. Bradbury,  and Ivison, Phinney, Blakeman & Company, 1864). pp. 90–91."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:1.40|Top:2.54|Right:1.40|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:39|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._There is a glo-ri-ous king-dom,\nA king-dom bright and fair,\nAnd ma-ny lit-tle child-ren\nWait on the good King there.\nYes, child-ren, child-ren,\nAre in that glo-ri-ous king-dom,\nThat king-dom, that king-dom,\nThat king-dom bright and fair.\n"
+|Lyric2|Text:"2._O, in that glor-i-ous king-dom\nIs built a throne of gold;\nIts or-na-ments are jew-els,\nWith rich-es all un-told.\nA king-dom, king-dom,\nA bright and glor-i-ous king-dom,\nA king-dom, a king-dom,\nA king-dom bright and fair.\n"
+|Lyric3|Text:"3._O, in that glor-i-ous king-dom,\nAnd on that gold-en throne,\nThere reigns the bless-èd Sav-ior,\nThose child-ren are His own.\nYes, child-ren, child-ren,\nAre in that glor-i-ous king-dom;\nThat king-dom, that king-dom,\nThat king-dom bright and fair.\n"
+|Lyric4|Text:"4._And in that glor-i-ous king-dom,\nA-round the throne of gold.\nAre throngs of child-ren’s an-gels,\nTheir num-bers are un-told.\nYes, an-gels— an-gels\nAre in that glor-i-ous king-dom,\nThat king-dom, that king-dom,\nThat king-dom bright and fair.\n"
+|Lyric5|Text:"5._The child-ren o-f that king-dom,\nA-round that glor-ious throne,\nHave palms and crowns of vic-tory,\nAnd harps of sweet-est tone.\nAll sing-ing— sing-ing,\nThere in that glor-i-ous king-dom;\nThat king-dom, that king-dom,\nThat king-dom bright and fair.\n"
+|Lyric6|Text:"6._And now they li-ft their voic-es\nIn prais-es loud and sweet,\nAnd cast their crowns of vic-tory\nDown at their Sav-ior’s feet.\nOf vict-ory, vic-tory,\nTheir crowns, their cro-wns of vic-tory\nOf vic-tory, of vic-tory,\nTheir crowns at Je-sus’ feet.\n"
+|Lyric7|Text:"7._Come, all who lo-ve that king-dom,\nThat king-dom bright and fair;\nCome, give your hearts to Je-sus,\nAnd dwell for-ev-er there.\nAnd praise Him— praise Him\nFor-ev-er i-n that king-dom;\nThat king-dom, that king-dom,\nThat king-dom bright and fair.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,0^
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,3
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-2^
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:14
+|Text|Text:"Girls"|Font:StaffItalic|Scale:80|Pos:9
+|Chord|Dur:8th|Pos:0,2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th|Pos:-2,0
+|Rest|Dur:8th
+|Bar
+|Text|Text:"Boys"|Font:StaffItalic|Scale:80|Pos:9
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,-2
+|Text|Text:"All"|Font:StaffItalic|Scale:80|Pos:9
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Text|Text:"Girls"|Font:StaffItalic|Scale:80|Pos:9
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:-1,1
+|Text|Text:"Boys"|Font:StaffItalic|Scale:80|Pos:9
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Text|Text:"All"|Font:StaffItalic|Scale:80|Pos:9
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2^
+|Chord|Dur:4th|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"A Bright &  Glorious Kingdom"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:3,5
+|Spacer|Width:625
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:-1,3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,7^
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,6
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,5^
+|Chord|Dur:4th|Pos:3,5
+|Bar|Style:Double
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Rest|Dur:8th
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:-6|Justify:Right|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:8th|Pos:-2,7
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,5^
+|Chord|Dur:4th|Pos:3,5
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

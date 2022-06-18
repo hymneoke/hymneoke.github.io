@@ -1,0 +1,211 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:59|CaretPos:2
+|SongInfo|Title:"After All"|Author:"Woodie Washington Smith"|Lyricist:"A. C. Benge, 1908"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Song Crown, by Austin Taylor et al. (Austin, Texas: Firm Foundation Publishing, 1912), # 106."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Al-though our lives be filled with bliss,\nWith floods of joy and hap-pi-ness,\nThere’ll be a bright-er world than this,\nAf-ter all, af-ter all.\nAf-ter all, af-ter all,\nThere’ll be a bright-er world than this,\nAf-ter all, af-ter all.\n"
+|Lyric2|Text:"2._Our earth-ly joys shall pass a-way,\nJust like the fleet-ing of a day,\nBut we with Christ shall live for aye,\nAf-ter all, af-ter all.\nAf-ter all, af-ter all,\nBut we with Christ shall live for aye,\nAf-ter all, af-ter all.\n"
+|Lyric3|Text:"3._Tho’ oft in sor-row we be cast,\nTrust Christ our Lord, it can-not last,\nFor in yon clime ’twill all be past,\nAf-ter all, af-ter all.\nAf-ter all, af-ter all,\nFor in yon clime ’twill all be past,\nAf-ter all, af-ter all.\n"
+|Lyric4|Text:"4._The dark-est night shall turn to day,\nAnd sor-row’s clouds shall pass a-way;\nWith Christ we’ll live an end-less day,\nAf-ter all, af-ter all.\nAf-ter all, af-ter all,\nWith Christ we’ll live an end-less day,\nAf-ter all, af-ter all.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:102|Pos:11|Justify:Center
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:550
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:#-2,2
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-3,1|Opts:Stem=Down
+|Bar
+|TempoVariance|Style:Ritenuto|Pos:8.5|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:11.5|Justify:Center
+|Spacer|Width:150
+|Chord|Dur:4th,Dotted,Slur|Pos:-3^,1^|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,-1|Opts:Lyric=Always
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-5^,0^
+|Chord|Dur:8th,Slur|Pos:-5,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:1^
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:575
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:#-2,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-3,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|TempoVariance|Style:Ritenuto|Pos:8|Justify:Center
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-2
+|Lyric1|Text:"Af-ter all, af-ter all,\nAf-ter all, af-ter all,\n"
+|Clef|Type:Bass
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Spacer|Width:525
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:3
+|Chord|Dur:8th|Pos:-4,3|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,3|Opts:Lyric=Never
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,6|Opts:Lyric=Never
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,6|Opts:Lyric=Never
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Lyric=Never
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:3,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-4,3|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-1,3|Opts:Lyric=Never
+|Bar|Style:Double
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

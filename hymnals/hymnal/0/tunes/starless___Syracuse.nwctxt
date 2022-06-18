@@ -1,0 +1,199 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:60|CaretPos:9
+|SongInfo|Title:"Syracuse, LMD"|Author:"Isaac Hickman Meredith, 1903"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Ideal Song and Hymn Book, Church Edition, by Daniel B. Towner (New York: Fleming H. Revell, 1909), # 34."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._There is a land mine eyes shall see\nWhen I shall lay life’s ar-mor down;\nBut all its bliss is not for me,\nIf I must wear a star-less crown.\n\nA star-less crown when life is done?\nNo glit-tering gems which I have won?\nFor-bid it, Lord, that there should be\nA star-less crown in Heav’n for me.\n"
+|Lyric2|Text:"2._The gains of earth are all but loss,\nE-ter-nal joys are all for me\nWhen I by faith up-lift the cross,\nAnd lead one soul, dear Lord, to Thee.\n\nA star-less crown when life is done?\nNo glit-tering gems which I have won?\nFor-bid it, Lord, that there should be\nA star-less crown in Heav’n for me.\n"
+|Lyric3|Text:"3._For-bid it, Lord, that I should be\nCon-tent to live for self a-lone;\nO may some soul I win for Thee\nA-dorn my crown when life is done.\n\nA star-less crown when life is done?\nNo glit-tering gems which I have won?\nFor-bid it, Lord, that there should be\nA star-less crown in Heav’n for me.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:88|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,-1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:#-5,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:#-6,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Syracuse, LMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:1,#6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:-1,7
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:8th|Pos:-3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,7
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:#0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,b5
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:n2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

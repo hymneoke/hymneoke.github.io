@@ -1,0 +1,146 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Hallel, 65.65 D"|Author:"Myles B. Foster, 1891, arranged by F. F. B. "|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymnal for American Youth, edited by H. Augustine Smith (New York: Century Company, 1919), page 5."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._With glad-ness we wor-ship, re-joice as we sing,\nFree hearts and free voic-es, how bless-èd to bring!\nThe old thank-ful sto-ry shall seek Thine a-bode,\nThou King of all glo-ry, most boun-ti-ful God!\n"
+|Lyric2|Text:"2._Re-newed by Thy Spir-it, re-deemed by Thy Son,\nThy chil-dren would bless Thee for all Thou hast done:\nO Fa-ther, re-turn-ing to love and to light,\nOur spir-its are yearn-ing to praise Thee a-right.\n"
+|Lyric3|Text:"3._Thy right would we give Thee, true hom-age Thy due,\nAnd hon-or e-ter-nal, the u-ni-verse through:\nWith all Thy cre-a-tion, earth, heav-en and sea,\nIn one ac-cla-ma-tion we glo-ri-fy Thee.\n"
+|Lyric4|Text:"4._We join with the an-gels, and so there is giv’n,\nFrom earth, Al-le-lu-ia, in an-swer to Heav’n.\nA-men! Be Thou glo-rious be-low and a-bove,\nRe-deem-ing, vic-tor-ious, and in-fi-nite Love!\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#,D#|Tonic:E
+|Tempo|Tempo:90|Pos:13|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-3
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-4,#-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th|Pos:-6,1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-7,0
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-7,-4
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:#-7,-4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-6
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Hallel, 65.65 D"|Label:"Hallel, 65.65 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#,D#|Tonic:E
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:5
+|Chord|Dur:16th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-1,8
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,7
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:8th|Pos:-2,#1
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,n1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:2,#4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:n4,5
+|Bar
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,4
+|Chord|Dur:16th|Pos:-5,4
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

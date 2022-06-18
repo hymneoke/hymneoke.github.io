@@ -1,0 +1,179 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:25|CaretPos:-90
+|SongInfo|Title:"Levi, 77.75 D"|Author:"George Bennard, 1910"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Revival Classics (Albion, Michigan: Bennard Music, circa 1935) , # 47; this source pairs the tune with the words to Bennard\'s “Have Thy Way, Lord.”"
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.78|Right:2.54|Bottom:1.78|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Je-sus, see me at Thy feet,\nWith my sac-ri-fice com-plete;\nI am bring-ing all to Thee,\nThine a-lone I’ll be.\n\nHave Thy way, Lord, have Thy way,\nThis with all my heart I say;\nI’ll o-bey Thee, come what may;\nDear Lord, have Thy way.\n"
+|Lyric2|Text:"2._O how pa-tient Thou hast been\nWith my pride and in-bred sin!\nO what mer-cy Thou hast shown,\nGrace and love un-known!\n\nHave Thy way, Lord, have Thy way,\nThis with all my heart I say;\nI’ll o-bey Thee, come what may;\nDear Lord, have Thy way.\n"
+|Lyric3|Text:"3._Lord, I loathe my-self and sin,\nEn-ter now and make me clean;\nMake my heart just like Thine own;\nCome, Lord, take Thy throne.\n\nHave Thy way, Lord, have Thy way,\nThis with all my heart I say;\nI’ll o-bey Thee, come what may;\nDear Lord, have Thy way.\n"
+|Lyric4|Text:"4._Lord, Thy love has won my all,\nLet Thy Spir-it on me fall;\nBurn up eve-ry trace of sin;\nMake me pure with-in.\n\nHave Thy way, Lord, have Thy way,\nThis with all my heart I say;\nI’ll o-bey Thee, come what may;\nDear Lord, have Thy way.\n"
+|Lyric5|Text:"5._Praise the Lord, the work is done!\nPraise the Lord, the vic-tory’s won!\nNow the blood is cleans-ing me,\nFrom all sin I’m free.\n\nHave Thy way, Lord, have Thy way,\nThis with all my heart I say;\nI’ll o-bey Thee, come what may;\nDear Lord, have Thy way.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:92|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:#-6,n-4
+|Chord|Dur:4th,Dotted|Pos:b-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:#-6,n-4
+|Chord|Dur:Half|Pos:n-6,b-4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:#-6,n-4
+|Chord|Dur:4th,Dotted|Pos:b-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:#-6,n-4
+|Chord|Dur:Half|Pos:n-6,b-4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Levi, 77.75 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:Half|Pos:-5,2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-5,2,4|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-5,2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:Half|Pos:-5,2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-5,2,4|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-5,2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:Half|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,2,5
+|Chord|Dur:4th|Pos:-2,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-5,2,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,2
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

@@ -1,0 +1,174 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Jesus, Savior, Pilot Me"|Author:"John Edgar Gould"|Lyricist:"Edward Hopper, 1871"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns Nos. 1 to 6 Complete, by Ira D. Sankey, James McGranahan & George C Stebbins (Chicago, Illinois: Biglow & Main, 1894), # 366. Also in the Book of Worship for United States Forces (Washington, DC: U.S. Government Printing Office, 1974), # 116."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:43|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Je-sus, Sav-ior, pi-lot me o-ver life’s tem-pest-uous sea;\nUn-known waves be-fore me roll,\nhid-ing rock and treach-erous shoal.\nChart and com-pass come from Thee;\nJe-sus, Sav-ior, pi-lot me.\n"
+|Lyric2|Text:"2._While th’a-pos-tles’ fra-gile bark strug-gled with the bil-lows dark,\nOn the storm-y Ga-li-lee, Thou didst walk up-on the sea;\nAnd when they be-held Thy form, safe they glid-ed through the storm.\n"
+|Lyric3|Text:"3._Though the sea be smooth and bright,\nspark-ling with the stars of night,\nAnd my ship’s path be a-blaze\nwith the light of hal-cyon days,\nStill I know my need of Thee;\nJe-sus, Sav-ior, pi-lot me.\n"
+|Lyric4|Text:"4._When the dark-ling heav-ens frown,\nand the wrath-ful winds come down,\nAnd the fierce waves, tossed on high,\nlash them-selves a-gainst the sky,\nJe-sus, Sav-ior, pi-lot me,\no-ver life’s tem-pest-uous sea.\n"
+|Lyric5|Text:"5._As a mo-ther stills her child,\nThou canst hush the o-cean wild;\nBois-terous waves o-bey Thy will,\nwhen Thou sayest to them, “Be still!”\nWond-rous sov-ereign of the sea,\nJe-sus, Sav-ior, pi-lot me.\n"
+|Lyric6|Text:"6._When at last I near the shore,\nand the fear-ful break-ers roar\n’Twixt me and the peace-ful rest,\nthen, while lean-ing on Thy breast,\nMay I hear Thee say to me,\n“Fear not, I will pi-lot thee.”\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:90|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th,Triplet=First,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th,Triplet|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-4,-2|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Up
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-3|Opts:Stem=Up
+|Spacer|Width:125
+|Bar
+|Boundary|Style:NewSize|Lower:44
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-3|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:8th,Triplet=First,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th,Triplet|Pos:0|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Triplet=End|Pos:-2|Opts:Stem=Up
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Pilot, 77.77.77"|Label:"Pilot, 77.77.77"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,#2|Opts:Stem=Down
+|Chord|Dur:4th,Triplet=First|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th,Triplet=End|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:2|Opts:Stem=Up,Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-2,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,#2|Opts:Stem=Down
+|Chord|Dur:4th,Triplet=First|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th,Triplet=End|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

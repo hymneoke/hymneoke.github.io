@@ -1,0 +1,185 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:74|CaretPos:-5
+|SongInfo|Title:"Grafton, 87.87.87"|Author:"Chants Ordinaires d l’Office Divin, 1881"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymn Book of the Anglican Church of Canada and the United Church of Canada, 1971, # 341."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Now, my tongue, the mys-tery tell-ing,\nOf the glo-rious bod-y sing,\nAnd the blood, all price ex-cel-ling,\nWhich all man-kind’s Lord and king,\nIn a vir-gin’s womb once dwell-ing,\nShed for this world’s ran-som-ing.\n"
+|Lyric2|Text:"2._Given for us and con-de-scend-ing\nTo be born for us be-low,\nHe, with men in con-verse blend-ing,\nDwelt the seed of truth to sow,\nTill He closed with won-drous end-ing\nHis most pa-tient life be-low.\n"
+|Lyric3|Text:"3._That last night, at sup-per ly-ing\n’Mid the twelve, His cho-sen band,\nJe-sus, with the law com-ply-ing,\nKeeps the feast its rites de-mand;\nThen, more pre-cious food sup-ply-ing,\nGives Him-self with His own hand.\n"
+|Lyric4|Text:"4._Word made flesh, true bread He mak-eth\nBy His word His flesh to be;\nWine His blood: which who-so tak-eth\nMust from car-nal thoughts be free;\nFaith a-lone, though sight for-sak-eth\nShows true hearts the mys-ter-y.\n"
+|Lyric5|Text:"5._There-fore we, be-fore Him bend-ing,\nThis great sac-ra-ment re-vere;\nTypes and shad-ows have their end-ing,\nFor the new-er rite is here;\nFaith, our out-ward sense be-friend-ing,\nMakes our in-ward vi-sion clear.\n"
+|Lyric6|Text:"6._Glo-ry let us give, and bless-ing,\nTo the Fa-ther and the Son;\nHon-or, might and praise ad-dress-ing\nWhile e-ter-nal ag-es run,\nEv-er, too, His love con-fess-ing,\nWho from both with both is One.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-8,-3
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-4
+|Note|Dur:4th|Pos:-8
+|Bar
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-7
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-7|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-5,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-8,-5
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Grafton, 87.87.87"|Label:"Grafton, 87.87.87"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4^
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,5
+|Chord|Dur:4th|Pos:-3,4^
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:Half|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-6,3
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-7|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4^
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-7,2
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

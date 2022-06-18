@@ -1,0 +1,242 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"He Was Nailed to the Cross for Me"|Author:"Frederick Arthur Graves"|Lyricist:"Frederick Arthur Graves, 1906"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Heavenly Visions, edited by Ruth W. Shelton (Dayton, Tennessee: R. E. Winsett Music, 1957), # 24."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.54|Right:2.29|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:15|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-22
+|Lyric1|Text:"1._What a won-der-ful, won-der-ful Sav-ior,\nWho would die on the cross for me!\nFree-ly shed-ding His pre-cious life-blood,\nThat the sin-ner might be made free.\n\nHe was nailed to the cross for me,\nHe was nailed to the cross for me;\nOn the cross cru-ci-fied for me He died;\nHe was nailed to the cross for me.\n"
+|Lyric2|Text:"2._Thus He le-ft His heav-en-ly glo-ry,\nTo ac-comp-lish His Fa-ther’s plan;\nHe was born of the vir-gin Ma-ry,\nTook up-on Him the form of man.\n\nHe was nailed to the cross for me,\nHe was nailed to the cross for me;\nOn the cross cru-ci-fied for me He died;\nHe was nailed to the cross for me.\n"
+|Lyric3|Text:"3._He was wound-ed for o-ur trans-gress-ions,\nAnd He car-ried our sor-rows, too;\nHe’s the Heal-er of ev-’ry sick-ness,\nThis He came to the world to do.\n\nHe was nailed to the cross for me,\nHe was nailed to the cross for me;\nOn the cross cru-ci-fied for me He died;\nHe was nailed to the cross for me.\n"
+|Lyric4|Text:"4._So He ga-ve His li-fe for o-thers\nIn Re-deem-ing this world from sin,\nAnd He’s gone to pre-pare a man-sion,\nThat at last we may en-ter in.\n\nHe was nailed to the cross for me,\nHe was nailed to the cross for me;\nOn the cross cru-ci-fied for me He died;\nHe was nailed to the cross for me.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-4
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-2
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:8th,Dotted|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-1
+|Chord|Dur:16th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-2
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-5
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-4
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2^
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-4
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-2
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:-5
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-4
+|Bar
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4^
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:4
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,#-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-5,1
+|Chord|Dur:16th|Pos:-5,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-1,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"He Was Nailed"|Label:"He Was Nailed"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:37|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Standard Rules|Offset:14
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nHe was nailed to the cross,\n_ _ _ _ _ _\nHe was nailed to the cross,\n\nHe was nailed to the cross for me,\nHe was nailed to the cross for me;\nOn the cross cru-ci-fied for me He died;\nHe was nailed to the cross for me.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Note|Dur:16th|Pos:3
+|Note|Dur:16th|Pos:4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-6^,1^
+|Note|Dur:16th|Pos:4|Opts:Stem=Up
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-6,1
+|Chord|Dur:16th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Bar
+|Chord|Dur:8th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2^
+|Note|Dur:4th|Pos:4^|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,4
+|Note|Dur:16th|Pos:2
+|Note|Dur:16th|Pos:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2^
+|Note|Dur:16th|Pos:4|Opts:Stem=Up
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,1^,5^
+|Chord|Dur:4th|Pos:-6,1,5
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:3
+|Chord|Dur:16th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-6^
+|Note|Dur:16th|Pos:4|Opts:Stem=Up
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-6
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2^
+|Note|Dur:4th|Pos:4^|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,4
+|Note|Dur:16th|Pos:2
+|Note|Dur:16th|Pos:3
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2^
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,1^,3^
+|Chord|Dur:4th|Pos:-6,1,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:27
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,n4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,4
+|Chord|Dur:16th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Boundary|Style:NewSize|Upper:30
+|Chord|Dur:8th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,8
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,b7
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-3,8
+|TempoVariance|Style:Fermata|Pause:0|Pos:11|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

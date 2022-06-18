@@ -1,0 +1,228 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"How Shall I My Savior Set Forth?"|Author:"John William McGarvey, Jr.  (1829-1911)"|Lyricist:"James Maxwell (1720-1800)"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Great Songs of the Church, by Elmer L. Jorgenson (Louisville, Kentucky: Word and Work, 1921), # 92."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._How shall I my Sav-ior set forth?\nHow shall I His beau-ties de-clare?\nOr how shall I speak of His worth,\nOr what His chief dig-ni-ties are?\n\nO won-der-ful love! O won-der-ful love!\nO won-der-ful, won-der-ful love,\nMy Sav-ior showed to me.\n"
+|Lyric2|Text:"2._Tho’ once He was nailed to the cross,\nVile re-bels like me to set free,\nHis glo-ry sus-tain-èd no loss,\nE-ter-nal His king-dom shall be.\n\nO won-der-ful love! O won-der-ful love!\nO won-der-ful, won-der-ful love,\nMy Sav-ior showed to me.\n"
+|Lyric3|Text:"3._O sin-ners! be-lieve and a-dore\nThis Sav-ior, so rich to re-deem;\nNo crea-ture can ev-er ex-plore\nThe trea-sure of good-ness in Him.\n\nO won-der-ful love! O won-der-ful love!\nO won-der-ful, won-der-ful love,\nMy Sav-ior showed to me.\n"
+|Lyric4|Text:"4._Come, all ye who see your-selves lost,\nAnd feel your-selves bur-dened with sin,\nDraw near while with ter-ror you’re tossed,\nO-bey, and your peace shall be-gin.\n\nO won-der-ful love! O won-der-ful love!\nO won-der-ful, won-der-ful love,\nMy Sav-ior showed to me.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:90|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,-1^
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-4^,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2^
+|Chord|Dur:4th|Pos:-5,-2
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:18
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2
+|Chord|Dur:4th|Pos:n-5|Opts:Stem=Up|Dur2:4th|Pos2:n-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,2^
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,#-2
+|Chord|Dur:8th|Pos:-4,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-2^
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"How Shall I My Savior Set Forth"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nO won-der-ful love! O won-der-ful love!\nWon-der-ful love O won-der-ful love!\nWon-der-ful, won-der-ful, won-der-ful love,\n\nO won-der-ful love! O won-der-ful love!\nO won-der-ful, won-der-ful love,\nMy Sav-ior showed to me.\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down|Dur2:8th|Pos2:0
+|Spacer|Width:650
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3,4
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,6
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:8th|Pos:3,6
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:3^,5
+|Chord|Dur:4th|Pos:n3|Opts:Stem=Down|Dur2:4th|Pos2:n3
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:5,7
+|Chord|Dur:16th|Pos:4,7
+|Chord|Dur:8th|Pos:3,7
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,7^
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:-4,7
+|Chord|Dur:16th|Pos:-3,7
+|Chord|Dur:8th|Pos:-2,7
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-1^,6
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,3
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,5^
+|Chord|Dur:4th|Pos:-4,5
+|Bar|Style:Double
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,6
+|Chord|Dur:16th|Pos:0,6
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:7|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,6
+|TempoVariance|Style:Fermata|Pause:0|Pos:11|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,8
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,5^
+|Chord|Dur:Half|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

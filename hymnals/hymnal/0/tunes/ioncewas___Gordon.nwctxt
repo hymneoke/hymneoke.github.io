@@ -1,0 +1,175 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Gordon, 11.11.11.11"|Author:"Adoniram Judson Gordon, 1876"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal (Nashville, Tennessee: Methodist Book Concern, 1939), # 234."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._I once was a stran-ger to grace and to God,\nI knew not my dan-ger, and felt not my load;\nThough friends spoke in rap-ture of Christ on the tree,\nJe-ho-vah Tsid-ke-nu was noth-ing to me.\n"
+|Lyric2|Text:"2._I oft read with pleas-ure, to sooth or en-gage,\nI-sa-iah’s wild mea-sure and John’s sim-ple page;\nBut e’en when they pic-tured the blood sprin-kled tree\nJe-ho-vah Tsid-ke-nu seemed noth-ing to me.\n"
+|Lyric3|Text:"3._Like tears from the daugh-ters of Zi-on that roll,\nI wept when the wa-ters went o-ver His soul;\nYet thought not that my sins had nailed to the tree\nJe-ho-vah Tsid-ke-nu— ’twas noth-ing to me.\n"
+|Lyric4|Text:"4._When free grace a-woke me, by light from on high,\nThen le-gal fears shook me, I trem-bled to die;\nNo ref-uge, no safe-ty in self could I see— \nJe-ho-vah Tsid-ke-nu my Sav-ior must be.\n"
+|Lyric5|Text:"5._My ter-rors all van-ished be-fore the sweet name;\nMy guilt-y fears ban-ished, with bold-ness I came\nTo drink at the foun-tain, life giv-ing and free— \nJe-ho-vah Tsid-ke-nu is all things to me.\n"
+|Lyric6|Text:"6._Je-ho-vah Tsid-ke-nu! my treas-ure and boast,\nJe-ho-vah Tsid-ke-nu! I ne’er can be lost;\nIn thee I shall con-quer by flood and by field,\nMy ca-ble, my an-chor, my breast-plate and shield!\n"
+|Lyric7|Text:"7._E-ven tread-ing the val-ley, the shad-ow of death,\nThis watch-word shall ral-ly my fal-tering breath;\nFor while from life’s fe-ver my God sets me free,\nJe-ho-vah Tsid-ke-nu, my death song shall be.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-6,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-6,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-6
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-6,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Gordon, 11.11.11.11"|Label:"Gordon, 11.11.11.11"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:4,6|Opts:Stem=Down
+|Note|Dur:4th|Pos:5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

@@ -1,0 +1,254 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"He Threw Out the Life-Line to Me"|Author:"J. E. French"|Lyricist:"J. E. French, 1906"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs for All, by John J. Wicker (Philadelphia, Pennsylvania/New York: Hall-Mack Company, 1906), # 10."
+|PgSetup|StaffSize:14.5|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.52|Right:2.54|Bottom:1.52|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._I_was wrecked on a rock-y and de-so-late shore,\nSinking slow-ly be-neath the wild sea;\nWhen all of my strug-gles and ef-forts were o’er,\nChrist threw out the life-line to me.\n\nHe threw out the life-line to me,\nHe threw out the life-line to me,\nFrom Cal-va-ry’s tree,\nFar o-ver the sea,\nChrist threw out the life-line to me.\n"
+|Lyric2|Text:"2._The bil-lows were dash-ing, the waves roll-ing high,\nNo help from the land could I see,\nWhen hope had all van-ished and dan-ger was nigh,\nChrist threw out the life-line to me.\n\nHe threw out the life-line to me,\nHe threw out the life-line to me,\nFrom Cal-va-ry’s tree,\nFar o-ver the sea,\nChrist threw out the life-line to me.\n"
+|Lyric3|Text:"3._When all was con-fu-sion midst dark bil-lows’ roll,\nNo light thro’ the gloom could I see,\nBy trust-ing Him ful-ly He res-cued my soul,\nChrist threw out the life-line to me.\n\nHe threw out the life-line to me,\nHe threw out the life-line to me,\nFrom Cal-va-ry’s tree,\nFar o-ver the sea,\nChrist threw out the life-line to me.\n"
+|Lyric4|Text:"4._And now as I wan-der I sing as I go,\nHis mer-cy is bound-less and free,\nAnd tell the glad sto-ry, that o-thers may know,\nChrist threw out the life-line to me.\n\nHe threw out the life-line to me,\nHe threw out the life-line to me,\nFrom Cal-va-ry’s tree,\nFar o-ver the sea,\nChrist threw out the life-line to me.\n"
+|Lyric5|Text:"5._Your sins like the bil-lows a-round you may rise,\nAnd dan-gers your frail bark pur-sue,\nThere’s One who will heed you and hear your faint cries,\nHe’ll throw out the life-line to you.\n\nHe threw out the life-line to me,\nHe threw out the life-line to me,\nFrom Cal-va-ry’s tree,\nFar o-ver the sea,\nChrist threw out the life-line to me.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:85|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:16th,Slur|Pos:-6,-4|Opts:Stem=Up,Slur=Upward,Beam=First
+|Spacer|Width:375
+|Chord|Dur:16th|Pos:-6,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:16th,Slur|Pos:-4,-2|Opts:Stem=Up,Slur=Upward,Beam=First
+|Spacer|Width:300
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th,Dotted|Pos:n-5,-1
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,0^
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:16th,Slur|Pos:-6,-4|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:16th|Pos:-6,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:20
+|Chord|Dur:8th|Pos:b-2,-1|Opts:Stem=Down
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:b-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,0
+|Chord|Dur:8th|Pos:n-5,0
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,0^
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:n-5,-3
+|Chord|Dur:8th|Pos:b-5,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up|Dur2:8th|Pos2:-1
+|Bar
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Down|Dur2:8th|Pos2:-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:b-2,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"He Threw Out the Life-Line"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/8
+|Chord|Dur:16th,Slur|Pos:-3,4|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:16th,Slur|Pos:-3,4|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-2,4
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:16th,Slur|Pos:-3,4|Opts:Stem=Down,Slur=Downward,Beam=First
+|Spacer|Width:325
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:8
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th,Dotted|Pos:-2,4
+|Chord|Dur:16th|Pos:-2,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

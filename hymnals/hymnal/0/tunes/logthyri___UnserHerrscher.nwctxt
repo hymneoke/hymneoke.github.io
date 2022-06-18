@@ -1,0 +1,154 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:53|SelectIndex:54|CaretPos:0
+|SongInfo|Title:"Unser Herrscher, 87.87.77"|Author:"Joachim Neander, 1680"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 40. Also in The Lutheran Hymnal (St. Louis, Missouri: Concordia Publishing House, 1941), # 472."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Lamb of God, Thy right we own;\nWor-thy Thou, and Thou a-lone,\nThe mys-te-rious book t’ex-plain\nTeem-ing with the fates of man,\nThou shalt o-pen eve-ry seal,\nEve-ry proph-e-cy ful-fill.\n"
+|Lyric2|Text:"2._Power ex-ec-u-tive is Thine:\nProd-i-gal of blood di-vine,\nThou hast dear-ly bought Thine own,\nLaid the pre-cious ran-som down,\nGiv-en by Thy Fa-ther’s grace,\nSlain for all our help-less race.\n"
+|Lyric3|Text:"3._We who in Thy death con-fide,\nCon-scious of Thy blood ap-plied,\nNow the Gos-pel bless-ing prove,\nFruit of Thy re-deem-ing love,\nDai-ly find in serv-ing Thee,\nLove is per-fect lib-er-ty.\n"
+|Lyric4|Text:"4._By the Spir-it of Thy grace\nThy dis-tin-guished wit-ness-es,\nOut of all the world-ly throng,\nEve-ry na-tion, tribe, and tongue,\nCalled, and sep-a-rated for Thine,\nNow we in Thine im-age shine.\n"
+|Lyric5|Text:"5._Thou hast by Thy hal-lowing blood\nCon-se-crat-ed us to God,\nAnd we in the Ho-liest Place,\nOf-fer up our prayer and praise,\nCease-less “Ab-ba, Fa-ther” cry,\nKings and priests of the Most High.\n"
+|Lyric6|Text:"6._Might-ier joys or-dained to know,\nWhen Thou com’st to reign be-low,\nWe shall at Thy side sit down,\nPart-ners of Thy great white throne,\nKings a thou-sand years with Thee,\nKings thro’ all e-ter-ni-ty.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:112|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-9,-6|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5^,-2^|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-9,-6|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5^,-2^|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:8th|Pos:-7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Unser Herrscher,87.87.77"|Label:"Unser Herrscher,87.87.77"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,#3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:2,4|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:Half|Pos:-1,3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

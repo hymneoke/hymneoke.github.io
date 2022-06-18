@@ -1,0 +1,175 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"While Here"|Author:"Will Lamartine Thompson"|Lyricist:"Edgar Cooper Mason, 1904"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The New Century Hymnal, edited by Will L. Thompson (East Liverpool, Ohio: Will L. Thompson, 1904), # 95."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:27|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Spir-it of life and light,\nShine thro’ this wear-y night,\nMy path il-lume;\nShow me the way to go,\nMake me Thy will to know;\nDis-pel the gloom,\nDis-pel the gloom.\n"
+|Lyric2|Text:"2._Com-fort this heart, so worn,\nSo crushed by bur-dens borne,\nCast down so low;\nLet Thy sweet peace con-sole,\nThis wea-ry, an-xious soul,\nTossed to and fro,\nTossed to and fro.\n"
+|Lyric3|Text:"3._Let ho-ly hopes a-rise\nPlain-ly be-fore my eyes,\nHopes fixed on high;\nHopes that shall ne-ver fail;\nAn-chored with-in the veil,\nBe-yond the sky,\nBe-yond the sky.\n"
+|Lyric4|Text:"4._Thus may I lif-ted be,\nOut of my low de-gree,\nOn ho-ly wings;\nKept ev-er in the way,\nAs-pir-ing day by day,\nTo high-er things,\nTo high-er things.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:140|Pos:12|Justify:Right
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5^,-1^
+|Chord|Dur:Half|Pos:-5,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5^,-3^
+|Chord|Dur:Half|Pos:-5,-3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Chord|Dur:Half|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7|Opts:Stem=Up|Dur2:4th|Pos2:-7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6^,-4^
+|Chord|Dur:Half|Pos:-6,-4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4^,1^
+|Chord|Dur:Half|Pos:-4,1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:Half|Pos:-5,#-2
+|Chord|Dur:4th|Pos:-4,n-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5^,-3^
+|Chord|Dur:Half|Pos:-5,-3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-4
+|Chord|Dur:Half|Pos:-5,#-4
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-3
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:4th,Slur|Pos:-5,-3
+|Chord|Dur:4th,Slur|Pos:-4,-2
+|Chord|Dur:4th,Slur|Pos:-5,-3
+|Chord|Dur:4th,Slur|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5^|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-5^
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Rest|Dur:Half
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"While Here"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2^,4^
+|Chord|Dur:Half|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:Half|Pos:3,b5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0^,4^
+|Chord|Dur:Half|Pos:0,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,#3
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,4^
+|Chord|Dur:Half|Pos:-3,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:Half|Pos:1,#3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,4^
+|Chord|Dur:Half|Pos:-3,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:Half|Pos:-2,1
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0^,4^|Opts:Stem=Down
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Rest|Dur:4th|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:#3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:4^|Opts:Stem=Down|Dur2:Whole,Dotted|Pos2:4^
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up|Dur2:4th|Pos2:4
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0^,2^
+|Chord|Dur:4th|Pos:0,2
+|Rest|Dur:Half
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

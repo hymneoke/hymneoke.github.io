@@ -1,0 +1,205 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Speak to Me Only of Jesus"|Author:"Bentley DeForest Ackley"|Lyricist:"Lizzie DeArmond, 1914"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: World Revival Hymns, by Hamp Sewell (Atlanta, Georgia: Hamp Sewell, 1918), # 3."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Speak to me on-ly of Je-sus,\nTell of the cross that He wore,\nTell of the shame and the sor-row,\nTell of the bur-den He bore.\n\nSpeak to me on-ly of Je-sus,\nDy-ing on Cal-va-ry’s tree,\nSpeak to me on-ly of Je-sus,\nHis name is so pre-cious to me.\n"
+|Lyric2|Text:"2._Speak to me on-ly of Je-sus,\nTell of His grace day by day,\nTell how the blood of a-tone-ment\nWash-es my guilt all a-way.\n\nSpeak to me on-ly of Je-sus,\nDy-ing on Cal-va-ry’s tree,\nSpeak to me on-ly of Je-sus,\nHis name is so pre-cious to me.\n"
+|Lyric3|Text:"3._Speak to me on-ly of Je-sus,\nTell of His won-der-ful love,\nTell how He came as a Sav-ior,\nDown from the glo-ry a-bove.\n\nSpeak to me on-ly of Je-sus,\nDy-ing on Cal-va-ry’s tree,\nSpeak to me on-ly of Je-sus,\nHis name is so pre-cious to me.\n"
+|Lyric4|Text:"4._Speak to me on-ly of Je-sus,\nTell of His mer-cy so free,\nTell how, when lost in the dark-ness,\nJe-sus came seek-ing for me.\n\nSpeak to me on-ly of Je-sus,\nDy-ing on Cal-va-ry’s tree,\nSpeak to me on-ly of Je-sus,\nHis name is so pre-cious to me.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:170|Pos:12|Justify:Right
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:n-5,n0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:n-7,-5
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-4,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:n-5,n0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:n-7,-5
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:125
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-6,-1
+|Spacer|Width:250
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:26
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:n-4,1
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:n-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-5,0
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:n-5,n0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:b-2,3
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Speak to Me Only"|Label:"Speak to Me Only"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-3,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:1
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,4
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-3,1,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

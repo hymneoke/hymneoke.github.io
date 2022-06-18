@@ -1,0 +1,185 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Christ at Bethlehem"|Author:"Willilam Smyth Babcock Mathews"|Lyricist:"Willilam Smyth Babcock Mathews, 1878"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Primary Songs, edited by Mrs. D. C. Cook (Chicago, Illinois: David C. Cook, 1878), # 51."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Long a-go on Christ-mas night,\nShep-herds saw the heav’n-ly light,\nHeard the song of an-gels bright,\nChrist was born at Beth-lehem.\n\nChrist our king, Christ our king\nEv-ery voice His praise shall sing;\nJe-sus Christ our Lord and king,\nCame that day to Beth-lehem.\n"
+|Lyric2|Text:"2._Quick to Beth-lehem, they, to see\nWhat the an-gels’ joy could be;\nLo! for love of you and me,\nChrist was born at Beth-lehem.\n\nChrist our king, Christ our king\nEv-ery voice His praise shall sing;\nJe-sus Christ our Lord and king,\nCame that day to Beth-lehem.\n"
+|Lyric3|Text:"3._Come with them to sac-red stall,\nOn our knees with wise men fall;\nSav-ior, king and Lord of all,\nChrist was born at Beth-lehem.\n\nChrist our king, Christ our king\nEv-ery voice His praise shall sing;\nJe-sus Christ our Lord and king,\nCame that day to Beth-lehem.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-1
+|Spacer|Width:425
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-1
+|Note|Dur:Half|Pos:-1
+|Spacer|Width:325
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:0
+|Spacer|Width:300
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-3
+|Note|Dur:Half|Pos:-4
+|Spacer|Width:300
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-1
+|Spacer|Width:200
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:0
+|Note|Dur:Half|Pos:0
+|Spacer|Width:400
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:Half|Pos:-5
+|Note|Dur:4th|Pos:-5
+|Rest|Dur:4th
+|Spacer|Width:225
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:11
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:Half|Pos:0,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-3,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:Half|Pos:-2,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Christ at Bethlehem"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:0,2,4
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:0,2,4
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Up|Dur2:Whole|Pos2:-4
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Up|Dur2:Whole|Pos2:-3
+|Chord|Dur:Half|Pos:1,4,6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:0,2,4
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:3,5,7|Opts:Stem=Up|Dur2:Whole|Pos2:-3
+|Chord|Dur:Half|Pos:3,5,7|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Up|Dur2:Whole|Pos2:-3
+|Chord|Dur:Half|Pos:3,4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:0,2,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

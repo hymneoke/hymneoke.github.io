@@ -1,0 +1,155 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Happy Land"|Author:"Hindu Tune"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Heart Songs, compiled by the National Magazine (Cleveland, Ohio: World Syndicate Publishing, 1909), p. 506. Also in The English Hymnal (London: Oxford University Press, 1906), # 608."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._There is a hap-py land, far, far a-way,\nWhere saints in glo-ry stand, bright, bright as day.\nOh, how they sweet-ly sing, wor-thy is our Sav-ior king,\nLoud let His prais-es ring, praise, praise for aye.\n"
+|Lyric2|Text:"2._Come to that hap-py land, come, come a-way;\nWhy will ye doubt-ing stand, why still de-lay?\nOh, we shall hap-py be, when from sin and sor-row free,\nLord, we shall live with Thee, blest, blest for aye.\n"
+|Lyric3|Text:"3._Bright, in that hap-py land, beams eve-ry eye;\nKept by a Fa-ther’s hand, love can-not die.\nOh, then to glo-ry run; be a crown and king-dom won;\nAnd, bright, a-bove the sun, we reign for aye.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#,D#|Tonic:E
+|Tempo|Tempo:105|Pos:13|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Base Clef"|Label:"Base Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#,D#|Tonic:E
+|TimeSig|Signature:2/4
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:5
+|Note|Dur:8th,Dotted|Pos:-2
+|Note|Dur:16th|Pos:-2
+|Bar
+|Note|Dur:Half|Pos:1
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:5|Opts:Stem=Down
+|Note|Dur:8th,Dotted|Pos:-2|Opts:Stem=Down
+|Note|Dur:16th|Pos:-2|Opts:Stem=Down
+|Bar
+|Note|Dur:Half|Pos:1|Opts:Stem=Down
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Bar
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Bar
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,5|Opts:Stem=Down
+|Note|Dur:8th,Dotted|Pos:-2|Opts:Stem=Down
+|Note|Dur:16th|Pos:-2|Opts:Stem=Down
+|Bar
+|Note|Dur:Half|Pos:1|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

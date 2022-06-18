@@ -1,0 +1,169 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:5|SelectIndex:6|CaretPos:-3
+|SongInfo|Title:"Bonar (Calkin), 88.7 D"|Author:"John Baptiste Calkin, 1867"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Sabbath-School Work, 1907), # 636."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._In Thy glo-rious res-ur-rec-tion,\nLord, we see a world’s e-rec-tion,\nMan in Thee is glo-ri-fied.\nBliss, for which the pa-triarchs pant-ed,\nJoys, by ho-ly psalm-ists chant-ed,\nNow in Thee are ver-i-fied.\n"
+|Lyric2|Text:"2._Or-a-cles of for-mer ag-es,\nVeiled in dim pro-phet-ic pag-es,\nNow lie o-pen to the sight;\nNow the types, which glim-mered dark-ling\nIn the twi-light gloom, are spar-kling,\nIn the blaze of noon-day light.\n"
+|Lyric3|Text:"3._I-saac from the wood is ris-en;\nJo-seph is-sues from the pris-on;\nSee the Pas-chal Lamb which saves;\nIs-rael through the sea is land-ed,\nPhar-aoh and his hosts are strand-ed,\nAnd o’er-whelm-èd in the waves.\n"
+|Lyric4|Text:"4._See the cloud-y pil-lar lead-ing,\nRock re-fresh-ing, man-na feed-ing;\nJosh-u-a fights and Mo-ses prays;\nSee the lift-ed wave-sheaf, cheering\nPledge of har-vest-fruits ap-pear-ing,\nJoy-ful dawn of hap-py days.\n"
+|Lyric5|Text:"5._Sam-son see at night up-tear-ing\nGa-za’s bra-zen gates, and bear-ing\nTo the top of He-bron’s hill;\nJo-nah comes from storm-y surg-es,\nFrom his three-days’ grave e-merg-es,\nBids be-ware of com-ing ill.\n"
+|Lyric6|Text:"6._So Thy res-ur-rec-tion’s glo-ry\nSheds a light on an-cient sto-ry;\nAnd it casts a for-ward ray,\nBea-con light of sol-emn warn-ing,\nTo the dawn of that great morn-ing\nUsh-ering in the judg-ment day.\n"
+|Lyric7|Text:"7._Ev-er since Thy death and ris-ing\nThou the na-tions art bap-tiz-ing\nIn Thy death’s si-mil-i-tude;\nDead to sin, and ev-er dy-ing,\nAnd our mem-bers mor-ti-fy-ing,\nMay we walk with life re-newed!\n"
+|Lyric8|Text:"8._Forth from Thy first East-er go-ing,\nSun-days are for ev-er flow-ing\nOn-ward to a bound-less sea;\nLord, may they for Thee pre-pare us,\nOn a ho-ly riv-er bear us\nTo a calm e-ter-ni-ty!\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:108|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:#-5,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:#-5,-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:n-5,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,1
+|Chord|Dur:8th|Pos:#-5,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:#-5,-3
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:#-4,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:-8,n-4
+|Bar
+|Chord|Dur:Half|Pos:-8,-3
+|Chord|Dur:Half|Pos:-7,-1
+|Bar
+|Chord|Dur:Whole|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Bonar, 88.7 D"|Label:"Bonar, 88.7 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,5
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,5
+|Chord|Dur:4th|Pos:-3,#5
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:n2,5
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,#7
+|Chord|Dur:4th|Pos:1,n7
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:#1,7
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,n3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:n2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-3,1
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

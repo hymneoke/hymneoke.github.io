@@ -1,0 +1,147 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:11|SelectIndex:12|CaretPos:-4
+|SongInfo|Title:"Almsgiving (Dykes), 88.84"|Author:"John Bacchus Dykes, 1865"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Christian Education, 1933), # 398."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O Lamb of God, that tak’st a-way\nOur sin, and bidd’st our sor-row cease,\nTurn Thou, oh, turn this night to day,\nGrant us Thy peace.\n"
+|Lyric2|Text:"2._The trou-bled world hath war with-out;\nThe rest-less, way-ward heart with-in\nHath fear and wea-ri-ness and doubt,\nAnd death and sin.\n"
+|Lyric3|Text:"3._And there are needs that none can know,\nAnd tears no eye but Thine can see;\nHopes naught can sat-is-fy be-low;\nWe look to Thee.\n"
+|Lyric4|Text:"4._’Tis not the calm, de-ceit-ful dream\nThat earth calls peace, we ask for now;\nNo drop-ping down the fa-tal stream\nWith care-less prow.\n"
+|Lyric5|Text:"5._Probe deep the wound if so Thou wilt,\nIf pain must wake us. Purge our dross:\nHelp us to lay our load of guilt\nBe-neath Thy cross.\n"
+|Lyric6|Text:"6._That we a-mid the toil and strife\nAnd storms that nev-er end be-low,\nThrough all the change and chance of life,\nThy peace may know.\n"
+|Lyric7|Text:"7._The peace that is not ours but Thine—\nO, safe and true and death-less thus—\n’Gainst which all storms in vain com-bine;\nGrant, grant to us.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:113|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=End,Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-7|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-2
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,0|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-2|Opts:Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:2
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First,Tie=Upward
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:#-6,-2|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-8,-3|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-7,-2|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-7,-2|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:4th|Pos:n-3,2|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-7|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End,Tie=Upward
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:Half,Dotted|Pos2:-2
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Almsgiving (Dykes)"|Label:"Almsgiving (Dykes)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass|AutoSys:N
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:3
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Beam=First,Tie=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=End,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3|Opts:Stem=Up,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:0
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,Tie=Downward
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,6|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:5,7|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:5
+|Note|Dur:8th,Slur|Pos:n2|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End,Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:4th,Slur|Pos:3|Opts:Stem=Up,Tie=Downward
+|Note|Dur:4th|Pos:4|Opts:Stem=Up,Tie=Downward
+|Bar
+|Boundary|Style:NewSize|Upper:19
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem,Tie=Downward|Dur2:4th,Dotted|Pos2:7
+|RestChord|Dur:8th|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem,Tie=Downward,HideRest|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5|Opts:Stem=Down,Slur=Downward,Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

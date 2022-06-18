@@ -1,0 +1,200 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Bless Us Children Now"|Author:"William Warren Bentley"|Lyricist:"Frances Jane (Fanny) Crosby, 1877"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Photocopied score, origin unknown. Publication date from hymnay.org"
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.54|Right:2.29|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Dear Sav-ior, from Thy throne a-bove,\nWhere count-less child-ren bow,\nOh, let Thy lov-ing eye be-hold\nAnd bless us child-ren now.\n\nOur hearts in tune-ful num-bers wake,\nOur tongues with rap-ture sing,\nAll glo-ry, hon-or, praise to Thee,\nRe-deem-er, Lord and King!\n"
+|Lyric2|Text:"2._Thy mer-cy led us thro’ the year\nThat sweet-ly passed a-way,\nAnd thro’ Thy grace we ga-ther now\nTo hail our fes-tive day.\n\nOur hearts in tune-ful num-bers wake,\nOur tongues with rap-ture sing,\nAll glo-ry, hon-or, praise to Thee,\nRe-deem-er, Lord and King!\n"
+|Lyric3|Text:"3._Oh, may we learn in ear-ly youth\nThy ho-ly Word to prize,\nThe lamp that guides our feet to Heav’n,\nOur home be-yond the skies.\n\nOur hearts in tune-ful num-bers wake,\nOur tongues with rap-ture sing,\nAll glo-ry, hon-or, praise to Thee,\nRe-deem-er, Lord and King!\n"
+|Lyric4|Text:"4._Oh, hap-py thought, if, faith-ful here,\nWe work and watch and pray,\nWe’ll spend with Thee in Heav’n at last\nAn end-less hap-py day.\n\nOur hearts in tune-ful num-bers wake,\nOur tongues with rap-ture sing,\nAll glo-ry, hon-or, praise to Thee,\nRe-deem-er, Lord and King!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:0,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-1,1|Opts:Slur=Upward
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Slur=Upward
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-1,1|Opts:Slur=Upward
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Slur|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:0,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-1,1|Opts:Slur=Upward
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,1|Opts:Slur=Upward
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Spacer|Width:275
+|Boundary|Style:NewSize|Lower:26
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Instrument|Name:"[#001]"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-10|Justify:Right
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:4th,Staccato|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th,Staccato|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th,Staccato|Pos:-4,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th,Staccato|Pos:-4,-1|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:4th,Staccato|Pos:-4,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th,Staccato|Pos:-4,0|Opts:Stem=Up,Slur=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Staccato|Pos:-4,1|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down,Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Bless Us Children Now"|Label:"Bless Us Children Now"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:19|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Rest|Dur:4th
+|Bar
+|Note|Dur:Whole|Pos:1|Opts:Slur=Downward
+|Bar
+|Note|Dur:Whole|Pos:1|Opts:Slur=Downward
+|Bar
+|Note|Dur:Whole|Pos:-2|Opts:Slur=Downward
+|Bar
+|Note|Dur:Whole|Pos:1|Opts:Slur=Downward
+|Bar
+|Note|Dur:Whole|Pos:1|Opts:Slur=Downward
+|Bar
+|Note|Dur:Whole|Pos:1|Opts:Slur=Downward
+|Bar
+|Note|Dur:Whole|Pos:-2|Opts:Slur=Downward
+|Bar
+|Note|Dur:Half,Dotted|Pos:1|Opts:Slur=Downward
+|Boundary|Style:NewSize|Upper:2
+|Bar|Style:Double
+|Instrument|Name:"[#092]"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-10|Justify:Right
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,8|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,8|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:4th,Staccato|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:4th,Staccato|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:4th,Staccato|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:4th,Staccato|Pos:2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Staccato|Pos:3,8|Opts:Slur=Downward
+|Chord|Dur:4th,Staccato|Pos:3,8|Opts:Slur=Downward
+|Chord|Dur:4th,Staccato|Pos:4,8|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:4,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

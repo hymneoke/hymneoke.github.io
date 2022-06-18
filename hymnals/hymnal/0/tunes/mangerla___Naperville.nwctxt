@@ -1,0 +1,136 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Naperville, 65.65"|Author:"Emanuel Poppen, 1914"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Primary School Carols (Columbus, Ohio: Lutheran Book Concern, 1914), # 5."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"String Ensemble 1"|Patch:48|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Just a lit-tle ba-by,\nIn a man-ger laid,\nCat-tle all a-round Him,\nYet He’s not a-fraid.\n"
+|Lyric2|Text:"2._God is watch-ing o’er Him,\nAn-gels hov-er round,\nWise men came and wor-shiped,\nBow-ing to the ground.\n"
+|Lyric3|Text:"3._Spread-ing gifts be-fore Him,\nFrank-in-cense and gold,\nThings a ti-ny ba-by\nSure-ly could-n’t hold.\n"
+|Lyric4|Text:"4._Just the sweet-est ba-by,\nMoth-er ev-er won,\nYet the Lord of glo-ry,\nGod’s be-lov-èd Son.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:98|Pos:12|Justify:Center
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:Half|Pos:-3
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-2
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:Whole|Pos:-4
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:-2
+|Bar
+|Note|Dur:Half|Pos:-3
+|Note|Dur:Half|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:Whole|Pos:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:6|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:4th,Slur|Pos:4|Opts:Slur=Downward
+|Note|Dur:4th|Pos:3|Opts:Slur=Downward
+|Bar
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:b5|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:Half|Pos:0|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

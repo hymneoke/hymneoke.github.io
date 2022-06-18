@@ -1,0 +1,165 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Lyons, 10.10.11.11"|Author:"Attributed to Johann Michael Haydn (1737–1806)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 73."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O praise ye the Lord, pre-pare a new song,\nAnd let all His saints in full con-cert join;\nYe tribes all as-sem-ble, the feast to pro-long,\nIn sol-emn pro-ces-sion, with mu-sic di-vine.\n"
+|Lyric2|Text:"2._O Is-rael, in Him that made thee, re-joice,\nLet all Zi-on’s sons ex-ult in their king;\nWhile to mar-tial danc-es you join a glad voice,\nYour lutes, harps and tim-brels, in har-mo-ny bring.\n"
+|Lyric3|Text:"3._The Lord in His saints still finds His de-light,\nSal-va-tion from Him the meek shall a-dorn;\nThey well may be joy-ful, sus-tained by His might,\nAnd crowned by His fa-vor may lift up their horn.\n"
+|Lyric4|Text:"4._Let car-pets be spread, and ban-quets pre-pared,\nThose al-tars a-round, whence in-cense as-cends;\nWhilst an-thems of glo-ry thro’ Sa-lem are heard,\nAnd God, whom we wor-ship, in-dul-gent at-tends.\n"
+|Lyric5|Text:"5._Then as your hearts bound with mu-sic and wine,\nIn-spired by the God who reigns in the place,\nUn-sheath all your weap-ons, and bright let them shine,\nAnd bran-dish your fal-chions, while chant-ing His praise.\n"
+|Lyric6|Text:"6._Then march to the field, the hea-then de-fy,\nAnd scat-ter His wrath on na-tions a-round;\nLike an-gels of venge-ance your swords lift on high,\nAnd boast that Je-ho-vah com-mis-sions the wound.\n"
+|Lyric7|Text:"7._Their gen-erals sub-dued, your tri-umphs shall grace,\nAnd load-ed with chains, their kings shall be brought;\nThe necks shall ye tram-ple of Ca-naan’s proud race,\nAnd all their last rem-nant for slaugh-ter be sought.\n"
+|Lyric8|Text:"8._No rage of your own such ri-gor de-mands;\nA sen-tence di-vine your arms must ful-fill;\nOf old He this venge-ance con-signed to your hands,\nAnd in sac-red vol-umes re-cord-ed His will.\n"
+|Clef|Type:Treble
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-7,-2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:#-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-7,-2
+|Bar
+|Chord|Dur:4th|Pos:-8,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-7,-2
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Lyons, 10.10.11.11"|Label:"Lyons, 10.10.11.11"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,3
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,3
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

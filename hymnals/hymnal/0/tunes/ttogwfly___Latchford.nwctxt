@@ -1,0 +1,153 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:4|CaretPos:-1
+|SongInfo|Title:"Latchford, 66.66.88"|Author:"William Statham, 1875"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient & Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 142."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._To Thee our God we fly\nFor mer-cy and for grace;\nO hear our low-ly cry,\nAnd hide not Thou Thy face.\n\nO Lord, stretch forth Thy might-y hand\nAnd guard and bless our Fa-ther-land.\n"
+|Lyric2|Text:"2._A-rise, O Lord of hosts!\nBe jeal-ous of Thy name,\nAnd drive from out our coasts\nThe sins that put to shame.\n\nO Lord, stretch forth Thy might-y hand\nAnd guard and bless our Fa-ther-land.\n"
+|Lyric3|Text:"3._Thy best gifts from on high\nIn rich a-bun-dance pour,\nThat we may mag-ni-fy\nAnd praise Thee more and more.\n\nO Lord, stretch forth Thy might-y hand\nAnd guard and bless our Fa-ther-land.\n"
+|Lyric4|Text:"4._The powers or-dained by Thee\nWith heaven-ly wis-dom bless;\nMay they Thy ser-vants be,\nAnd rule in right-eous-ness.\n\nO Lord, stretch forth Thy might-y hand\nAnd guard and bless our Fa-ther-land.\n"
+|Lyric5|Text:"5._The Church of Thy dear Son,\nIn-flame with love’s pure fire,\nBind her once more in one,\nAnd life and truth in-spire.\n\nO Lord, stretch forth Thy might-y hand\nAnd guard and bless our Fa-ther-land.\n"
+|Lyric6|Text:"6._The pas-tors of Thy fold,\nWith grace and power en-due,\nThat faith-ful, pure and bold,\nThey may be pas-tors true.\n\nO Lord, stretch forth Thy might-y hand\nAnd guard and bless our Fa-ther-land.\n"
+|Lyric7|Text:"7._O let us love Thy house,\nAnd sanc-ti-fy Thy day,\nBring un-to Thee our vows,\nAnd loy-al hom-age pay.\n\nO Lord, stretch forth Thy might-y hand\nAnd guard and bless our Fa-ther-land.\n"
+|Lyric8|Text:"8._Give peace, Lord, in our time;\nO let no foe draw nigh,\nNor law-less deed of crime\nIn-sult Thy maj-es-ty.\n\nO Lord, stretch forth Thy might-y hand\nAnd guard and bless our Fa-ther-land.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-5
+|Chord|Dur:4th|Pos:-7,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-6
+|Chord|Dur:4th|Pos:-7,-6
+|Bar
+|Chord|Dur:4th|Pos:-8,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:b-4,1
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Chord|Dur:4th|Pos:-8,b-4
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:#-3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4
+|Note|Dur:8th|Pos:#-6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:0,1
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Latchford, 66.66.68"|Label:"Latchford, 66.66.68"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:2
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:-4,n5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:0,#2
+|Chord|Dur:4th|Pos:#-5,4
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:4,7
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:b1,6
+|Chord|Dur:4th|Pos:-1,b8
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:8
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-2
+|Note|Dur:8th|Pos:7|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

@@ -1,0 +1,269 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Comrades of the Cross"|Author:"Isaac Hickman Meredith"|Lyricist:"Frederick Watson Hannan, 1904"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Choice Hymns, by Harold C. Clase (New York: Tullar-Meredith Company, 1929), # 7."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._We are loy-al com-rades, com-rades of the cross,\nMarch-ing on to vic-tory, count-ing all but dross,\nFor our great com-mand-er, who will lead us on,\nTill the foe is van-quished and the vic-tory won.\n\nFor-ward, for-ward, then, ye com-rades,\nLoy-al, brave and strong,\nChrist is our com-mand-er,\nVic-tory is our song.\n"
+|Lyric2|Text:"2._Com-rades, ne-ver fal-ter, lift the stand-ard high,\nBear it brave-ly for-ward, let its col-ors fly;\nEv-ery call to du-ty, heed with-out de-lay,\nBrav-ing ev-ery dan-ger, hast-en to o-bey.\n\nFor-ward, for-ward, then, ye com-rades,\nLoy-al, brave and strong,\nChrist is our com-mand-er,\nVic-tory is our song.\n"
+|Lyric3|Text:"3._On-ward, up-ward, com-rades, ral-ly for the fight,\nCharge the com-ing le-gions, seize the sun-lit height;\nHold it for your cap-tain, ne-ver call re-treat;\nSoon we’ll lay our tro-phies at the Mas-ter’s feet.\n\nFor-ward, for-ward, then, ye com-rades,\nLoy-al, brave and strong,\nChrist is our com-mand-er,\nVic-tory is our song.\n"
+|Lyric4|Text:"4._Com-rades, who re-ceive Him, Mas-ter of us all,\nTrust, con-fess, o-bey Him, hear His gra-cious call;\nFol-low Him to Cal-vary, bear its shame and loss;\nWe are loy-al com-rades, com-rades of the cross.\n\nFor-ward, for-ward, then, ye com-rades,\nLoy-al, brave and strong,\nChrist is our com-mand-er,\nVic-tory is our song.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-7,-5,0,2
+|Chord|Dur:4th|Pos:-7,-5,0,2
+|Chord|Dur:4th|Pos:-7,-5,0,2
+|Chord|Dur:4th|Pos:-7,-5,0,2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half|Pos:-5,-2,0,2
+|Chord|Dur:Half|Pos:-7,-5,-2,0
+|Bar
+|Chord|Dur:4th|Pos:-6,-4,-2
+|Chord|Dur:4th|Pos:-6,-4,-2
+|Chord|Dur:4th|Pos:-6,b-4,-1
+|Chord|Dur:4th|Pos:-6,-4,-2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-5,-2,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-6,-3,-1,2
+|Chord|Dur:4th|Pos:-6,-3,-1
+|Chord|Dur:4th|Pos:-6,-3,#-2
+|Chord|Dur:4th|Pos:-6,-3,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:-5,-2,0
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:#-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5,#-2
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,#1
+|Bar
+|Chord|Dur:Half|Pos:-3,-1,2
+|Chord|Dur:Half|Pos:-8,-5,-3
+|Spacer|Width:550
+|Bar
+|Chord|Dur:4th|Pos:#-6,-2,-1
+|Chord|Dur:4th|Pos:-6,-2,-1
+|Chord|Dur:4th|Pos:-4,-2,0
+|Chord|Dur:4th|Pos:-4,-2,#1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Whole|Pos:-5,-3,-1,2
+|Bar|Style:Double
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15.5
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:19
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward|Dur2:Whole|Pos2:-1
+|Note|Dur:4th,Slur|Pos:#-6|Opts:Stem=Down
+|Note|Dur:Half|Pos:-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-2,#1
+|Chord|Dur:Half|Pos:-2,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-2,3
+|Bar
+|TempoVariance|Style:Ritenuto|Pos:7
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Comrades of the Cross"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:9|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Church Organ"|Patch:19|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nFor-ward, for-ward, then, ye com-rades,\n_ _ _ _ _\nand strong,\n\nFor-ward, for-ward, then, ye com-rades,\nLoy-al, brave and strong,\nChrist is our com-mand-er,\nVic-tory is our song.\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:-7,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-7,0|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-7,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-8,-1
+|Chord|Dur:4th|Pos:-8,-1
+|Chord|Dur:4th|Pos:-8,-1
+|Chord|Dur:4th|Pos:-8,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-11,-4|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-14,-7|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-11,-4|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-9,-2
+|Bar
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:4th|Pos:-7,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th,Slur|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:b-2,b5
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:1
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,#3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:-6,1|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:4,#6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:4,8
+|Bar
+|Boundary|Style:NewSize|Upper:18
+|Chord|Dur:4th,Slur|Pos:0,7
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th,Slur|Pos:-5,2
+|Chord|Dur:4th|Pos:-7,0
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Slur|Pos:4|Opts:Stem=Up|Dur2:Whole|Pos2:0
+|Note|Dur:Half|Pos:6|Opts:Stem=Up
+|Spacer|Width:225
+|Bar|Style:Double
+|Instrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-8
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:#4,8
+|Bar
+|Chord|Dur:Half|Pos:5,7
+|Chord|Dur:Half|Pos:6|Opts:Stem=Down|Dur2:Half|Pos2:6
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:0,6
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

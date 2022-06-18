@@ -1,0 +1,240 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Glory to God for Salvation"|Author:"J. B. Blackburn"|Lyricist:"J. B. Blackburn, 1906"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Living Water Songs No. 2, compiled by Mr. & Mrs. John T. Benson (Nashville, Tennessee: Pentecostal Mission Publishing, 1908), # 39."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.54|Right:2.29|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:26|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._All glo-ry to God for con-vic-tion,\nWhich made me re-pent of my sins,\nAnd see my ru-ined con-di-tion,\nFor ’tis here that all wis-dom be-gins.\n\nAll glo-ry to God for sal-va-tion,\nFrom sin He set-teth me free;\nGo tell it to ev-ery na-tion,\nThat Je-sus has saved e-ven me.\n"
+|Lyric2|Text:"2._All glo-ry to God for con-ver-sion,\nAnd_the wit-ness He sent from a-bove,\nFor_the joy and peace He has giv-en,\nAnd a heart that is filled with His love.\n\nAll glo-ry to God for sal-va-tion,\nFrom sin He set-teth me free;\nGo tell it to ev-ery na-tion,\nThat Je-sus has saved e-ven me.\n"
+|Lyric3|Text:"3._All glo-ry to God for the prom-ise\nTo cleanse all de-file-ment a-way,\nAnd send us the gift of His Spir-it,\nWhen all on the al-tar we lay.\n\nAll glo-ry to God for sal-va-tion,\nFrom sin He set-teth me free;\nGo tell it to ev-ery na-tion,\nThat Je-sus has saved e-ven me.\n"
+|Lyric4|Text:"4._All glo-ry to God! He is keep-ing\nThat which I’ve com-mit-ted to Him;\nHis blood o’er my soul is now flow-ing,\nAnd Je-sus a-bid-eth with-in.\n\nAll glo-ry to God for sal-va-tion,\nFrom sin He set-teth me free;\nGo tell it to ev-ery na-tion,\nThat Je-sus has saved e-ven me.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:92|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-7,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Bar
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Rest|Dur:8th
+|Chord|Dur:16th,Slur|Pos:-7,-2|Opts:Stem=Up,Slur=Upward,Beam=First
+|Spacer|Width:300
+|Chord|Dur:16th|Pos:-6,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:#-6,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Rest|Dur:8th
+|Chord|Dur:16th,Slur|Pos:-7,-2|Opts:Stem=Up,Slur=Upward,Beam=First
+|Spacer|Width:275
+|Chord|Dur:16th|Pos:-7,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-5,0|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Rest|Dur:4th
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-2^
+|Chord|Dur:4th|Pos:-7,-2
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:18
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-2|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-2
+|Rest|Dur:8th
+|Chord|Dur:16th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-5
+|Spacer|Width:125
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:#-6,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,2^
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-2|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-2
+|Rest|Dur:8th
+|Chord|Dur:16th,Slur|Pos:-5,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-4,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-2^
+|Chord|Dur:4th|Pos:-7,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Glory to God for Salvation"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,3
+|Chord|Dur:16th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3
+|Rest|Dur:8th
+|Chord|Dur:16th,Slur|Pos:3|Opts:Stem=Down,Beam=First|Dur2:16th|Pos2:3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down,Beam=End|Dur2:16th|Pos2:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,3
+|Chord|Dur:16th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Rest|Dur:8th
+|Chord|Dur:16th,Slur|Pos:-4,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-4,3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-4,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Rest|Dur:4th
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^
+|Chord|Dur:4th|Pos:-4,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:8
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,2^
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Rest|Dur:8th
+|Chord|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Slur=Downward,Beam=First|Dur2:8th|Pos2:3
+|Note|Dur:16th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,3
+|Chord|Dur:16th|Pos:0,3
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^
+|Chord|Dur:4th|Pos:-4,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

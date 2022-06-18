@@ -1,0 +1,140 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Change Me Deeply"|Author:"Unknown, 17th Century"|Lyricist:"Stephen Popovich, 2013"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: E-mail from Stephen Popovich (spovich@aol.com), Monday 2/25/13 4:25 AM."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Vibraphone"|Patch:11|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._When once I begged Thee “save my soul,”\nThy me-rcy fast _ did meet _ me;\nMy scar-let sins _ turn-ed white as snow\nAs Thou did change _ me deep-ly.\n"
+|Lyric2|Text:"2._Yet bends my heart to emp-ty fare\nWhere fruit-less lands re-ceive me,\nAnd stays the joy Th-y yoke would share\n’Till Lord Thou change me deep-ly.\n"
+|Lyric3|Text:"3._If fur-nace fire that burns the dross\nWill make me fit to please Thee,\nThen help me now pi-ck up my cross\nThat Thou might change me deep-ly.\n"
+|Lyric4|Text:"4._For when sal-va-tion full-ness comes\nIn clouds where I shall see Thee,\nWhat joy to hear Th-y word “well done,”\nIf now Thou change me deep-ly.\n"
+|Lyric5|Text:"5._And then at last will come the hour\nTo con-sum-mate com-plete-ly\nThy won-der of _ re-sur-rec-tion pow’r\nAs Thou shall change me deep-ly.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:90|Pos:11|Justify:Center
+|TimeSig|Signature:3/4
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-2|Opts:Lyric=Always
+|Rest|Dur:8th
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-6
+|Rest|Dur:8th
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:Half|Pos:1
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2^|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:4th,Dotted|Pos:-6
+|Note|Dur:8th|Pos:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-6
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Change Me Deeply"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:100|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Treble
+|TimeSig|Signature:3/4
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-1,1^|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,1|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:-8|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Lyric=Never,Beam=End
+|Bar
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-10|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-9|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-6
+|Note|Dur:4th|Pos:-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

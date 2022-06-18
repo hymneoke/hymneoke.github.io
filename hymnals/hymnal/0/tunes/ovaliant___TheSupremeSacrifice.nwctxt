@@ -1,0 +1,146 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:52|SelectIndex:54|CaretPos:-3
+|SongInfo|Title:"The Supreme Sacrifice, 10.10.10.10"|Author:"Charles Harris, 1919"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Score received by e-mail from Patrick Murphy (apapop@hotmail.com), 25 August 2010."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O val-iant hearts who to your glo-ry came\nThrough dust of con-flict and through bat-tle flame;\nTran-quil you lie, your knight-ly vir-tue proved,\nYour mem-ory hal-lowed in the land you loved.\n"
+|Lyric2|Text:"2._Proud-ly you gath-ered, rank on rank, to war\nAs who had heard God’s mes-sage from a-far;\nAll you had hoped for, all you had, you gave,\nTo save man-kind— your-selves you scorned to save.\n"
+|Lyric3|Text:"3._Splen-did you passed, the great sur-ren-der made;\nIn-to the light that nev-er-more shall fade;\nDeep your con-tent-ment in that blest a-bode,\nWho wait the last clear trum-pet call of God.\n"
+|Lyric4|Text:"4._Long years a-go, as earth lay dark and still,\nRose a loud cry up-on a lone-ly hill,\nWhile in the frail-ty of our hu-man clay,\nChrist, our Re-deem-er, passed the self same way.\n"
+|Lyric5|Text:"5._Still stands His cross from that dread hour to this,\nLike some bright star a-bove the dark a-byss;\nStill, through the veil, the Vic-tor’s pit-ying eyes\nLook down to bless our less-er Cal-va-ries.\n"
+|Lyric6|Text:"6._These were His ser-vants, in His steps they trod,\nFol-lowing through death the mar-tyred Son of God:\nVic-tor, He rose; vic-tor-ious too shall rise\nThey who have drunk His cup of sac-ri-fice.\n"
+|Lyric7|Text:"7._O ris-en Lord, O Shep-herd of our dead,\nWhose cross has bought them and whose staff has led,\nIn glo-rious hope their proud and sor-rowing land\nCom-mits her chil-dren to Thy gra-cious hand.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/2
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-7,-4
+|Bar
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th,Dotted|Pos:-7,-5
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:Whole|Pos:-7,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:Half,Dotted|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:Whole|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:Half,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:3
+|RestChord|Dur:4th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|DynamicVariance|Style:Crescendo|Pos:7|Visibility:Never
+|Bar
+|Chord|Dur:4th|Pos:-4,2|Opts:Stem=Down,Diminuendo
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:n-4,1|Opts:Stem=Down,Diminuendo
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:Whole|Pos:-3,-1|Opts:Diminuendo
+|Bar
+|Text|Text:"legato"|Font:StaffItalic|Pos:8
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:b-4,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Text|Text:"poco rit."|Font:StaffItalic|Pos:8
+|Chord|Dur:Half,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down|Dur2:4th|Pos2:-4
+|Chord|Dur:Whole|Pos:-4|Opts:Stem=Up|Dur2:Whole|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"The Supreme Sacrifice, 10.10.10"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/2
+|DynamicVariance|Style:Crescendo|Pos:15|Justify:Center
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:Whole|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:2,5
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:4,5
+|Chord|Dur:Half,Dotted|Pos:4,5
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:Whole|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,3|Opts:Stem=Down
+|Bar
+|DynamicVariance|Style:Crescendo|Pos:-9|Visibility:Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Up,Diminuendo
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-4,5|Opts:Stem=Up,Diminuendo
+|Chord|Dur:8th|Pos:-4,5|Opts:Stem=Up
+|Chord|Dur:Whole|Pos:-5,6|Opts:Stem=Down,Diminuendo
+|Bar
+|Text|Text:"dim."|Font:StaffItalic|Pos:11
+|Rest|Dur:4th|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,4|Opts:Stem=Down
+|Chord|Dur:Whole|Pos:1,3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

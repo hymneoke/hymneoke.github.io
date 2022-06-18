@@ -1,0 +1,249 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"O Beautiful Blossom of Pity!"|Author:"Adam Geibel"|Lyricist:"Flora Kirkland, 1900"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Best Gospel Songs and Their Composers, by Anthony J. Showalter (Dalton, Georgia: A. J. Showalter, 1904), # 114."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._There’s a beau-ti-ful blos-som called Pi-ty,\nAnd it grew in a heav-en-ly clime;\nBut it bloomed in the life-time of Je-sus,\nOn the sor-row-ful low-lands of time.\n\nO, beau-ti-ful blos-som of Pi-ty!\nA flower from a hea-ven-ly clime!\nTrans-plant-ed from yon-der bright ci-ty,\nIt grows in the low-lands of time.\n"
+|Lyric2|Text:"2._In His love and His pi-ty He sought us,\nThe Re-deem-er and lov-er of all;\nAnd He found us and bought us for Hea-ven,\nAnd He help-eth us now when we call.\n\nO, beau-ti-ful blos-som of Pi-ty!\nA flower from a hea-ven-ly clime!\nTrans-plant-ed from yon-der bright ci-ty,\nIt grows in the low-lands of time.\n"
+|Lyric3|Text:"3._See the mul-ti-tude throng-ing a-round Him!\nSee His beau-ti-ful pi-ty-ing love\nFlow-ing forth in His mar-vels of heal-ing,\nShed-ding per-fume from Hea-ven a-bove.\n\nO, beau-ti-ful blos-som of Pi-ty!\nA flower from a hea-ven-ly clime!\nTrans-plant-ed from yon-der bright ci-ty,\nIt grows in the low-lands of time.\n"
+|Lyric4|Text:"4._And to-day there are ten-der hearts car-ing\nFor the sick ones in ev-er-y clime;\n’Tis the seed from the blos-som of Pi-ty,\nTak-ing root in the low-lands of time.\n\nO, beau-ti-ful blos-som of Pi-ty!\nA flower from a hea-ven-ly clime!\nTrans-plant-ed from yon-der bright ci-ty,\nIt grows in the low-lands of time.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:80|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Text|Text:"Solo or Duet"|Font:StaffItalic|Pos:9
+|Chord|Dur:16th|Pos:-7,-5
+|Chord|Dur:16th|Pos:-7,-2
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:#-6,#-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,n-1
+|Chord|Dur:8th|Pos:-4,n1
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Rest|Dur:8th
+|Chord|Dur:16th|Pos:-7,-2
+|Chord|Dur:16th|Pos:n-3,-2
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:b-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Rest|Dur:8th
+|Chord|Dur:16th|Pos:-7,-5
+|Chord|Dur:16th|Pos:-7,-2
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:#-6,#-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,n-1
+|Chord|Dur:8th|Pos:-4,n1
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Rest|Dur:8th
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:16th|Pos:-2,0
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:#-4,#-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:n-2,#1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Rest|Dur:8th
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:21
+|Chord|Dur:8th|Pos:-5,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:#-4,0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,n3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th|Pos:#-5,0
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Bar
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,#1
+|Bar
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Bar
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2^
+|Chord|Dur:4th|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"O Beautiful Blossom of Pity!"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Rest|Dur:8th
+|Bar
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:-7
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:2
+|Spacer|Width:350
+|Bar
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:-4
+|Bar
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:6
+|Bar
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:-7
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:2
+|Bar
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:-4
+|Bar
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Bar
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:9
+|Chord|Dur:8th|Pos:0|Opts:Stem=Up|Dur2:8th|Pos2:0
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,#3
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:b1,#4
+|Bar
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:-3,8
+|Chord|Dur:8th|Pos:-3,8
+|Chord|Dur:8th|Pos:-3,8
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,5^
+|Chord|Dur:4th|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

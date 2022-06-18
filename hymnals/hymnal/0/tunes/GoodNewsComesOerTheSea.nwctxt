@@ -1,0 +1,276 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Good News Comes o’er the Sea"|Author:"Isaiah Baltzell"|Lyricist:"Isaiah Baltzell, 1874"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Golden Songs, by Isaiah Baltzell (Dayton, Ohiio: United Brethren Printing Establishment, 1874), # 106."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Good news comes o’er the sea,\nAnd tells of vic-tory there;\nThe hea-then bow the knee,\nIn hum-ble, fer-vent prayer;\nLong wait-ed we to hear\nThe glor-ious tid-ings come,\nPro-claim-ing vic-tory there,\nWhere dark-ness reigned a-lone.\n\nRe-joice, re-joice,\nGood news comes o’er the sea;\nRe-joice, re-joice,\nGood news comes o’er the sea;\n"
+|Lyric2|Text:"2._The glor-ious Gos-pel light,\nIn splen-dor shines to-day,\nWhere naught but dark-est night\nFell on the hea-then’s way.\nBrave Chris-tians heard the cry\nThat came a-cross the sea,\n“Come, help us, ere we die,\nCome, help us to be free.”\n\nRe-joice, re-joice,\nGood news comes o’er the sea;\nRe-joice, re-joice,\nGood news comes o’er the sea;\n"
+|Lyric3|Text:"3._They bade a-dieu to home,\nTo friends and loved ones dear;\nThey crossed the o-cean’s foam,\nThey land-ed safe-ly there.\nThey raised the ban-ner bright\nOn Af-ric’s hos-tile shore,\nThe hea-then saw a light,\nWhere dark-ness reigned be-fore.\n\nRe-joice, re-joice,\nGood news comes o’er the sea;\nRe-joice, re-joice,\nGood news comes o’er the sea;\n"
+|Lyric4|Text:"4._Oh, see them com-ing home!\nThe poor, de-grad-ed race!\nThe Mas-ter bids them come\nTo seek His sav-ing grace.\nAt Je-sus’ feet they fall;\nTo Heav’n they lift their cry;\nHe hears their sim-ple call—\nHe saves them ere they die.\n\nRe-joice, re-joice,\nGood news comes o’er the sea;\nRe-joice, re-joice,\nGood news comes o’er the sea;\n"
+|Lyric5|Text:"5._A-wake! the sun is high;\nThe Mas-ter’s call-ing you!\nWhy stand ye id-ly by?\nThere’s work for you to do!\nYour trea-sures, prayers and tears,\nGo, lay at Je-sus’ feet;\nAnd soon we’ll sing the song\nOf vic-to-ry com-plete.\n\nRe-joice, re-joice,\nGood news comes o’er the sea;\nRe-joice, re-joice,\nGood news comes o’er the sea;\n"
+|Clef|Type:Treble
+|Tempo|Tempo:107|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-3,1
+|Spacer|Width:575
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3^
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,-1^
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,1
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3^
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-3^
+|Chord|Dur:4th|Pos:-6,-3
+|Instrument|Name:"String Ensemble 1"|Patch:48|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:9
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:0,2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,1^
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th|Pos:0,2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,1^
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:575
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,4^
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,2
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3^
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:18
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:14
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam
+|Chord|Dur:8th,Slur|Pos:-3,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam
+|Chord|Dur:8th,Slur|Pos:-3,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th|Pos:-3,1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:-2^
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam
+|Chord|Dur:8th,Slur|Pos:-3,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=End|Dur2:8th|Pos2:-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,6^
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Spacer|Width:550
+|Bar
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Rest|Dur:8th
+|Bar
+|Rest|Dur:Half,Dotted
+|Bar
+|Rest|Dur:Half,Dotted
+|Bar
+|Rest|Dur:Half,Dotted
+|Bar
+|Rest|Dur:Half,Dotted
+|Bar
+|Rest|Dur:Half,Dotted
+|Bar
+|Rest|Dur:Half,Dotted
+|Bar
+|Rest|Dur:Half,Dotted
+|Bar
+|Rest|Dur:4th,Dotted
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:9
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,6
+|Chord|Dur:8th,Slur|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,4
+|Chord|Dur:8th,Slur|Pos:-3,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

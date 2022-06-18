@@ -1,0 +1,238 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Jesus Is Pleading"|Author:"Walter Stillman Martin"|Lyricist:"F. F. Leonard, 1905"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Redemption and Praise, by John A. Davis & John R. Clements (Chicago, Illinois: Bilhorn Brothers, 1906), # 90."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Je-sus is plead-ing, oh, list to His voice;\nPlead-ing with you to make Him your choice;\nSeek-ing His love to your heart to make known;\nOh, will you ac-cept Him? Oh, will you come home?\n\nJe-sus says, “Come”;\nGive Him your bur-dens, you shall be free;\nJe-sus says, “Come,\nO, wea-ry one, come to Me.”\n"
+|Lyric2|Text:"2._Je-sus is wait-ing this mo-ment for you;\nHe is a friend al-might-y and true;\nWait-ing to hear you say, “Mas-ter, come in,”\nHe’s wait-ing to cleanse you from all of your sin.\n\nJe-sus says, “Come”;\nGive Him your bur-dens, you shall be free;\nJe-sus says, “Come,\nO, wea-ry one, come to Me.”\n"
+|Lyric3|Text:"3._Bro-ther, has Je-sus not spo-ken be-fore?\nHas He not oft-en knocked at your door?\nDo not re-fuse Him, but give Him His place,\nAc-cept of His love, of His truth and His grace.\n\nJe-sus says, “Come”;\nGive Him your bur-dens, you shall be free;\nJe-sus says, “Come,\nO, wea-ry one, come to Me.”\n"
+|Lyric4|Text:"4._Now while we’re pray-ing, and while all is still,\nWill you not yield to Je-sus your will?\nList, He is plead-ing, oh, is it in vain\nThat He has been call-ing a-gain and a-gain?\n\nJe-sus says, “Come”;\nGive Him your bur-dens, you shall be free;\nJe-sus says, “Come,\nO, wea-ry one, come to Me.”\n"
+|Clef|Type:Treble
+|Tempo|Tempo:85|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Bar
+|Chord|Dur:8th|Pos:-7|Opts:Stem=Up|Dur2:8th|Pos2:-7
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:-7|Opts:Stem=Up|Dur2:8th|Pos2:-7
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,n-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Spacer|Width:400
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:14
+|Boundary|Style:NewSize|Lower:19
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Downward,Beam=First|Dur2:Half|Pos2:2
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th,Dotted|Pos:-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:Half|Pos2:2
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th,Dotted|Pos2:-2^
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-5,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th,Dotted,Slur|Pos:-6,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-7,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Jesus Is Pleading"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nJe-sus in-vites you, says, “Come un-to Me”;\n_ _ _ _ _ _ _ _ _\nJe-sus in-vites you, says, “Come un-to Me”;\n\nJe-sus says, “Come”;\nGive Him your bur-dens, you shall be free;\nJe-sus says, “Come,\nO, wea-ry one, come to Me.”\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Bar
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-3,8
+|Bar
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Bar
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:3,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:#-1,#4
+|Bar
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th,Dotted,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:16th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

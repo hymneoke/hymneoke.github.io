@@ -1,0 +1,159 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:72|SelectIndex:73|CaretPos:-4
+|SongInfo|Title:"Picardy, 87.87.87"|Author:"Traditional French melody, 17th Century"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing, 1974), # 101. Also in the English Hymnal (London: Oxford University Press, 1906), # 318."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Let all mor-tal flesh keep si-lence,\nAnd with fear and trem-bling stand;\nPon-der noth-ing earth-ly mind-ed,\nFor with bless-ing in His hand,\nChrist our God to earth de-scend-eth,\nOur full hom-age to de-mand.\n"
+|Lyric2|Text:"2._King of kings, yet born of Mar-y,\nAs of old on earth He stood,\nLord of lords, in hu-man ves-ture,\nIn the bod-y and the blood;\nHe will give to all the faith-ful\nHis own self for heaven-ly food.\n"
+|Lyric3|Text:"3._Rank on rank the host of Heav-en\nSpreads its van-guard on the way,\nAs the Light of light de-scend-eth\nFrom the realms of end-less day,\nThat the powers of hell may van-ish\nAs the dark-ness clears a-way.\n"
+|Lyric4|Text:"4._At His feet the six wingèd ser-aph,\nCher-u-bim with sleep-less eye,\nVeil their fac-es to the pres-ence,\nAs with cease-less voice they cry:\nAl-le-lu-ia, Al-le-lu-ia\nAl-le-lu-ia, Lord Most High!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:145|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:2/2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-8
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-8,-5
+|Chord|Dur:4th|Pos:-5^,-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-6,-3
+|Note|Dur:Half|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:b-4
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5,-3
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:#-6,-4,-1|Opts:Stem=Down
+|Bar
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-6,-3,-1|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-7,-5
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-5,-3
+|Note|Dur:Half|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:b-4
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5,-3
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-6,-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole,Dotted|Pos2:-7,-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Slur|Pos:-5|Opts:Stem=Up
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Bar
+|Note|Dur:Whole|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-7,-5,-2|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-9,-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-8,-6,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-8,-5|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Picardy, 87.87.87"|Label:"Picardy, 87.87.87"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:2/2
+|Chord|Dur:Whole|Pos:0^,2^|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:2
+|Note|Dur:Half|Pos:-2|Opts:Stem=Down
+|Bar
+|Note|Dur:Whole|Pos:-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:2^
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:1^|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-3,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-2,2|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-5|Opts:Stem=Down
+|Note|Dur:Half|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-7,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:2
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-2
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-5,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:#-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:0,2
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-1,3,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-5,0^|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,0|Opts:Stem=Up
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-7,0,2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,133 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Come to Jesus! Come Away"|Author:""|Lyricist:"Anonymous, 1885"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Mission Hymnal, by a committee appointed by the Assistant Bishop of New York (New York/Chicago, Illinois: Biglow & Main, 1885), # 19."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:42|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Come to Je-sus! come a-way;\nFor-sake thy sins, oh, why de-lay?\nHis arms are o-pen night and day,\nHe waits to wel-come thee.\n"
+|Lyric2|Text:"2._Come to Je-sus! sin no more,\nBut on thy bend-ed knees im-plore,\nAnd knock in faith at mer-cy’s door,\nHe’s sure to wel-come thee.\n"
+|Lyric3|Text:"3._Come to Je-sus! lift an eye:\nThere’s prayer in ev-ery con-trite sigh\nAnd ev-ery groan, for God is nigh,\nHe’ll bow His ear to thee.\n"
+|Lyric4|Text:"4._Come to Je-sus! all is free\nHark! how He calls, “Come un-to Me!\nI cast none out, I’ll par-don thee.”\nOh, thou shalt wel-come be.\n"
+|Lyric5|Text:"5._Come to Je-sus! cling to Him,\nHe’ll keep thee far from paths of sin,\nThou shalt at last the vic-tory win;\nAnd He will wel-come thee.\n"
+|Lyric6|Text:"6._Come to Je-sus! do not stand,\nThe Fa-ther draws— ’tis His com-mand,\nAnd none shall pluck thee from His hand,\nNo— that can ne-ver be.\n"
+|Lyric7|Text:"7._Come to Je-sus! Lord, I come;\nWea-ry of sin, no more I’d roam,\nBut with my Sav-ior be at home;\nI know He’ll wel-come me.\n"
+|Clef|Type:Treble
+|Tempo|Base:Half|Tempo:105|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:E
+|TimeSig|Signature:AllaBreve
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Chord|Dur:Half|Pos:-6,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,1
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:#-6,0
+|Chord|Dur:Half|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-5
+|Chord|Dur:4th|Pos:-8,-6
+|Bar
+|Chord|Dur:Half|Pos:-7|Opts:Stem=Up|Dur2:Half|Pos2:-7
+|Chord|Dur:Half|Pos:-8,-5
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:n-3,2
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:Whole|Pos:-4,3
+|Bar
+|Rest|Dur:Half
+|Chord|Dur:Half|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-7,-5
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Whole|Pos:-2|Opts:Stem=Up|Dur2:Whole|Pos2:-2
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"Come to Jesus! Come Away"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:E
+|TimeSig|Signature:AllaBreve
+|Chord|Dur:Half,Dotted|Pos:3,7
+|Chord|Dur:4th|Pos:3,6
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:Half|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:Half|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:3
+|Chord|Dur:4th|Pos:5,7
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:Half|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:Half|Pos:-1,2
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Whole|Pos:-1,6
+|Bar
+|Rest|Dur:Half
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:0,3
+|Chord|Dur:Half|Pos:0,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Whole|Pos:3,5
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

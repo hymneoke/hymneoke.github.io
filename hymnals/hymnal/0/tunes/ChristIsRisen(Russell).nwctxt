@@ -1,0 +1,166 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Christ Is Risen (Russell)"|Author:"Eucharius Zinckeisen, 1584"|Lyricist:"Arthur Tozer Russell, 1851"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Words from Psalms and Hymns (Cambridge, England: John Deighton, 1851), number 111. Music from Kern Des Deutschen Kirchengesangs, by Friedrich Layriz, Part 13, (Nördlingen, Germany: C. H. Beck\'schen Buchhandlung, 1853), # 238."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Christ is ris-en!\nO’er His foes He reign-eth;\nHead o’er all things,\nHe all worlds sus-tain-eth:\nSing hal-le-lu-jah! Hal-le-lu-ja!\nChrist the Lord is ris-en!\n"
+|Lyric2|Text:"2._Christ is ris-en!\nNow to us is giv-en\nThrough His sor-rows,\nPeace, His peace from Hea-ven!\nSing hal-le-lu-jah! Hal-le-lu-ja!\nChrist the Lord is ris-en!\n"
+|Lyric3|Text:"3._Christ is ris-en!\nNow His Church in-her-its\nLife e-ter-nal\nThrough her Sav-ior’s mer-its:\nSing hal-le-lu-jah! Hal-le-lu-ja!\nChrist the Lord is ris-en!\n"
+|Lyric4|Text:"4._Christ is ris-en!\nPraise and a-do-ra-tion,\nLord, we bring Thee;\nAnd with ex-ul-ta-tion,\nSing hal-le-lu-jah! Hal-le-lu-ja!\nChrist the Lord is ris-en!\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:Half|Pos:-5,0
+|Spacer|Width:150
+|Bar
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Spacer|Width:150
+|Bar
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Slur|Pos:-7|Opts:Stem=Down|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:#-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,2
+|Chord|Dur:Half|Pos:-5,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:Half|Pos:-5,-1
+|Spacer|Width:425
+|Bar
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:325
+|Bar
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Slur|Pos:-7|Opts:Stem=Down|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:#-5,-3
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5^,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Lyric=Always|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-5,2
+|Chord|Dur:Half|Pos:-5,-1
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-5,-2^
+|Bar
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-4
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-5|Opts:Stem=Up|Dur2:Whole|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Christ Is Risen (Russell)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-4,4
+|Chord|Dur:Half|Pos:-4,3
+|Bar
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted,Slur|Pos:3|Opts:Stem=Up|Dur2:Half|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-2,5
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:Half|Pos:-4,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|TimeSig|Signature:6/4
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted,Slur|Pos:3|Opts:Stem=Up|Dur2:Half|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:Half|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-5,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:Half|Pos:-3,4
+|Bar
+|Chord|Dur:Whole|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

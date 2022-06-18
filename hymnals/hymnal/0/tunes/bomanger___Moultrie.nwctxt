@@ -1,0 +1,191 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:55|CaretPos:0
+|SongInfo|Title:"Moultrie, 87.87 D"|Author:"Gerard Francis Cobb, 1890"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Sunday School Chorister (Milwaukee, Wisconsin: Young Churchman, 1891), # 27. Also in The Evangelical Hymnal (Harrisburg, Pennsylvania: Evangelical Publishing House, 1921), # 12."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.29|Right:2.54|Bottom:2.29|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Bright o’er Beth-lehem’s low-ly man-gers,\nBeamed a new and lus-trous star,\nGuid-ing by its light the stran-gers\nFrom their O-rient land a-far;\nWhere be-neath its sil-ver shin-ing\nLay a fair and won-drous child,\nGod and man in one com-bin-ing,\nBorn of vir-gin un-de-filed.\n"
+|Lyric2|Text:"2._Then, the mid-night si-lence break-ing,\nSag-es from a dis-tant land\nCame, their hum-ble hom-age mak-ing,\nPrice-less of-ferings in their hand\nTo the King of earth and Heav-en,\nTo that fair and ho-ly Child,\nMan’s a-ton-ing Sav-ior giv-en,\nBorn of vir-gin un-de-filed.\n"
+|Lyric3|Text:"3._Gold they of-fer, rich in splen-dor,\nFit-ting trib-ute of a king;\nFrank-in-cense they hum-bly ren-der\nTo their God, whom an-gels sing;\nBut of all their gifts un-dy-ing\nMyrrh sheds forth a sweet per-fume,\nFor it tells of Je-sus ly-ing\nSi-lent in His rock-bound tomb.\n"
+|Lyric4|Text:"4._Lord, we haste to Beth-le-hem go-ing\nWith our gold of fer-vent love;\nOf-fer myrrh, re-pent-ance showing;\nIn-cense bear to God a-bove;\nWho, be-neath the star’s soft shin-ing,\nCra-dled lay, a heaven-ly Child,\nGod and man in one com-bin-ing,\nBorn of vir-gin un-de-filed.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:4th|Pos:#-2,3
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:0,#1
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:#-1,#1
+|Chord|Dur:Half|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:b-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:Half|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Moultrie, 87.87 D"|Label:"Moultrie, 87.87 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,7
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:#0,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:b1,6
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:-4,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:n2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:8th|Pos:2,#7
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,10
+|Bar
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:4th|Pos:2,8
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:7
+|Note|Dur:4th|Pos:4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:#3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,7
+|Chord|Dur:8th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:Half|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

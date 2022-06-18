@@ -1,0 +1,196 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Grand Rapids, 77.77 D"|Author:"Daniel Brink Towner, 1899"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Bible Study Songs, by Bertha F. Vella  & Daniel B. Towner (Boston/Chicago: Pilgrim Press, 1899), p. 35."
+|PgSetup|StaffSize:20|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._What would Je-sus have you do,\nYouth-ful sol-diers, brave and true?\nHow would He the tempt-er meet?\nHow would He the foe de-feat?\n\nWhat would Je-sus have you do,\nJe-sus, dai-ly watch-ing you?\nFol-low Him a-long the way,\nLook to Je-sus day by day.\n"
+|Lyric2|Text:"2._What would Je-sus do to-day?\nWould the Sav-ior turn a-way?\nWould He not be kind in-deed,\nGlad to help in time of need?\n\nWhat would Je-sus have you do,\nJe-sus, dai-ly watch-ing you?\nFol-low Him a-long the way,\nLook to Je-sus day by day.\n"
+|Lyric3|Text:"3._In the Word of God so true,\nJe-sus shows you what to do;\nIf you ask Him, He will hear,\nHe will make the du-ty clear.\n\nWhat would Je-sus have you do,\nJe-sus, dai-ly watch-ing you?\nFol-low Him a-long the way,\nLook to Je-sus day by day.\n"
+|Lyric4|Text:"4._Lay up treas-ure far a-bove,\nWalk with Je-sus Christ in love;\nEve-ry day your pledge re-new,\nDo what Christ would have you do?\n\nWhat would Je-sus have you do,\nJe-sus, dai-ly watch-ing you?\nFol-low Him a-long the way,\nLook to Je-sus day by day.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:75|Pos:12|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:16th,Slur|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th,Slur|Pos:-2,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up|Dur2:16th|Pos2:-5
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:16th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:16th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:16th,Slur|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th,Slur|Pos:-2,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up|Dur2:16th|Pos2:-5
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Grand Rapids, 77.77 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:16th,Slur|Pos:0|Opts:Stem=Down,Beam=First|Dur2:8th|Pos2:7
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Beam=End
+|Chord|Dur:16th,Slur|Pos:1|Opts:Stem=Down,Beam=First|Dur2:8th|Pos2:4
+|Note|Dur:16th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,3
+|Chord|Dur:16th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,7
+|Bar
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,7
+|Bar
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:16th,Slur|Pos:0|Opts:Stem=Down,Beam=First|Dur2:8th|Pos2:7
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Beam=End
+|Chord|Dur:16th,Slur|Pos:1|Opts:Stem=Down,Beam=First|Dur2:8th|Pos2:4
+|Note|Dur:16th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,3
+|Chord|Dur:16th|Pos:0,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

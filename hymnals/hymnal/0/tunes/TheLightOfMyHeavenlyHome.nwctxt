@@ -1,0 +1,270 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Light of My Heavenly Home"|Author:"E. L. Ozendorff"|Lyricist:"H. Trueman Light, 1903"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Revival No. 4, by Charlie D. Tillman (Atlanta, Georgia: ca. 1909), # 144."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:26|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._The sun-light is fad-ing, the night is draw-ing nigh,\nAnd swift-ly the dark-ness falls o-ver earth and sky;\nBut light still is near me, tho’ thick the sha-dows come,\n’Tis the light of my heav-en-ly home.\n\n’Tis the light of my heav-en-ly home,\n’Tis the light of my heav-en-ly home,\nTho’ the sha-dows may fall and the dark-ness may come,\nI’ve the light of my heav-en-ly home.\n"
+|Lyric2|Text:"2._The cold winds are sweep-ing o-ver yon rug-ged height,\nBut fac-ing it on-ward the drear-y way I fight;\nThe prize is be-fore me, I’ll reach it, and so soon,\n’Tis the light of my heav-en-ly home.\n\n’Tis the light of my heav-en-ly home,\n’Tis the light of my heav-en-ly home,\nTho’ the sha-dows may fall and the dark-ness may come,\nI’ve the light of my heav-en-ly home.\n"
+|Lyric3|Text:"3._This path which is nar-row, I tra-vel all a-lone,\nFor friends once were with me long wea-ry since have grown;\nI’m near-ing the Sav-ior, He’s call-ing for His own,\nTo the light of my heav-en-ly home.\n\n’Tis the light of my heav-en-ly home,\n’Tis the light of my heav-en-ly home,\nTho’ the sha-dows may fall and the dark-ness may come,\nI’ve the light of my heav-en-ly home.\n"
+|Lyric4|Text:"4._The sha-dows are clear-ing, earth’s scenes be-fore me flee,\nThe morn-ing of glo-ry is break-ing now to me;\nThe Sav-ior doth wel-come and bid-deth me to “come.”\nHe’s the light of my heav-en-ly home.\n\n’Tis the light of my heav-en-ly home,\n’Tis the light of my heav-en-ly home,\nTho’ the sha-dows may fall and the dark-ness may come,\nI’ve the light of my heav-en-ly home.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Text|Text:"Duet with feeling"|Font:StaffItalic|Pos:9
+|Note|Dur:8th|Pos:-7
+|Spacer|Width:475
+|Bar
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Note|Dur:8th,Dotted|Pos:-2|Opts:Stem=Down
+|Note|Dur:16th|Pos:-2
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-4
+|Bar
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:#-3
+|Note|Dur:8th,Dotted|Pos:-2
+|Note|Dur:16th|Pos:-5
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:-2
+|Spacer|Width:225
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th,Dotted|Pos:0
+|Note|Dur:16th|Pos:0
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:0
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-2
+|Spacer|Width:250
+|Bar
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th,Dotted|Pos:-5
+|Note|Dur:16th|Pos:-4
+|Note|Dur:4th|Pos:-3
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-7
+|Bar
+|Note|Dur:4th|Pos:-2
+|Note|Dur:8th,Dotted|Pos:-2
+|Note|Dur:16th|Pos:-2
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th,Dotted|Pos:-3
+|Note|Dur:16th|Pos:-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Text|Text:"Quartet"|Font:StaffItalic|Pos:9|Justify:Center
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up|Dur2:16th|Pos2:-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Spacer|Width:325
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:18
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up|Dur2:16th|Pos2:-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Light of My Heavenly Home"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-2
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n’Tis the light, bless-èd light,\n_ _ _ _ _ _\n’Tis the light, bless-èd light,\n\n’Tis the light of my heav-en-ly home,\n’Tis the light of my heav-en-ly home,\nTho’ the sha-dows may fall and the dark-ness may come,\nI’ve the light of my heav-en-ly home.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Note|Dur:8th|Pos:5
+|Bar
+|Note|Dur:4th|Pos:8
+|Note|Dur:8th,Dotted|Pos:7
+|Note|Dur:16th|Pos:5
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:5
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:3
+|Spacer|Width:425
+|Bar
+|Note|Dur:8th|Pos:5
+|Note|Dur:8th|Pos:n4
+|Note|Dur:8th,Dotted|Pos:5
+|Note|Dur:16th|Pos:4
+|Note|Dur:4th|Pos:3
+|Note|Dur:4th|Pos:5
+|Bar
+|Note|Dur:4th|Pos:3
+|Note|Dur:8th,Dotted|Pos:3
+|Note|Dur:16th|Pos:3
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:3
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:5
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th,Dotted|Pos:2
+|Note|Dur:16th|Pos:3
+|Note|Dur:4th|Pos:4
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:5
+|Bar
+|Note|Dur:4th|Pos:8
+|Note|Dur:8th,Dotted|Pos:7
+|Note|Dur:16th|Pos:5
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:5
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:4
+|Spacer|Width:275
+|Bar
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:8
+|Note|Dur:8th,Dotted|Pos:7
+|Note|Dur:16th|Pos:b7
+|Note|Dur:4th|Pos:6
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:11
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,n5
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

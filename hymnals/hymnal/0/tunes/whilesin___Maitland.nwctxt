@@ -1,0 +1,123 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Maitland, CM"|Author:"George Nelson Allen, 1844 "|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 290. Also in Tabernacle Hymns Number Four (Chicago, Illinois: Tabernacle Publishing, 1953), # 253."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._While sin-ners ut-ter boast-ing words,\nAnd glo-ry in their shame;\nThe Lord, well pleased, an ear af-fords\nTo those who fear His name.\n"
+|Lyric2|Text:"2._They of-ten meet to seek His face,\nAnd what they do or say,\nIs not-ed in His book of grace,\nA-gainst an-oth-er day.\n"
+|Lyric3|Text:"3._For they, by faith, a day de-scry,\nA joy-ful-ly ex-pect,\nWhen He, de-scend-ing from the sky,\nHis jew-els will col-lect.\n"
+|Lyric4|Text:"4._Un-no-ticed now, be-cause un-known,\nA poor and suf-fering few;\nHe comes to claim them for His own,\nAnd bring them forth to view.\n"
+|Lyric5|Text:"5._With trans-port then, their Sav-ior’s care\nAnd fa-vor they shall prove;\nAs ten-der par-ents guard and spare\nThe chil-dren of their love.\n"
+|Lyric6|Text:"6._As-sem-bled worlds will then dis-cern\nThe saints a-lone are blest;\nWhen wrath shall like an ov-en burn,\nAnd venge-ance strike the rest.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/4
+|Chord|Dur:8th,Slur|Pos:-8,-6|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Chord|Dur:4th|Pos:-7,-4|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:Half|Pos:-4,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0^|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:Half|Pos:-4,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:Half|Pos:-6,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-5,-3^|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6^,-1^
+|Chord|Dur:Half|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Maitland, CM"|Label:"Maitland, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/4
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3^|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:Half|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,4^
+|Chord|Dur:Half|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

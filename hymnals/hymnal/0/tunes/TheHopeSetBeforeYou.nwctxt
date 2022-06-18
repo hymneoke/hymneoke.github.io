@@ -1,0 +1,232 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Hope Set Before You"|Author:"Edwin Othello Excell"|Lyricist:"Frances Jane (Fanny) Crosby, 1910"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Great Songs of the Church, by Elmer L. Jorgenson (Louisville, Kentucky: Word and Work, 1921), # 173. (Also in The New Evangel, by Robert H. Coleman (Philadelphia, Pennsylvania: American Baptist Publication Society, 1911), # 5."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:32|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Lay hold on the hope set be-fore you,\nAnd let not a mo-ment be lost,\nThe Sav-ior has pur-chased your ran-som,\nBut think what a price it hath cost!\n\nLay hold on e-ter-nal sal-va-tion,\nLay hold on the gift of God’s on-ly Son;\nLay hold on His in-fi-nite mer-cy,\nLay hold on the Might-y One!\n"
+|Lyric2|Text:"2._Lay hold on the hope set be-fore you,\nOf life that you now may re-ceive,\nIf, glad-ly His mer-cy ac-cept-ing,\nYou tru-ly re-pent and be-lieve.\n\nLay hold on e-ter-nal sal-va-tion,\nLay hold on the gift of God’s on-ly Son;\nLay hold on His in-fi-nite mer-cy,\nLay hold on the Might-y One!\n"
+|Lyric3|Text:"3._Lay hold on the hope set be-fore you,\nOf joy that no mor-tal can speak;\nIt tell-eth of rest for the wear-y,\nThrough Je-sus, the low-ly and meek.\n\nLay hold on e-ter-nal sal-va-tion,\nLay hold on the gift of God’s on-ly Son;\nLay hold on His in-fi-nite mer-cy,\nLay hold on the Might-y One!\n"
+|Lyric4|Text:"4._Lay hold on the hope set be-fore you,\nA hope that is stead-fast and sure;\nO haste to the bless-èd Re-deem-er,\nThe lov-ing, the per-fect and pure.\n\nLay hold on e-ter-nal sal-va-tion,\nLay hold on the gift of God’s on-ly Son;\nLay hold on His in-fi-nite mer-cy,\nLay hold on the Might-y One!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:12|Justify:Center
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:9/8
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4,-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3,0
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-5
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4,-3,-1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3,0
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Spacer|Width:550
+|Bar
+|Chord|Dur:Half|Pos:n-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-3,1
+|Spacer|Width:225
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:25
+|Chord|Dur:4th,Dotted|Pos:-4,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-5,-3,2
+|Chord|Dur:8th|Pos:-6,-3,-1
+|Chord|Dur:8th|Pos:-5,-3,0
+|Chord|Dur:8th|Pos:-4,-3,1
+|Chord|Dur:8th|Pos:-5,-3,0
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-4,-3
+|Chord|Dur:4th,Dotted|Pos:-4,-3
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th,Dotted|Pos:-7,-5
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-3,0
+|Chord|Dur:8th|Pos:-6,-3,-1
+|Chord|Dur:8th|Pos:-5,-3,0
+|Chord|Dur:8th|Pos:-4,-3,-1,1
+|Chord|Dur:8th|Pos:-5,-3,0
+|Chord|Dur:8th|Pos:-4,-3,-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3,0,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-4,-2,b-1,0,4
+|Chord|Dur:4th,Dotted|Pos:-2,0,3
+|Bar
+|Chord|Dur:Half|Pos:-3,0,2
+|Chord|Dur:8th|Pos:-4,-3,-1,1
+|Chord|Dur:8th|Pos:-5,-3,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:9.5|Justify:Right|Placement:AtNextNote
+|Chord|Dur:16th|Pos:-3^,-2,-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Chord|Dur:16th|Pos:-3^,-1|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-5,-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"The Hope Set Before You"|Label:"The Hope Set Before You"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Church Organ"|Patch:19|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-9
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nLay hold, lay hold on et-ter-nal sal-va-tion,\nLay hold, lay hold on God’s on-ly Son;\nLay hold, lay hold on His mer-cy,\nLay hold, lay hold on the Might-y One!\n\nLay hold on e-ter-nal sal-va-tion,\nLay hold on the gift of God’s on-ly Son;\nLay hold on His in-fi-nite mer-cy,\nLay hold on the Might-y One!\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:9/8
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:7
+|MPC|Controller:vol|Style:Absolute|TimeRes:Quarter|SweepRes:1|Pt1:0,110|Pos:-10
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,2,5
+|Chord|Dur:8th|Pos:-2,2,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,2,5
+|Chord|Dur:8th|Pos:-2,2,5
+|Chord|Dur:8th|Pos:-2,2,5
+|Bar
+|Chord|Dur:8th|Pos:-2,2,5
+|Chord|Dur:8th|Pos:-2,2,5
+|Chord|Dur:8th|Pos:-2,2,5
+|Chord|Dur:8th|Pos:-1,2,4
+|Chord|Dur:4th|Pos:-5,2,4|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-5,2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2,9
+|Chord|Dur:Half|Pos:-5,2,9
+|Chord|Dur:8th|Pos:-5,2,9
+|Chord|Dur:8th|Pos:-5,2,8
+|Bar
+|Chord|Dur:4th|Pos:-5,2,7
+|Chord|Dur:8th|Pos:-5,2,6
+|Chord|Dur:4th,Dotted|Pos:-2,2,5
+|Chord|Dur:4th,Dotted|Pos:-2,2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,2,5
+|Chord|Dur:8th|Pos:-2,2,5
+|Chord|Dur:Half|Pos:-2,2,5
+|Chord|Dur:8th|Pos:-2,2,5
+|Chord|Dur:8th|Pos:-2,2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2,5
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-5,2,5
+|Chord|Dur:8th|Pos:-5,2,9
+|Chord|Dur:8th|Pos:-5,2,9
+|Chord|Dur:8th|Pos:-5,2,8
+|Chord|Dur:8th|Pos:-5,2,7
+|Chord|Dur:4th|Pos:-5,2,8
+|Chord|Dur:8th|Pos:-2,5,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5,7
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

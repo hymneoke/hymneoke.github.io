@@ -1,0 +1,183 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"St. Christopher, 76.86.86.86"|Author:"Frederick Charles Maker, 1881"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 190."
+|PgSetup|StaffSize:21|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._A man named Nic-o-de-mus\nTo Je-sus came one night.\nHe said, “We know You’ve come from God;\nYour won-ders show His might.”\nIn an-swer, Je-sus did de-clare,\n“Give heed, these words are true:\nYou can-not see God’s king-dom come\nUn-less you’re born a-new.”\n"
+|Lyric2|Text:"2._Then Nic-o-de-mus ques-tioned,\n“Re-born, how can this be?\nFor sure-ly none can to the womb\nRe-turn and new life see.”\nJe-sus re-plied, “Flesh brings forth flesh,\nBut like the blowing wind,\nThe Spir-it does give birth to spir-it;\nThus man is born a-gain.”\n"
+|Lyric3|Text:"3._As Mo-ses in the de-sert\nDid lift the snake up high,\nThe Son of Man must be raised up\nThat men might live, not die.\nFor God so loved this world of men,\nHe gave His Son for us,\nThat we might have e-ter-nal life,\nIf we in Him do trust.\n"
+|Lyric4|Text:"4._God did not send His Son to\nCon-demn the world of sin.\nChrist came in-stead to save all those\nWho place their trust in Him.\nAll who be-lieve es-cape God’s wrath;\nThey come in-to the light.\nBut all who prac-tice e-vil deeds\nAre guilt-y in God’s sight.\n"
+|Lyric5|Text:"5._With-out the Son, all per-ish;\nThe ver-dict is de-creed.\nAll those who fail to trust Christ’s name\nCon-demned will ev-er be.\nLord, give me bold-ness to pro-claim\nYour mes-sage to the lost,\nThat they might gain e-ter-nal life\nBy look-ing to the cross.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:n-4,n-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,n-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:n-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"St. Christopher"|Label:"St. Christopher"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,n3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,n4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,n4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:n0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,n4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,b4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,b6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,b6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

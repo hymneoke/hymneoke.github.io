@@ -1,0 +1,215 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:58|CaretPos:1
+|SongInfo|Title:"Story of the Wise Men"|Author:"Arranged from Beethoven by Helen M. Browne"|Lyricist:"Ida F. Leyda, 1916"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Let Youth Praise Him! (Grand Rapids, Michigan: William B. Eeerdmans, 1967), # 58. Cites original source as  Children\'s Melodies (Wapello, Iowa: Leyda Publishing Company).\r\n\r\n"
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:26|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Long a-go the glor-ious Christ-mas star\nGuid-ed wise men from a-far,\nTo the lit-tle town of Beth-le-hem,\nTo the Sav-ior of all men.\n"
+|Lyric2|Text:"2._O-ver hill, a-cross the de-sert sand,\nSlow-ly t’ward the Ho-ly Land,\nWith them pre-cious lov-ing gifts they bring,\nAsk-ing for the new-born King.\n"
+|Lyric3|Text:"3._When they saw the Child they all re-joiced,\nWor-shipped Him with ten-der voice,\nBow-ing low, pre-sent-ed gifts of love\nTo the Christ-child from a-bove.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Note|Dur:8th,Dotted|Pos:-1
+|Note|Dur:16th|Pos:0
+|Spacer|Width:225
+|Bar
+|Note|Dur:8th,Dotted|Pos:1
+|Note|Dur:16th|Pos:n0
+|Note|Dur:8th,Dotted|Pos:1
+|Note|Dur:16th|Pos:0
+|Note|Dur:8th,Dotted|Pos:1
+|Note|Dur:16th|Pos:0
+|Spacer|Width:200
+|Bar
+|Note|Dur:Half|Pos:1
+|Note|Dur:8th,Dotted|Pos:2
+|Note|Dur:16th|Pos:-1
+|Spacer|Width:525
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th,Dotted|Pos:1
+|Note|Dur:16th|Pos:-2
+|Bar
+|Note|Dur:4th|Pos:-1
+|Rest|Dur:4th
+|Note|Dur:8th,Dotted|Pos:-3
+|Note|Dur:16th|Pos:-2
+|Spacer|Width:275
+|Bar
+|Note|Dur:8th,Dotted|Pos:-1
+|Note|Dur:16th|Pos:#-2
+|Note|Dur:8th,Dotted|Pos:-1
+|Note|Dur:16th|Pos:-2
+|Note|Dur:8th,Dotted|Pos:-1
+|Note|Dur:16th|Pos:-2
+|Spacer|Width:225
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:8th,Dotted|Pos:0
+|Note|Dur:16th|Pos:#-3
+|Bar
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-2
+|Note|Dur:8th,Dotted|Pos:-1
+|Note|Dur:16th|Pos:-4
+|Spacer|Width:275
+|Bar
+|Note|Dur:4th|Pos:-3
+|Rest|Dur:Half
+|Bar
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Half
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Story of the Wise Men"|Label:"Story of the Wise Men"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:#-2,n0
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:#-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:-8,-3
+|Chord|Dur:16th|Pos:-6,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:n-7,#-2
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-7,-2
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-7,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-8,#-3
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-9,-4
+|Bar
+|Chord|Dur:4th|Pos:-8,-3
+|Rest|Dur:4th
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:8th,Dotted,Slur|Pos:-5,0|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:16th|Pos:-8,#-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-7,-2
+|Chord|Dur:8th,Dotted,Slur|Pos:-6,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:16th|Pos:-9,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-8,-3
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Staff-1"|Label:"Staff-1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:8|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:6
+|StaffInstrument|Patch:19|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Rest|Dur:4th
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-5
+|Rest|Dur:4th
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-8
+|Rest|Dur:4th
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-12
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-12,-5
+|Chord|Dur:4th|Pos:-10,-3
+|Chord|Dur:4th|Pos:-8,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:b-6,b1
+|Chord|Dur:4th|Pos:-7^,0^
+|Bar
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:4th|Pos:b-7,b0
+|Chord|Dur:4th|Pos:-8,-1
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:2
+|Rest|Dur:4th
+|Bar
+|Instrument|Name:"[#092]"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-10
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,2
+|Chord|Dur:4th|Pos:b-6,b1
+|Chord|Dur:4th|Pos:-7^,0^
+|Bar
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:4th|Pos:b-7,b0
+|Chord|Dur:4th|Pos:-8,-1
+|Bar
+|Note|Dur:4th,Slur|Pos:-5
+|Note|Dur:4th|Pos:2
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

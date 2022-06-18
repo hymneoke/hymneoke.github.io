@@ -1,0 +1,232 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Christ the Lord Is Risen Today"|Author:"Lyra Davidica, 1708"|Lyricist:"Charles Wesley, 1739"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 302."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:44|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Christ the Lord is ris’n to-day, Al-le-lu-ia!\nSons of men and an-gels say, Al-le-lu-ia!\nRaise your joys and tri-umphs high, Al-le-lu-ia!\nSing, ye heav’ns, and earth, re-ply, Al-le-lu-ia!\n"
+|Lyric2|Text:"2._Love’s re-deem-ing work is done, Al-le-lui-a!\nFought the fight, the ba-ttle won, Al-le-lui-a!\nLo! the Sun’s e-clipse is o’er, Al-le-lui-a!\nLo! He sets in blood no more, Al-le-lui-a!\n"
+|Lyric3|Text:"3._Vain the stone, the watch, the seal, Al-le-lui-a!\nChrist hath burst the gates of hell, Al-le-lui-a!\nDeath in vain for-bids Him rise, Al-le-lui-a!\nChrist hath o-pened par-a-dise, Al-le-lui-a!\n"
+|Lyric4|Text:"4._Lives a-ain our glor-ious king, Al-le-lu-ia!\nWhere, O death, is now thy sting? Al-le-lu-ia!\nOnce He died our souls to save, Al-le-lu-ia!\nWhere thy vic-to-ry, O grave? Al-le-lu-ia!\n"
+|Lyric5|Text:"5._Soar we now where Christ hath led, Al-le-lu-ia!\nFollow-ing our ex-alt-ed head, Al-le-lu-ia!\nMade like Him, like Him we rise, Al-le-lu-ia!\nOurs the cross, the grave, the skies, Al-le-lu-ia!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-2
+|Note|Dur:4th|Pos:-6
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-7|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up|Dur2:Half|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up
+|Spacer|Width:200
+|Bar
+|Boundary|Style:NewSize|Lower:46
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-7|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-6,-4|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-7|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:11|Lower:42
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up|Dur2:Half|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2
+|Note|Dur:4th|Pos:-2
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-4,3
+|Spacer|Width:325
+|Bar
+|Dynamic|Style:f|Pos:9|Justify:Right|Placement:AsStaffSignature
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:#-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:#-3,-1|Opts:Stem=Up
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Bar
+|Dynamic|Style:ff|Pos:9|Justify:Right|Placement:AsStaffSignature
+|Chord|Dur:8th,Slur|Pos:-7,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-5,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Dynamic|Style:fff|Pos:9|Justify:Right|Placement:AsStaffSignature
+|Chord|Dur:8th,Slur|Pos:-4,1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th,Slur|Pos:-3,0|Opts:Stem=Up,Slur=Upward,Beam
+|Chord|Dur:8th,Slur|Pos:-2,1|Opts:Stem=Up,Slur=Upward,Beam
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2,1|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Easter Hymn, 77.77 D"|Label:"Easter Hymn, 77.77 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:17|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:4th,Slur|Pos:1|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-1,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Down
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:4th,Slur|Pos:1|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|Boundary|Style:NewSize|Upper:11
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:7
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Beam=End
+|Note|Dur:4th,Slur|Pos:5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,5|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Dotted|Pos:3|Opts:Stem=Down
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Note|Dur:8th|Pos:2|Opts:Stem=Down
+|Note|Dur:8th,Slur|Pos:6|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Slur|Pos:-1,6|Opts:Stem=Down,Beam=End,ArticulationsOnStem
+|Chord|Dur:8th,Slur|Pos:2,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:0,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:1,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:3|Opts:Stem=Up|Dur2:Half|Pos2:3
+|Chord|Dur:Half|Pos:-1,3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

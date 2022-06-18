@@ -1,0 +1,191 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Oh, Won’t You Be a Christian?"|Author:"Alfred Arthur Graley"|Lyricist:"Alfred Arthur Graley, 1865"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Welcome Songs # 7, edited by T. Martin Towne & David C. Cook (Chicago, Illinois: David C. Cook, 1894), # 7."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:29|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Oh, won’t you be a Chris-tian\nWhile you’re young?\nOh, won’t you be a Chris-tian\nWhile you’re young?\nDon’t think it will be bet-ter\nTo de-lay it un-til lat-er,\nBut re-mem-ber your Cre-a-tor\nWhile you’re young.\n"
+|Lyric2|Text:"2._Oh, won’t you love the Sav-ior\nWhile you’re young?\nOh, won’t you love the Sav-ior\nWhile you’re young?\nFor you He left His glo-ry,\nAnd em-braced a cross so go-ry,\nWon’t you heed the melt-ing sto-ry\nWhile you’re young?\n"
+|Lyric3|Text:"3._Re-mem-ber, death may find you\nWhile you’re young!\nRe-mem-ber, death may find you\nWhile you’re young:\nFor friends are oft-en weep-ing,\nAnd the stars their watch are keep-ing\nO’er the grass-y graves, where sleep-ing\nLie the young.\n"
+|Lyric4|Text:"4._Oh, walk the path to glo-ry\nWhile you’re young;\nOh, walk the path to glo-ry\nWhile you’re young;\nAnd Je-sus will be-friend you,\nAnd from dan-ger will de-fend you,\nAnd a peace di-vine will send you\nWhile you’re young.\n"
+|Lyric5|Text:"5._Then won’t you be a Chris-tian\nWhile you’re young?\nThen won’t you be a Chris-tian\nWhile you’re young?\nWhy from the fu-ture bor-row,\nWhen, ere comes an-o-ther mor-row,\nYou may weep in end-less sor-row\nWhile you’re young?\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:85|Pos:12|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half|Pos:-6^,-1^
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half|Pos:-2^,0^
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Spacer|Width:175
+|Bar
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:n-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half|Pos:-6^,-1^
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Oh, Won’t You Be a Christian"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Note|Dur:8th|Pos:4
+|Spacer|Width:500
+|Bar
+|Note|Dur:8th,Dotted|Pos:4
+|Note|Dur:16th|Pos:4
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:Half|Pos:-3^
+|Bar
+|Note|Dur:4th|Pos:-3
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-3
+|Spacer|Width:300
+|Bar
+|Note|Dur:8th,Dotted|Pos:0
+|Note|Dur:16th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:Half|Pos:1^
+|Bar
+|Note|Dur:4th|Pos:1
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:8th,Dotted|Pos:4
+|Note|Dur:16th|Pos:4
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Bar
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:1
+|Spacer|Width:275
+|Bar
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Spacer|Width:200
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Spacer|Width:225
+|Bar
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:Half|Pos:-3^
+|Note|Dur:4th|Pos:-3
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

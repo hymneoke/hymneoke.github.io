@@ -1,0 +1,242 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Golden Shore"|Author:"James Calvin Bushey"|Lyricist:"Lewis Banck, 1880"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sparkling Gems: Nos.1 & 2 Combined, edited by J. Calvin Bushey (East Liverpool, Ohio: Will L. Thompson & Company, 1880), # 47."
+|PgSetup|StaffSize:15|Zoom:3|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:26|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._What a hap-py meet-ing there will be,\nWhen the loved ones gone be-fore,\nShall the por-tals crowd their friend to see,\nUp-on the gold-en shore.\n\nWhat a meet-ing and a greet-ing,\nWhat a meet-ing and a greet-ing,\nUp-on the gold-en shore!\nWhat a meet-ing and a greet-ing,\nWhat a meet-ing and a greet-ing,\nWhen we meet to part no more!\n"
+|Lyric2|Text:"2._Soon our feet will press the heav’n-ly strand,\nWhen this earth-ly life is o’er,\nVe-ry soon will greet the heav’n-ly band,\nUp-on the gold-en shore.\n\nWhat a meet-ing and a greet-ing,\nWhat a meet-ing and a greet-ing,\nUp-on the gold-en shore!\nWhat a meet-ing and a greet-ing,\nWhat a meet-ing and a greet-ing,\nWhen we meet to part no more!\n"
+|Lyric3|Text:"3._Hark! the voice of greet-ing in that clime,\nHark! they sing in heav’n-ly lore,\nThe an-gel-ic hosts their prais-es chime,\nUp-on the gold-en shore.\n\nWhat a meet-ing and a greet-ing,\nWhat a meet-ing and a greet-ing,\nUp-on the gold-en shore!\nWhat a meet-ing and a greet-ing,\nWhat a meet-ing and a greet-ing,\nWhen we meet to part no more!\n"
+|Lyric4|Text:"4._With the shin-ing hosts the loved ones stand,\nWhere sad part-ing comes no more,\nWait-ing there to clasp their loved one’s hand,\nUp-on the golde-n shore.\n\nWhat a meet-ing and a greet-ing,\nWhat a meet-ing and a greet-ing,\nUp-on the gold-en shore!\nWhat a meet-ing and a greet-ing,\nWhat a meet-ing and a greet-ing,\nWhen we meet to part no more!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:-2
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Spacer|Width:350
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:18
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Down|Dur2:Half|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down
+|Note|Dur:8th|Pos:#-2|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Down|Dur2:Half|Pos2:1
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Down|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-5
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Down|Dur2:Half|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down
+|Note|Dur:8th|Pos:#-2|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Down|Dur2:Half|Pos2:1
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Down|Dur2:Half|Pos2:-1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,-2
+|Note|Dur:4th|Pos:-1
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Golden Shore"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:23|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,6
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:9
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:0,3
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:1,6
+|Bar
+|Chord|Dur:8th|Pos:2,8
+|Chord|Dur:8th|Pos:2,8
+|Chord|Dur:8th|Pos:2,8
+|Chord|Dur:8th|Pos:2,8
+|Chord|Dur:8th|Pos:2,8
+|Chord|Dur:8th|Pos:2,8
+|Chord|Dur:8th|Pos:2,8
+|Chord|Dur:8th|Pos:2,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

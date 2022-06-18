@@ -1,0 +1,167 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:28|CaretPos:0
+|SongInfo|Title:"Old German"|Author:"“Sacred Melody,”  1761"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O _ Je-sus my hope, for me of-fered up,\nWho with clam-or pur-sued Thee to Cal-va-ry’s top,\nThe _ blood Thou hast shed, for me let it plead,\nAnd de-clare Thou hast died in Thy mur-der-er’s stead.\n"
+|Lyric2|Text:"2._Thy _ blood, which a-lone for sin could a-tone,\nFor the in-fi-nite e-vil I mad-ly have done,\nThat _ on-ly can seal my par-don, and fill\nMy heart with a pow-er of o-bey-ing Thy will.\n"
+|Lyric3|Text:"3._Come _ then from a-bove, its hard-ness re-move,\nAnd _ van-quish my heart with the sense of Thy love;\nThy _ love on the tree dis-play un-to me.\nAnd the ser-vant of sin in a mo-ment is free.\n"
+|Lyric4|Text:"4._Nei-ther pas-sion nor pride Thy cross can a-bide,\nBut _ melt in the foun-tain that streams from Thy side;\nLet Thy life-giv-ing blood re-move all my load,\nAnd _ purge my foul con-science, and bring me to God.\n"
+|Lyric5|Text:"5._Now, _ now let me know its vir-tue be-low,\nLet it wash me, and I shall be whit-er than snow;\nLet it hal-low my heart, and thor-oughly con-vert,\nAnd _ make me, O Lord, in the world as Thou art.\n"
+|Lyric6|Text:"6._Each _ mo-ment ap-plied my weak-ness to hide,\nThy _ blood be up-on me, and al-ways a-bide,\nMy Ad-vo-cate prove with the Fa-ther a-bove,\nAnd _ speak me at last to the throne of Thy love.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,#-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:16th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:8th,Dotted|Pos:-4,3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,#-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:#-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-2,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:#-2,3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-2,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,#-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Old German"|Label:"Old German"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,#3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,#3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:#3,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,6|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:Half|Pos:1,#3
+|Chord|Dur:8th,Dotted|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:16th|Pos:1,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

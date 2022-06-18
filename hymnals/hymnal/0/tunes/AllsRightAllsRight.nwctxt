@@ -1,0 +1,207 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:70|CaretPos:6
+|SongInfo|Title:"All’s Right! All’s Right!"|Author:"Pemberton Pierce"|Lyricist:"Wesley Stretch, 1889"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Boundless Love, edited by J. Lincoln Hall & Irvin H. Mack (Philadelphia, Pennsylvania: Hall Mack Company, 1896), # 211)."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._What if a-cross my wea-ry feet\nThe bil-lows of the death-stream beat,\nA-far I see the em-erald shore,\nWhere life’s en-throned for-ev-er-more;\nA-far I see the em-erald shore,\nWhere life’s en-throned for-ev-er-more.\n“All’s right! All’s right!”\n"
+|Lyric2|Text:"2._What if earth’s songs to me are still—\nLo! sweep-ing from yon heav’n-ly hill,\nI hear the harp-ers loud pro-claim\nTheir an-thems to Im-man-uel’s name!\nI hear the harp-ers loud pro-claim\nTheir an-thems to Im-man-uel’s name!\n“All’s right! All’s right!”\n"
+|Lyric3|Text:"3._What if be-neath the Jor-dan’s spray,\nMine eyes see not the foam-ing ray;\nI feel the clasp of Je-sus’ hand;\nI soon shall tread the heav’n-ly land;\nI feel the clasp of Je-sus’ hand;\nI soon shall tread the heav’n-ly land.\n“All’s right! All’s right!”\n"
+|Lyric4|Text:"4._And midst the splen-dors of that clime,\nWhere bliss a-bides with love sub-lime,\nI’ll cast my crown at Je-sus’ feet,\nAnd this dear truth with joy re-peat;\nI’ll cast my crown at Je-sus’ feet,\nAnd this dear truth with joy re-peat.\n“All’s right! All’s right!”\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:98|Pos:12|Justify:Right
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:525
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-3
+|DynamicVariance|Style:Crescendo|Pos:11|Visibility:Never
+|Chord|Dur:4th|Pos:-4,-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Diminuendo
+|Chord|Dur:8th|Pos:-4,1|Opts:Diminuendo
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-3
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Crescendo
+|Chord|Dur:8th|Pos:-5,-3|Opts:Crescendo
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,b-1|Opts:Diminuendo
+|Chord|Dur:8th|Pos:-5,-1|Opts:Diminuendo
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0|Opts:Diminuendo
+|Chord|Dur:8th|Pos:-4,0|Opts:Diminuendo
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0|Opts:Crescendo
+|Chord|Dur:8th|Pos:-3,1|Opts:Crescendo
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Dynamic|Style:p|Opts:Velocity=127|Pos:9
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Rest|Dur:4th
+|Bar
+|Instrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:10
+|Chord|Dur:Whole|Pos:-4,-2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Rest|Dur:Half
+|Bar
+|Chord|Dur:Half,Slur|Pos:-6|Opts:Stem=Down|Dur2:Whole|Pos2:-3
+|Note|Dur:Half|Pos:-4|Opts:Stem=Down
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-5,-3|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"All’s Right! All’s Right!"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Chord|Dur:4th|Pos:1,4
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Rest|Dur:4th
+|Bar
+|Boundary|Style:NewSize|Upper:8
+|Instrument|Name:"Church Organ"|Patch:19|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-8
+|Chord|Dur:Whole|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Rest|Dur:Half
+|Bar
+|Chord|Dur:Half,Slur|Pos:4|Opts:Stem=Up|Dur2:Whole|Pos2:2
+|Note|Dur:Half|Pos:6|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Dynamic|Style:pp|Opts:Velocity=100|Pos:8|Justify:Right
+|Spacer|Width:125
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

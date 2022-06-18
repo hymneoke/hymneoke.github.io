@@ -1,0 +1,118 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:28|SelectIndex:29|CaretPos:-5
+|SongInfo|Title:"Duntroon"|Author:"Ellis Govan"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._I will not _ be a-fraid, I will not _ be a-fraid;\nI will look up-ward, and trav-el on-ward,\nAnd not be a-fraid.\n"
+|Lyric2|Text:"2._He says He will be with me,\nHe says He will be with me;\nHe goes be-fore me, and is be-side me,\nSo I’m not a-fraid.\n"
+|Lyric3|Text:"3._His arms are un-der-neath me,\nHis arms are un-der-neath me;\nHis hands up-hold me, His love en-folds me,\nSo I’m not a-fraid.\n"
+|Lyric4|Text:"4._His Word will stand for-ev-er,\nHis Word will stand for-ev-er;\nHis truth— it shall be my shield and buck-ler,\nSo I’m not a-fraid.\n"
+|Lyric5|Text:"5._He will give grace and glo-ry,\nHe will give grace and glo-ry;\nHis cross be-fore me, His ban-ner o’er me,\nSo I’m not a-fraid.\n"
+|Lyric6|Text:"6._So we go sing-ing on-ward,\nSo we go sing-ing on-ward;\nWe’re press-ing up-ward,\nWe’re march-ing home-ward,\nTo Him un-a-fraid.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-8^,-6^|Opts:Stem=Up
+|Chord|Dur:Half,Dotted|Pos:-8,-6|Opts:Stem=Up
+|Spacer|Width:50
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-8^,-6^|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-8^,-6^|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-8,-6|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-8,-6|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5^,-3^|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:b-3,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:n-5,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-6,-1|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Duntroon"|Label:"Duntroon"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3^,1^|Opts:Stem=Up
+|Chord|Dur:Half,Dotted|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-3,1|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

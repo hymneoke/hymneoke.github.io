@@ -1,0 +1,228 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"How the Fire Fell"|Author:"Miriam Eulalie Oatman"|Lyricist:"Johnson Oatman, Jr., 1905"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sing to the Lord (Kansas City, Missouri: Lillenas Publishing Company, 1993), # 506."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._O I love to tell the bless-èd sto-ry\nSince the Lord sanc-ti-fied me;\nFor my soul re-ceived a flood of glo-ry\nWhen the Lord sanc-ti-fied me.\n\nO I nev-er shall for-get how the fire fell,\nHow the fire fell, how the fire fell.\nO I nev-er shall for-get how the fire fell\nWhen the Lord sanc-ti-fied me.\n"
+|Lyric2|Text:"2._All my doubts and fears are gone for-ev-er\nSince the Lord sanc-ti-fied me;\nFor His peace flowed o’er me like a riv-er\nWhen the Lord sanc-ti-fied me.\n\nO I nev-er shall for-get how the fire fell,\nHow the fire fell, how the fire fell.\nO I nev-er shall for-get how the fire fell\nWhen the Lord sanc-ti-fied me.\n"
+|Lyric3|Text:"3._To the world no more my heart is turn-ing\nSince the Lord sanc-ti-fied me;\nFor on me His Spir-it fell with burn-ing\nWhen the Lord sanc-ti-fied me.\n\nO I nev-er shall for-get how the fire fell,\nHow the fire fell, how the fire fell.\nO I nev-er shall for-get how the fire fell\nWhen the Lord sanc-ti-fied me.\n"
+|Lyric4|Text:"4._There’s a crown a-wait-ing me in Heav-en\nSince the Lord sanc-ti-fied me;\nFor a heart made clean to me was giv-en\nWhen the Lord sanc-ti-fied me.\n\nO I nev-er shall for-get how the fire fell,\nHow the fire fell, how the fire fell.\nO I nev-er shall for-get how the fire fell\nWhen the Lord sanc-ti-fied me.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-4
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,-4
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-4
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,-4
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:22
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Down
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:n-4,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3,-1|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-2,0|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:n-4,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-1,2
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5,-4
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"How the Fire Fell"|Label:"How the Fire Fell"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-12
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nO I nev-er shall for-get how the fire fell,\nHow the fire fell, how the fire fell.\nO I nev-er shall for-get how the fire fell\nWhen the Lord sanc-ti-fied me.\n\nO I nev-er shall for-get how the fire fell,\nHow the fire fell, how the fire fell.\nO I nev-er shall for-get how the fire fell\nWhen the Lord sanc-ti-fied me.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:4/4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,3
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,3
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,3
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,3
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,3
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:-2,n3
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,3
+|Chord|Dur:16th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:2
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,n3
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,6
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,n3
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:-2,n3
+|Chord|Dur:16th|Pos:v-2,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,3
+|Chord|Dur:16th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,171 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:42|CaretPos:3
+|SongInfo|Title:"Arfon, 77.77.77"|Author:"French & Welsh melody"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Presbyterian Hymnal (Louisville, Kentucky: Westminster/John Knox Press, 1990), # 99. Also in The English Hymnal (London: Oxford University Press, 1906), # 116."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Go and dig my grave to-day!\nWea-ry of my wan-derings all,\nNow from earth I pass a-way,\nFor the heaven-ly peace doth call;\nAn-gel voic-es from a-bove\nCall me to their rest and love.\n"
+|Lyric2|Text:"2._Go and dig my grave to-day!\nHome-ward doth my jour-ney tend,\nAnd I lay my staff a-way\nHere where all things earth-ly end,\nAnd I lay my wea-ry head\nIn the on-ly pain-less bed.\n"
+|Lyric3|Text:"3._What is there I yet should do,\nLin-gering in this dark-some vale?\nProud and might-y, fair to view,\nAre our schemes, and yet they fail,\nLike the sand be-fore the wind,\nThat no power of man can bind.\n"
+|Lyric4|Text:"4._Fare-well, earth, then; I am glad\nThat in peace I now de-part,\nFor thy ver-y joys are sad,\nAnd thy hopes de-ceive the heart;\nFleet-ing is thy beau-ty’s gleam,\nFalse and chang-ing as a dream.\n"
+|Lyric5|Text:"5._And to you a last good night,\nSun and moon, and stars so dear;\nFare-well all your gold-en light;\nI am trav-elling far from here,\nTo the splen-dors of that day\nWhere ye all must fade a-way.\n"
+|Lyric6|Text:"6._Fare-well, O ye much-loved friends!\nGrief hath smote you as a sword,\nBut the Com-fort-er de-scends\nUn-to them that love the Lord.\nWeep not o’er a pass-ing show,\nTo th’e-ter-nal world I go.\n"
+|Lyric7|Text:"7._Weep not that I take my leave\nOf the world; that I ex-change\nEr-rors that too close-ly cleave,\nShad-ows, emp-ty ghosts that range\nThrough this world of naught and night,\nFor a land of truth and light.\n"
+|Lyric8|Text:"8._Weep not, dear-est to my heart,\nFor I find my Sav-ior near,\nAnd I know that I have part\nIn the pains He suf-fered here,\nWhen He shed His sac-red blood\nFor the whole world’s high-est good.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:108|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:#-3|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Slur|Pos:n-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:#-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-7,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:#-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-2,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:#-3,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-8,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:#-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:n-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-8
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:#-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Arfon, 77.77.77"|Label:"Arfon, 77.77.77"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:#2|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Slur|Pos:n1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,#2|Opts:Stem=Down
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:#2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:#2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Note|Dur:4th|Pos:5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:Half|Pos:0,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:5,7|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:#2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1,#2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:n1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,#2
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:#2,4
+|Note|Dur:4th|Pos:3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-4,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

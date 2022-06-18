@@ -1,0 +1,114 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:19|CaretPos:4
+|SongInfo|Title:"St. Michael, SM"|Author:"French Genevan Psalter, 1551"|Lyricist:""|Copyright1:"Melody by Louis Bourgeois, adapted by William Crotch, 1836"|Copyright2:"Public Domain, Courtesy of the Cyber Hymnal™"|Comments:"Source: United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 662."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Let sigh-ing cease and woe\nGod from on high hath heard,\nHeaven’s gate is o-pening wide, and lo!\nThe long ex-pect-ed Word.\n"
+|Lyric2|Text:"2._Peace— through the deep of night\nThe heaven-ly choir breaks forth,\nSing-ing with fes-tal songs and bright,\nOur God and Sav-ior’s birth.\n"
+|Lyric3|Text:"3._The cave of Beth-le-hem\nThose wake-ful shep-herds seek;\nLet us, too, rise and greet with them\nThat in-fant pure and meek.\n"
+|Lyric4|Text:"4._We en-ter— at the door\nWhat mar-vel meets the eye?\nA crib, a moth-er pale and poor,\nA child of pov-er-ty.\n"
+|Lyric5|Text:"5._Art Thou the_e-ter-nal Son,\nThe_e-ter-nal Fa-ther’s ray?\nWhose lit-tle hand, Thou in-fant one,\nDoth lift the world al-way?\n"
+|Lyric6|Text:"6._Yea— faith through that dim cloud,\nLike light-ning darts be-fore,\nAnd greets Thee, at whose foot-stool bowed\nHeaven’s trem-bling hosts a-dore.\n"
+|Lyric7|Text:"7._Our Mas-ter— si-lent yet,\nThou teach-est from Thy chair;\n“Shun that on which thy flesh is set;\nWhat flesh ab-hor-reth— bear.”\n"
+|Lyric8|Text:"8._Chaste be our love like Thine,\nOur swell-ing souls bring low,\nAnd in our hearts, O Babe di-vine\nBe born, a-bide and grow.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:113|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,2
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:#-5,0
+|Chord|Dur:4th|Pos:n-5,0
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"St. Michael, SM"|Label:"St. Michael, SM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-2,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:0,7|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:2,7|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:3,7|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem,Tie=Downward|Dur2:4th,Dotted|Pos2:7
+|RestChord|Dur:8th|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem,Tie=Downward,HideRest|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-1,4|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Slur=Downward,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:-2,6|Opts:Slur=Downward,Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Downward,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5|Opts:Stem=Up,Slur=Downward,Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

@@ -1,0 +1,232 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Eternity Is Drawing Nigh"|Author:"Philip Phillips"|Lyricist:"Horatius Bonar, 1877"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns No. 4, by Ira D. Sankey, James McGranahan & George C. Stebbins (New York & Chicago, Illiinois: Biglow & Main, 1881), # 34."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Pray, breth-ren, pray,\nThe sands are fall-ing,\nPray, breth-ren, pray,\nGod’s voice is call-ing.\nYon tur-ret strikes the dy-ing chime;\nWe kneel up-on the edge of time.\n\nE-ter-ni-ty is draw-ing nigh,\nE-ter-ni-ty, e-ter-ni-ty,\nE-ter-ni-ty is draw-ing nigh.\n"
+|Lyric2|Text:"2._Praise, breth-ren, praise,\nThe skies are rend-ing;\nPraise, breth-ren, praise,\nThe fight is end-ing,\nBe-hold! the glo-ry draw-eth near,\nThe King Him-self will soon ap-pear.\n\nE-ter-ni-ty is draw-ing nigh,\nE-ter-ni-ty, e-ter-ni-ty,\nE-ter-ni-ty is draw-ing nigh.\n"
+|Lyric3|Text:"3._Watch, breth-ren, watch,\nThe day is dy-ing;\nWatch, breth-ren, watch,\nThe time is fly-ing.\nWatch as men watch the part-ing breath,\nWatch as men watch for life or death.\n\nE-ter-ni-ty is draw-ing nigh,\nE-ter-ni-ty, e-ter-ni-ty,\nE-ter-ni-ty is draw-ing nigh.\n"
+|Lyric4|Text:"4._Look, breth-ren, look,\nThe day is break-ing;\nLook, breth-ren, look,\nThe dead are wak-ing.\nWith gird-ed loins al-rea-dy stand—\nBe-hold! the Bride-groom is at hand.\n\nE-ter-ni-ty is draw-ing nigh,\nE-ter-ni-ty, e-ter-ni-ty,\nE-ter-ni-ty is draw-ing nigh.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:2/2
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half,Dotted|Pos:-1,1
+|Spacer|Width:125
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:#-2,n0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-3,1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Stem=Down
+|Spacer|Width:300
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:13
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up|Dur2:8th|Pos2:-6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Slur|Pos:1|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Slur|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:b-4,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Eternity Is Drawing  Nigh"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:2/2
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:Half|Pos:2,4
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:-3,6
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:-3,6
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Slur|Pos:4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:Half,Slur|Pos:6|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Slur|Pos:2|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:4
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,5
+|Bar
+|Chord|Dur:Whole|Pos:-5,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

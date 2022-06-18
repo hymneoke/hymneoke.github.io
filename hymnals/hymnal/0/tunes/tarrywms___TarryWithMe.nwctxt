@@ -1,0 +1,192 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Tarry with Me, 87.87 D"|Author:"Fred S. Shepard, 1900"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Epworth Hymnal No. 3, edited by James M. Black (New York: Eaton & Mains, 1900), # 3."
+|PgSetup|StaffSize:21|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Tar-ry with me, O my Sav-ior,\nIn my heart and life a-bide,\nKeep me by Thy grace and fa-vor,\nEv-er near Thy lov-ing side.\n\nTar-ry with me, O my Sav-ior,\nFor I long to have Thee nigh;\nBy Thy Spir-it guide and guard me,\nTill I reach my home on high.\n"
+|Lyric2|Text:"2._Tar-ry with me, O my Sav-ior,\nIn Thy pres-ence let me rest,\nThou dost know my life and long-ings,\nThou wilt give me what is best.\n\nTar-ry with me, O my Sav-ior,\nFor I long to have Thee nigh;\nBy Thy Spir-it guide and guard me,\nTill I reach my home on high.\n"
+|Lyric3|Text:"3._Tar-ry with me, O my Sav-ior,\nDay is fleet-ing to its close;\nLife with-out Thee is but drear-y,\nFilled with bit-ter-ness and woes.\n\nTar-ry with me, O my Sav-ior,\nFor I long to have Thee nigh;\nBy Thy Spir-it guide and guard me,\nTill I reach my home on high.\n"
+|Lyric4|Text:"4._Tar-ry with me, O my Sav-ior,\nWalk be-side me all the way;\nIn my joy, and in my sad-ness,\nI shall need Thee eve-ry day.\n\nTar-ry with me, O my Sav-ior,\nFor I long to have Thee nigh;\nBy Thy Spir-it guide and guard me,\nTill I reach my home on high.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:#-6,n-4
+|Chord|Dur:8th,Dotted|Pos:b-4,-2
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Chord|Dur:8th|Pos:-8,#-3
+|Chord|Dur:8th,Dotted|Pos:-7,-2
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-6,-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-2,1
+|Bar
+|Chord|Dur:Half|Pos:#-3,2
+|Chord|Dur:8th,Dotted|Pos:n-3,3
+|Chord|Dur:16th|Pos:-3,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,3
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:#-6,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Tarry with Me, 87.87 D"|Label:"Tarry with Me, 87.87 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:2
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th,Dotted|Pos:-4,3
+|Chord|Dur:16th|Pos:-4,3
+|Bar
+|Chord|Dur:4th|Pos:0,#2
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:n1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:2
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

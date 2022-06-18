@@ -1,0 +1,253 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"When the Fire Came Down"|Author:"Arthur Willis Spooner"|Lyricist:"Arthur Willis Spooner, 1906"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Jewel Songs, by Mr. & Mrs. John T. Benson: Nashville, Tennessee: Pentecostal Mission Publishing, 1910), # 16."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:26|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._On the mo-unt stood E-li-jah, th-e bra-ve man of God,\nAnd his faith rose high as Heav-en in that hour;\nTho’ the priests cried, “Hear, O Ba-al!”\nStill their prayers did not a-va-il,\nFor no fire came down.\nBut no fire came down,\nBut no fire came down;\nThen they cried, “O hear us, Ba-al!”\nStill their prayers did not a-va-il,\nFor no fire came down.\n"
+|Lyric2|Text:"2._On the mo-unt knelt E-li-jah, th-e pr-o-phet of God,\nAnd he cried, “O great Je-ho-vah, hear my prayer!”\nAnd his cry was heard in Heav-en,\nFor the an-swer soon was giv-en,\nAnd the fire came down.\nThen the fire came down,\nThen the fire came down;\nAnd it lap-ped up the wa-ter,\nAnd the sto-nes of the al-tar,\nWhen the fire came down.\n"
+|Lyric3|Text:"3._In the up-per room as-sem-bled,\nKnelt the lit-tle Church of God,\nThey were pray-ing, “Bless-èd Mas-ter, send the power”;\nThen the flame swept down from glo-ry,\nAnd the world has heard the sto-ry,\nHow the power came down.\nHow the fire came down,\nHow the fire came down;\nAnd the Church re-ceived her pow-er,\nIt be-gan that ver-y ho-ur,\nWhen the fire came down.\n"
+|Lyric4|Text:"4._We are wai-ting, bless-èd Mas-ter,\nFor an-o-ther Pen-te-cost,\nAnd we’ve wait-ed till our hearts have wear-y grown;\nLet the wind blow fresh from Hea-ven,\nLet the prom-ised power be giv-en,\nLet the fire come down!\nLet the fire come down,\nLet the fire come down,\nSend the power, O Ho-ly Spir-it,\nFall on us this ver-y min-ute,\nLet the fire come down.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:85|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:16th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up,Lyric=Always,Beam=End
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:16th,Slur|Pos:-4|Opts:Stem=Up,Beam=First|Dur2:16th|Pos2:-4
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up,Lyric=Always,Beam=End|Dur2:16th|Pos2:-4
+|Spacer|Width:175
+|Bar
+|Chord|Dur:16th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up,Lyric=Always,Beam=End
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-1,0
+|Chord|Dur:16th|Pos:-1,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:16th,Slur|Pos:-2,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Down,Lyric=Always,Beam=End
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:16th,Slur|Pos:-2,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Down,Lyric=Always,Beam=End
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half,Accent|Pos:-4,-2
+|Chord|Dur:Half,Accent|Pos:-5,-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4|Opts:Stem=Up
+|Spacer|Width:375
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Accent|Pos:-4,-2
+|Chord|Dur:Half,Accent|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted,Accent|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Accent|Pos:-2,0
+|Chord|Dur:Half,Accent|Pos:-3,-1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half,Dotted,Accent|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,3|Opts:Stem=Down,Lyric=Always
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:16th,Slur|Pos:-2,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Down,Lyric=Always,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:16th,Slur|Pos:-1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Down,Lyric=Always,Beam=End
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half,Accent|Pos:-4,-2
+|Chord|Dur:Half,Accent|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted,Accent|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"When the Fire Came Down"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:16th,Slur|Pos:1,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:16th,Slur|Pos:1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:1,3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:16th,Slur|Pos:-2,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Dotted|Pos:-2,4
+|Chord|Dur:16th|Pos:-2,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,8
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,8
+|Chord|Dur:16th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:16th,Slur|Pos:1,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Dotted|Pos:1,8|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,8
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,8
+|Chord|Dur:16th|Pos:4,8
+|Chord|Dur:8th,Dotted|Pos:4,8
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:16th,Slur|Pos:1,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:Half,Accent|Pos:-2,5
+|Chord|Dur:Half,Accent|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted,Accent|Pos:1,3
+|Bar|Style:Double
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th,Slur|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,8
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:16th,Slur|Pos:1,5|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th,Dotted|Pos:1,8|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,8
+|Chord|Dur:16th|Pos:4,8
+|Chord|Dur:8th,Dotted|Pos:4,8
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:16th,Slur|Pos:1,5|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th,Dotted|Pos:1,8|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th,Slur|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

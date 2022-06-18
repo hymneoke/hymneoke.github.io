@@ -1,0 +1,188 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:46|CaretPos:1
+|SongInfo|Title:"Brunswick, 86.86.86"|Author:"Adapted from George F. Handel (1685-1759)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The English Hymnal (London: Oxford University Press, 1906), # 555."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Dis-miss me not Thy ser-vice, Lord,\nBut train me for Thy will;\nFor e-ven I, in fields so broad,\nSome du-ties may ful-fill;\nAnd I will ask for no re-ward,\nEx-cept to serve Thee still.\n"
+|Lyric2|Text:"2._How man-y serve, how man-y more\nMay to the ser-vice come;\nTo tend the vines, the grapes to store,\nThou dost ap-point for some;\nThou hast Thy young men at the war,\nThy lit-tle ones at home.\n"
+|Lyric3|Text:"3._All works are good, and each is best\nAs most it pleas-es Thee;\nEach work-er pleas-es, when the rest\nHe serves in char-i-ty;\nAnd nei-ther man nor work un-blest\nWilt Thou per-mit to be.\n"
+|Lyric4|Text:"4._O ye who serve, re-mem-ber One\nThe work-er’s way who trod;\nHe served as man, but now His throne,\nIt is the throne of God:\nThe scep-ter He hath to us shown\nIs like a blos-soming rod.\n"
+|Lyric5|Text:"5._Firm fi-bers of the tree of life\nHath each com-mand of His,\nAnd each with clus-tering blos-soms rife\nAt eve-ry sea-son is;\nBare on-ly, like a sword of strife,\nA-gainst love’s en-e-mies.\n"
+|Lyric6|Text:"6._Our Mas-ter all the work hath done\nHe asks of us to-day;\nShar-ing His ser-vice, eve-ry one\nShare too His son-ship may:\nLord, I would serve and be a son;\nDis-miss me not, I pray.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:Half|Pos:-4,b2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:b-5
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:16th,Slur|Pos:0|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:b-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-7,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Chord|Dur:4th|Pos:-7,-5|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-7,-4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-7
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,b2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Brunswick, 86.86.86"|Label:"Brunswick, 86.86.86"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Chord|Dur:4th|Pos:1,2
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:b0
+|Note|Dur:4th|Pos:5|Opts:Stem=Up,Slur=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:16th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=End
+|Note|Dur:4th|Pos:4|Opts:Stem=Up,Slur=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:4|Opts:Stem=Up,Slur=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-3,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:2|Opts:Stem=Up,Slur=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:16th,Slur|Pos:4|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

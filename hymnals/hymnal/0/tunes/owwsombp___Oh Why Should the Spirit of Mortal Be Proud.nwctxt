@@ -1,0 +1,216 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:66|CaretPos:0
+|SongInfo|Title:"Oh Why Should the Spirit of Mortal Be Proud"|Author:"Charles William Everest, ca. 1865"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Lee & Walker, 722 Chestnut St., Philadelphia, Pennsylvania. 1865. Received by e-mail from Dave Miller <millermd@intrstar.net>, 5 Nov 2006."
+|PgSetup|StaffSize:16|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Voice"|Label:"Voice"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Oh, why should the spir-it\nOf mor-tal be proud?\nLike_a swift-fleet-ing me-teor,\nA fast-fly-ing cloud,\nA flash of the light-ning,\nA break of the wave,\nHe pass-eth from life\nTo rest in the grave.\n"
+|Lyric2|Text:"2._The leaves of the oak\nAnd the wil-lows shall fade,\nBe scat-tered a-round,\nAnd to-geth-er be laid;\nAnd the young and the old,\nThe low and the high,\nShall mold-er to dust\nAnd_to-geth-er shall lie.\n"
+|Lyric3|Text:"3._The child that a moth-er\nAt-tend-ed and loved,\nThe moth-er that in-fant’s\nAf-fec-tion that proved;\nThe hus-band that moth-er\nAnd in-fant that blest,\nEach— all, are a-way\nTo_their dwell-ing of rest.\n"
+|Lyric4|Text:"4._The maid on whose cheek,\nOn whose brow, in whose eye,\nShone beau-ty and pleas-ure—\nHer tri-umphs are by:\nAnd the mem-ory of those\nWho loved her and praised,\nAre a-like from_the minds\nOf_the liv-ing e-rased.\n"
+|Lyric5|Text:"5._The hand of the king\nThat the scep-ter hath borne,\nThe brow of the priest\nThat the mi-ter hath worn,\nThe eye of the sage\nAnd the heart of the brave,\nAre hid-den and lost\nIn_the depths of the grave.\n"
+|Lyric6|Text:"6._The peas-ant whose lot\nWas to sow and to reap,\nThe herds-man, who climbed\nWith his goats up the steep,\nThe beg-gar, who wan-dered\nIn search of his bread,\nHave fad-ed a-way\nLike_the grass that we tread.\n"
+|Lyric7|Text:"7._The saint that en-joyed\nThe com-mun-ion of Heaven,\nThe sin-ner that dared\nTo re-main un-for-given,\nThe wise and the fool-ish,\nThe guilt-y and just,\nHave qui-et-ly_min-gled\nTheir bones in the dust.\n"
+|Lyric8|Text:"8._So_the mul-ti-tude goes—\nLike the flower and the weed,\nThat with-er a-way\nTo let oth-ers suc-ceed;\nSo_the mul-ti-tude comes—\nE-ven those we be-hold,\nTo re-peat every tale\nThat_has of-ten been told.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Base:Eighth|Tempo:190|Pos:12|Justify:Right
+|TimeSig|Signature:9/8
+|Bar|Style:Double|Visibility:Always
+|Text|Text:"Verse"|Font:StaffItalic|Pos:9
+|Note|Dur:4th,Slur|Pos:-2
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:n-1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Note|Dur:4th,Dotted|Pos:3
+|Note|Dur:4th|Pos:-2
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:-1
+|Rest|Dur:8th
+|Note|Dur:4th,Slur|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:n-1|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:4th,Dotted|Pos:0^
+|Note|Dur:4th|Pos:0
+|Rest|Dur:8th
+|Note|Dur:4th,Slur|Pos:-2
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:n-1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Note|Dur:4th,Dotted|Pos:3
+|Note|Dur:4th|Pos:-2
+|Note|Dur:8th|Pos:b-1
+|Bar
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:b2|Opts:Stem=Down,Beam=End
+|Note|Dur:4th,Dotted|Pos:1
+|Note|Dur:4th,Dotted|Pos:1
+|Bar
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam=End
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:4th,Slur|Pos:-4
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Note|Dur:4th,Dotted|Pos:-4^
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"2"|Label:"2"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:46|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:9/8
+|Bar|Style:Double|Visibility:Always
+|Rest|Dur:4th,Dotted
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=End
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-7,-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-4,-2|Opts:Stem=Up,Beam=End
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-7,-5,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-5,-1|Opts:Stem=Up,Beam=End
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-7,-5,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-5,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=End
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=End
+|Bar
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=End
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-7,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-4|Opts:Stem=Up,Beam=End
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4,b-2
+|Chord|Dur:4th,Dotted|Pos:-4,n-2
+|Chord|Dur:4th,Dotted|Pos:-10,-8,-4
+|Bar
+|Chord|Dur:4th|Pos:-9,-7,-4
+|Chord|Dur:8th|Pos:-8,-7,-3
+|Chord|Dur:4th,Dotted|Pos:-9^,-7^,-4^
+|Chord|Dur:4th|Pos:-9,-7,-4|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"3"|Label:"3"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:3
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:9/8
+|Bar|Style:Double|Visibility:Always
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,1
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,1
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Chord|Dur:4th,Dotted|Pos:-5,2
+|Bar
+|Note|Dur:Half,Dotted|Pos:-2
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,1
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,1
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-3,n4
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Note|Dur:4th,Dotted|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-2
+|Note|Dur:8th|Pos:-2
+|Chord|Dur:4th,Dotted|Pos:-6^,1^
+|Chord|Dur:4th|Pos:-6,1|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

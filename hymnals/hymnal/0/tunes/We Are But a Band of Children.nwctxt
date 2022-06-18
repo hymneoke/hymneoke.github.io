@@ -1,0 +1,206 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"We Are But a Band of Children"|Author:"A. F. Myers"|Lyricist:"Mary Irene McLean, 1897"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Seed Sower, edited by A. F. Myers (Toledo, Ohio: W. W. Whitney, 1897) # 41."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:42|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._We are but a band of child-ren,\nWe are few, and weak and small,\nBut we want to work for Je-sus,\nAnd there’s work e-nough for all.\n\nWe are a mis-sion-a-ry band,\nMis-sion-a-ry band, mis-sion-a-ry band;\nWe are a mis-sion-a-ry band,\nDo-ing all we can.\n"
+|Lyric2|Text:"2._There are ma-ny lit-tle child-ren,\nFar a-way a-cross the sea,\nWho have ne-ver heard of Je-sus,\nBut to i-dols bend the knee.\n\nWe are a mis-sion-a-ry band,\nMis-sion-a-ry band, mis-sion-a-ry band;\nWe are a mis-sion-a-ry band,\nDo-ing all we can.\n"
+|Lyric3|Text:"3._So we want to send them teach-ers,\nWho will teach them how to pray,\nTo the dear and lov-ing Sav-ior,\nWho will wash their sins a-way.\n\nWe are a mis-sion-a-ry band,\nMis-sion-a-ry band, mis-sion-a-ry band;\nWe are a mis-sion-a-ry band,\nDo-ing all we can.\n"
+|Lyric4|Text:"4._It was Je-sus died to save them,\n’Twas for this to earth He came;\nHe will make them pure and hap-py,\nWhen they learn to love His name.\n\nWe are a mis-sion-a-ry band,\nMis-sion-a-ry band, mis-sion-a-ry band;\nWe are a mis-sion-a-ry band,\nDo-ing all we can.\n"
+|Lyric5|Text:"5._’Tis the Bi-ble that will lead them\nFrom the dark-ness in-to light,\nAnd we all are glad to help them\nBreak a-way from hea-then night.\n\nWe are a mis-sion-a-ry band,\nMis-sion-a-ry band, mis-sion-a-ry band;\nWe are a mis-sion-a-ry band,\nDo-ing all we can.\n"
+|Lyric6|Text:"6._Cheer-ful-ly we give our pen-nies,\nAnd we like to give and plan,\nFor we are young mis-sion-ar-ies,\nDo-ing all the good we can.\n\nWe are a mis-sion-a-ry band,\nMis-sion-a-ry band, mis-sion-a-ry band;\nWe are a mis-sion-a-ry band,\nDo-ing all we can.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:90|Pos:12|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,0
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:425
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:27
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:n-4,0
+|Chord|Dur:8th,Dotted|Pos:b-4,-1
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"We Are But a Band of Children"|Label:"Missionary Band"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:-2,5
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:1
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:16th|Pos:-5,2,6
+|Chord|Dur:16th|Pos:-5,2,6
+|Chord|Dur:16th|Pos:-5,2,6
+|Chord|Dur:16th|Pos:-5,2,6
+|Chord|Dur:4th|Pos:-5,2,4
+|Bar
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:-5,2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

@@ -1,0 +1,170 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Jesus, My Saviour"|Author:"May Moody, 1893, arr. Charles J. Herceg, Jr."|Lyricist:"Charles J. Herceg, Jr. 2003"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: E-mail from \"Charles erceg <charlesherceg@yahoo.com>, 24 Aug 2018, 7:38 AM."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:27|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Je-sus, my Sav-iour, how migh-ty Thou art;\nHo-ly and pre-cious, You dwell in my heart;\nThe blood Thou shed-dest, Thou shed-dest for me;\nCleans-ing for-ev-er, Thy blood sets me free.\n"
+|Lyric2|Text:"2._Je-sus, my Sav-iour, the Truth and the Way,\nGiv-er of life and my hope and my stay;\nI’ll trust Thy wis-dom and walk in Thy will;\nDraw my soul clos-er, and keep my heart still.\n"
+|Lyric3|Text:"3._When I am wea-ry, and can’t find my way,\nSpeak to my heart and then help me o-bey;\nSafe in Thy bos-om, I watch de-vils flee:\nJe-sus my Sav-iour will give vic-to-ry.\n"
+|Lyric4|Text:"4._Je-sus my Sav-ior for-ev-er will be;\nMy heart will sing and give praise un-to Thee;\nSin, sad-ness, sor-row will be in the past;\nLife with the Sav-iour will be mine at last.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:125|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Note|Dur:4th|Pos:-6
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:-3,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:#-5,#-3
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:n-7,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Spacer|Width:250
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|Chord|Dur:Half,Slur|Pos:-6|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Spacer|Width:150
+|Bar
+|Note|Dur:4th|Pos:-6
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,n0
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:b-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th|Pos:-5
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,#6
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,b4
+|Chord|Dur:4th|Pos:2,n4
+|Bar
+|Chord|Dur:Half,Slur|Pos:1,3
+|Note|Dur:4th|Pos:5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:b1,6
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:b0,#3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,3
+|Note|Dur:4th|Pos:2
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:n-2,3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

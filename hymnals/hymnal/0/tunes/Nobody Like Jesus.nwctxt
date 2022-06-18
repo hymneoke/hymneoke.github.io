@@ -1,0 +1,228 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Nobody Like Jesus"|Author:"Charles Hutchinson Gabriel"|Lyricist:"Edith L. Mapes, 1911"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The New Cokesbury Hymnal (Nashville, Tennessee: Cokesbury Press, 1928), # 173."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Treble Clef"|Label:"Treble Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:9|BoundaryBottom:41|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Some-times se-cret sins creep in-to my heart,\nNo-bo-dy sees them but Je-sus;\nBut when I con-fess, He bids them de-part,\nNo-bo-dy cleans-es like Je-sus;\nNo-bo-dy cleans-es like Je-sus,\nNo-bo-dy cleans-es like Je-sus;\nBut when I con-fess, He bids them de-part,\nNo-bo-dy cleans-es like Je-sus.\n"
+|Lyric2|Text:"2._Some-times there are tears that must not be shed,\nNo-bo-dy knows it but Je-sus;\nIn sick-ness and grief He pil-lows my head,\nNo-bo-dy com-forts like Je-sus;\nNo-bo-dy com-forts like Je-sus,\nNo-bo-dy com-forts like Je-sus;\nIn sick-ness and grief He pil-lows my head,\nNo-bo-dy com-forts like Je-sus.\n"
+|Lyric3|Text:"3._Some-times an-gry thoughts are al-most ex-pressed,\nNo-bo-dy hears them but Je-sus;\nHis gen-tle re-straint soon has them sup-pressed,\nNo-bo-dy qui-ets like Je-sus;\nNo-bo-dy qui-ets like Je-sus,\nNo-bo-dy qui-ets like Je-sus;\nHis gen-tle re-straint soon has them sup-pressed,\nNo-bo-dy qui-ets like Je-sus.\n"
+|Lyric4|Text:"4._Some-times I am weak, and wan-der a-stray,\nNo-bo-dy strength-ens like Je-sus;\nHe pa-tient-ly leads me back to the way,\nNo-bo-dy par-dons like Je-sus;\nNo-bo-dy par-dons like Je-sus,\nNo-bo-dy par-dons like Je-sus;\nHe pa-tient-ly leads me back to the way,\nNo-bo-dy par-dons like Je-sus.\n"
+|Lyric5|Text:"5._Some-times shut a-way from all held most dear,\nNo-bo-dy with me but Je-sus;\nMy souls no-thing lacks, no e-vil I fear,\nNo-bo-dy loves me like Je-sus;\nNo-bo-dy loves me like Je-sus,\nNo-bo-dy loves me like Je-sus;\nMy souls no-thing lacks, no e-vil I fear,\nNo-bo-dy loves me like Je-sus.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:88|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-7,-5
+|Spacer|Width:525
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-7,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,0
+|Rest|Dur:8th
+|Spacer|Width:175
+|Bar
+|Chord|Dur:8th|Pos:#-6,0
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6^,-3|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Down,Beam,Tie=Upward
+|Chord|Dur:8th|Pos:-6,b-4|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-8,-6,-5,2|Opts:Tie=Upward
+|Chord|Dur:8th|Pos:-6,-5|Opts:Tie=Upward
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-7,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,0
+|Rest|Dur:8th
+|Spacer|Width:175
+|Bar
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-7,-2
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-7,2
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-4
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-4,-1
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:#-6,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-5,-1
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:8th|Pos:-6,-5
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-7,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,0
+|Rest|Dur:8th
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-7,-2
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Nobody Like Jesus"|Label:"Nobody Like Jesus"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4^
+|Note|Dur:4th,Dotted|Pos:0
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4^
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th,Dotted|Pos:1|Opts:Stem=Up
+|Bar
+|Note|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:#1|Opts:Stem=Up,Beam=End
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Up,Beam=First
+|Note|Dur:16th,Slur|Pos:n1|Opts:Stem=Up,Beam
+|Note|Dur:16th,Slur|Pos:0|Opts:Stem=Up,Slur=Downward,Beam
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4^
+|Note|Dur:4th,Dotted|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:0^,3
+|Bar
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:0^,2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up
+|Rest|Dur:8th
+|Bar
+|Note|Dur:Half,Dotted|Pos:3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2,#3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-2,3|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,#3|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:-1,4^|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:#-1|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1,4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4^
+|Note|Dur:4th,Dotted|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3^
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:0^,3
+|Bar
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:0
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:0^,2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,0
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

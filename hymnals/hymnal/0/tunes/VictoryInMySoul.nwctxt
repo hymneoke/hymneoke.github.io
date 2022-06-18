@@ -1,0 +1,223 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Victory in My Soul"|Author:"Daniel Brink Towner"|Lyricist:"James Martin Gray, 1907"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Tabernacle Hymns Number Four (Chicago, Illinois: Tabernacle Publishing, 1953), # 7. Also in Hymns Tried  & True, by Daniel B. Towner (Chicago, Illinois: Bible Institute Colportage Association, 1911), # 4."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:14|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-25
+|Lyric1|Text:"1._The bur-den of my fear and sin\nOn Christ by faith I roll;\nAnd now I have His peace with-in\nAnd vic-tory in my soul.\n\nThere’s vic-to-ry in my soul,\nVic-to-ry in my soul;\nI grasp the prom-is-es by faith,\nThere’s vic-to-ry in my soul.\n"
+|Lyric2|Text:"2._I know there is a test for me,\nA bat-tle to be won;\nBut God en-sures the vic-to-ry\nBe-fore it is be-gun.\n\nThere’s vic-to-ry in my soul,\nVic-to-ry in my soul;\nI grasp the prom-is-es by faith,\nThere’s vic-to-ry in my soul.\n"
+|Lyric3|Text:"3._On bat-tle-fields of long a-go,\nWhen saints have drawn the sword,\nTheir strength did not o’er-come the foe,\nBut trust-ing in the Lord.\n\nThere’s vic-to-ry in my soul,\nVic-to-ry in my soul;\nI grasp the prom-is-es by faith,\nThere’s vic-to-ry in my soul.\n"
+|Lyric4|Text:"4._While lean-ing on His arm a-lone\nI can-not know de-feat;\nThe glor-y shall be all His own\nWhen vic-tory is com-plete.\n\nThere’s vic-to-ry in my soul,\nVic-to-ry in my soul;\nI grasp the prom-is-es by faith,\nThere’s vic-to-ry in my soul.\n"
+|Lyric5|Text:"5._E’en death it-self I do not fear\nSince Christ hath borne its sting;\nHis pre-sence through the val-ley drear\nWill help us then to sing.\n\nThere’s vic-to-ry in my soul,\nVic-to-ry in my soul;\nI grasp the prom-is-es by faith,\nThere’s vic-to-ry in my soul.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,#-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,#1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:#-6,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:2
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-7,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:n-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Dynamic|Style:f|Pos:9|Justify:Center|Placement:AsStaffSignature
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,2
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Dynamic|Style:ff|Pos:9|Justify:Center|Placement:AsStaffSignature
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5,2|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:8th,Slur|Pos:b-4,1|Opts:Stem=Down,Slur=Upward,Beam
+|Chord|Dur:8th|Pos:n-4,0|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2^|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2^
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-2
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Victory in My Soul"|Label:"Victory in My Soul"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:38|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Spacer|Width:625
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,#6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,6|Opts:Stem=Down
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:1,4|Opts:Stem=Down
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,3|Opts:Stem=Down
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2|Opts:Stem=Down
+|Spacer|Width:325
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:28
+|Rest|Dur:4th|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,3|Opts:Stem=Down
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:1,3|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Slur|Pos:2,4|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Rest|Dur:4th|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2^,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Spacer|Width:150
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:-3,4|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Slur|Pos:-2,5|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Slur|Pos:-1,6|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,8
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3,6
+|Dynamic|Style:f|Pos:9|Placement:AsStaffSignature
+|Rest|Dur:4th|Opts:Stem=Up
+|Spacer|Width:525
+|Bar
+|Rest|Dur:Half|Opts:Stem=Up
+|Chord|Dur:8th,Dotted,Slur|Pos:0,7|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:16th,Slur|Pos:0,7|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:0,7|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th,Slur|Pos:0,6|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:0,7|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4^,5^|Opts:Stem=Down
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

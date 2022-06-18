@@ -1,0 +1,203 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:61|CaretPos:7
+|SongInfo|Title:"Freehold, CMD"|Author:"Edwin Othello Excell, 1896"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Triumphant Songs No.5, by Edwin O. Excell (Chicago, Illinois: E. O. Excell, 1896), # 93."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Would I know Him if He stood here\nBy my side, by my side?\nDoth the cru-el, cru-el nail-prints\nYet a-bide, yet a-bide?\nWould He show me in His beau-ty\nSo di-vine, so di-vine,\nThat in rap-ture I would feel Him\nTo be mine, to be mine?\n"
+|Lyric2|Text:"2._When to Sa-tan thou dost an-swer,\n“Flee from me, flee from me!”\nWhen be-tween thee and the Mas-ter,\nNaught shall be, naught shall be;\nOn thine eyes shall flash a vi-sion,\nWon-drous fair, won-drous fair—\nLo! a pierced and thorn-crowned Sav-ior\nStand-eth there, stand-eth there.\n"
+|Lyric3|Text:"3._Could I hear Him if He called me,\nWait-ing here, wait-ing here?\nWould His words of mag-ic sweet-ness\nPierce my ear, pierce my ear?\nCould the world with all its lur-ings,\nDrown that tone, drown that tone,\nAnd He pass me by and leave me\nAll a-lone, all a-lone?\n"
+|Lyric4|Text:"4._When thou cri-est in thine an-guish,\n“Sav-ior hear, Sav-ior hear!”\nIt will reach Him thro’ the clam-or,\nNev-er fear, nev-er fear!\nTho’ some-times thine ears are deaf-ened,\nBy the din, by the din,\nHe is lis-tening for the sum-mons,\n“Lord, come in, Lord, come in!”\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:108|Pos:11|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:-4,-3
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up|Dur2:16th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-7,-4
+|Chord|Dur:16th|Pos:-7,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:-4,-3
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up|Dur2:16th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:4th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:4th,Dotted|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:-4,-3
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up|Dur2:16th|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:-7,-4
+|Chord|Dur:16th|Pos:-7,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Freehold, Edwin Excell 1896"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:2,n4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:Half|Pos:4|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:2,n4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:Half|Pos:4|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

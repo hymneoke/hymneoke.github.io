@@ -1,0 +1,248 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Hear the Gospel Call"|Author:"L. Pinckney Huggins"|Lyricist:"L. Pinckney Huggins, 1898"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Song Land Messenger No. 2, edited by Anthony J. Showalter, John S. Hendricks, Elbert B. Fowle & A. J. Robertson (Dallas, Texas & Dalton, Georgia: Showalter-Lincoln & A. J. Showalter, 1898), # 249."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:1.52|Top:2.54|Right:1.52|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Sin-ners, the mes-sage is sound-ing,\nJe-sus is speak-ing to thee;\nList while He’s ten-der-ly say-ing,\n“Wea-ry one, come un-to Me.”\n\nHear, O hear the Gos-pel call,\nCome to Christ, be-fore Him fall;\nHe has said if you be-lieve,\nLife e-ter-nal you shall have,\n"
+|Lyric2|Text:"2._Je-sus has car-ried your sor-rows,\nJe-sus has borne all your grief;\nNow un-to you He is call-ing,\n“Come, and I’ll give you re-lief.”\n\nHear, O hear the Gos-pel call;\nCome to Christ, be-fore Him fall;\nHe has said if you be-lieve,\nLife e-ter-nal you shall have.\n"
+|Lyric3|Text:"3._Come with your sins to the Sav-ior,\nCome un-to Him while you may;\nThis is the mes-sage He sends you,\n“Come and be-lieve Me to-day.”\n\nHear, O hear the Gos-pel call,\nCome to Christ, be-fore Him fall;\nHe has said if you be-lieve,\nLife e-ter-nal you shall have,\n"
+|Lyric4|Text:"4._Sin-ners, while Je-sus is wait-ing,\nWait-ing to free-ly for-give,\nCome and ac-cept of His mer-cy,\nTrust Him, be-lieve Him and live.\n\nHear, O hear the Gos-pel call,\nCome to Christ, be-fore Him fall;\nHe has said if you be-lieve,\nLife e-ter-nal you shall have,\n"
+|Clef|Type:Treble
+|Tempo|Tempo:103|Pos:11|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:Half|Pos:-5,-2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,1
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th,Dotted|Pos:-2|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-2
+|Chord|Dur:16th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:17
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Note|Dur:8th,Dotted|Pos:2
+|Note|Dur:16th|Pos:#1
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:2^
+|Note|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam
+|Chord|Dur:8th,Dotted|Pos:-4,2|Opts:Stem=Down,Beam=End
+|Note|Dur:16th|Pos:2
+|Note|Dur:8th,Dotted|Pos:3
+|Note|Dur:16th|Pos:2
+|Spacer|Width:150
+|Bar
+|RestChord|Dur:8th,Dotted,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:0^
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2^,0^
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:0,2
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:-2,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:Half|Pos2:-1^
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Note|Dur:8th,Dotted|Pos:0
+|Note|Dur:16th|Pos:2
+|Spacer|Width:175
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-2^
+|Note|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Down,Beam=End
+|Note|Dur:16th|Pos:-2
+|Note|Dur:8th,Dotted|Pos:-4
+|Note|Dur:16th|Pos:-2
+|Bar
+|RestChord|Dur:8th,Dotted,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:1^
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Dotted,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:8th,Dotted|Pos:-2,1
+|Chord|Dur:16th|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:300
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Hear the Gospel Call, 1898"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-2
+|Lyric1|Text:"Hear, O hear the Gos-pel call,\nCome to Christ, be-fore Him fall;\nHe has said if you be-lieve,\nLife e-ter-nal you shall have, shall have.\n\nHear, O hear the Gos-pel call,\nCome to Christ, be-fore Him fall;\nHe has said if you be-lieve,\nLife e-ter-nal you shall have,\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:3,6|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:3,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:5,7|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:4,6|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7|Opts:Lyric=Never
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:3,7|Opts:Lyric=Never
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:1,6|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:-2,7|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:-1,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:0,6|Opts:Lyric=Never
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3,5|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:12
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Rest|Dur:16th
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th,Dotted
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Rest|Dur:16th
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th,Dotted
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Rest|Dur:16th
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th,Dotted
+|Chord|Dur:16th|Pos:-1,8
+|Chord|Dur:8th,Dotted|Pos:-1,8
+|Chord|Dur:16th|Pos:-1,8
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:8th,Dotted|Pos:-1,8
+|Chord|Dur:16th|Pos:-1,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:-12|Justify:Right|Placement:AtNextNote
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:4th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward
+|TempoVariance|Style:Fermata|Pause:0|Pos:-12|Justify:Right|Placement:AtNextNote
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,254 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Oft When the Day Is Dreary"|Author:"Mrs. Wyndham Heathcote"|Lyricist:"Mrs. Wyndham Heathcote, 1895"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Wonderful Story in Song, by Fred A. Fillmore (Cincinnati, Ohio: F. L. Rowe, 1917), # 119. Original publication date found at http://www.hymnary.org."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Oft when the day is drear-y,\nOft when the storm clouds lower,\nOft when my spir-it’s wear-y—\nJe-sus im-parts His power.\n\nJe-sus is near, bur-dens to bear;\nWear-y one, Je-sus will help thee;\nJe-sus is near, bur-dens to bear;\nHis blood from sin doth cleanse thee.\n"
+|Lyric2|Text:"2._He bids me tell my stor-y,\nTell-ing, He gives me rest;\nAnd while my sor-rows shar-ing,\nShel-ters me in His breast.\n\nJe-sus is near, bur-dens to bear;\nWear-y one, Je-sus will help thee;\nJe-sus is near, bur-dens to bear;\nHis blood from sin doth cleanse thee.\n"
+|Lyric3|Text:"3._Je-sus, Thy heart is with me\nAll thro’ the dark-est night,\nAs when the sun shines clear-ly\nMak-ing my path-way bright.\n\nJe-sus is near, bur-dens to bear;\nWear-y one, Je-sus will help thee;\nJe-sus is near, bur-dens to bear;\nHis blood from sin doth cleanse thee.\n"
+|Lyric4|Text:"4._Won-drous in love is Je-sus,\nSweet is the rest He gives;\nShar-ing in all my toil-ing,\nWhile in my heart He lives.\n\nJe-sus is near, bur-dens to bear;\nWear-y one, Je-sus will help thee;\nJe-sus is near, bur-dens to bear;\nHis blood from sin doth cleanse thee.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:125|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,#-3
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Spacer|Width:125
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,3
+|Spacer|Width:125
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5^,0^
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-4,2
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:#-3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4^|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4^
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Down|Dur2:Half|Pos2:-4
+|Rest|Dur:4th|Opts:Stem=Up
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:17
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-5
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,n-1
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-5
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-7,0
+|Chord|Dur:4th,Dotted|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-3
+|Bar
+|Chord|Dur:Half|Pos:-7,-4
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Spacer|Width:450
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Rest|Dur:4th|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Oft When the Day Is Dreary"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:105|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,n4
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:1,6
+|Chord|Dur:8th|Pos:2,n4
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Chord|Dur:4th|Pos:2,n4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2^,5^
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:4,8
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4,8
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:n4,6
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1^,3^
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:8
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:2,n4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:2,n4
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,n4
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Up|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:2,6
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Rest|Dur:4th|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,260 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:107|SelectIndex:109|CaretPos:-2
+|SongInfo|Title:"Lost Forever"|Author:"Barney Elliott Warren"|Lyricist:"Barney Elliott Warren, 1893, alt."|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Echoes from Glory, edited by Barney E. Warren & Daniel S. Warner (Grand Junction, Michigan: Gospel Trumpet Publishing, 1893), # 126."
+|PgSetup|StaffSize:15.5|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.52|Right:2.54|Bottom:1.52|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Where is thy hope, poor sin-ner?\nWhat are you going to do?\nO, hope is a God-giv-en an-chor,\nLav-ished so free-ly on you;\nIf it is fixed in the Sav-ior,\nOn that bright shore you will land;\nBut, if in sin you still lin-ger,\nSad your end.\n\nLost, for-ev-er!\nLost, for-ev-er!\nOh, how sad!\n"
+|Lyric2|Text:"2._Where is thy re-fuge, sin-ner?\nLook where your pathway will end;\nRe-pent, or you’ll per-ish for-ev-er,\nAw-ful de-struc-tion’s at hand;\nHea-ven, or hell you are choos-ing,\nFix-ing and seal-ing your fate;\nGod and His mer-cy re-fus-ing,\nLost! too late!\n\nLost, for-ev-er!\nLost, for-ev-er!\nOh, how sad!\n"
+|Lyric3|Text:"3._What can you plead, poor sin-ner,\nIn the great Judg-ment Day?\nSee, Hea-ven now of-fers you fa-vor,\nOh, do not cast it a-way.\nSlight-ed, the warn-ings re-peat-ed,\nLeave you in Sa-tan’s con-trol;\nAnd with all Hea-ven re-ject-ed,\nLost your soul.\n\nLost, for-ev-er!\nLost, for-ev-er!\nOh, how sad!\n"
+|Lyric4|Text:"4._Where you will go, poor sin-ner?\nHow will your soul es-cape?\nO think of thy lot, when for-ev-er\nCast in the dark burn-ing lake.\nIf, then you’re lost and for-got-ten,\nWrith-ing in flames of des-pair,\nYou will re-mem-ber you’ve chos-en\nTo be there.\n\nLost, for-ev-er!\nLost, for-ev-er!\nOh, how sad!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:103|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:Half|Pos:-4,-1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-3,0|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-4^
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-6,-1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:Half|Pos:-4,-1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-4^
+|Chord|Dur:4th|Pos:-6,-4
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-6,-1
+|Rest|Dur:8th
+|Bar
+|TempoVariance|Style:Rallentando|Pos:10
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:StemLength=6
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:15
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:10
+|Chord|Dur:4th,Dotted|Pos:-4^,1^|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Spacer|Width:125
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|TempoVariance|Style:Rallentando|Pos:10
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:Half|Pos:-6,-1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,-1^
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-6,-4
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-4^
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-6,-4
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-6
+|Lyric1|Text:"Lost, for-ev-er!\nLost, for-ev-er!\nOh, how sad!\n\nLost, for-ev-er!\nLost, for-ev-er!\nOh, how sad!\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:-3,6|Opts:Lyric=Never
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:0,4|Opts:Stem=Down,Slur=Downward,Lyric=Never,Beam=First
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Lyric=Never,Beam=End
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:-3,4|Opts:Lyric=Never
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,2|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4^|Opts:Stem=Down,Lyric=Never|Dur2:4th,Dotted|Pos2:4^
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:4
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:-3,6|Opts:Lyric=Never
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:-3,4|Opts:Lyric=Never
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:1,3|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:9
+|Chord|Dur:4th,Dotted|Pos:4^|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4^
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:Half|Pos:2,4
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,4^
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:Half|Pos:-3,4
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,223 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Shall We Gather at the River?"|Author:"Robert Lowry"|Lyricist:"Robert Lowry, 1864"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Baptist Hymnal, edited by Walter H. Sims (Nashville, Tennessee: Convention Press, 1956), # 496. Also in The Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1940), # 434."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:37|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Shall we ga-ther at the ri-ver,\nWhere bright an-gel feet have trod,\nWith its crys-tal tide for-ev-er\nFlow-ing by the throne of God?\n\nYes, we’ll ga-ther at the ri-ver,\nThe beau-ti-ful, the beau-ti-ful ri-ver;\nGa-ther with the saints at the ri-ver\nThat flows by the throne of God.\n"
+|Lyric2|Text:"2._On the mar-gin of the ri-ver,\nWash-ing up its sil-ver spray,\nWe will talk and wor-ship ev-er,\nAll the hap-py gold-en day.\n\nYes, we’ll ga-ther at the ri-ver,\nThe beau-ti-ful, the beau-ti-ful ri-ver;\nGa-ther with the saints at the ri-ver\nThat flows by the throne of God.\n"
+|Lyric3|Text:"3._Ere we reach the shin-ing ri-ver,\nLay we eve-ry bur-den down;\nGrace our spir-its will de-liv-er,\nAnd pro-vide a robe and crown.\n\nYes, we’ll ga-ther at the ri-ver,\nThe beau-ti-ful, the beau-ti-ful ri-ver;\nGa-ther with the saints at the ri-ver\nThat flows by the throne of God.\n"
+|Lyric4|Text:"4._At the smil-ing of the ri-ver,\nMir-ror of the Sav-ior’s face,\nSaints, whom death will ne-ver se-ver,\nLift their songs of sav-ing grace.\n\nYes, we’ll ga-ther at the ri-ver,\nThe beau-ti-ful, the beau-ti-ful ri-ver;\nGa-ther with the saints at the ri-ver\nThat flows by the throne of God.\n"
+|Lyric5|Text:"5._Soon we’ll reach the shin-ing ri-ver,\nSoon our pil-grim-age will cease;\nSoon our hap-py hearts will qui-ver\nWith the mel-o-dy of peace.\n\nYes, we’ll ga-ther at the ri-ver,\nThe beau-ti-ful, the beau-ti-ful ri-ver;\nGa-ther with the saints at the ri-ver\nThat flows by the throne of God.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-4|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-6
+|Note|Dur:Half|Pos:-1|Opts:Stem=Up
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-4|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:Whole|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-5
+|Spacer|Width:300
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:25
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:#-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:16th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Whole|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Hanson Place"|Label:"Hanson Place"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-3,4|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Whole|Pos:0,2|Opts:Stem=Up
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:1
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:3,#4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:0,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:16th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:16th|Pos:3,7|Opts:Stem=Down
+|Bar
+|Boundary|Style:NewSize|Upper:5
+|Chord|Dur:8th,Dotted,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:16th|Pos:#4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Whole|Pos:0,2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

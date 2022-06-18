@@ -1,0 +1,167 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Vom Himmel Hoch, LM"|Author:"Geistliche Lieder (Leipzig, Germany: 1539)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Service Book and Hymnal (Minneapolis, Minnesota: Augsburg Publishing House, 1958), # 34."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Be-hold, the joy-ful day is nigh,\nAnd an-gels’ voic-es from on high\nPro-claim the news in ear-ly morn\nThat the Good Shep-herd now is born.\n"
+|Lyric2|Text:"2._In qui-et splen-dor forth He comes,\nThe scat-tered sheep and ten-der lambs\nTo gath-er, and their fold pre-pare\nWith all a shep-herd’s ten-der care.\n"
+|Lyric3|Text:"3._The gen-tle Shep-herd we be-hold\nWho, not with sil-ver and with gold,\nBut by His suf-fering and His death\nWill save us from e-ter-nal wrath.\n"
+|Lyric4|Text:"4._His Church, though small its seed may be,\nShall grow in-to a might-y tree.\nWith fruit-ful branch-es spread-ing o’er\nThe earth till time shall be no more.\n"
+|Lyric5|Text:"5._HIs Word shall like a gen-tle rain\nMake all the earth re-joice a-gain,\nAnd yield a rich and blest in-crease\nIn truth, and pu-ri-ty, and peace.\n"
+|Lyric6|Text:"6._And Heaven and earth shall pass a-way,\nYet shall His Word re-main for aye;\nAll tongues shall soon with one ac-cord\nPro-claim Him Sav-ior, God and Lord.\n"
+|Lyric7|Text:"7._A-rise and shine, thy Light is come,\nO hu-man-kind, O Chris-ten-dom;\nThy glo-ry and thy peace is here;\nThe Sav-ior of the world draws near.\n"
+|Lyric8|Text:"8._All praise and glo-ry be to Thee;\nFor wis-dom, power, and maj-es-ty;\nAnd for Thy grace, and mer-cy, Lord,\nFor-ev-er be Thy name a-dored.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:#-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up,Slur=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-5,-2|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:#-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:#-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6,-3|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-8,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Von Himmel Hoch, LM"|Label:"Von Himmel Hoch, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:3
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:#2|Opts:Stem=Down,ArticulationsOnStem
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:n2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:2,4|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down,Slur=Downward
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,6|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th|Pos:3,b5|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Slur=Downward,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down,Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:#-1,3|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:#2
+|Note|Dur:8th|Pos:n-1|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2,3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-3,6|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:0,3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-1,5|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1,8|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:0,7|Opts:Stem=Down,Slur=Downward,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:#2|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:-2,2|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Slur=Downward,Beam=End
+|Chord|Dur:8th,Slur|Pos:2,4|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-4,2|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,1
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

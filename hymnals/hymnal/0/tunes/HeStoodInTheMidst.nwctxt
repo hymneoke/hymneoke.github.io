@@ -1,0 +1,185 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"He Stood in the Midst"|Author:"From Albert Lortzing (1801-1851)"|Lyricist:"Anonymous, 1891"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Sunday School Chorister (Milwaukee, Wisconsin: Young Churchman Company, 1891), # 31."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._He stood in the midst of His chos-en,\nAt East-er He stood at e’en;\nThe wounds that were made by the ir-on\nIn_the hands and the feet were seen.\nAnd he showed where the bar-ba-rous spear-head,\nTrans-fix-ing His heart, had been.\n"
+|Lyric2|Text:"2._He stood as the sun ’mid the plan-ets,\nEn-rich-ing their orbs with light;\nHe stood as a cap-tain in-spir-ing\nHis sol-diers to brave the fight;\nAnd He stood as a rose in a gar-den,\nIts or-na-ment and de-light.\n"
+|Lyric3|Text:"3._He stood to re-vive th-e droop-ing,\nHe stood to sus-tain the frail;\nHe stood to in-fuse fre-sh cour-age\nIn those that be-gin to fail;\nAs a guide and a help to the pil-grims\nWho tra-verse this tear-ful vale.\n"
+|Lyric4|Text:"4._In the midst of the Church He stand-eth,\nA fount-ain whence vir-tue flows;\nHe light-ens, He leads, H-e pas-tures,\nHis sheep by their name He knows;\nAnd wher-ev-er His flock H-e lead-eth,\nBe-fore them the Pas-tor goes.\n"
+|Lyric5|Text:"5._In the midst of the fierc-est bat-tle\nHe stand-eth with suc-cor near;\nIn the black-est and wild-est tem-pest,\nA bea-con the tossed to cheer.\nI walk through the val-ley of sha-dows;\nI see Him, and I have no fear.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,#-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-2,0
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-2|Opts:Stem=Up|Dur2:16th|Pos2:-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-2,0
+|Spacer|Width:200
+|Bar
+|DynamicVariance|Style:Crescendo|Pos:9
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,#-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Down,Beam=First
+|DynamicVariance|Style:Diminuendo|Pos:9
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,#-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th|Pos:#-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:175
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"He Stood in the Midst"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,#6
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,8
+|Chord|Dur:8th|Pos:3,8
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:8th,Dotted|Pos:0,6
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,#6
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,8
+|Chord|Dur:8th|Pos:3,8
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Slur|Pos:3,7|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:3,7|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:8th,Dotted|Pos:0,6
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Slur|Pos:1,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:b1,6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,8
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

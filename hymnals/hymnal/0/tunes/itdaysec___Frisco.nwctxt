@@ -1,0 +1,197 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Frisco, 87.87 D"|Author:"Jesse B. Hardin, 1914"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs for Jesus No. 5, by Frank M. Graham (Greensboro, Georgia: Frank M. Graham, 1914), # 116. Modified measures 6,& 7 & 13 to fix awkard meter."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Violin"|Patch:40|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._In the days of ear-ly child-hood,\nWhile my heart yet knew no care,\nJe-sus came and soft-ly whis-pered,\n“Shun the tempt-er’s fa-tal snare.”\n\nThen I said, “O gen-tle Sav-ior,\nEre I am by sin be-set,\nI will sure-ly heed Thy warn-ing,\nTho’ I am not read-y yet.”\n"
+|Lyric2|Text:"2._“He is wait-ing, hop-ing, plan-ning\nIn his wild sa-tan-ic glee,\nTo de-stroy thy soul for-ev-er,\nBut I’ll save thee— come to Me.”\n\nThen I said, “O gen-tle Sav-ior,\nEre I am by sin be-set,\nI will sure-ly heed Thy warn-ing,\nTho’ I am not read-y yet.”\n"
+|Lyric3|Text:"3._On in sin I blind-ly wan-dered,\nBy the tempt-er’s voice be-guiled,\nNev-er paus-ing to con-sid-er\nThat my soul was sin de-filed.\n\nThen I said, “O gen-tle Sav-ior,\nEre I am by sin be-set,\nI will sure-ly heed Thy warn-ing,\nTho’ I am not read-y yet.”\n"
+|Lyric4|Text:"4._On the brink of death’s dark riv-er,\nI must wait in deep de-spair,\nHeav-en’s por-tals closed a-gainst me,\nNone that’s sin-ful en-ter there.\n\nThen I said, “O gen-tle Sav-ior,\nEre I am by sin be-set,\nI will sure-ly heed Thy warn-ing,\nTho’ I am not read-y yet.”\n"
+|Clef|Type:Treble
+|Tempo|Tempo:93|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:#-2
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:#-2
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:0
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Placement:AtNextNote
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:Half|Pos:-3
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:11|Justify:Center
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,n0
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:n5
+|Bar
+|Note|Dur:4th,Dotted|Pos:6
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:5
+|Note|Dur:8th|Pos:6
+|Bar
+|Note|Dur:4th|Pos:5
+|Note|Dur:4th|Pos:4
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:6
+|Bar
+|Note|Dur:4th,Dotted|Pos:7
+|Note|Dur:8th|Pos:7
+|Note|Dur:8th|Pos:7
+|Note|Dur:8th|Pos:b7
+|Bar
+|Note|Dur:Half|Pos:6
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:5
+|Bar
+|Note|Dur:4th,Dotted|Pos:6
+|Note|Dur:8th|Pos:n5
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:b8
+|Bar
+|Note|Dur:4th|Pos:8
+|Note|Dur:4th|Pos:7
+|Note|Dur:8th|Pos:7
+|Note|Dur:8th|Pos:b7
+|Bar
+|Note|Dur:4th,Dotted|Pos:6
+|Note|Dur:8th|Pos:4
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Note|Dur:8th|Pos:6
+|Note|Dur:8th|Pos:5
+|Bar
+|Note|Dur:Half|Pos:4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:2
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:2,b8
+|Bar
+|Chord|Dur:4th|Pos:-2,b8
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:8th|Pos:n-2,b7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

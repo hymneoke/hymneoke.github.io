@@ -1,0 +1,160 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Geldingadalur, 87.88.87"|Author:"Arthur Berridge, 1900"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Service of Praise, by J. Lincoln Hall et al. (Philadelphia, Pennsylvania: Hall-Mack, 1900), # 33."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O bird so blithe, O bird so blithe,\nHow firm thy trust a-bid-eth!\nThou sow-est not, thou reap-est not,\nAnd hoard-ed grain thou heap-est not;\nYet bird so blithe, O bird so blithe,\nGod for thy wants pro-vid-eth.\n"
+|Lyric2|Text:"2._O lil-y fair, O lil-y fair,\nHow sweet thy beau-ty’s sto-ry!\nThou toil-est not, thou spinn-est not,\nAnd earth-ly hon-ors winn-est not;\nYet lil-y fair, O lil-y fair,\nThou art ar-rayed in glo-ry.\n"
+|Lyric3|Text:"3._O child-hood bright, O child-hood bright,\nHow sweet the joy thou bring-est,\nWhen, trust-ful as the bird in air,\nAnd sim-ple as the lil-y fair,\nO child-hood bright, O child-hood bright,\nThy hap-py song thou sing-est!\n"
+|Lyric4|Text:"4._O bird in air, O bird in air,\nThink not of com-ing sor-row,\nThe Fa-ther dear who lov-eth all,\nDoth bear thy wing, doth watch thy fall;\nSo bird in air, O bird in air,\nStill leave to Him the mor-row.\n"
+|Lyric5|Text:"5._O lil-y frail, O lil-y frail,\nHow soon thy glo-ry wan-eth!\nUp-spring-ing with the morn-ing glow,\nAt eve-ning’s breath thou li-est low;\nYet lil-y frail, O lil-y frail,\nThy fra-grance still re-main-eth.\n"
+|Lyric6|Text:"6._O child-hood brief, O child-hood brief,\nTho’ swift thy days pass by us,\nMay thy firm trust, thy sim-ple grace,\nBe aye our strength in man-hood’s race;\nThen, child-hood brief, O child-hood brief,\nThy joy shall still be nigh us.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-6,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-6,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,2
+|Bar
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-6,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:n-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:8th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-6,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:b-2,0
+|Chord|Dur:8th|Pos:-2,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down|Dur2:4th|Pos2:-1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down|Dur2:4th|Pos2:1
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:n1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,6
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:n0,n5
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

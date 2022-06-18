@@ -1,0 +1,160 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Franconia (Hastings), 11.11.11.11"|Author:"Thomas Hastings (1784-1872)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: E-mail from Olive Branch (olivebranch@cyg.net), 5 Apr 2002."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Je-sus, won-drous Sav-ior! Christ, of kings the king!\nAn-gels fall be-fore Thee, pros-trate wor-ship-ping;\nFair-est they con-fess Thee in the Heav’n a-bove.\nWe would sing Thee fair-est here in hymns of love.\n"
+|Lyric2|Text:"2._Fair-er far than sun-light un-to eyes that wait\nA-mid fear and dark-ness, ’til the morn-ing break;\nFair-er than the day-dawn, hills and dales a-mong,\nWhen its tide of glo-ry wakes the tide of song.\n"
+|Lyric3|Text:"3._Sweet-er far than mu-sic quiv-er-ing from keys\nThat un-bind all feel-ing with strange har-mo-nies.\nThou art more and dear-er than all min-strel-sy;\nOn-ly in Thy pres-ence can joy’s full-ness be.\n"
+|Lyric4|Text:"4._All earth’s flow-ing pleas-ures were a win-try sea,\nHeav’n it-self with-out Thee dark as night would be.\nLamb of God! Thy glo-ry is the light a-bove.\nLamb of God! Thy glo-ry is the life of love.\n"
+|Lyric5|Text:"5._Life is death if sev-ered from Thy throb-bing heart.\nDeath with life a-bun-dant at Thy touch would start.\nWorlds and men and an-gels all con-sist in Thee:\nYet Thou cam-est to us in hu-mil-i-ty.\n"
+|Lyric6|Text:"6._Je-sus! All per-fec-tions rise and end in Thee;\nBright-ness of God’s glo-ry Thou, e-ter-nal-ly,\nFa-vored be-yond mea-sure they Thy face who see;\nMay we gra-cious Sav-ior, share this ec-sta-sy.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-1,2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:Half|Pos:-3,n-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,n-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-1,2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-7,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Franconia (Hastings)"|Label:"Franconia (Hastings)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:4,8|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2,5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half|Pos:1,8
+|Bar
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:8|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:n4
+|Chord|Dur:8th|Pos:5,7|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,n4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,8|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half|Pos:1,8
+|Bar
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

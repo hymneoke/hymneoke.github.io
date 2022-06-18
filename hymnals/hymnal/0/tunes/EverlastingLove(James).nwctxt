@@ -1,0 +1,203 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Everlasting Love"|Author:"Phoebe Palmer Knapp"|Lyricist:"Mary Dagworthy James, 1878"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Best Gospel Songs and Their Composers, by Anthony J. Showalter (Dalton, Georgia: A. J. Showalter Company, 1904), # 167."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:31|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Won-drous words! how rich in bless-ing!\nDeep-er than th’un-fa-thomed sea;\nBroad-er than its world of wa-ters,\nBound-less, in-fi-nite and free.\nHigh-er than the heav’ns a-bove,\nIs that ev-er-last-ing love!\nHigh-er than the heav’ns a-bove,\nIs that ev-er-last-ing love!\n"
+|Lyric2|Text:"2._Down to low-est depths it reach-es—\nThe all-lov-ing Fa-ther’s arm,\nToward His re-bel child-ren yearn-ing,\nDraw-ing them with ma-gic charm.\nTill the yield-ing spir-its move,\nTouched by ev-er-last-ing love;\nTill the yield-ing spir-its move,\nTouched by ev-er-last-ing love.\n"
+|Lyric3|Text:"3._Wea-ry spir-its— sad with toil-ing,\n’Mid the sor-rows of life’s way—\nFeel their hea-vy bur-dens light-ened,\nAs they jour-ney day by day.\nHow with quick-ened steps they move,\nCheered by ev-er-last-ing love;\nHow with quick-ened steps they move,\nCheered by ev-er-last-ing love.\n"
+|Lyric4|Text:"4._I have set thee as a sig-net,\nGra-ven on My hands thy name;\nLo, I still am with thee al-ways,\nE-ver-more thy friend— the same;\nNe-ver chang-ing— thou wilt prove\nMine is ev-er-last-ing love;\nNe-ver chang-ing— thou wilt prove\nMine is ev-er-last-ing love.\n"
+|Lyric5|Text:"5._In My house of ma-ny man-sions,\nI’ve pre-pared a place for thee,\nWhere are no dark clouds or tem-pests,\nWhere I am, there thou shalt be—\nAll the un-told bliss to prove,\nOf My ev-er-last-ing love;\nAll the un-told bliss to prove,\nOf My ev-er-last-ing love.\n"
+|Clef|Type:Treble
+|Key|Signature:F#|Tonic:G
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up|Dur2:16th|Pos2:-5
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:#-6,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:475
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-6,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-2
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:n-3,2
+|Bar
+|Chord|Dur:4th|Pos:n-3,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:#-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-7,-5
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-8,-6
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-6,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-7,-2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:n-3,2
+|Bar
+|Chord|Dur:8th|Pos:n-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-5,#-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Everlasting Love"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Rest|Dur:8th
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Up|Dur2:16th|Pos2:3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:3,4
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:0,3
+|Chord|Dur:16th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,5
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,7
+|Chord|Dur:16th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:8th,Dotted|Pos:0,3
+|Chord|Dur:16th|Pos:0|Opts:Stem=Down|Dur2:16th|Pos2:0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0|Opts:Stem=Down|Dur2:8th|Pos2:0
+|Chord|Dur:8th,Dotted|Pos:0,3
+|Chord|Dur:16th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

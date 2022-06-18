@@ -1,0 +1,153 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Naaman, 10.10.10.10"|Author:"M. Costa, arranged by William Hutchins Calcott "|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Endeavor Hymnal (Boston, Massachusetts: United Society of Christian Endeavor, 1901), # 21."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Hon-or and glo-ry, thanks-giv-ing and praise,\nMak-er of all things, to Thee we up-raise;\nGod the Al-might-y, the Fa-ther, the Lord;\nGod by the an-gels o-beyed and a-dored.\n"
+|Lyric2|Text:"2._Thou art the Fa-ther of Heav-en and earth;\nWorlds un-cre-at-ed to Thee owe their birth;\nAll the cre-a-tion, Thy voice when it heard,\nStart-ed to life and to light at Thy Word.\n"
+|Lyric3|Text:"3._On-ward the sun and the moon and their march\nSpan with the rain-bow the fir-ma-ment’s arch;\nStars yet un-known, and whose light is to come,\nFind in cre-a-tion their place and a home.\n"
+|Lyric4|Text:"4._Earth with the moun-tain, the riv-er, the plain,\nSky with the dew-drop, the wind, and the rain,\nBeast of the for-est, wild bird of the air,\nAll are Thy crea-tures, and all are Thy care.\n"
+|Lyric5|Text:"5._O-cean the rest-less, and wa-ters that swell,\nLight-nings that flash o-ver flood, o-ver fell,\nOwn Thee the Mas-ter Al-might-y, and call\nThee the Cre-a-tor, the Fa-ther, of all.\n"
+|Lyric6|Text:"6._Yea, Thou art Fa-ther of all, and Thy love\nPit-y for man that is fall-en doth move;\nGuide us in life, and pro-tect to the last;\nAnd, at Thine Ad-vent, Lord, par-don the past.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:n-5,n0
+|Bar
+|Chord|Dur:Whole|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:Whole|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half|Pos:-4,b-2
+|Chord|Dur:4th,Dotted|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4,-3
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:4th,Dotted|Pos:-3,n-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:Whole|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Naaman, 10.10.10.10"|Label:"Naaman, 10.10.10.10"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Whole|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:n0,2
+|Bar
+|Chord|Dur:Whole|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:2,n4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:2,n4
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Whole|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

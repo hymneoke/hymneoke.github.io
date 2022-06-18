@@ -1,0 +1,148 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:32|CaretPos:-4
+|SongInfo|Title:"Poitiers, 77.777"|Author:"Charles John Vincent, Jr., 1906"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Praise Book, edited by Howard B. Grose & George B. Graff (Boston, Massachusetts: United Society of Christian Endeavor, 1906), p. 185."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Let us haste to Beth-le-hem\nOn this bless-èd Christ-mas morn;\nLet us seek the man-ger’s side,\nWhere the Son of Man was born.\nHail! All hail! Em-man-u-el.\n"
+|Lyric2|Text:"2._Per-fect man! E-ter-nal God!\nRul-er of the bound-less skies,\nThere a weak and low-ly child—\nMys-ter-y of mys-ter-ies!\nHail! All hail! Em-man-u-el.\n"
+|Lyric3|Text:"3._With-out speech, yet Coun-se-lor;\nIn a man-ger, yet a King;\nNat-u-ral, yet Won-der-ful;\nLet our glad ho-san-nas ring.\nHail! All hail! Em-man-u-el.\n"
+|Lyric4|Text:"4._Glo-ry to the Fa-ther be;\nGlo-ry to the bless-èd Son;\nGlo-ry to the Ho-ly Ghost;\nGlo-ry to the Three in One,\nThrough-out all e-ter-ni-ty.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:B
+|Tempo|Tempo:110|Pos:11|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-5
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,1
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down|Dur2:Whole|Pos2:0
+|Note|Dur:4th,Slur|Pos:#-5|Opts:Stem=Down
+|Note|Dur:Half|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:#-4,1
+|Chord|Dur:4th|Pos:#-2|Opts:Stem=Up|Dur2:4th|Pos2:#-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:#-2,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Whole|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:Half|Pos:-2,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-5,1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th,Slur|Pos:-4,0|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-5
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Whole|Pos:-5,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th,Slur|Pos:2,4
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:4th|Pos:-1,#3
+|Chord|Dur:4th|Pos:#1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:Half,Slur|Pos:7|Opts:Stem=Up|Dur2:Whole|Pos2:4
+|Note|Dur:Half|Pos:6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:3,7
+|Chord|Dur:Half|Pos:1,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-2
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,4
+|Chord|Dur:4th,Slur|Pos:0,5
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Whole|Pos:0,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

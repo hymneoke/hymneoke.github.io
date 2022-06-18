@@ -1,0 +1,252 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Go and Work!"|Author:" Ira Allen Sankey"|Lyricist:"Frances Jane (Fanny) Crosby, 1907"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Best Endeavor Hymns, by I. Allan Sankey & John R. Clements (New York: Biglow & Main, 1907), # 52."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:36|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Christ-ians, wake, no long-er sleep;\nShall we rest while o-thers weep?\nShall we sit with fold-ed hands\nWhen the Lord Him-self com-mands?\n\nGo and work! this hour be-gin;\nGo and seek the lost to win;\nFrom the dark a-bodes of sin,\nTo the feast, oh, bring them in!\n"
+|Lyric2|Text:"2._Do we love the Sav-ior’s name?\nCan our faith His prom-ise claim?\nHave we pledged to Him our all?\nShall we not o-bey His call?\n\nGo and work! this hour be-gin;\nGo and seek the lost to win;\nFrom the dark a-bodes of sin,\nTo the feast, oh, bring them in!\n"
+|Lyric3|Text:"3._Do we trust Him as we ought?\nDo we live as He has taught?\nAre we His, and His a-lone?\nLet our faith by works be shown.\n\nGo and work! this hour be-gin;\nGo and seek the lost to win;\nFrom the dark a-bodes of sin,\nTo the feast, oh, bring them in!\n"
+|Lyric4|Text:"4._There’s a cross that we must bear\nIf the crown we hope to wear:\nOn-ward, then, with vi-gor new;\nTime is short, the days are few.\n\nGo and work! this hour be-gin;\nGo and seek the lost to win;\nFrom the dark a-bodes of sin,\nTo the feast, oh, bring them in!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:11|Justify:Center
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:#-5,0
+|Chord|Dur:16th|Pos:-5,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-6,-4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-7,-5
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:#-5,0
+|Chord|Dur:16th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:#-5,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Spacer|Width:550
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Down
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:0^
+|Note|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,-2
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:1^
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam
+|Note|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Beam
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1^
+|Note|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Dotted|Pos:b-4,-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:0^
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam
+|Note|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Beam
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1^
+|Note|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:#-6,-4
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-1^
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Down,Beam
+|Note|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Beam
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:-9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:#-5,-1
+|Chord|Dur:8th,Dotted|Pos:-5,-1
+|Chord|Dur:16th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:1^
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam
+|Note|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Beam
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:-8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Go and Work!"|Label:"Go and Work!"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nGo and work!\n_ _ _ _\nthis hour be-gin;\n_ _\nGo and seek\n_ _ _ _\nthe lost to_win;\nFrom the dark\n_ _ _ _\na-bodes of sin\n_ _ _ _ _ _ _\noh, bring them_in!\n\nGo and work! this hour be-gin;\nGo and seek the lost to win;\nFrom the dark a-bodes of sin,\nTo the feast, oh, bring them in!\n"
+|Clef|Type:Bass
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,#2
+|Chord|Dur:16th|Pos:-1,2
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:2
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,#2
+|Chord|Dur:16th|Pos:-1,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,3
+|Chord|Dur:4th|Pos:1,6|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:#2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Bar|Style:Double
+|TimeSig|Signature:4/4
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:8th|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1^
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Note|Dur:8th,Dotted|Pos:4|Opts:Stem=Up
+|Note|Dur:16th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:#2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,5
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:3^
+|Note|Dur:8th|Pos:7|Opts:Stem=Up
+|Note|Dur:8th,Dotted|Pos:7|Opts:Stem=Up
+|Note|Dur:16th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3,7
+|Rest|Dur:4th|Opts:Stem=Up
+|Bar
+|Rest|Dur:4th|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:#-1,b5
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:1,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,7
+|Chord|Dur:8th,Dotted|Pos:2,7
+|Chord|Dur:16th|Pos:2,7
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:#2,6
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:8th|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1^
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Note|Dur:8th,Dotted|Pos:4|Opts:Stem=Up
+|Note|Dur:16th|Pos:b4|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

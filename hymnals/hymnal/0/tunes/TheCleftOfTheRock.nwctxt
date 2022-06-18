@@ -1,0 +1,228 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:102|CaretPos:-9
+|SongInfo|Title:"The Cleft of the Rock"|Author:"Samuel E. Good"|Lyricist:"Samuel E. Good, 1902"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Church and Sunday School Hymnal, edited by John D. Brunk (Scottdale, Pennsylvania: Mennonite Publishing House, 1902), # 447."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:22|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._There’s_a cleft in the Rock of Ag-es,\nWhere my soul may safe-ly hide\nWhile the storms of life are rag-ing,\nAnd the bil-lows roll o’er the tide.\nOh, the cleft of the Rock\nWhere my soul may hide.\n\nWhile the storms of life are rag-ing,\nAnd the bil-lows roll o’er the tide.\n"
+|Lyric2|Text:"2._There_is peace for the soul that hid-eth\nIn the Rock that_is high-er_than I,\nFor the soul that on-ly_con-fid-eth\nAnd the cleft of the Rock will try.\nOh, the cleft of the Rock\nWhere my soul may hide.\n\nFor the soul that on-ly_con-fid-eth\nAnd the cleft of the Rock will try.\n"
+|Lyric3|Text:"3._Oh, soul, thou who now art wea-ry,\nTo the Rock do come for rest;\nCome to Him who on-ly_can cheer thee,\nTo the dear lov-ing Sav-ior’s breast.\nOh, the cleft of the Rock\nWhere my soul may hide.\n\nCome to Him who on-ly_can cheer thee,\nTo the dear lov-ing Sav-ior’s breast.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:103|Pos:11|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted,Slur|Pos:-5|Opts:Stem=Up,Beam=First|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up,Beam=End|Dur2:16th|Pos2:-5
+|Spacer|Width:625
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,n-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:13
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th,Dotted|Pos:-5|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-5
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up|Dur2:16th|Pos2:-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-5
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-5
+|Boundary|Style:NewSize|Lower:10
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,n-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th,Dotted|Pos:-5,0
+|Chord|Dur:16th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"The Cleft of the Rock"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:4
+|Lyric1|Text:"Oh, the cleft of the Rock,\nOh, the cleft of the Rock,\nWhere my soul may se-cure-ly,\nmay se-cure-ly hide.\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted,Slur|Pos:3,5|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Lyric=Never,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:3
+|Chord|Dur:8th,Dotted|Pos:-4,3|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:-4,3|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down,Lyric=Never,Beam=End
+|Chord|Dur:4th|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:-1,3|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down,Lyric=Never,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,3|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:-2,3|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Lyric=Never,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-1,3|Opts:Lyric=Never
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:-1,3|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:0,3|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:0,3|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:0,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,6|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3,5|Opts:Lyric=Never
+|Spacer|Width:375
+|Bar|Style:Double
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,3|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:-2,3|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Lyric=Never,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-1,3|Opts:Lyric=Never
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:-1,3|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:-1,3|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:0,3|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:0,3|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:0,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,6|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3,5|Opts:Lyric=Never
+|Spacer|Width:375
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

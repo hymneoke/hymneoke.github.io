@@ -1,0 +1,259 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Falter Not"|Author:"John Robson Sweney"|Lyricist:"Frances Jane (Fanny) Crosby, 1891"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Radiant Songs, by John R. Sweney et al. (Philadelphia, Pennsylvania: John J. Hood, 1891), # 119."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:38|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Fal-ter not nor look be-hind thee,\nCast thy ev-ery weight a-side;\nHaste to win the prize be-fore thee,\nTrust-ing Him, thy pre-cious guide.\n\nFal-ter not nor look be-hind thee,\nStill thy course with joy pur-sue;\nPer-se-vere, for thou must con-quer,\nWith the cross of Christ in view.\n"
+|Lyric2|Text:"2._Fal-ter not nor look be-hind thee,\nFirm and fear-less take thy place;\nRobe and crown and palm are wait-ing\nFor the vic-tors in the race.\n\nFal-ter not nor look be-hind thee,\nStill thy course with joy pur-sue;\nPer-se-vere, for thou must con-quer,\nWith the cross of Christ in view.\n"
+|Lyric3|Text:"3._Fal-ter not nor look be-hind thee,\nLest thy la-bor prove in vain;\nRun with pa-tience, and re-mem-ber\nThou hast much to lose or gain.\n\nFal-ter not, nor look be-hind thee,\nStill thy course with joy pur-sue;\nPer-se-vere, for thou must con-quer,\nWith the cross of Christ in view.\n"
+|Lyric4|Text:"4._Fal-ter not nor look be-hind thee,\nLo, the prize is just in sight;\nOne more strug-gle, meet it brave-ly,\nSpeed thee on with all thy might.\n\nFal-ter not nor look be-hind thee,\nStill thy course with joy pur-sue;\nPer-se-vere, for thou must con-quer,\nWith the cross of Christ in view.\n"
+|Lyric5|Text:"5._Fal-ter not nor look be-hind thee,\nWhat of all thy tri-als past,\nIf by grace through faith in Je-sus,\nThine the vic-tor’s crown at last?\n\nFal-ter not nor look be-hind thee,\nStill thy course with joy pur-sue;\nPer-se-vere, for thou must con-quer,\nWith the cross of Christ in view.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:9/8
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Chord|Dur:8th|Pos:-6,-3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,-1^|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:#-2|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-3,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,1^|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:n0|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,0^|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-3|Opts:Slur=Upward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-3^|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:n-7,-5|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-6
+|Spacer|Width:400
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Upper:6|Lower:30
+|TimeSig|Signature:12/8
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:8th|Pos:-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1^
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1^
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:4th|Pos:-1,1|Opts:Slur=Upward
+|Note|Dur:8th|Pos:1|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:#-2,n0|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:b0,2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,1|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-1,1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted,Slur|Pos:-2^,0^|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-1,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,-1^|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Slur=Upward
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Up,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Slur=Upward,Beam=End
+|Note|Dur:8th|Pos:-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1^
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1^
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,4|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-1,1|Opts:Slur=Upward
+|Note|Dur:4th|Pos:2|Opts:Slur=Upward
+|Note|Dur:8th|Pos:2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1^
+|Rest|Dur:8th,Slur|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-3,1^|Opts:Slur=Downward
+|Rest|Dur:8th
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward
+|Note|Dur:8th|Pos:-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3^
+|Rest|Dur:8th,Slur|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3^
+|Rest|Dur:8th|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-6,-3|Opts:Slur=Upward
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Falter Not"|Label:"Falter Not"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nFal-ter not nor look be-hind thee,\nStill thy course with joy pur-sue;\nPer-se-vere, for thou must con-quer,\nWith the cross of Christ in view.\n\nFal-ter not nor look be-hind thee,\nStill thy course with joy pur-sue;\nPer-se-vere, for thou must con-quer,\nWith the cross of Christ in view.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:9/8
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,6^|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:n5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th|Pos:2,7|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:#3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th|Pos:2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,6^|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-1,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,n5^|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-4,2|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,1|Opts:Slur=Downward
+|Bar|Style:Double
+|TimeSig|Signature:12/8
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Rest|Dur:8th
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,9|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Slur=Downward
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Rest|Dur:8th
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Rest|Dur:8th
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Rest|Dur:8th
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Rest|Dur:8th
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Rest|Dur:8th
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Slur=Downward
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted,Slur|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted,Slur|Pos:2,9|Opts:Slur=Downward
+|Note|Dur:4th,Slur|Pos:5|Opts:Slur=Downward
+|Note|Dur:8th|Pos:5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half,DblDotted|Pos2:4
+|Rest|Dur:8th|Opts:Stem=Down
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down,Slur=Downward
+|Rest|Dur:8th|Opts:Stem=Down
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down,Slur=Downward
+|Rest|Dur:8th|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Rest|Dur:8th
+|Chord|Dur:4th|Pos:2,5|Opts:Slur=Downward
+|Rest|Dur:8th
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

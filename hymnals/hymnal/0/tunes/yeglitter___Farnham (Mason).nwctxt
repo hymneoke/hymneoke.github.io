@@ -1,0 +1,186 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Farnham (Mason), CMD"|Author:"Lowell Mason, 1841"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: New Harmonia Sacra, Legacy Edition (Dayton, Virginia: Legacy Book Publishers, 1980), # 120."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Ye glit-tering toys of earth, a-dieu,\nA nobl-er choice be mine;\nA re-gal prize at-tracts my view,\nA treas-ure all di-vine;\nBe-gone un-wor-thy of my cares,\nYe spa-cious baits of sense;\nIn-es-ti-ma-ble worth ap-pears\nThe pearl of price im-mense.\n"
+|Lyric2|Text:"2._Je-sus, to mul-ti-tudes un-known—\nO name di-vine-ly sweet!\nJe-sus, in Thee, in Thee a-lone,\nWealth, hon-or, pleas-ure meet!\nShould both the In-dies at my call\nTheir boast-ed stores re-sign:\nWith joy I would re-nounce them all,\nFor leave to call Thee mine.\n"
+|Lyric3|Text:"3._Should earth’s vain treas-ures all de-part,\nOf this dear gift pos-sessed,\nI’d clasp it to my joy-ful heart,\nAnd be for-ev-er blest:\nDear Sov-ereign of my soul’s de-sire,\nThy love is bliss di-vine!\nAc-cept the wish that love in-spires,\nAnd bid me call Thee mine.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:Whole|Pos:-3|Opts:Stem=Up|Dur2:Whole|Pos2:-3
+|Chord|Dur:Half|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:Whole|Pos:-3|Opts:Stem=Up|Dur2:Whole|Pos2:-3
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:Half|Pos:-6,-2
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:Half|Pos:n-7,-5
+|Bar
+|Chord|Dur:Whole|Pos:-6|Opts:Stem=Up|Dur2:Whole|Pos2:-6
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:Whole|Pos:-3|Opts:Stem=Up|Dur2:Whole|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Farnham (Mason), CMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Whole|Pos:6|Opts:Stem=Down|Dur2:Whole|Pos2:6
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down|Dur2:Half|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-5,2,4
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:Whole|Pos:-1,6
+|Chord|Dur:Half|Pos:2|Opts:Stem=Down|Dur2:Half|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-5,2,4
+|Chord|Dur:Half|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-1,1
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:4th|Pos:-4,7
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-5,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

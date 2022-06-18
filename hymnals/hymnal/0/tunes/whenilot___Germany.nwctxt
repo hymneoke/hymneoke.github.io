@@ -1,0 +1,148 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:26|SelectIndex:25|CaretPos:0
+|SongInfo|Title:"Germany, LM"|Author:"William Gardiner, 1815"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 427."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._When I the lone-ly tomb sur-vey,\nWhere once Christ’s bod-y was se-cured,\nI see ful-filled what proph-ets say,\nAnd on my foes de-struc-tion poured.\n"
+|Lyric2|Text:"2._This emp-ty tomb shall now pro-claim\nHow weak the bands of con-quered death!\nSweet pledge, that all who trust His name\nShall rise and draw im-mor-tal breath.\n"
+|Lyric3|Text:"3._Our Sure-ty freed, so we are free,\nFor whose of-fens-es He was seized;\nIn His re-lease our own we see,\nAnd joy to view Je-ho-vah pleased.\n"
+|Lyric4|Text:"4._Our Sav-ior now hath left the dead,\nAnd lives and reigns, to die no more,\nBut lives in Heaven for those to plead\nFor whom the pains of death He bore.\n"
+|Lyric5|Text:"5._Thy ris-en Head, my soul, be-hold,\nAnd see the glo-rious crown He wears;\nThe like, too, with a harp of gold,\nShall thee a-dorn when He ap-pears.\n"
+|Lyric6|Text:"6._Dear Lord, I im-pa-tient-ly long\nTo see the hour when Thou shalt come;\nThen shall I join the end-less song\nOf the re-deemed by Thee brought home.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-3,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:n-4,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-3,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,n-4|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-2,1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0|Opts:Stem=Up,Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Germany, LM"|Label:"Germany, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-2,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,7|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:0,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:5|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:#2,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-3,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,2|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:-1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:-1,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:0,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:8|Opts:Stem=Up,Tie=Downward
+|Spacer|Width:150
+|Chord|Dur:4th|Pos:n1,b7|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:#2,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,8|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:8|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5|Opts:Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

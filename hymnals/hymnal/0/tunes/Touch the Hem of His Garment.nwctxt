@@ -1,0 +1,257 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Touch the Hem of His Garment"|Author:"James Milton Dungan"|Lyricist:"Martha White, 1899"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Voice of Melody, edited by Edmund S. Lorenz (Dayton, Ohio: Lorenz, 1900), # 57."
+|PgSetup|StaffSize:15.5|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Let me touch the hem of_His gar-ment,\nAnd the touch will make me whole;\nLet me reach the bless-èd Sav-ior,\nThe Re-deem-er of my soul.\n\nYou can now touch the hem of His gar-ment,\nIf by faith you en-ter in,\nHe will cleanse you from your sin;\nHe will cleanse and make you clean.\n"
+|Lyric2|Text:"2._Tho’ the throng is dense and threat’n-ing,\nStill my Sav-ior’s form I see;\nCould I on-ly touch His gar-ment,\nThat a-lone would par-don me.\n\nYou can now touch the hem of His gar-ment,\nIf by faith you en-ter in,\nHe will cleanse you from your sin;\nHe will cleanse and make you clean.\n"
+|Lyric3|Text:"3._Tho’ my sins be great and ma-ny,\nYet His voice I seem to hear;\nStand a-side, O care-less list-’ner,\nLet the wea-ry ones draw near.\n\nYou can now touch the hem of His gar-ment,\nIf by faith you en-ter in,\nHe will cleanse you from your sin;\nHe will cleanse and make you clean.\n"
+|Lyric4|Text:"4._Let me touch the hem_of His gar-ment,\nWhile the Bless-èd One is nigh;\nFor the throng grows dense and dens-er,\nAnd they soon will pass me by.\n\nYou can now touch the hem of His gar-ment,\nIf by faith you en-ter in,\nHe will cleanse you from your sin;\nHe will cleanse and make you clean.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-5,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:#-6,0
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,0
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th|Pos:-4,-3
+|Chord|Dur:4th|Pos:-4,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,0|Opts:StemLength=6
+|Spacer|Width:300
+|Boundary|Style:NewSize|Lower:18
+|Bar|Style:MasterRepeatOpen
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Note|Dur:8th,Triplet=First|Pos:-3|Opts:Stem=Down
+|Note|Dur:8th,Triplet|Pos:-3|Opts:Stem=Down
+|Note|Dur:8th,Triplet=End|Pos:-3|Opts:Stem=Down
+|Spacer|Width:275
+|Bar
+|TimeSig|Signature:12/8
+|RestChord|Dur:4th,Dotted,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:2^
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Slur|Pos:-5,0^|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Ending|Endings:1|VertOffset:4
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Down
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Bar|Style:MasterRepeatClose
+|Ending|Endings:2|VertOffset:4
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Down
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:-2^
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward|Dur2:Whole,Dotted|Pos2:0
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Note|Dur:Half,Dotted|Pos:-5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"You can now touch\nhem of His gar-ment,\nand make you clean,\nand make you clean,\nand make you clean.\n\nYou can now touch the hem of His gar-ment,\nIf by faith you en-ter in,\nHe will cleanse you from your sin;\nHe will cleanse and make you clean.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:0,5|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:-2,5|Opts:Stem=Down,Lyric=Never,Beam=First
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down,Lyric=Never,Beam=End
+|Chord|Dur:4th|Pos:-1,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,2|Opts:Lyric=Never
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:-2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,4|Opts:Lyric=Never
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:0,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:n1,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Boundary|Style:NewSize|Upper:18
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Boundary|Style:NewSize|Upper:13
+|Bar|Style:MasterRepeatOpen
+|Rest|Dur:4th
+|Bar
+|TimeSig|Signature:12/8
+|Rest|Dur:4th,Dotted
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Ending|Endings:1
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:2
+|Boundary|Style:NewSize|Upper:5
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Bar|Style:MasterRepeatClose
+|Ending|Endings:2|VertOffset:-11
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,5|Opts:Lyric=Never
+|Bar
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up|Dur2:Whole,Dotted|Pos2:-2
+|Note|Dur:8th|Pos:4|Opts:Stem=Up
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Note|Dur:Half,Dotted|Pos:2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

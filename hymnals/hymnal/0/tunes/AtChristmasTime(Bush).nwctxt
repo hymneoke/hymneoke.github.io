@@ -1,0 +1,157 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"At Christmas Time"|Author:"Edmund Simon Lorenz"|Lyricist:"Bertha E. Bush, 1907"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source:The King’s Message, edited by Edmund S. Lorenz & Ira B. Wilson (New York: Lorenz Publishing Company, 1910), # 155."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:22|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Christ-mas bells are ring-ing,\nRing-ing, ring-ing,\nHap-py child-ren sing-ing,\nChrist is born.\nIn the mang-er low-ly\nLay the Christ child ho-ly,\nAn-gels sing-ing, shep-herds bring-ing,\nLove and praise.\n"
+|Lyric2|Text:"2._While the star shone o’er Him,\nO’er Him, o’er Him,\nWise men knelt be-fore Him\nWhere He lay.\nForth they brought their trea-sure,\nWealth be-yond our mea-sure,\nWith hearts glow-ing, all be-stow-ing,\nHail Him king!\n"
+|Lyric3|Text:"3._Gold and myrrh they brought Him,\nBrought Him, brought Him,\nBear-ing gifts they sought Him,\nFar they came.\nNow, while bells are ring-ing,\nWe, too, pre-sents bring-ing,\nBow be-fore Him, low a-dore Him,\nCrown Him king.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|Tempo|Tempo:95|Pos:11|Justify:Right
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-8
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-8,-6
+|Chord|Dur:8th|Pos:-6,-4,-2|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-6,-3,-1
+|Chord|Dur:4th|Pos:-3,-1,1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-5,-3,0
+|Chord|Dur:4th|Pos:-3,0,2
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-3,-1,1
+|Chord|Dur:4th|Pos:-6,-3,-1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-8
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-8,-6,-3
+|Chord|Dur:8th|Pos:-6,-4,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:-6,-3,-1
+|Chord|Dur:4th|Pos:-3,-1,1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-4,-2,1
+|Chord|Dur:4th|Pos:-5,-2,n0
+|Bar
+|Chord|Dur:Half|Pos:-4,-2,1
+|Bar
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up|Dur2:Half|Pos2:-5,-3
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th|Pos:1|Opts:Stem=Up|Dur2:4th|Pos2:-3,-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-3,-1
+|Chord|Dur:8th|Pos:-8,-6,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-7,-5,-2
+|Chord|Dur:4th|Pos:-7,-6,-4
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half|Pos:-8,-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"At Christmas Time"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:2/4
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:3
+|Bar
+|Note|Dur:Half|Pos:-1
+|Spacer|Width:375
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:3
+|Bar
+|Note|Dur:4th|Pos:-5
+|Chord|Dur:4th|Pos:-1,2
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:3
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:5
+|Bar
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:Half|Pos:-5
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

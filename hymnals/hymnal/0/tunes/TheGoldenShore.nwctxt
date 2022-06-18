@@ -1,0 +1,233 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Golden Shore"|Author:"Edwin Othello Excell"|Lyricist:"William Henry Gardner, 1892"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Triumphant Songs No. # 3, by Edwin O. Excell (Chicago, Illinois: E. O. Excell, 1892), # 1."
+|PgSetup|StaffSize:15|Zoom:3|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:18|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._We shall hear the an-gels sing-ing,\nWhen we reach the gold-en shore;\nLoud their an-thems will be ring-ing,\nWhen we reach the gold-en shore;\nJe-sus there will rise to meet us,\nWith sweet lov-ing words He’ll greet us,\nAnd be-side Him He will seat us,\nWhen we reach the gold-en shore.\n"
+|Lyric2|Text:"2._We shall cast our crowns be-fore Him,\nWhen we reach the gold-en shore;\nAnd with shin-ing hosts a-dore Him,\nWhen we reach the gold-en shore;\nEv-ery land and ev-ery na-tion,\nAll made free thro’ His sal-va-tion,\nWill join in the ac-cla-ma-tion,\nWhen we reach the gold-en shore.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5^,-3^
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th,DblDotted|Pos:-5^,-3^
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-3^,1^
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-4,-3
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5^,-3^
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th,DblDotted|Pos:-5^,-3^
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-3^,1^
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-4,-3
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:0^,1^
+|Chord|Dur:8th,Dotted|Pos:0,1
+|Chord|Dur:16th|Pos:0,1
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-3^,1^
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th|Pos:-6,-2
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-6,-3
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5^,-3^
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-5^,-3^
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-3^,1^
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-4,-3
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:2
+|AddStaff|Name:"The Golden Shore"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:9|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:9
+|Lyric1|Text:"_ _\nThe gold-en shore,\nThe gold-en shore;\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nThe gold-en shore,\nThe gold-en shore;\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Note|Dur:8th,Dotted,Triplet=First,Slur|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Triplet,Slur|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th,Triplet=End,Slur|Pos:2|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:5
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Note|Dur:8th,Dotted,Triplet=First,Slur|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Triplet,Slur|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th,Triplet=End,Slur|Pos:2|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:5
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Note|Dur:8th,Dotted,Triplet=First,Slur|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Triplet,Slur|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th,Triplet=End,Slur|Pos:2|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:5
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Note|Dur:8th,Dotted,Triplet=First,Slur|Pos:-2|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Triplet,Slur|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th,Triplet=End,Slur|Pos:2|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:5
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th,Slur|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Dotted,Slur|Pos:2,4|Opts:Stem=Down,Beam
+|Chord|Dur:16th,Slur|Pos:2,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th,Slur|Pos:-2,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Dotted,Slur|Pos:-2,5|Opts:Stem=Down,Beam
+|Chord|Dur:16th,Slur|Pos:-2,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:5,9
+|Chord|Dur:16th|Pos:5,9
+|Bar
+|Chord|Dur:Half|Pos:3^,n8^
+|Chord|Dur:8th,Dotted|Pos:3,8
+|Chord|Dur:16th|Pos:3,8
+|Chord|Dur:8th,Dotted|Pos:2,b8
+|Chord|Dur:16th|Pos:2,8
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-1^,4^
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,5
+|Bar
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:-2^,5^
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2^,5^
+|Chord|Dur:4th|Pos:-2,5
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Bar|Style:LocalRepeatClose|Repeat:2
+!NoteWorthyComposer-End

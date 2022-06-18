@@ -1,0 +1,216 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I Am Satisfied"|Author:"John Millard Harris, 1906"|Lyricist:"Franklin Edson Belden, 1903"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Spiritual Songs, edited by George A. McLaughlin, John M. Harris & Margaret J. Harris (Chicago, Illinois: Christian Witness Company, ca. 1908), # 1. Note: This source gives the author as \"A. N. O.\" Per The Hymnary web site (http://www.hymnary.org), A. N. O. is a pseudonym of Franklin Belden."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._If He, my Lord, is with me still\nAnd I in Him a-bide,\nIf He but whis-per to my heart,\nThen I am sa-tis-fied.\n\nSa-tis-fied in Je-sus, my Lord,\nHe knows my sor-rows and care;\nI’ll praise His name wher-ev-er I go,\nAnd seek His bless-ing in prayer.\n"
+|Lyric2|Text:"2._Thro’ pas-tures green, or sha-dows deep,\nWith Him my con-stant guide,\nIf step by step He leads me on,\nThen I am sa-tis-fied.\n\nSa-tis-fied in Je-sus, my Lord,\nHe knows my sor-rows and care;\nI’ll praise His name wher-ev-er I go,\nAnd seek His bless-ing in prayer.\n"
+|Lyric3|Text:"3._And tho’ at times the things I ask,\nIn love are oft de-nied,\nI know He gives me what is best,\nAnd I am sa-tis-fied.\n\nSa-tis-fied in Je-sus, my Lord,\nHe knows my sor-rows and care;\nI’ll praise His name wher-ev-er I go,\nAnd seek His bless-ing in prayer.\n"
+|Lyric4|Text:"4._From Him my soul, in life or death,\nNo power shall e’er di-vide;\nI read the prom-ise in His Word,\nAnd I am sa-tis-fied.\n\nSa-tis-fied in Je-sus, my Lord,\nHe knows my sor-rows and care;\nI’ll praise His name wher-ev-er I go,\nAnd seek His bless-ing in prayer.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:550
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,0^
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-5,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-1^
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:8th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:17
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,0^
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-1^
+|Chord|Dur:4th|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"I Am Satisfied"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th|Pos:1,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:10
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,8
+|Bar
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,3^
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,6^
+|Chord|Dur:4th|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

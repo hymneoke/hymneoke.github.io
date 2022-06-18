@@ -1,0 +1,181 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:44|CaretPos:7
+|SongInfo|Title:"Come Children"|Author:"Frank Sewall (1837-1915)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Magnificat (New York: The New-Church Press, 1910). Notated by Carl Yenetchi."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:Y
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:60|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Come chil-dren, with sing-ing,\nWith sweet voic-es ring-ing,\nCome kneel to the Babe that in Beth-le-hem lies,\nWhile an-gels a-cho-ir, with pin-ions of fi-re,\nAre fill-ing with mu-sic the lis-ten-ing skies.\n"
+|Lyric2|Text:"2._Re-peat the dear sto-ry\nHow, veil-ing His glo-ry,\nThe Hope of the Ag-es came down to the earth,\nOh, wor-ship Him low-ly, the loft-y and ho-ly\nOur star of the morn-ing shone out at His birth.\n"
+|Lyric3|Text:"3._See Mar-y en-fold Him,\nWhile shep-herds be-hold Him.\nAnd sag-es are bent at His beau-ti-ful feet.\nCome, haste to a-dore Him, and, bow-ing be-fore Him,\nThe Lord who re-deems you in rev-er-ence greet.\n"
+|Lyric4|Text:"4._This won-der-ful stran-ger,\nHis couch is a man-ger,\nHis cra-dle is made with the cat-tle in stall;\nYet God of cre-a-tion in blest in-car-na-tion,\nHe stoops to our na-ture to ran-som us all.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:90|Pos:11|Justify:Center
+|TimeSig|Signature:6/8
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Note|Dur:Half|Pos:1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Staff-1"|Label:"Staff-1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:15|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble
+|TimeSig|Signature:6/8
+|Note|Dur:8th|Pos:-2
+|Bar
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:-4^
+|Chord|Dur:8th|Pos:-9,-6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-9,-6|Opts:Stem=Down
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:-4
+|Chord|Dur:8th|Pos:-9,-6|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-9,-6|Opts:Stem=Up,Beam=End
+|Bar
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:-7^
+|Chord|Dur:8th|Pos:-9,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-9,-3|Opts:Stem=Up,Beam=End
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:-7
+|Chord|Dur:8th|Pos:-9,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-9,-3|Opts:Stem=Up,Beam=End
+|Bar
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:-4^
+|Chord|Dur:8th|Pos:-9,-6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-9,-6|Opts:Stem=Down
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:-4
+|Chord|Dur:8th|Pos:-9,-6|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-9,-6|Opts:Stem=Up,Beam=End
+|Bar
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:#-3
+|Chord|Dur:8th|Pos:-8,-6|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-8,-6|Opts:Stem=Up,Beam=End
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:-2
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up,Beam=End
+|Bar
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:-4^
+|Chord|Dur:8th|Pos:-9,-6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-9,-6|Opts:Stem=Down
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:-4
+|Chord|Dur:8th|Pos:-9,-6|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-9,-6|Opts:Stem=Up,Beam=End
+|Bar
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:-7^
+|Chord|Dur:8th|Pos:-9,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-9,-3|Opts:Stem=Up,Beam=End
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Dotted|Pos2:-7
+|Chord|Dur:8th|Pos:-9,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-9,-3|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:#-6,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-8,-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-8,-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-8,-5|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-9,-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-9,-6,-3|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:-9,-7,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-9,-6,-4|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Come Children"|Label:"Come Children"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:8|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:3
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:6/8
+|Rest|Dur:8th|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th,Dotted|Pos:-4|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th,Dotted|Pos:-4|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th,Dotted|Pos:-3|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Dotted|Pos:0|Opts:Stem=Down
+|Note|Dur:4th,Dotted|Pos:-4|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th,Dotted|Pos:-4|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Dotted|Pos:0|Opts:Stem=Down
+|Note|Dur:4th,Dotted|Pos:-4|Opts:Stem=Down
+|Bar
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Note|Dur:8th|Pos:#-5|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Dotted|Pos:-4|Opts:Stem=Down
+|Note|Dur:Half|Pos:-1|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

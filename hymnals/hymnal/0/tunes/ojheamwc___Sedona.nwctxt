@@ -1,0 +1,132 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:13|SelectIndex:14|CaretPos:0
+|SongInfo|Title:"Sedona, 77.77"|Author:"Arranged by C. Marion Couch, 1901"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Bible Songs (Pittsburgh, Pennsylvania: United Presbyterian Board of Publication, 1901), # 7"
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._O Je-ho-vah, hear my words,\nAnd my med-i-ta-tion weigh;\nHear my cry, my king, my God,\nFor to Thee, O Lord, I’ll pray.\n"
+|Lyric2|Text:"2._In the morn-ing, Lord, my voice\nThou shalt hear in sup-pliant cries;\nIn the morn-ing, Lord, to Thee\nI will lift my wait-ing eyes.\n"
+|Lyric3|Text:"3._Thou, Je-ho-vah, art a God\nWho in sin can-not de-light;\nE-vil shall not dwell with Thee\nNor shall fools stand in Thy sight.\n"
+|Lyric4|Text:"4._E-vil-do-ers Thou dost hate,\nLi-ars all de-stroyed shall be;\nMen of blood and of de-ceit\nEv-er are ab-horred by Thee.\n"
+|Lyric5|Text:"5._But in Thy a-bun-dant grace\nTo Thy house will I draw near;\nTo Thy ho-ly tem-ple, Lord,\nI will look, and bow in fear.\n"
+|Lyric6|Text:"6._Lead me in Thy right-eous-ness;\nEv-er-more my steps main-tain;\nAnd be-cause of watch-ful foes,\nMake Thy way be-fore me plain.\n"
+|Lyric7|Text:"7._In their mouth there is no truth,\nAll their heart is full of wrong,\nLike an o-pen grave their throat;\nAnd they flat-ter with their tongue.\n"
+|Lyric8|Text:"8._Let trans-gres-sors be de-stroyed,\nIn their sins by Thee ex-pelled;\nBy their coun-sels let them fall,\nFor a-gainst Thee they re-belled.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:F
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Slur|Pos:-1,0
+|Chord|Dur:8th|Pos:-2,3
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Slur|Pos:-1,0
+|Chord|Dur:8th|Pos:-2,3
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:b-2,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:b-2,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Sedona, 77.77"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:F
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th,Slur|Pos:9|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:8|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:8th|Pos:1,5
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th,Slur|Pos:9|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:8|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Slur|Pos:1,7
+|Chord|Dur:8th,Slur|Pos:1,5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:#1,7
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Down|Dur2:Half|Pos2:6
+|Note|Dur:8th,Slur|Pos:n1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th,Dotted|Pos:-3,4,6
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

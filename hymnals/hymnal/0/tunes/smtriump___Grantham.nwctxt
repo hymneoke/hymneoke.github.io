@@ -1,0 +1,187 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:49|CaretPos:3
+|SongInfo|Title:"Grantham, 76.76 D"|Author:"George Pierce Grantham, 1894"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Carols For Use In Church , by Richard R. Chope (London: William Clowes & Sons, 1894), # 54. Author\'s name apparently misspslled as \"Grantlam\" in this source."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._A shout of might-y tri-umph\nThrough na-ture’s realm is heard,\nA shout which calls cre-a-tion\nTo hail th’In-car-nate Word.\nA-way with clouds and dark-ness!\nAll hail, thrice bless-èd morn;\nSing out with joy, ye mor-tals,\nFor Je-sus Christ is born!\n"
+|Lyric2|Text:"2._Is this, ye ho-ly shep-herds,\nThe might-y new-born King?\nThis Child, so sweet and gen-tle,\nCan He such rap-ture bring?\nO yes! He comes, the Sav-ior\nOf sin-ful earth for-lorn;\nThen shout with joy, ye mor-tals,\nFor Je-sus Christ is born!\n"
+|Lyric3|Text:"3._The cru-el, cru-el foe-man\nThis Child shall o-ver-throw;\nFull soon, the fierce de-stroy-er,\nHis Lord’s stern might shall know:\nOf all his boast-ed pow-er\nSoon to be rough-ly shorn;\nThen shout with joy, ye mor-tals,\nFor Je-sus Christ is born!\n"
+|Lyric4|Text:"4._But say, sweet vir-gin moth-er,\nThe Child up-on thy breast,\nWill He re-ceive young chil-dren,\nAnd share with them His rest?\nO yes! He will with glo-ry\nBoth old and young a-dorn;\nThen shout with joy, ye mor-tals,\nFor Je-sus Christ is born!\n"
+|Lyric5|Text:"5._Re-joice then, youths and maid-ens,\nOld men and chil-dren, too;\nLift up your cheer-ful voic-es,\nWith bliss and rap-ture true!\nRing out, ye towers and stee-ples!\nBlow, trum-pet, pipe and horn!\nThen shout with joy, ye mor-tals,\nFor Je-sus Christ is born!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-7,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Boundary|Style:NewSize|Lower:2
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:#-6,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:n-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,1
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Grantlam, 76.76 D"|Label:"Grantlam, 76.76 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:Common
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-3,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,7|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half|Pos:3,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down,Slur=Downward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:5,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:6,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:5,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:4,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:#3,8
+|Bar
+|Chord|Dur:Half|Pos:4,8
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th|Pos:-3,#6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,6
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

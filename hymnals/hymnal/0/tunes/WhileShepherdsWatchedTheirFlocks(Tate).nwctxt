@@ -1,0 +1,160 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"While Shepherds Watched Their Flocks"|Author:"George Frederick Handel, 1728"|Lyricist:"Nahum Tate, 1700"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955) # 169. Also in Harmonia Sacra, Legacy Edition (Dayton, Virginia: Legacy Book Publishers, 1980), # 452."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:46|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._While shep-herds watched their flocks by night,\nAll seat-ed on the ground,\nThe an-gel of the Lord came down,\nAnd glo-ry shone a-round,\nAnd glo-ry shone a-round.\n"
+|Lyric2|Text:"2._“Fear not!” said he, for might-y dread\nHad seized their trou-bled mind.\n“Glad tid-ings of great joy I bring\nTo you and all man-kind\nTo you and all man-kind.\n"
+|Lyric3|Text:"3._“To you, in Da-vid’s town, this day\nIs born of Da-vid’s line\nA Sav-ior, who is Christ the Lord,\nAnd this shall be the sign,\nAnd this shall be the sign.\n"
+|Lyric4|Text:"4._“The heav-enly Babe you there shall find\nTo hu-man view dis-played,\nAll mean-ly wrapped in swath-ing bands,\nAnd in a man-ger laid,\nAnd in a man-ger laid.”\n"
+|Lyric5|Text:"5._Thus spake the ser-aph and forth-with\nAp-peared a shin-ing throng\nOf an-gels prais-ing God on high,\nWho thus ad-dressed their song,\nWho thus ad-dressed their song:\n"
+|Lyric6|Text:"6._“All glo-ry be to God on high,\nAnd to the Earth be peace;\nGood will hence-forth from Heav’n to men\nBe-gin and ne-ver cease,\nBe-gin and ne-ver cease!”\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:108|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted,Slur|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Beam=First,Tie=Upward
+|Chord|Dur:16th|Pos:-6,-2|Opts:Stem=Up,Beam=End,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up,Tie=Upward
+|Note|Dur:8th,Dotted,Slur|Pos:-5|Opts:Stem=Up,Beam=First,Tie=Upward
+|Chord|Dur:16th|Pos:-6,-4|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam=End,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-4,-2|Opts:Stem=Up,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,-3|Opts:Stem=Up,Slur=Upward,Tie=Upward
+|Chord|Dur:Half|Pos:-6,-4|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End,Tie=Upward
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-2|Opts:Stem=Up,Tie=Upward
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up,Tie=Upward
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half,Dotted|Pos2:-5
+|Note|Dur:Half|Pos:-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:8th,Dotted,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:2
+|Note|Dur:16th|Pos:-4|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up,Tie=Upward
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-5|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half,Dotted|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Christmas"|Label:"Christmas"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:4
+|Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam=End,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:4
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:8th,Dotted,Slur|Pos:2|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:4
+|Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:8th,Dotted,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:4
+|Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam=End,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half,Dotted|Pos2:4
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:8
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,8|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:n6|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Bar
+|Note|Dur:4th|Pos:0|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:Half|Pos:2|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:8th,Dotted,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Note|Dur:16th|Pos:6|Opts:Stem=Up,Beam=End,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:8th,Dotted,Slur|Pos:2,4|Opts:Stem=Down,Beam=First,Tie=Downward
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th,Dotted|Pos2:4
+|RestChord|Dur:8th,Slur|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward,HideRest|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Tie=Downward
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:0,2|Opts:Stem=Down,Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

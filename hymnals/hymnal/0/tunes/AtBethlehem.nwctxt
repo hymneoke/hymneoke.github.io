@@ -1,0 +1,264 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"At Bethlehem"|Author:"Joseph Lincoln Hall"|Lyricist:"Luella Clark, 1900"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Service of Praise, by J. Lincoln Hall, Irvin H. Mack & C. Austin Miles (Philadelphia, Pennsylvania: Hall-Mack, 1900), # 167."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.03|Top:2.54|Right:2.03|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:8|BoundaryBottom:27|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._A Babe in the man-ger,\nA song in the sky;\nOn earth ben-e-dic-tion,\nRe-joic-ing on high.\nA glo-ry for Ju-dah,\nA won-der-ful Light,\nTo light-en the Gen-tiles\nIn sor-row and night.\n\nA Babe in the man-ger,\nA song in the sky;\nOn earth ben-e-dic-tion,\nRe-joic-ing on high.\n"
+|Lyric2|Text:"2._A Prince and a Sav-ior,\nIm-man-u-el, King;\nAn un-fail-ing king-dom\nOf bless-ing to bring.\nA king-dom of mer-cy,\nOf love, and of peace,\nWhose pow-er shall ev-er\nAnd ev-er in-crease.\n\nA Babe in the man-ger,\nA song in the sky;\nOn earth ben-e-dic-tion,\nRe-joic-ing on high.\n"
+|Lyric3|Text:"3._Glad day-spring from Hea-ven,\nBreak bright on our night;\nFor morn-ing bring glad-ness,\nFor dark-ness give light.\nHail, Son of the High-est,\nRe-deem-er di-vine;\nHeav’n’s hosts are Thy her-alds,\nThe star is Thy sign.\n\nA Babe in the man-ger,\nA song in the sky;\nOn earth ben-e-dic-tion,\nRe-joic-ing on high.\n"
+|Lyric4|Text:"4._Pre-parèd is Thy path-way,\nIn pas-sion of pain;\nE-ter-nal Thy glo-ry,\nE-ter-nal Thy reign.\nPriest, Pro-phet and Sav-ior;\nSing, hosts of the sky,\nShine, stars, at your bright-est;\nRe-demp-tion is nigh.\n\nA Babe in the man-ger,\nA song in the sky;\nOn earth ben-e-dic-tion,\nRe-joic-ing on high.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:100|Pos:13|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End|Dur2:8th|Pos2:-2
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:#-5,0
+|Bar
+|Chord|Dur:Half|Pos:-4,0
+|Text|Text:"Girls"|Font:StaffItalic|Pos:9
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:4th|Pos:-4
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-4
+|Spacer|Width:175
+|Bar
+|Note|Dur:Half|Pos:-1
+|Text|Text:"All"|Font:StaffItalic|Pos:8
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:-3
+|Chord|Dur:8th|Pos:#-4|Opts:Stem=Up|Dur2:8th|Pos2:#-4
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down|Dur2:4th|Pos2:-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:#-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Down
+|Spacer|Width:500
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:17
+|Chord|Dur:4th|Pos:-5,-4
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-4,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-1|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"At Bethlehem"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:24|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-4
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nA Babe in the man-ger,\nA song in the sky;\nOn earth ben-e-dic-tion,\nRe-joic-ing on high.\n\nA Babe in the man-ger,\nA song in the sky;\nOn earth ben-e-dic-tion,\nRe-joic-ing on high.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-3,4
+|Spacer|Width:550
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Boundary|Style:NewSize|Upper:18
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:-2,4
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Rest|Dur:4th
+|Spacer|Width:500
+|Bar
+|Note|Dur:4th|Pos:-6
+|Chord|Dur:4th|Pos:1,3,7
+|Chord|Dur:4th|Pos:1,3,7
+|Spacer|Width:225
+|Bar
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:1,4,6
+|Chord|Dur:4th|Pos:1,4,6
+|Spacer|Width:350
+|Bar
+|Note|Dur:4th|Pos:-6
+|Chord|Dur:4th|Pos:1,3,7
+|Chord|Dur:4th|Pos:1,3,7
+|Bar
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:1,4,6
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:2|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:2
+|Chord|Dur:8th|Pos:#1|Opts:Stem=Down|Dur2:8th|Pos2:#1
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-1,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:#0,n6
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,7
+|Bar
+|Chord|Dur:Half|Pos:-3,4,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

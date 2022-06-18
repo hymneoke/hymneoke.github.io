@@ -1,0 +1,235 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"All for Me (Miles)"|Author:"Charles Austin Miles"|Lyricist:"Charles Austin Miles, 1901"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Christian Service, edited William J. Kirkpatrick, & Henry L. Gilmour (Philadelphia, Pennsylvania: Hall-Mack, 1903), 3 92."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Wea-ry and wan-dering and sunk-en in sin,\nVile as a sin-ner could be,\nJe-sus be-held and to Beth-le-hem came,\nLeft His bright throne for me,\nLeft His bright throne for me.\n\nAll for me, all for me?\nLord, was it all for me?\nFrom the throne to the man-ger,\nFrom there to the cross,\nYes, it was all for me.\n"
+|Lyric2|Text:"2._Foot-sore and wea-ry He toiled on the way,\nEv-en to Geth-sem-a-ne;\nOft I have met Him and heard His sweet voice,\nPray-ing for me, for me,\nPray-ing for me, for me.\n\nAll for me, all for me?\nLord, was it all for me?\nFrom the throne to the man-ger,\nFrom there to the cross,\nYes, it was all for me.\n"
+|Lyric3|Text:"3._Still I re-ject-ed your Sav-ior and mine,\nTill I be-held on the tree,\nSuf-fer-ing, dy-ing, my Sav-ior and yours,\nDy-ing for you and me,\nDy-ing for you and me.\n\nAll for me, all for me?\nLord, was it all for me?\nFrom the throne to the man-ger,\nFrom there to the cross,\nYes, it was all for me.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:90|Pos:11|Justify:Right
+|TimeSig|Signature:6/8
+|Text|Text:"Solo"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:n-5,n0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-8,-6
+|Chord|Dur:8th|Pos:b-7,b-5
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-6,0
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:n-4,1
+|Chord|Dur:16th|Pos:-4,n0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,#-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:n-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:n-5,n0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:b-5,b0
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th,Dotted|Pos:-6|Opts:Stem=Down
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Spacer|Width:50
+|Boundary|Style:NewSize|Lower:13
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First|Dur2:4th,Dotted|Pos2:2
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:#-3,n-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,1^
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:16th|Pos:-8,-6
+|Chord|Dur:16th|Pos:-7,-5
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:n-7,n-5
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:b-5,b0
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,n-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:n-7,-1
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th,Slur|Pos:-5,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"All for Me (Miles)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/8
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,n4
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Spacer|Width:125
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,4
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:-3,1|Opts:Stem=Down
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:14
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:8^
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,8
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:n0,4
+|Bar
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

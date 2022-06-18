@@ -1,0 +1,152 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:55|CaretPos:0
+|SongInfo|Title:"Happy Town of Salem, 11.11.11.11"|Author:"George E. Martin, 1899"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymn Lore, by Calvin W. Laufer (Philadelphia, Pennsylvania: Westminster Press, 1932), p. 190."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Hap-py town of Sa-lem, set on Zi-on’s hill!\nHap-py hearts of pil-grims, could they see it still!\nHe that fol-lows Je-sus, He that dares the right,\nSees the lights of Sa-lem gleam a-cross the night.\n"
+|Lyric2|Text:"2._Hap-py town of Sa-lem, with the jas-per wall!\nIn its man-y man-sions there is room for all.\n“Come to Me,” says Je-sus, “I will give you rest,”\nAnd the town of Sa-lem gath-ers all the blest.\n"
+|Lyric3|Text:"3._Hap-py town of Sa-lem, hap-py lit-tle feet\nOf the chil-dren play-ing in the gold-en street!\n“Let them come,” says Je-sus, “and for-bid them not”;\nBut the proud in Sa-lem have no part or lot.\n"
+|Lyric4|Text:"4._Hap-py town of Sa-lem, with its o-pen gates!\nHap-py are the pil-grims whom a wel-come waits!\nIn the name of Je-sus, they an en-trance claim,\nAnd the guards of Sa-lem an-swer, “In His name.”\n"
+|Lyric5|Text:"5._Hap-py town of Sa-lem, vi-sion true of peace,\nSeen a-bove earth’s striv-ings, stead-fast when they cease!\n“Take thy cross,” says Je-sus, and the nar-row way\nBrings the feet to Sa-lem at the break of day.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-6,-4,1
+|Chord|Dur:Half|Pos:-6,-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-6,-4,1
+|Chord|Dur:Half|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-5,0
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,1
+|Bar
+|Chord|Dur:Half,Slur|Pos:-5,0
+|Chord|Dur:Half|Pos:-5,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-6,-4,1
+|Chord|Dur:Half|Pos:-6,-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4,1
+|Chord|Dur:8th|Pos:-6,-4,1
+|Chord|Dur:4th|Pos:-6,-4,0
+|Chord|Dur:4th|Pos:-6,-4,-1
+|Bar
+|Chord|Dur:Whole|Pos:-5,-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:n-7
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:n-7,-3
+|Chord|Dur:Half|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4,1
+|Chord|Dur:4th,Dotted|Pos:-5,-4,0
+|Chord|Dur:8th|Pos:-6,-4,-1
+|Bar
+|Chord|Dur:Whole|Pos:-6,-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Happy Town of Salem"|Label:"Happy Town of Salem"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:19|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-3,1,4
+|Chord|Dur:Half|Pos:-3,1,4
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:Half|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Whole|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-3,1,4
+|Chord|Dur:Half|Pos:-3,1,4
+|Bar
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:Half|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:4th,Dotted|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:Whole|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-3,1,4
+|Chord|Dur:Half|Pos:-3,1,4
+|Bar
+|Chord|Dur:Half|Pos:-3,1,4
+|Chord|Dur:Half|Pos:-3,1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:b3,4
+|Chord|Dur:8th|Pos:3,4
+|Chord|Dur:4th|Pos:3,4
+|Chord|Dur:4th|Pos:3,4
+|Bar
+|Chord|Dur:Whole|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:n0,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:Half|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:-3,1,4
+|Bar
+|Chord|Dur:Whole|Pos:-3,1,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

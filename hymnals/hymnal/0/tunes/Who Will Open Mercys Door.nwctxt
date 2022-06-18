@@ -1,0 +1,201 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Who Will Open Mercy’s Door?"|Author:"Bentley DeForest Ackley"|Lyricist:"Ina Duley Ogdon, 1912"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Tabernacle Hymns Number Three (Chicago, Illinois: Tabernacle Publishing Company, 1950), # 29."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:33|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Who will o-pen me-rcy’s door?\nJe-sus will! Je-sus will!\nAs for par-don, I im-plore?\nJe-sus, bless-èd Je-sus will!\n\nJe-sus will, Je-sus will!\nYes, your lov-ing Sav-ior will;\nHe will each and ev-ery need ful-fill,\nJe-sus, bless-èd Je-sus will!\n"
+|Lyric2|Text:"2._Who can take a-way my sin?\nJe-sus will! Je-sus will!\nMake me pure, with-out, with-in?\nJe-sus, bless-èd Je-sus will!\n\nJe-sus will, Je-sus will!\nYes, your lov-ing Sav-ior will;\nHe will each and ev-ery need ful-fill,\nJe-sus, bless-èd Je-sus will!\n"
+|Lyric3|Text:"3._Who can con-quer doubts and fears?\nJe-sus will! Je-sus will!\nShare my joys and dry my tears?\nJe-sus, bles-sèd Je-sus will!\n\nJe-sus will, Je-sus will!\nYes, your lov-ing Sav-ior will;\nHe will each and ev-ery need ful-fill,\nJe-sus, bless-èd Je-sus will!\n"
+|Lyric4|Text:"4._Who will be my dear-est Friend?\nJe-sus will! Je-sus will!\nLove and keep me to the end?\nJe-sus, bless-èd Je-sus will!\n\nJe-sus will, Je-sus will!\nYes, your lov-ing Sav-ior will;\nHe will each and ev-ery need ful-fill,\nJe-sus, bless-èd Je-sus will!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:102|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-5,0|Opts:Slur=Upward
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-6,-3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-5,-4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Slur=Upward
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-5,0|Opts:Slur=Upward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-5,-3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:8th|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6^,-1^|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-1|Opts:Slur=Upward
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:25
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Down,Slur=Upward
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-4,1|Opts:Slur=Upward
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:n-5,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-5,-1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:4th,Slur|Pos:n-5|Opts:Stem=Down,Slur=Upward
+|Note|Dur:Half|Pos:b-5|Opts:Stem=Down,Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:n-7,n-5|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:b-5,-3|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-4|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-4,-1|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-4,n0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,2|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-4,1|Opts:Slur=Upward
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-6,-4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-6,-1|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-6,-1|Opts:Slur=Upward
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Who Will Open Mercy\'s"|Label:"Who Will Open Mercy\'s"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-13
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nJe-sus will, Je-sus will!\nYes, your lov-ing Sav-ior will;\nHe will each and ev-ery need ful-fill,\nJe-sus, bless-èd Je-sus will!\n\nJe-sus will, Je-sus will!\nYes, your lov-ing Sav-ior will;\nHe will each and ev-ery need ful-fill,\nJe-sus, bless-èd Je-sus will!\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1|Opts:Slur=Downward
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:1,7|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:16th,Slur|Pos:1,6|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:Half|Pos:1,5|Opts:Slur=Downward
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-3,6|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:16th,Slur|Pos:-3,5|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:0,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3^,4^|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Slur=Downward
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:4
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:-3,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,2|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,2|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,3|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:2,4|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:-1,4|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Bar
+|Chord|Dur:8th|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:1,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:-3,1|Opts:Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

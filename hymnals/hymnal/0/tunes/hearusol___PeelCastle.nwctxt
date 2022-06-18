@@ -1,0 +1,170 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:57|SelectIndex:58|CaretPos:-3
+|SongInfo|Title:"Peel Castle, 10.10.10.10"|Author:"Arranged by William Henry Gill (1839-1923)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Joyful Songs (London: Holborn Publishing House, early 20th Century), # 24. Also in the Hymnary of the United Church of Canada (Toronto, Canada: United Church Publishing House, 1930), # 338."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Hear us, O Lord, from Heaven Thy dwell-ing place:\nLike them of old, in vain we toil all night,\nUn-less with us Thou go, who art the Light,\nCome then, O Lord, that we may see Thy face.\n"
+|Lyric2|Text:"2._Thou, Lord, doest rule the rag-ing of the sea,\nWhen loud the storm and fu-rious is the gale:\nStrong is Thine arm; our lit-tle barks are frail:\nSend us Thy help; re-mem-ber Gal-i-lee.\n"
+|Lyric3|Text:"3._Our wives and chil-dren we com-mend to Thee:\nFor them we plough the land and plough the deep;\nFor them by day the gold-en corn we reap,\nBy night the sil-ver har-vest of the sea.\n"
+|Lyric4|Text:"4._We thank Thee, Lord, for sun-shine, dew and rain,\nBroad-cast from heaven by Thine al-might-y hand—\nSource of all life, un-num-bered as the sand—\nBird, beast, and fish, herb, fruit and gold-en grain.\n"
+|Lyric5|Text:"5._O Bread of Life, Thou in Thy Word hast said,\nWho feeds in faith on Me shall nev-er die!\nIn mer-cy hear Thy hun-gry chil-dren’s cry—\nFa-ther, give us this day our dai-ly bread!\n"
+|Lyric6|Text:"6._Sow in our hearts the seeds of Thy dear love,\nThat we may reap con-tent-ment, joy, and peace;\nAnd when at last our earth-ly la-bors cease,\nGrant us to join Thy har-vest home a-bove.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:n-7
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:Whole|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:#-5,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:1
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:#-5,-1
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:1
+|Note|Dur:4th,Slur|Pos:0|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:b-4,1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Whole|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Peel Castle, 10.10.10.10"|Label:"Peel Castle, 10.10.10.10"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Whole|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:4th,Slur|Pos:3|Opts:Stem=Up
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3,n5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,#2
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Boundary|Style:NewSize|Upper:18
+|Chord|Dur:Half,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-1
+|Note|Dur:4th,Slur|Pos:6|Opts:Stem=Up
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:4th,Slur|Pos:3|Opts:Stem=Up
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3,n5
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,#2
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-1
+|Note|Dur:4th,Slur|Pos:7|Opts:Stem=Up
+|Note|Dur:4th,Slur|Pos:6|Opts:Stem=Up
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Boundary|Style:NewSize|Upper:13
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:#2,4
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:Half|Pos:-4,3,n5
+|Bar
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Whole|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

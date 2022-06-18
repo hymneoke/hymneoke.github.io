@@ -1,0 +1,187 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Montluçon, 88.86.66.86"|Author:"Catherine Booth-Clibborn, 1882"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Joyful Sound, edited by John R. Sweney & William J. Kirkpatrick (Philadelphia, Pennsylvania: John J. Hood, 1889), # 160."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Oh, spot-less Lamb, I come to Thee,\nNo long-er can I from Thee stay;\nBreak eve-ry chain, now set me free,\nTake all my sins a-way.\n\nTake all my sins a-way,\nTake all my sins a-way,\nMy pre-cious Sav-ior, full of love,\nTake all my sins a-way.\n"
+|Lyric2|Text:"2._My hun-gry soul cries out for Thee,\nCome, and for-ev-er seal my breast;\nTo Thy dear arms, at last I flee,\nThere on-ly can I rest.\n\nTake all my sins a-way,\nTake all my sins a-way,\nMy pre-cious Sav-ior, full of love,\nTake all my sins a-way.\n"
+|Lyric3|Text:"3._Wea-ry I am of in-bred sin,\nOh, wilt Thou not my soul re-lease?\nEn-ter, and speak me pure with-in,\nGive me Thy per-fect peace.\n\nTake all my sins a-way,\nTake all my sins a-way,\nMy pre-cious Sav-ior, full of love,\nTake all my sins a-way.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:125|Pos:11|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-2
+|Chord|Dur:4th|Pos:n-3,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Whole|Pos:-3,-1
+|Chord|Dur:Half|Pos:-2,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-2
+|Chord|Dur:4th|Pos:n-3,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Whole|Pos:-5,-1
+|Chord|Dur:Half|Pos:-5,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Whole|Pos:-2|Opts:Stem=Up|Dur2:Whole|Pos2:-2
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:4th|Pos:#-5,0
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:n-3,0
+|Bar
+|Chord|Dur:Whole|Pos:-4,1
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-2
+|Chord|Dur:4th|Pos:n-3,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Whole|Pos:-5,-1
+|Chord|Dur:Half|Pos:-5,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Whole|Pos:-2|Opts:Stem=Up|Dur2:Whole|Pos2:-2
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Montluçon, Booth-Clibborn"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/2
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:3
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:Whole|Pos:0,7
+|Chord|Dur:Half|Pos:-2,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,8
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:0,7
+|TempoVariance|Style:Fermata|Pause:0|Pos:9.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:Whole|Pos:0,2
+|Chord|Dur:Half|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,7
+|Note|Dur:4th|Pos:6
+|Bar
+|Chord|Dur:Whole|Pos:3,5
+|Chord|Dur:Half|Pos:3,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,7
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:0,3
+|Bar
+|Chord|Dur:Whole|Pos:-1,3
+|Chord|Dur:Half|Pos:0,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:1,#6
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,7
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:Whole|Pos:0,2
+|Chord|Dur:Half|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,7
+|Note|Dur:4th|Pos:6
+|Bar
+|Chord|Dur:Whole|Pos:3,5
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

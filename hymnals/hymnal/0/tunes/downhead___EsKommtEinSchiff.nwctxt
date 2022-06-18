@@ -1,0 +1,187 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:38|SelectIndex:37|CaretPos:-2
+|SongInfo|Title:"Es Kommt ein Schiff"|Author:"German, 1608"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Down head-long from their na-tive skies,\nThe re-bel an-gels fell,\nAnd thun-der-bolts of flam-ing wrath\nPur-sued them deep to hell.\n"
+|Lyric2|Text:"2._Down from the top of earth-ly bliss\nRe-bel-lious man was hurled,\nAnd Je-sus stooped be-neath the grave\nTo reach a sink-ing world.\n"
+|Lyric3|Text:"3._O love of in-fi-nite de-gree!\nUn-meas-ur-a-ble grace!\nMust Heav’n’s e-ter-nal dar-ling die,\nTo save a trai-torous race?\n"
+|Lyric4|Text:"4._Must an-gels sink for ev-er down,\nAnd burn in quench-less fire,\nWhile God for-sakes His shin-ing throne\nTo raise us wretch-es higher?\n"
+|Lyric5|Text:"5._O for this love let earth and skies\nWith hal-le-lu-jahs ring,\nAnd the full choir of hu-man tongues\nAll hal-le-lu-jahs sing.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5^|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:b-5,-4
+|Bar
+|Chord|Dur:8th|Pos:b-5,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:n-5^,-3^|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4^,-2^|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6^,-3^|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-6,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3^,-1^|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3^,1^|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th,Slur|Pos:-3,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam
+|Chord|Dur:16th,Slur|Pos:-3,-1|Opts:Stem=Up,Beam
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3^,-1^|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:b-5^,-4^|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-5,-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:n-5^|Opts:Stem=Up,Beam=End
+|Note|Dur:Half|Pos:-5^
+|Bar
+|Note|Dur:4th|Pos:-5
+|Rest|Dur:Half
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"2"|Label:"2"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:0^,4^|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:4
+|Bar
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:0^,4^|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:7|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:b7
+|Bar
+|Note|Dur:8th|Pos:6|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:6^|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:6|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:3
+|Bar
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:4^|Opts:Stem=Down,Beam=End
+|Note|Dur:Half|Pos:4
+|Bar
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:2^,6^|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:5
+|Bar
+|Note|Dur:8th|Pos:5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:6^|Opts:Stem=Down,Beam=End
+|Note|Dur:16th|Pos:6|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:7|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:6|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Note|Dur:8th|Pos:5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:6^|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:6|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:6|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:4^|Opts:Stem=Down,Beam=End
+|Bar
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:0^,b3^|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:0^,3^|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,3|Opts:Stem=Down
+|Rest|Dur:Half
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Es Kommt ein Schiff"|Label:"Es Kommt ein Schiff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Rest|Dur:Half
+|Note|Dur:4th|Pos:-3
+|Bar
+|Note|Dur:4th|Pos:-3
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-2
+|Note|Dur:4th|Pos:-3
+|Bar
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1^|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Note|Dur:4th|Pos:-4
+|Bar
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5^|Opts:Stem=Up,Beam=End
+|Note|Dur:Half|Pos:-5
+|Bar
+|Rest|Dur:4th,Dotted
+|Note|Dur:8th|Pos:-5
+|Note|Dur:4th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-3^|Opts:Stem=Up,Beam=End
+|Note|Dur:16th|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Rest|Dur:4th
+|Bar
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-5^|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Rest|Dur:8th
+|Note|Dur:8th|Pos:-3^
+|Bar
+|Note|Dur:4th|Pos:-3
+|Rest|Dur:Half
+|Bar
+|Rest|Dur:Half,Dotted
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

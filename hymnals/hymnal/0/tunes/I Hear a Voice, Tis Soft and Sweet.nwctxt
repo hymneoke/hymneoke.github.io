@@ -1,0 +1,229 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I Hear a Voice, ’Tis Soft and Sweet"|Author:"Beardsley Van de Water"|Lyricist:"Robert Fleming Sample (1829-1905)"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hosanna for the Sunday School, edited by Alfred T. Schauffler for the American Baptist Publication Society  (New York: Century Company, 1898), # 70."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._I hear a voice, ’tis soft and sweet,\nIt bids my sin-sick soul re-joice;\nThe same was heard in Sa-lem’s street,\nAnd in the moun-tain’s cool re-treat,\nMy Sav-ior’s voice.\n\nSweet-er than chim-ing bells,\nSoft-er than even-ing rills,\nThe voice that tells of par-don—\nPar-don, peace, and Heav’n.\n"
+|Lyric2|Text:"2._When wea-ry with my load of guilt,\nI’ll not for-get that “Christ is all”;\nFor me His pre-cious blood was spilt;\nHe sweet-ly says, “Come, if thou wilt”;\nHow glad the call!\n\nSweet-er than chim-ing bells,\nSoft-er than even-ing rills,\nThe voice that tells of par-don—\nPar-don, peace, and Heav’n.\n"
+|Lyric3|Text:"3._My soul is trou-bled like the sea,\nThe surg-ing bil-lows roll a-round;\nBut He who calmed far Gal-i-lee\nDoth kind-ly say, “Peace be to thee”;\nHow blest the sound!\n\nSweet-er than chim-ing bells,\nSoft-er than even-ing rills,\nThe voice that tells of par-don—\nPar-don, peace, and Heav’n.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:108|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:575
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Spacer|Width:325
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Whole|Pos:-4,0
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:13
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,#-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:1|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,#-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:b-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|DynamicVariance|Style:Crescendo|Pos:11|Visibility:Never
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:#-3,2|Opts:Diminuendo
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Bar
+|Boundary|Style:NewSize|Lower:11
+|TempoVariance|Style:Rallentando|Pos:12.5|Placement:AtNextNote
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:#-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"I Hear a Voice Van De Water"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,6
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,6
+|Chord|Dur:8th|Pos:0,n5
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,n5
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,n5
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Spacer|Width:550
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,5
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:-5.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Slur|Pos:3|Opts:Stem=Up|Dur2:Whole|Pos2:-1
+|Note|Dur:Half|Pos:6|Opts:Stem=Up
+|Spacer|Width:275
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:15|Lower:4
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,n5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:3,b5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th,Dotted|Pos:6|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,n5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:3,b5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|DynamicVariance|Style:Crescendo|Pos:11|Visibility:Never
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:4th|Pos:4,7|Opts:Diminuendo
+|Chord|Dur:8th|Pos:4,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,b8
+|Chord|Dur:4th,Dotted|Pos:-4,7
+|Bar
+|Boundary|Style:NewSize|Upper:17
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:n5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,b5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

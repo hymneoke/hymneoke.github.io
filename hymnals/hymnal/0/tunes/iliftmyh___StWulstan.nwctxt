@@ -1,0 +1,162 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:13|SelectIndex:14|CaretPos:-1
+|SongInfo|Title:"St. Wulstan, 10.10.10.10"|Author:"Ivor Atkins, 1916"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 668."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._I lift my heart to Thee, Sav-ior di-vine;\nFor Thou art all to me, and I am Thine;\nIs there on earth a clos-er bond than this,\nThat my Be-lov-èd’s mine, and I am His?\n"
+|Lyric2|Text:"2._Thine am I by all ties; but chief-ly Thine,\nThat through Thy sac-ri-fice Thou, Lord, art mine.\nBy thine own cords of love, so sweet-ly wound,\nA-round me, I to Thee am close-ly bound.\n"
+|Lyric3|Text:"3._To Thee, Thou bleed-ing Lamb, I all things owe—\nAll that I have, and am, and all I know.\nAll that I have is now no long-er mine,\nAnd I am not mine own; Lord, I am Thine.\n"
+|Lyric4|Text:"4._How can I, Lord, with-hold life’s bright-est hour\nFrom Thee; or gath-ered gold, or an-y power?\nWhy should I keep one pre-cious thing from Thee;\nWhen Thou hast giv’n Thine own dear self for me?\n"
+|Lyric5|Text:"5._I pray Thee, Sav-ior, keep me in Thy love,\nUn-til death’s ho-ly sleep shall me re-move\nTo that fair realm where, sin and sor-row o’er,\nThou and Thine own are one for-ev-er-more.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Bar
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5^,-3^|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,n-1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-2,1
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Bar
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-3^,1^|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:Half,Dotted|Pos:-2,3
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half,Dotted|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-5^,-2^|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-3
+|Chord|Dur:4th|Pos:-5^,-3^|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"St. Wulstan, 10.10.10.10"|Label:"St. Wulstan, 10.10.10.10"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-5^,4^|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2^,5^|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,9
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:2^,n4^|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:Half|Pos:4,8
+|Chord|Dur:4th|Pos:4^,7^|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:Half,Dotted|Pos:3,6
+|Bar
+|Chord|Dur:4th|Pos:2,n5
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half,Dotted|Pos:n-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-4,5
+|Chord|Dur:4th|Pos:-2^,5^|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-5,4
+|Bar
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:Half|Pos:-3,6
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Bar
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

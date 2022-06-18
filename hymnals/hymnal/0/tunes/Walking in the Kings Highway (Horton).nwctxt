@@ -1,0 +1,234 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Walking in the King’s Highway"|Author:"Florence Horton"|Lyricist:"Florence Horton, 1906"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Spiritual Songs, edited by George A. McLaughlin, J. M. & M. J. Harris (Chicago, Illinois: Christian Witness Company, ca. 1908), # 53. Also in Sing to the Lord (Kansas City, Missouri: Lillenas Publishing Company, 1993), # 519."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.54|Right:2.29|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:38|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._We_shall see the des-ert as the rose,\nWalk-ing in the King’s high-way;\nThere’ll be sing-ing where sal-va-tion goes,\nWalk-ing in the King’s high-way.\n\nThere’s a high-way there and a way,\nWhere sor-row shall flee a-way;\nAnd the light shines bright as the day,\nWalk-ing in the King’s high-way.\n"
+|Lyric2|Text:"2._We_shall see the glo-ry of the Lord,\nWalk-ing in the King’s high-way;\nAnd be-hold the beau-ty of His Word,\nWalk-ing in the King’s high-way.\n\nThere’s a high-way there and a way,\nWhere sor-row shall flee a-way;\nAnd the light shines bright as the day,\nWalk-ing in the King’s high-way.\n"
+|Lyric3|Text:"3._There_the rain shall come up-on the ground,\nWalk-ing in the King’s high-way;\nAnd the springs of wa-ter will be found,\nWalk-ing in the King’s high-way.\n\nThere’s a high-way there and a way,\nWhere sor-row shall flee a-way;\nAnd the light shines bright as the day,\nWalk-ing in the King’s high-way.\n"
+|Lyric4|Text:"4._There_no rav-enous beast shall make a-fraid,\nWalk-ing in the King’s high-way;\nFor the pur-i-fied the way was made,\nWalk-ing in the King’s high-way.\n\nThere’s a high-way there and a way,\nWhere sor-row shall flee a-way;\nAnd the light shines bright as the day,\nWalk-ing in the King’s high-way.\n"
+|Lyric5|Text:"5._No un-clean things shall pass o’er here,\nWalk-ing in the King’s high-way;\nBut the ran-somed ones with-out a fear,\nWalk-ing in the King’s high-way.\n\nThere’s a high-way there and a way,\nWhere sor-row shall flee a-way;\nAnd the light shines bright as the day,\nWalk-ing in the King’s high-way.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:115|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Slur=Upward
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Slur=Upward,Lyric=Never
+|Spacer|Width:600
+|Bar
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2
+|Spacer|Width:500
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Note|Dur:8th|Pos:-7
+|Note|Dur:8th|Pos:-7
+|Bar
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Note|Dur:8th|Pos:-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Spacer|Width:225
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:8
+|Boundary|Style:NewSize|Lower:30
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:-4
+|Chord|Dur:16th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:-5|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Boundary|Style:NewSize|Upper:6|Lower:26
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-1,0
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:0,2
+|Chord|Dur:16th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Whole|Pos2:0
+|Note|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:Half|Pos:-2|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"The King’s Highway (Horton)"|Label:"The King’s Highway"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-10
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nway, and a way\nWhere sor-row shall flee a-way, flee a-way;\nAnd the light shines bright as the day, as the day\n\nThere’s a high-way there and a way,\nWhere sor-row shall flee a-way;\nAnd the light shines bright as the day,\nWalk-ing in the King’s high-way.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Note|Dur:8th|Pos:5|Opts:Stem=Down,Slur=Downward
+|Note|Dur:8th|Pos:5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:3,5
+|Note|Dur:8th|Pos:5
+|Bar
+|Chord|Dur:Whole|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Note|Dur:8th|Pos:5
+|Note|Dur:8th|Pos:5
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:3,5
+|Note|Dur:8th|Pos:5
+|Bar
+|Chord|Dur:Whole|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:6
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:3,b7
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:4,n7
+|Chord|Dur:16th|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th,Dotted|Pos:3,8
+|Chord|Dur:16th|Pos:5,7
+|Chord|Dur:Half|Pos:1,8
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

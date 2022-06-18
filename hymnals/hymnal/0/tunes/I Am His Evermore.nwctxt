@@ -1,0 +1,231 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I Am His Evermore"|Author:"Eula Eastep"|Lyricist:"James Rowe, 1919"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Truth and Hope, by Alfred E. Helton et al. (Hudson, North Carolina: Teachers\' Music Publishing, 1919), # 90."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._The Re-deem-er dear now holds my hand,\nAnd is walk-ing by my side,\nAnd un-til I reach the morn-ing land,\nHe will be my faith-ful guide.\n\nI am His, bless His name,\nHis to praise and a-dore;\nLove di-vine to pro-claim,\nI am His ev-er-more!\n"
+|Lyric2|Text:"2._Long out-side the fold I grieved my Lord,\nAnd was deaf to mer-cy’s plea,\nBut to-day I seek the great re-ward,\nWith His grace sup-port-ing me.\n\nI am His, bless His name,\nHis to praise and a-dore;\nLove di-vine to pro-claim,\nI am His ev-er-more!\n"
+|Lyric3|Text:"3._I have wan-dered far, and test-ed sin,\nNow I’m test-ing love di-vine,\nAnd un-brok-en peace has been with-in,\nSince the day I made Him mine.\n\nI am His, bless His name,\nHis to praise and a-dore;\nLove di-vine to pro-claim,\nI am His ev-er-more!\n"
+|Lyric4|Text:"4._Soul in sin, look up, be saved to-day,\nTrust the Friend who now is mine;\nHe will roll your bur-den all a-way,\nAnd give peace and joy di-vine.\n\nI am His, bless His name,\nHis to praise and a-dore;\nLove di-vine to pro-claim,\nI am His ev-er-more!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:103|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,n0
+|Chord|Dur:4th|Pos:-3,1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Note|Dur:4th|Pos:-1
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Spacer|Width:350
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-6
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"I Am His Evermore"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"I am His, bless His name, to praise, a-dore\nLove di-vine to pro-claim, yes,\nHis ev-er-more!\n\nI am His, bless His name,\nHis to praise and a-dore;\nLove di-vine to pro-claim,\nI am His ev-er-more!\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up,Lyric=Never|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,#3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,5|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-1,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,5|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Lyric=Never
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:5|Opts:Stem=Up,Lyric=Never|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Up,Lyric=Never|Dur2:8th|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:4,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:0,n5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:2,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:8th|Pos:-1,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,Lyric=Never|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:8th|Pos:#3|Opts:Stem=Up
+|Note|Dur:8th|Pos:3|Opts:Stem=Up
+|Note|Dur:4th|Pos:4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

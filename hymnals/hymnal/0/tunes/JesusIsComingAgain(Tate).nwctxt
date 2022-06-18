@@ -1,0 +1,229 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Jesus Is Coming Again"|Author:"C. M. Tate"|Lyricist:"C. M. Tate, 1912"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Supplement to the Harp of Glory, edited by William T. Dale & H. A. R. Horton (Nashville, Tennessee: William T. Dale, 1912), number 43."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:35|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Pre-cious pro-mise of our Lord,\nJe-sus is com-ing, is com-ing a-gain;\n’Tis writ-ten in His bless-èd Word,\nJe-sus is com-ing, is com-ing a-gain.\n\nHe is com-ing, com-ing,\nJe-sus is com-ing a-gain;\nWhen He comes He’ll take all His child-ren home,\nJe-sus is com-ing, is com-ing a-gain.\n"
+|Lyric2|Text:"2._When we see the light-ning fly,\nJe-sus is com-ing, is com-ing a-gain;\nThe stars all fall-ing from the sky,\nJe-sus is com-ing, is com-ing a-gain.\n\nHe is com-ing, com-ing,\nJe-sus is com-ing a-gain;\nWhen He comes He’ll take all His child-ren home,\nJe-sus is com-ing, is com-ing a-gain.\n"
+|Lyric3|Text:"3._When we hear the thun-der roll,\nJe-sus is com-ing, is com-ing a-gain;\nThe hea-vens pass-ing as a scroll,\nJe-sus is com-ing, is com-ing a-gain.\n\nHe is com-ing, com-ing,\nJe-sus is com-ing a-gain;\nWhen He comes He’ll take all His child-ren home,\nJe-sus is com-ing, is com-ing a-gain.\n"
+|Lyric4|Text:"4._When the an-gel takes his stand,\nJe-sus is com-ing, is com-ing a-gain;\nOne foot on sea and one on land,\nJe-sus is com-ing, is com-ing a-gain.\n\nHe is com-ing, com-ing,\nJe-sus is com-ing a-gain;\nWhen He comes He’ll take all His child-ren home,\nJe-sus is com-ing, is com-ing a-gain.\n"
+|Lyric5|Text:"5._When we hear His com-ing feet,\nJe-sus is com-ing, is com-ing a-gain;\nThe earth will melt with fer-vent heat,\nJe-sus is com-ing, is com-ing a-gain.\n\nHe is com-ing, com-ing,\nJe-sus is com-ing a-gain;\nWhen He comes He’ll take all His child-ren home,\nJe-sus is com-ing, is com-ing a-gain.\n"
+|Lyric6|Text:"6._When He ga-thers all His own,\nJe-sus is com-ing, is com-ing a-gain;\nThe wick-ed left will weep and moan,\nJe-sus is com-ing, is com-ing a-gain.\n\nHe is com-ing, com-ing,\nJe-sus is com-ing a-gain;\nWhen He comes He’ll take all His child-ren home,\nJe-sus is com-ing, is com-ing a-gain.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:93|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Note|Dur:4th|Pos:-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Down|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Spacer|Width:375
+|Bar
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Spacer|Width:300
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:21
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Up|Dur2:16th|Pos2:-3
+|Chord|Dur:16th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Bar
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Jesus Is Coming Again Tate"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-6
+|Lyric1|Text:"Com-ing a-gain, com-ing a-gain, yes,\nJe-sus is com-ing a-gain\n\nHe is com-ing, com-ing,\nJe-sus is com-ing a-gain;\nWhen He comes He’ll take all His child-ren home,\nJe-sus is com-ing, is com-ing a-gain.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,9|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:2,9|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:5,9|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:5,9|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:5,9|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:2,9|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,9|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:2,9|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:2,9|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-5,2,4|Opts:Lyric=Never
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:8
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:8th|Pos:5,9
+|Chord|Dur:8th|Pos:5,9
+|Chord|Dur:8th|Pos:5,9
+|Chord|Dur:4th,Dotted|Pos:5,7
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Bar
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,6^
+|Chord|Dur:4th|Pos:-1,6
+|Boundary|Style:NewSize|Upper:5
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:16th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:4th,Dotted|Pos:2,9
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:16th|Pos:2,9
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:4th,Dotted|Pos:-5,2,4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

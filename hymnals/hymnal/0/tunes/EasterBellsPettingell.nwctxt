@@ -1,0 +1,293 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Easter Bells"|Author:"George Crawford Hugg"|Lyricist:"F. E. Pettingell, 1886"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Loving Voices, edited by Simpson Ely, Charles Humphrey, R. G. Staples & J. H. Garrison (St. Louis, Missouri: Christian Publilshing Companty, 1887), # 22. Author\'s name in this is spelled \"Pettingill,\" but most other sources give it as \"Pettingell.\""
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Ring, bells, ring out the sto-ry\nOf our ris-en Lord and king;\nHe hath des-poiled the spoil-er,\nGlad-ly now His prais-es ring.\n\nRing! ring! Eas-ter bells!\nRing! ring! Eas-ter bells!\nRing! ring!\nSweet-est prais-es to our ris-en king;\nRing! ring! Eas-ter bells!\nRing! ring! ring! ring!\nPrais-es to our ris-en king!\n"
+|Lyric2|Text:"2._Ring, bells, in joy-ous cho-rus,\nGive the wait-ing na-tions cheer;\nJoin all our hearts and voic-es,\nChrist is ris-en, do not fear.\n\nRing! ring! Eas-ter bells!\nRing! ring! Eas-ter bells!\nRing! ring!\nSweet-est prais-es to our ris-en king;\nRing! ring! Eas-ter bells!\nRing! ring! ring! ring!\nPrais-es to our ris-en king!\n"
+|Lyric3|Text:"3._Ring, bells your sweet-est mu-sic,\nChrist our king as-cends on high;\nA-gain in clouds He com-eth,\nJe-sus lives, and death shall die.\n\nRing! ring! Eas-ter bells!\nRing! ring! Eas-ter bells!\nRing! ring!\nSweet-est prais-es to our ris-en king;\nRing! ring! Eas-ter bells!\nRing! ring! ring! ring!\nPrais-es to our ris-en king!\n"
+|Lyric4|Text:"4._Ring, bells, He ev-er liv-eth,\nLives and reigns with God a-bove;\nRing loud and clear His tri-umphs,\nGod is mer-cy, God is love.\n\nRing! ring! Eas-ter bells!\nRing! ring! Eas-ter bells!\nRing! ring!\nSweet-est prais-es to our ris-en king;\nRing! ring! Eas-ter bells!\nRing! ring! ring! ring!\nPrais-es to our ris-en king!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,1
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-2,#1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-2
+|Rest|Dur:4th
+|Bar|Style:Double
+|Instrument|Name:"Tubular Bells"|Patch:14|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:13|Justify:Right
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9|Justify:Right
+|Boundary|Style:NewSize|Lower:14
+|Chord|Dur:4th,Slur|Pos:-2,0|Opts:Stem=Down
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:9|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:-2,0
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:9|Opts:Stem=Down,Beam=End
+|Bar
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15|Justify:Right
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-2,2
+|Rest|Dur:4th
+|Bar
+|Instrument|Name:"Tubular Bells"|Patch:14|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:13|Justify:Right
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:9|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:9|Opts:Stem=Down,Beam=End
+|Bar
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15|Justify:Right
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,#1
+|Chord|Dur:4th,Slur|Pos:-3,2
+|Chord|Dur:4th|Pos:-1,n1
+|Bar
+|Instrument|Name:"Tubular Bells"|Patch:14|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:13|Justify:Right
+|Chord|Dur:4th,Slur|Pos:-2,0
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:9|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:-2,0
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:9|Opts:Stem=Down,Beam=End
+|Bar
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15|Justify:Right
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:9|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:#-4,#-2
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:9|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Instrument|Name:"Tubular Bells"|Patch:14|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:13|Justify:Right
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted,Slur|Pos:9|Opts:Stem=Down,Beam
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam,BeamGrp
+|Note|Dur:8th,Dotted,Slur|Pos:9|Opts:Stem=Down,Beam
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam,BeamGrp
+|Note|Dur:8th,Dotted|Pos:9|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,0
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:9|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:-2,0
+|Note|Dur:16th,Slur|Pos:2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:9|Opts:Stem=Down,Beam=End
+|Bar
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15|Justify:Right
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-2,2
+|Rest|Dur:4th
+|Bar
+|Instrument|Name:"Tubular Bells"|Patch:14|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:13|Justify:Right
+|Chord|Dur:4th,Slur|Pos:-2,0
+|Note|Dur:16th,Slur|Pos:5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:12|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:-2,1
+|Note|Dur:16th,Slur|Pos:5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:12|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,#1
+|Note|Dur:16th,Slur|Pos:5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted|Pos:12|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Slur|Pos:-2,2|Opts:Slur=Downward
+|Note|Dur:16th,Slur|Pos:5|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:8th,Dotted|Pos:12|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-7,-2
+|Note|Dur:16th,Slur|Pos:5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th,Dotted,Slur|Pos:12|Opts:Stem=Down,Beam=End
+|Note|Dur:Half|Pos:5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Easter Bells (Pettingell)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:Half|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:-3,8
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:Half|Pos:0,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:4th|Pos:3,7
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:3,7
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:5,7
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:0,6
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:0,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:7|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:n2,7
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:8th|Pos:-3,8
+|Chord|Dur:8th|Pos:-4,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:0,5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Rest|Dur:Half,Dotted
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:3,7
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:5,7
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:n2,7
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:1,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:b3,b5
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:0,n5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Note|Dur:4th|Pos:3
+|Rest|Dur:Half,Dotted
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

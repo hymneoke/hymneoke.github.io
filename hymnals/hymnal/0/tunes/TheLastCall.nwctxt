@@ -1,0 +1,188 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Last Call"|Author:"James Monroe Hagan"|Lyricist:"Anonymous, 1849"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Advent Harp (Boston, Massachusetts: Joshua V. Himes, 1849), pp. 352-53. Originally pubished in key of C, & later in key of F."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._’Tis the last call of mer-cy,\nThat lin-gers for thee;\nOh! sin-ner, re-ceive it;\nTo Je-sus now flee!\nHe oft-en has called thee,\nBut thou hast re-fused!\nHis of-fered sal-va-tion\nAnd love are a-bused!\n"
+|Lyric2|Text:"2._If thou slight-est this warn-ing,\nNow of-fered at last,\nThine will be_the sad mourn-ing—\n“The har-vest is past,\nSal-va-tion I’ve slight-ed,\nThe sum-mer is o’er,\nAnd now there is par-don,\nSweet par-don, no more.”\n"
+|Lyric3|Text:"3._’Tis the last call of mer-cy,\nOh, turn not a-way,\nFor now swift-ly hast-eth\nThe dread ven-geance day!\nThe Spir-it in-vites you,\nAnd pleads with you, come!\nOh, come to life’s wa-ters,\nNor thirst-ing-ly roam!\n"
+|Lyric4|Text:"4._’Tis the last call of mer-cy,\nOh, steel not thy heart,\nFor now she is ris-ing,\nFrom earth to de-part!\nThe Bride is now call-ing—\n“Ye thirst-y souls, come!”\nOh, come with the ran-somed,\nIn Hea-ven there’s room!\n"
+|Lyric5|Text:"5._’Tis the last call of mer-cy,\nThat lin-gers for thee,\nBreak_a-way from thy bond-age,\nOh, sin-ner, be free!\nBe not a sad mourn-er,\n“The har-vest is past,\nThe sum-mer is end-ed”—\nAnd per-ish at last.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-4,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th,Staccatissimo,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:125
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Chord|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th,Slur|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th,Slur|Pos:-1,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Slur|Pos:-3,2|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-4,#1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th,Dotted,Slur|Pos:-3|Opts:Stem=Up,Beam=First|Dur2:8th,Dotted|Pos2:-3
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:450
+|Bar
+|Note|Dur:Half|Pos:-3
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"The Last Call"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Note|Dur:8th,Dotted|Pos:2
+|Note|Dur:16th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:8th|Pos:2
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:2
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,6
+|Bar
+|Note|Dur:Half|Pos:2
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:8th|Pos:2
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:Half|Pos:2
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-2
+|Bar
+|Note|Dur:8th|Pos:2
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th|Pos:-3
+|Bar
+|Note|Dur:Half|Pos:0
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:8th|Pos:2
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:Half|Pos:2
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

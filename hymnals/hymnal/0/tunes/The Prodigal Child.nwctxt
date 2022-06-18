@@ -1,0 +1,189 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Prodigal Child"|Author:"William Howard Doane"|Lyricist:"Ellen Maria Huntington Gates, 1875"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns and Sacred Songs, by Philip P. Bliss & Ira D. Sankey (New York: Biglow & Main, 1875), # 38."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:27|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Come home! come home!\nYou are wea-ry at heart,\nFor the way has been dark,\nAnd so lone-ly and wild.\nO pro-di-gal child!\nCome home! oh come home!\n\nCome home!\nCome, oh come home!\n"
+|Lyric2|Text:"2._Come home! come home!\nFor we watch and we wait,\nAnd we stand at the gate,\nWhile the sha-dows are piled.\nO pro-di-gal child!\nCome home! oh come home!\n\nCome home!\nCome, oh come home!\n"
+|Lyric3|Text:"3._Come home! come home!\nFrom the sor-row and blame,\nFrom the sin and the shame,\nAnd the tempt-er that smiled,\nO pro-di-gal child!\nCome home! oh come home!\n\nCome home!\nCome, oh come home!\n"
+|Lyric4|Text:"4._Come home! come home!\nThere is bread and to spare,\nAnd a warm wel-come there,\nThen, to friends re-con-ciled,\nO pro-di-gal child!\nCome home! oh come home!\n\nCome home!\nCome, oh come home!\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:113|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-4,0
+|Spacer|Width:550
+|Bar
+|Chord|Dur:Half,Slur|Pos:0|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4,-2
+|Chord|Dur:4th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Slur|Pos:-2|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Slur|Pos:-2|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4^,3^
+|Chord|Dur:8th,Triplet=First|Pos:-4,3
+|Chord|Dur:8th,Triplet|Pos:-4,2
+|Chord|Dur:8th,Triplet=End|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5^,0^|Opts:Stem=Down
+|Chord|Dur:8th,Triplet=First|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th,Triplet,Slur|Pos:-5,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Triplet=End|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Spacer|Width:125
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Rest|Dur:4th
+|Spacer|Width:125
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:Whole|Pos:-4,-1
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-4
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th,Slur|Pos:-6|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th|Pos:-7|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"The Prodigal Child"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _\nCome home! Come home!\n\nCome home!\nCome, oh come home!\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Slur|Pos:3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Slur|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Slur|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Slur|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3^,6^
+|Chord|Dur:8th,Triplet=First|Pos:-3,6
+|Chord|Dur:8th,Triplet|Pos:-3,5
+|Chord|Dur:8th,Triplet=End|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2^,2^
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Rest|Dur:4th
+|Bar|Style:Double
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Whole,Slur|Pos2:6
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Note|Dur:Half|Pos:-3|Opts:Stem=Down
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:Whole,Slur|Pos2:5
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Note|Dur:Half|Pos:1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:1
+|TempoVariance|Style:Fermata|Pause:0|Pos:-6|Placement:AtNextNote
+|Note|Dur:4th,Slur|Pos:4|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:-6|Placement:AtNextNote
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

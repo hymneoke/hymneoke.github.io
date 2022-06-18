@@ -1,0 +1,159 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Crofton, 11.10.11.10"|Author:"Edward, Lord Crofton, 1893"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 624."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:1
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:1
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:1
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:1
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._I shall not want.\nUp-on Thy arm re-ly-ing,\nHun-ger, and thirst,\nAnd pain will flee a-way,\nAnd that dark val-ley\nWhere the dead are ly-ing,\nSmile like a gar-den\nWhere no flowers de-cay.\n"
+|Lyric2|Text:"2._The win-try wind\nIn vain shall wave its pin-ion\nO’er my de-fense-less\nHead if Thou art nigh!\nO-cean’s rough bil-lows,\n’Neath Thy strong do-min-ion,\nStill as a child\nIn cra-dle-sleep shall lie.\n"
+|Lyric3|Text:"3._Soft clouds will tem-per\nRays too fierce-ly burn-ing,\nIf Thou my wea-ry\nFeet will guide, sus-tain;\nAnd through the toil,\nAnd tears, and rest-less yearn-ing,\nThy might-y love\nWill soothe the sharp-est pain.\n"
+|Lyric4|Text:"4._I hear Thee in\nThe bird that greets the morn-ing;\nI see Thee in\nThe mead-ow’s fra-grant bloom;\nIn gor-geous clouds\nThe sun-set hours a-dorn-ing— \nNor less with-in\nThe por-tals of the tomb.\n"
+|Lyric5|Text:"5._Through flick-ering leaves\nThe moon-beams gen-tly fall-ing,\nThe zeph-yr dy-ing\nO’er a wave-less sea,\nThe night-bird to\nHis broth-er soft-ly call-ing,\nAll lead my spir-it\nUp-ward un-to Thee!\n"
+|Lyric6|Text:"6._And when from life,\nAnd light, and beau-ty, fling-ing\nIts rain-bow hues\nA-round wher-e’er I tread,\nI must go forth,\nNo death-less want up-spring-ing\nShall fet-ter wings\nToo long in vain out-spread.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6,-5
+|Bar
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:Half|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-8,-3
+|Chord|Dur:4th|Pos:b-4,#-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,#-2
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:-1
+|Note|Dur:Half|Pos:#-6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-6,-3
+|Chord|Dur:Half|Pos:-3,1
+|Bar
+|Chord|Dur:4th|Pos:#-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:#-3,1
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:b-4,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:Whole|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Crofton, 11.10.11.10"|Label:"Crofton, 11.10.11.10"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Chord|Dur:4th|Pos:-3,#2
+|Bar
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:-3,#2|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half|Pos:-1,4|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:-1,1|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half|Pos:0,2|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-2
+|Note|Dur:4th|Pos:5|Opts:Stem=Up,Slur=Downward
+|Chord|Dur:4th|Pos:-2,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,1|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-3
+|Note|Dur:Half|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-2,6
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:b1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:Half|Pos:3,4
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:2,n5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:#2,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:Half|Pos:-1,5
+|Bar
+|Chord|Dur:Whole|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

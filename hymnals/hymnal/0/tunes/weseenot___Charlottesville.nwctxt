@@ -1,0 +1,184 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:64|CaretPos:2
+|SongInfo|Title:"Charlottesville, 88.88.8"|Author:"E. Maude Cline, 1901"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Popular Hymns Number 2, edited by Christopher C. Cline  (St. Louis, Missouri: Christian Publishing, 1901), # 40."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,103,115,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._We see not, know not; all our way\nIs night— with Thee a-lone is day:\nFrom out the tor-rent’s trou-bled drift,\nA-bove the storm our prayers we lift,\nThy will be done!\nThy will be done!\n"
+|Lyric2|Text:"2._The flesh may fail, the heart may faint,\nBut who are we to make com-plaint,\nOr dare to plead, in times like these,\nThe weak-ness of our love of ease?\nThy will be done!\nThy will be done!\n"
+|Lyric3|Text:"3._We take with sol-emn thank-ful-ness\nOur bur-den up, nor ask it less,\nAnd count it joy that e-ven we\nMay suf-fer, serve, or wait for Thee,\nWhose will be done!\nWhose will be done!\n"
+|Lyric4|Text:"4._Though dim as yet in tint and line,\nWe trace Thy pic-ture’s wise de-sign,\nAnd thank Thee that our age sup-plies\nIts dark re-lief of sac-ri-fice.\nThy will be done!\nThy will be done!\n"
+|Lyric5|Text:"5._And if, in our un-wor-thi-ness,\nThy sac-ri-fi-cial wine we press,\nIf from Thy or-deal’s heat-ed bars\nOur feet are seamed with crim-son scars,\nThy will be done!\nThy will be done!\n"
+|Lyric6|Text:"6._If, for the age to come, this hour\nOf tri-al hath vi-car-ious power,\nAnd, blest by Thee, our pre-sent gain\nBe Lib-er-ty’s e-ter-nal gain,\nThy will be done!\nThy will be done!\n"
+|Lyric7|Text:"7._Strike, Thou the Mas-ter, we Thy keys,\nThe an-them of the des-ti-nies!\nThe mi-nor of Thy loft-ier strain,\nOur hearts shall breathe the old re-frain,\nThy will be done!\nThy will be done!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:135|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up|Dur2:Half|Pos2:-6
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:b-5,-2
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,#-2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up|Dur2:Half|Pos2:-6
+|Chord|Dur:4th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:5.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Chord|Dur:4th|Pos:n-7,-5
+|Chord|Dur:4th|Pos:b-7,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-3
+|Bar
+|Dynamic|Style:p|Pos:8.5|Placement:BestFitForward
+|Chord|Dur:Half,Dotted|Pos:-7,-5
+|Bar
+|Chord|Dur:Half|Pos:-7,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar
+|Dynamic|Style:pp|Pos:8.5|Placement:BestFitForward
+|Chord|Dur:Half,Dotted|Pos:-7,-5
+|Bar
+|Chord|Dur:Half|Pos:-7,-6
+|Chord|Dur:4th|Pos:-7,-6
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-8,-6
+|Bar|Style:LocalRepeatClose|Repeat:7
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,110,120,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half|Pos:2,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up|Dur2:Half|Pos2:2
+|Note|Dur:4th|Pos:n5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:8.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:-2,7
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-4,5
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Bar
+|Chord|Dur:Half|Pos:b0,3
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-5,2|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:7
+!NoteWorthyComposer-End

@@ -1,0 +1,250 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:35|CaretPos:-51
+|SongInfo|Title:"Tell the Story of His Love"|Author:"James Milton Black"|Lyricist:"George Murray Klepfer, 1894"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: On Wings of Song, edited by George C. Hugg (Philadelphia, Pennsylvania: George C. Hugg, 1896), # 14."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.27|Right:2.54|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:18|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Tell the won-der-ful sto-ry of Je-sus;\nHow from glo-ry to earth He came;\nHow He suf-fered and died to re-deem us;\nHow He lives ev-er-more the same.\n\nTell the sto-ry of His love,\nSpread the tid-ings far and near;\nTell the sto-ry of His love,\nTell it out that the world may hear.\n"
+|Lyric2|Text:"2._Would you light-en the hearts that are hea-vy?\nDrive the clouds from the dark-ened skies?\nTell the sto-ry of grace all-suf-fi-cient,\nAnd the strength which His love sup-plies.\n\nTell the sto-ry of His love,\nSpread the tid-ings far and near;\nTell the sto-ry of His love,\nTell it out that the world may hear.\n"
+|Lyric3|Text:"3._There is full-ness of joy in His pre-sence\nThere is peace for the re-con-ciled;\nUn-to those who be-lieve He is pre-cious,\nEv-er near to the trust-ing child.\n\nTell the sto-ry of His love,\nSpread the tid-ings far and near;\nTell the sto-ry of His love,\nTell it out that the world may hear.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:b-3,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Spacer|Width:275
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:11
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:2
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:3^
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-1,1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Spacer|Width:200
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:1
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:0,2
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:2
+|Spacer|Width:125
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:3^
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-1,1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:1
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:4
+|Lyric1|Text:"Tell the sto-ry, of Je-sus’ love, far and near,\nTell the sto-ry, of Je-sus’ love,\n\nTell the sto-ry of His love,\nSpread the tid-ings far and near;\nTell the sto-ry of His love,\nTell it out that the world may hear.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,1|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,3|Opts:Lyric=Never
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:18
+|Rest|Dur:4th
+|Spacer|Width:550
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4,8|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:4,8|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:4,8|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,4,8
+|Chord|Dur:8th|Pos:-1,4,8
+|Chord|Dur:4th|Pos:-3,4,8
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Rest|Dur:4th
+|Spacer|Width:475
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:1,7
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4,6
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

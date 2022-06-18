@@ -1,0 +1,255 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I Would Be Like Thee"|Author:"Charles Hutchinson Gabriel"|Lyricist:"W. A. Schell, 1913"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Great Revival Hymns No. 2, edited by Homer A. Rodeheaver & Bentley D. Ackley (Chicago, Illinois & Philadelphia, Pennsylvania: Rodeheaver Company, 1913), # 18."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.03|Top:1.52|Right:2.03|Bottom:1.52|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._I would be like Thee, Je-sus, my Lord,\nGen-tle and lov-ing, trust-ing Thy word;\nLow-ly in spir-it, pure in my heart,\nLiv-ing each day from all e-vil a-part.\n\nI would be like Thee, filled with Thy grace,\nTill in Thy beau-ty, I look on Thy face;\nI would be like Thee, lost in Thy love,\nI would be like Thee in Hea-ven a-bove.\n"
+|Lyric2|Text:"2._I would be like Thee, hum-ble in mind,\nGrow-ing more ear-nest, faith-ful and kind;\nSeek-ing for souls, to save them from sin,\nAnd for Thy king-dom their ser-vice to win.\n\nI would be like Thee, filled with Thy grace,\nTill in Thy beau-ty, I look on Thy face;\nI would be like Thee, lost in Thy love,\nI would be like Thee in Hea-ven a-bove.\n"
+|Lyric3|Text:"3._I would be like Thee, speak-ing the truth,\nGiv-ing my life to God in my youth;\nList-en-ing for Thy mes-sage to me,\nSpend-ing my best days in work-ing for Thee.\n\nI would be like Thee, filled with Thy grace,\nTill in Thy beau-ty, I look on Thy face;\nI would be like Thee, lost in Thy love,\nI would be like Thee in Hea-ven a-bove.\n"
+|Lyric4|Text:"4._I would be like Thee, when I am tried,\nCrush-ing out sin, temp-ta-tion and pride;\nAll Thy com-mand-ments would I o-bey,\nLearn-ing Thy will, Thee to fol-low al-way.\n\nI would be like Thee, filled with Thy grace,\nTill in Thy beau-ty, I look on Thy face;\nI would be like Thee, lost in Thy love,\nI would be like Thee in Hea-ven a-bove.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:104|Pos:11|Justify:Right
+|TimeSig|Signature:9/8
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,n-1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,n-1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:16
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:b-5,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:#-3,n-1
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th,Dotted|Pos2:0^
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-1,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:#-3,n-1
+|Chord|Dur:8th|Pos:b-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-4
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"I Would Be Like Thee"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nI would be like Thee, filled with Thy grace,\nTill in Thy beau-ty I look on Thy face;\nI would be like Thee, lost in Thy won-der-ful love,\nI would be like Thee, in Hea-ven a-bove.\n\nI would be like Thee, filled with Thy grace,\nTill in Thy beau-ty, I look on Thy face;\nI would be like Thee, lost in Thy love,\nI would be like Thee in Hea-ven a-bove.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:9/8
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,#2
+|Chord|Dur:8th|Pos:1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|RestChord|Dur:4th,Dotted|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-2,5
+|Note|Dur:4th,Dotted|Pos:4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,#2
+|Chord|Dur:8th|Pos:1,4
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Spacer|Width:325
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,8
+|Chord|Dur:8th|Pos:-3,8
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th,Dotted|Pos:1,6
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:4th|Pos:2,n4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,8
+|TempoVariance|Style:Fermata|Pause:0|Pos:-10|Justify:Right|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-2,9
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:8th|Pos:3,b7
+|Bar
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:8th|Pos:-3,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,235 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Walking in the Way with Jesus"|Author:"James Milton Black"|Lyricist:"Lida Myra Keck, 1898"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Exalted Praise, edited by J. Howard Entwisle &  Powell G. Fithian (Philadelphia, Pennsylvania: MacCalla & ompany, 1901), # 131."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._While walk-ing in the way with Je-sus,\nSe-cure from ev-ery storm that blows,\nI’m kept in per-fect peace from all my foes,\nWhile walk-ing in the way with Je-sus.\n\nWalk-ing in the way with Je-sus,\nWalk-ing in the way with Je-sus,\nI’m kept in per-fect peace, my joys in-crease,\nWhile walk-ing in the way with Je-sus.\n"
+|Lyric2|Text:"2._While walk-ing in the way with Je-sus,\nI bid fare-well to all my fears;\nA bow of pro-mise glows a-bove my tears,\nWhile walk-ing in the way with Je-sus.\n\nWalk-ing in the way with Je-sus,\nWalk-ing in the way with Je-sus,\nI’m kept in per-fect peace, my joys in-crease,\nWhile walk-ing in the way with Je-sus.\n"
+|Lyric3|Text:"3._While walk-ing in the way with Je-sus,\nI hear His “Come to Me and rest”;\nAnd, look-ing un-to Him, my soul is blest,\nWhile walk-ing in the way with Je-sus.\n\nWalk-ing in the way with Je-sus,\nWalk-ing in the way with Je-sus,\nI’m kept in per-fect peace, my joys in-crease,\nWhile walk-ing in the way with Je-sus.\n"
+|Lyric4|Text:"4._While walk-ing in the way with Je-sus,\nI see my heav’n-ly home a-far;\nI see the pear-ly gates for me a-jar,\nWhile walk-ing in the way with Je-sus.\n\nWalk-ing in the way with Je-sus,\nWalk-ing in the way with Je-sus,\nI’m kept in per-fect peace, my joys in-crease,\nWhile walk-ing in the way with Je-sus.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:100|Pos:11|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Spacer|Width:125
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,2
+|Chord|Dur:16th|Pos:-5,1
+|Chord|Dur:8th,Dotted|Pos:-5,2
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:16
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th,Slur|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,0
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,2
+|Chord|Dur:16th|Pos:-5,1
+|Chord|Dur:8th,Dotted|Pos:-5,2
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-4
+|Lyric1|Text:"Walk-ing in the way with Je-sus,\nWalk-ing in the way with Je-sus,\nI’m kept in per-fect peace, my joys in-crease,\nWhile walk-ing in the way with Je-sus.\n\nWalk-ing in the way with Je-sus,\nWalk-ing in the way with Je-sus,\nI’m kept in per-fect peace, my joys in-crease,\nWhile walk-ing in the way with Je-sus.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Spacer|Width:625
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:0,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:0,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:0,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:4,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:Half|Pos:-3,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,2|Opts:Lyric=Never
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:11
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:0,7
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:Half|Pos:-3,3
+|Chord|Dur:4th|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

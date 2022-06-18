@@ -1,0 +1,180 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:5|CaretPos:-2
+|SongInfo|Title:"Padang, 11.11.11.11"|Author:"Frank Moore Jeffery, 1911"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Sunday School Hymnal, edited by John R. Van Pelt & Peter C. Lutkin (New York: Eaton & Mains, 1911), # 34."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Praise the King of Heav-en, call up-on His name;\nPraise Him for His mer-cy, ev-er-more the same.\nIn-fi-nite His wis-dom, won-der-ful His might;\nSafe-ly He pro-tect-eth all who walk a-right.\n"
+|Lyric2|Text:"2._Praise the King of Heav-en, mag-ni-fy His grace;\nHe is bend-ing o’er us, kind-ness in His face.\nFaith-ful is His mer-cy, high as Heaven a-bove;\nWid-er than cre-a-tion is Je-ho-vah’s love.\n"
+|Lyric3|Text:"3._Praise the King of Heav-en; full of pit-y He—\nLike a fa-ther, know-ing our in-fir-mi-ty.\nFear not to ap-proach Him and His suc-cor claim;\nSure-ly He will aid us, who hath built our frame.\n"
+|Lyric4|Text:"4._Praise the King of Heav-en, an-gels in the height;\nAll who do His bid-ding, now with us u-nite.\nThrough His great do-min-ion let the an-them roll;\nPraise Him now and al-ways; praise Him, eve-ry soul.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:4th|Pos:-3,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,-1
+|Chord|Dur:4th|Pos:-2,-1
+|Bar
+|Chord|Dur:Half,Slur|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:#-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:#-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:Whole|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half,Slur|Pos:-3,-1
+|Chord|Dur:Half|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-3,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,#-2,0
+|Chord|Dur:4th|Pos:-4,-1,1
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half|Pos:-2,1
+|Chord|Dur:Half|Pos:-3,-2,2
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1,3^|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4,3
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,3^,5
+|Chord|Dur:4th|Pos:-4,3,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down|Dur2:Half|Pos2:3,6
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down|Dur2:Half|Pos2:3,6
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-1
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,#6
+|Chord|Dur:4th|Pos:-3,1,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:0^|Opts:Stem=Down|Dur2:Whole|Pos2:7
+|Chord|Dur:4th,Slur|Pos:-5,0|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-4^|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:0^|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:0^|Opts:Stem=Down|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-7,0
+|Note|Dur:8th|Pos:7|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:Whole|Pos2:3,5
+|Note|Dur:4th,Slur|Pos:2|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-4,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:6
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-4,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Down|Dur2:Half|Pos2:6
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,#3,5
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:0,4,7
+|Chord|Dur:4th|Pos:1,4,#6
+|Bar
+|Chord|Dur:4th|Pos:2,4,7
+|Chord|Dur:4th|Pos:#2,4,7
+|Bar
+|Chord|Dur:Half|Pos:3,6,8
+|Chord|Dur:Half|Pos:-4,3,5
+|Bar
+|Chord|Dur:Whole|Pos:-1,3,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

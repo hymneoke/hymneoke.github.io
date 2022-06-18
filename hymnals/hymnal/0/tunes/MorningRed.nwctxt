@@ -1,0 +1,153 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Morning Red"|Author:"German Tune"|Lyricist:"Rossiter Worthington Raymond, 1872"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Epworth Hymnal (New York: Phillips & Hunt, 1885). Notated by Carl Yenetchi (newchurch@csinet.net), 2000."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:38|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Morn-ing red, morn-ing red,\nNow the sha-dows all are fled;\nNow the Sab-bath’s cloud-less glo-ry,\nTells a-new the won-drous sto-ry,\nChrist is ris-en from the dead.\n"
+|Lyric2|Text:"2._All a-round, all a-round,\nSol-emn si-lence reigned pro-found;\nWhen, with blaze and sud-den thun-der,\nAn-gels burst the tomb a-sun-der,\nAnd the Savi-or was un-bound.\n"
+|Lyric3|Text:"3._Forth He came! Forth He came!\nRobed in white, cel-es-tial flame!\nMar-y, at the emp-ty pri-son,\nKnew not her Re-deem-er ris-en\nTill He called her by her name.\n"
+|Lyric4|Text:"4._Morn-ing red! Morn-ing red!\nChrist is ris-en from the dead!\nStill He walk-eth in the gar-den,\nSpeak-ing words of love and par-don.\nThough the crown is on His head.\n"
+|Lyric5|Text:"5._Morn-ing red! Morn-ing red!\nThou dost light His crown-ed head!\nBright-est jew-el of His glo-ry,\nEv-er shines that won-drous sto-ry,\nChrist is ris-en from the dead.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-5,-2
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Slur=Upward
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-2^,2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5^,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:16th,Slur|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:16th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Up,Beam=End
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2^,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5^,-1
+|Chord|Dur:Half,Dotted|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Staff-1"|Label:"Staff-1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Slur|Pos:3,7|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:3,5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:3^,5
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th|Pos:3^,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:3^,5
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th|Pos:-4^,6
+|Chord|Dur:Half,Dotted|Pos:-4,5
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

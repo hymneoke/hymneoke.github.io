@@ -1,0 +1,225 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:51|SelectIndex:52|CaretPos:-1
+|SongInfo|Title:"Nevado del Ruiz, 99.99 D"|Author:"Thomas L. Rhodes, 1923"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Gospel Way, by Anthony J. Showalter et al. (Dalton, Georgia: A. J. Showalter, 1923), # 11."
+|PgSetup|StaffSize:21|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.54|Right:2.29|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._There is a way that leads un-to God,\nAnd ’tis the same that Je-sus once trod;\nNone in it walk till cleansed from all sin,\nAh! there are few who jour-ney there-in.\n\nHelp us, O God, to make now our choice,\nAnd in Thy love and ser-vice re-joice;\nLoy-al and true, O help us to be,\nTill we are safe in Heav-en with Thee.\n"
+|Lyric2|Text:"2._There is a way, al-lur-ing and fair,\nYet it will lead to death and de-spair;\nSor-row it brings, no rest or de-light,\nMan-y it tread by day and by night.\n\nHelp us, O God, to make now our choice,\nAnd in Thy love and ser-vice re-joice;\nLoy-al and true, O help us to be,\nTill we are safe in Heav-en with Thee.\n"
+|Lyric3|Text:"3._Which of these ways, O which shall we go?\nHome to our God, or down-ward to woe?\nWe for our-selves must quick-ly de-cide,\nAnd by our choice for-ev-er a-bide.\n\nHelp us, O God, to make now our choice,\nAnd in Thy love and ser-vice re-joice;\nLoy-al and true, O help us to be,\nTill we are safe in Heav-en with Thee.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:9/8
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,n0
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-5,n0
+|Chord|Dur:8th|Pos:-6,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,n0
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:1
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th,Dotted|Pos:-3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,n0
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:b-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Nevado del Ruiz, 99.99 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:14|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:9/8
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,#3
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,#3
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,#2
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:4th,Dotted|Pos:3,6
+|Chord|Dur:8th|Pos:5,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:3,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,#3
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,3
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th,Slur|Pos:5,9
+|Chord|Dur:8th,Slur|Pos:5,9
+|Chord|Dur:8th|Pos:5,9
+|Chord|Dur:4th,Dotted|Pos:5,9
+|Chord|Dur:4th,Dotted|Pos:5,9
+|Bar
+|Chord|Dur:8th,Slur|Pos:2,9
+|Chord|Dur:8th,Slur|Pos:4,9
+|Chord|Dur:8th,Slur|Pos:6,9
+|Chord|Dur:4th,Dotted|Pos:4,9
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:1,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:3,6|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Down,Slur=Downward|Dur2:4th|Pos2:6
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down,Slur=Downward|Dur2:8th|Pos2:6
+|Note|Dur:8th|Pos:6|Opts:Slur=Downward
+|Note|Dur:8th|Pos:5|Opts:Slur=Downward
+|Note|Dur:8th|Pos:4|Opts:Slur=Downward
+|Bar
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:8th,Slur|Pos:-5,2|Opts:Stem=Down,Slur=Downward|Dur2:Half,Dotted|Pos2:6
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Downward
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Downward
+|Note|Dur:4th,Dotted|Pos:2|Opts:Stem=Down
+|Boundary|Style:NewSize|Upper:10
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,#3
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,3
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

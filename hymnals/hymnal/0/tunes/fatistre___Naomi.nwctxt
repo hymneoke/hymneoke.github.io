@@ -1,0 +1,132 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Naomi, CM"|Author:"Hans Nägeli (1773–1836), arr. Lowell Mason"|Lyricist:""|Copyright1:"Arranged by Lowell Mason, 1836"|Copyright2:"Public Domain, Courtesy of the Cyber Hymnal™"|Comments:"Source: Psalter Hymnal (Grand Rapids, Michigan: Board of Publications of the Christian Reformed Church, 1976), # 31, 416. Also in Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing, 1975), # 419."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Fa-ther, I stretch my hands to Thee,\nNo oth-er help I know;\nIf Thou with-draw Thy-self from me,\nAh! whith-er shall I go?\n"
+|Lyric2|Text:"2._What did Thine on-ly Son en-dure,\nBe-fore I drew my breath?\nWhat pain, what la-bor, to se-cure\nMy soul from end-less death!\n"
+|Lyric3|Text:"3._O Je-sus, could I this be-lieve,\nI now should feel Thy power;\nNow my poor soul Thou wouldst re-trieve,\nNor let me wait one hour.\n"
+|Lyric4|Text:"4._Sure-ly Thou canst not let me die;\nO speak, and I shall live;\nAnd here I will un-wea-ried lie,\nTill Thou Thy Spir-it give.\n"
+|Lyric5|Text:"5._Au-thor of faith, to Thee I lift\nMy wea-ry, long-ing eyes:\nO let me now re-ceive that gift!\nMy soul with-out it dies!\n"
+|Lyric6|Text:"6._The worst of sin-ners would re-joice,\nCould they but see Thy face:\nO, let me hear Thy quick-ening voice,\nAnd taste Thy par-doning grace.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:150|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-5,-3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,-1|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-5,#-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Whole|Pos:-6,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6,-4
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-5,-3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:Half|Pos:-6,-4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3|Opts:Slur=Upward
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Naomi, CM"|Label:"Naomi, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:Half|Pos:-3,4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,7|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,7|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:1,6|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:1,5|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Whole|Pos:-3,4|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:0,4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:Half|Pos:-3,4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:0,4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,3|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:4|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:Half|Pos:-3,4|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4|Opts:Slur=Upward
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

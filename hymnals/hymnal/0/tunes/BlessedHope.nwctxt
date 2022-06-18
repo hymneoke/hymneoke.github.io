@@ -1,0 +1,205 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Blessèd Hope"|Author:"James McGranahan"|Lyricist:"Daniel Webster Whittle, 1877"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gospel Hymns Nos. 1 to 6 Completge, by Ira D. Sankey, James McGranahan & George C. Stebbins (Chicago, Illinois: Biglow & Main, 1894), # 135."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:8|BoundaryBottom:27|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Bless-èd hope that in Je-sus is giv-en,\nIn our sor-row to cheer and sus-tain,\nThat soon in the man-sions of Heav-en,\nWe shall meet with our loved ones a-gain.\n\nBless-èd hope, bless-èd hope,\nWe shall meet with our loved ones a-gain;\nBless-èd hope, bless-èd hope,\nWe shall meet with our loved ones a-gain.\n"
+|Lyric2|Text:"2._Bless-èd hope in the word God has spo-ken,\nAll our peace by that word we ob-tain;\nAnd_as sure as God’s word was ne’er bro-ken,\nWe shall meet with our loved ones a-gain.\n\nBless-èd hope, bless-èd hope,\nWe shall meet with our loved ones a-gain;\nBless-èd hope, bless-èd hope,\nWe shall meet with our loved ones a-gain.\n"
+|Lyric3|Text:"3._Bless-èd hope! how it shines in our sor-row,\nLike the star o-ver Beth-le-hem’s plain,\nThat_it may be, with Him, ere the mor-row,\nWe shall meet with our loved ones a-gain.\n\nBless-èd hope, bless-èd hope,\nWe shall meet with our loved ones a-gain;\nBless-èd hope, bless-èd hope,\nWe shall meet with our loved ones a-gain.\n"
+|Lyric4|Text:"4._Bless-èd hope! the bright star of the morn-ing,\nThat shall her-ald His com-ing to reign;\nOh,_the glo-ry that waits its fair dawn-ing,\nWhen we meet with our loved ones a-gain.\n\nBless-èd hope, bless-èd hope,\nWe shall meet with our loved ones a-gain;\nBless-èd hope, bless-èd hope,\nWe shall meet with our loved ones a-gain.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:88|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-6,-1
+|Bar|Style:Double
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:-10|Justify:Right
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:8
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,2^|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,2^|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Blessèd Hope"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:6/8
+|Rest|Dur:4th
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:4th,Dotted|Pos:0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0,3
+|Note|Dur:4th,Dotted|Pos:0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:8th
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Bar
+|Note|Dur:4th,Dotted|Pos:0
+|Note|Dur:4th,Dotted|Pos:0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,#3
+|Bar
+|Chord|Dur:Half|Pos:-3,1,4
+|Bar|Style:Double
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:8th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:16th|Pos:0|Opts:Stem=Up|Dur2:16th|Pos2:0
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:8th
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,7
+|Chord|Dur:8th|Pos:-3,5
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,227 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:7|SelectIndex:8|CaretPos:-1
+|SongInfo|Title:"Komm, Heiliger Geist, Herre Gott"|Author:"15th Century "|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Lutheran Hymnal (St. Louis, Missouri: Concordia Publishing House, 1941), # 224."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Come, Ho-ly Ghost, God and Lord!\nBe all Thy grac-es now out-poured\nOn each be-liev-er’s mind and heart;\nThy fer-vent love to them im-part.\nLord, by the bright-ness of Thy light\nThou in the faith dost men u-nite\nOf eve-ry land and eve-ry tongue;\nThis to Thy praise, O Lord, our God, be sung.\nHal-le-lu-jah! Hal-le-lu-jah!\n"
+|Lyric2|Text:"2._Thou ho-ly light, guide di-vine,\nOh, cause the Word of life to shine!\nTeach us to know our God a-right\nAnd call Him Fa-ther with de-light.\nFrom eve-ry er-ror keep us free;\nLet none but Christ our Mas-ter be\nThat we in liv-ing faith a-bide,\nIn Him, our Lord, with all our might con-fide.\nHal-le-lu-jah! Hal-le-lu-jah!\n"
+|Lyric3|Text:"3._Thou ho-ly fire, com-fort true,\nGrant us the will Thy work to do\nAnd in Thy ser-vice to a-bide;\nLet tri-als turn us not a-side.\nLord, by Thy power pre-pare each heart\nAnd to our weak-ness strength im-part\nThat brave-ly here we may con-tend,\nThrough life and death to Thee, our Lord, as-cend.\nHal-le-lu-jah! Hal-le-lu-jah!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|Chord|Dur:Half|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,n0
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:8th,Slur|Pos:-8,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:Half|Pos:-4,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,n0
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:8th,Slur|Pos:-8,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Bar
+|Rest|Dur:4th
+|Note|Dur:4th|Pos:-6
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-6,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-6,-3
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-8,-3
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Komm, Heiliger Geist"|Label:"Komm, Heiliger Geist"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|Chord|Dur:Half|Pos:2,4
+|Chord|Dur:4th,Slur|Pos:-2,5
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:Half|Pos:-1,3
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:-5,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:6
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:Half|Pos:-3,#6
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-1,3|Opts:Stem=Down
+|Bar
+|Rest|Dur:4th|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-5,4|Opts:Stem=Down
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:0,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:8th,Slur|Pos:-5,6
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-5,2
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:Half|Pos:-5,4
+|Bar
+|Rest|Dur:4th
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-5,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:Half|Pos:-5,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

@@ -1,0 +1,193 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Babe of Bethlehem"|Author:"T. Bissell, 1869"|Lyricist:"Ebenezer Porter Dyer, 1853, alt."|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Sources: First known appearance of the lyrics was in “Merry Christmas: A Christmas Present for Children and Youth,” edited by William M. Thayer (Boston, Massachusetts: Cyrus Stone, 2nd edition, 1853), pp. 105–106.\r\n\r\nThe words, set to music, appeared in “Sabbath Songs for Children\'s Worship,” edited by L. Marshall, J. C. Proctor & S. Burnham (Boston, Massachusetts: Lee & Shepard, 1869), # 106, and in “Songs of the Golden Shore,”  by Daniel F. Hodges (New York and Boston, Massachusetts: Charles T. Dillingham and Lee & Shepard, 1879), p. 105.\r\n\r\nTune name: “Brescia”, 12.10.12.10 meter."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._All hail the peer-less night,\nLit by un-wont-ed light,\nWhen Beth-l’hem’s star o’er\nBeth-l’hem’s man-ger hung!\nWhile, on Ju-de-a’s plains,\nThe wake-ful shep-herd swains\nSaw an-gel forms, and heard\nThe song they sung.\n"
+|Lyric2|Text:"2._Glo-ry to God on high—\nThe God who rules the sky—\nGood-will to men, and\nHo-ly peace on earth;\nI seem to hear them sing;\nThey make the hea-vens ring\nWith songs of joy at our\nRe-deem-er’s birth.\n"
+|Lyric3|Text:"3._Born of a Jew-ish maid,\nIn Beth-l’hem’s man-ger laid,\nHis head lies pil-lowed\nOn a vir-gin’s breast.\nAnd did He stoop so low?\nDid He the throne fore-go,\nTo raise us sin-ners to\nThe heav’n-ly rest?\n"
+|Lyric4|Text:"4._Yes, Christ was born to bleed,\nSuch was our dread-ful need,\nThat thro’ His death our\nSins might be for-giv’n;\nYet reigns He now on high,\nAnd soon shall ev-ery eye\nBe-hold His ad-vent in\nThe clouds of Heav’n.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,3
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:1,3
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th|Pos:1,3
+|DynamicVariance|Style:Crescendo|Pos:9|Visibility:Never
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:4th|Pos:-2^,3^
+|Chord|Dur:8th|Pos:-2,3
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Down,Crescendo
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:-3^,-1,4
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,0^
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,-1
+|Chord|Dur:4th|Pos:n-3|Opts:Stem=Down|Dur2:4th|Pos2:n-3
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Diminuendo
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Diminuendo
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Diminuendo
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1|Opts:Diminuendo
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Down,Diminuendo,StemLength=6
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3|Opts:Diminuendo
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:1,5
+|Spacer|Width:525
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4^,6^
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,8
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,8
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:4th|Pos:1^,5^
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:0^,5^
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:8th|Pos:2,n4
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,5^
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,8
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,5^
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

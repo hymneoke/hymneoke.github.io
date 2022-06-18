@@ -1,0 +1,127 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Abbotsford, LM"|Author:"Catholische Geistliche Gesänge, Andernach, 1608"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 206."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Great Mak-er of un-num-bered worlds,\nAnd whom un-num-bered worlds a-dore— \nWhose good-ness all Thy crea-tures share,\nWhile na-ture trem-bles at Thy power— \n"
+|Lyric2|Text:"2._Thine is the hand that moves the spheres,\nThat wakes the wind, and lifts the sea;\nAnd man, who moves the lord of earth,\nActs but the part as-signed by Thee.\n"
+|Lyric3|Text:"3._While sup-pliant crowds im-plore Thine aid,\nTo Thee we raise the hum-ble cry;\nThine al-tar is the con-trite heart,\nThine in-cense the re-pent-ant sigh.\n"
+|Lyric4|Text:"4._O, may our land, in this her hour,\nCon-fess Thy hand, and bless the rod,\nBy pen-i-tence make Thee her friend,\nAnd find in Thee a guard-ian God.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-8,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-7,-5|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,-1|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-7|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-8,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-2,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:4th|Pos:#-6,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:n-6,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:#-6,-4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-6,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:#-6,-1|Opts:Tie=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Abbotsford, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,2|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:-2,2|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th,Dotted|Pos2:2
+|RestChord|Dur:8th|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward,HideRest|Dur2:4th,Slur|Pos2:-2
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:-1,1|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:4,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,0|Opts:Tie=Downward
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,1|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:-2,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:#-1,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:3,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:#-1,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,0|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Downward
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

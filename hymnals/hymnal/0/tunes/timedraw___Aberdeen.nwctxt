@@ -1,0 +1,121 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:15|CaretPos:3
+|SongInfo|Title:"Aberdeen, CM"|Author:"Bremner’s Collection, 1763"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The English Hymnal (London: Oxford University Press, 1906), # 561."
+|PgSetup|StaffSize:22|Zoom:6|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The time draws near, my soul, when thou\nThy last ac-count must give:\nWhen thy whole life shall be sur-veyed\nBy Him who bid thee live.\n"
+|Lyric2|Text:"2._How man-y tal-ents, O my God,\nHast Thou be-stowed on me?\nBut yet how lit-tle can be found,\nThat I have done for Thee?\n"
+|Lyric3|Text:"3._My health, my time, my world-ly store,\nAnd Thy more pre-cious Word\nThy tal-ents are; for these must I\nAc-count to Thee, my Lord.\n"
+|Lyric4|Text:"4._Much of my time, a-las! I’ve lost,\nAnd much have I mis-spent;\nHow care-less of my grand con-cerns,\nOn tri-fles how in-tent?\n"
+|Lyric5|Text:"5._How lit-tle good have I re-ceived?\nHow lit-tle have I done?\nHow oft my feet have trod the paths\nI know I ought to shun?\n"
+|Lyric6|Text:"6._Pit-y my weak-ness, gra-cious God,\nMy sins thro’ Christ for-give;\nTeach me hence-forth not to my-self\nBut un-to Thee to live.\n"
+|Lyric7|Text:"7._O may the sloth-ful ser-vant’s doom\nMy ho-ly care ex-cite:\nEach tal-ent may I well im-prove,\nAnd in Thy work de-light.\n"
+|Lyric8|Text:"8._Then like a faith-ful stew-ard I\nShall stand be-fore Thy seat;\nLet me but hear, “Well done,” at last,\nMy bliss will be com-plete.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:112|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:-5,-2|Opts:Stem=Down,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Chord|Dur:4th|Pos:-7,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,-2|Opts:Tie=Upward
+|Chord|Dur:Half|Pos:-2,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-2,2|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:n-3|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-1|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:#-6|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:Half|Pos:-5,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-5
+|Chord|Dur:4th|Pos:-6,-4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th,Dotted|Pos2:-5
+|RestChord|Dur:8th|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward,HideRest|Dur2:4th,Slur|Pos2:-1
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Tie=Upward
+|Chord|Dur:Half|Pos:-7,-2|Opts:Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Aberdeen, CM"|Label:"Aberdeen, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:4/4
+|Chord|Dur:Half|Pos:3,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-4,5|Opts:Tie=Downward
+|Chord|Dur:Half|Pos:3,7|Opts:Tie=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:4,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:3,7|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Tie=Downward
+|Chord|Dur:Half|Pos:3,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,7|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:3,7|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,4|Opts:Tie=Downward
+|Chord|Dur:Half|Pos:0,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-2,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Tie=Downward
+|Chord|Dur:Half|Pos:-4,3|Opts:Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

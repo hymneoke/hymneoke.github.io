@@ -1,0 +1,192 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"An Evening Prayer"|Author:"Charles Hutchinson Gabriel"|Lyricist:"Charles Hutchinson Gabriel, 1911"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Church Gospel Songs and Hymns, by Verna E. Howard & Broadus E. Smith (West Monroe, Louisiana: Central Printers & Publishers, 1983), # 19."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._If I have wound-ed a-ny soul to-day,\nIf I have caused one foot to go a-stray,\nIf I have walked in my own will-ful way,\nDear Lord, for-give!\n"
+|Lyric2|Text:"2._If I have ut-tered i-dle words or vain,\nIf I have turned a-side from want or pain,\nLest I my-self shall suf-fer through the strain,\nDear Lord, for-give!\n"
+|Lyric3|Text:"3._If I have been per-verse or hard, or cold,\nIf I have longed for shel-ter in Thy fold,\nWhen Thou hast giv-en me some fort to hold,\nDear Lord, for-give!\n"
+|Lyric4|Text:"4._For-give the sins I have con-fessed to Thee;\nFor-give the sec-ret sins I do not see;\nO guide me, love me and my keep-er be,\nA-_ _ _men.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:90|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Spacer|Width:375
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Up
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Dotted|Pos:-4|Opts:Stem=Up
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Spacer|Width:175
+|Bar
+|Note|Dur:4th,Dotted|Pos:-4|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th,Dotted|Pos:-6|Opts:Stem=Up
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up
+|Note|Dur:4th|Pos:-8|Opts:Stem=Up
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Up
+|Note|Dur:8th|Pos:0|Opts:Stem=Down
+|Note|Dur:8th|Pos:1|Opts:Stem=Down
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Note|Dur:4th,Dotted|Pos:0|Opts:Stem=Up
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Slur=Upward,Beam=First
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Slur=Upward,Beam=End
+|Bar
+|Note|Dur:4th,Slur|Pos:-6|Opts:Stem=Up,Slur=Upward
+|Note|Dur:Half|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Spacer|Width:125
+|Bar
+|Note|Dur:Whole|Pos:-3^|Opts:Stem=Up
+|Note|Dur:16th|Pos:-3|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"An Evening Prayer"|Label:"An Evening Prayer"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-8,-6,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-8,-6,-3|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:-8,-6,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-7,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-8,-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Note|Dur:8th|Pos:-8|Opts:Stem=Up
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:n-7,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-7,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-7,-4|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:-7,-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-8,-6|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-8,-6|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:-8,-6|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-10,-7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-10,-8|Opts:Stem=Up
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6,-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-6,-3,-1|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:-6,-3,-1|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,1|Opts:Stem=Up
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:b-4,-1|Opts:Stem=Up
+|Bar
+|Rest|Dur:8th|Opts:Stem=Up
+|Chord|Dur:8th,Slur|Pos:-7,-5,-3|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-7,-5,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-7,-5,-3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Slur|Pos:-6|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:-8|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Whole|Pos2:-3
+|Note|Dur:4th,Slur|Pos:-7|Opts:Stem=Down,Slur=Upward
+|Note|Dur:Half,Slur|Pos:-8^|Opts:Stem=Down,Slur=Upward
+|Note|Dur:16th|Pos:-8|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Staff-1"|Label:"Staff-1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:3
+|StaffInstrument|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5^
+|Chord|Dur:8th|Pos:2^|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:8th|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-1
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-5
+|Note|Dur:8th|Pos:b0|Opts:Stem=Up
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Rest|Dur:4th|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Dotted|Pos:2^|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:3
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:2^
+|Chord|Dur:8th|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Beam=End
+|Bar
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:#-2,#3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:4th|Pos2:-1^
+|Note|Dur:Half|Pos:-1^|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-8,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Whole|Pos2:-5
+|Note|Dur:4th,Slur|Pos:b0|Opts:Stem=Up,Slur=Downward
+|Note|Dur:Half,Slur|Pos:-1^|Opts:Stem=Up,Slur=Downward
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

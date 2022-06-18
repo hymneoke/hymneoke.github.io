@@ -1,0 +1,244 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Stavanger, LMD"|Author:"Charles Woodward James, 1909"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Harp of Glory, edited by William T. Dale & H. A. R. Horton (Nashville, Tennessee: W. T. Dale, 1911), # 111."
+|PgSetup|StaffSize:21|Zoom:3|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.54|Right:2.29|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._My Fa-ther knows just what is best,\nKnows what I need, and then the rest\nWith-holds with His un-err-ing hands;\nMy Fa-ther knows: He un-der-stands.\n\nO yes, He knows, my Fa-ther knows;\nWhat-e’er my joys, what-e’er my woes,\nI place my-self in His dear hands,\nFor this I know: He un-der-stands.\n"
+|Lyric2|Text:"2._My Fa-ther knows just why ’tis best\nThat I some-times should find no rest;\nWhy I am called thro’ try-ing fires,\nWhy I’m de-nied my heart’s de-sires.\n\nO yes, He knows, my Fa-ther knows;\nWhat-e’er my joys, what-e’er my woes,\nI place my-self in His dear hands,\nFor this I know: He un-der-stands.\n"
+|Lyric3|Text:"3._My Fa-ther knows just when ’tis best\nTo call me un-to heav’n-ly rest;\nFor me to cease my la-bors here,\nAnd dwell with-in His pres-ence dear.\n\nO yes, He knows, my Fa-ther knows;\nWhat-e’er my joys, what-e’er my woes,\nI place my-self in His dear hands,\nFor this I know: He un-der-stands.\n"
+|Lyric4|Text:"4._Then, know-ing that my Fa-ther knows,\nI’ll fear no tri-als here, nor foes;\nWhat-ev-er comes, what-e’er be-fall,\nMy com-fort is that He knows all.\n\nO yes, He knows, my Fa-ther knows;\nWhat-e’er my joys, what-e’er my woes,\nI place my-self in His dear hands,\nFor this I know: He un-der-stands.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:88|Pos:11|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:-7,-4
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,n-1
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:b-5,-2
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:#-3,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-4,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Note|Dur:8th|Pos:-7
+|Note|Dur:8th|Pos:-5
+|Note|Dur:8th|Pos:-3
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-1^
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:-5
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:-7
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-2^
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam
+|Chord|Dur:8th|Pos:-7,-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5^,-2^
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4^,1^
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,0
+|Bar
+|Chord|Dur:Half|Pos:-2^,3^
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:b-5,-2
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:Half|Pos:-4^,1^
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:#-3,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:Half|Pos:-2^,0^
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up|Dur2:8th|Pos2:-4
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-4,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-4^
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-7,-4|Opts:Stem=Down,Beam=End
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Stavanger, C W James 1909"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:1,b6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-3,5
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:n-3,6
+|Chord|Dur:8th|Pos:-3,7
+|Chord|Dur:8th|Pos:-3,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,8
+|Chord|Dur:8th|Pos:b-1,n4
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-2,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-2,b4
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Rest|Dur:4th,Dotted
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th,Slur|Pos:-2,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Slur|Pos:-2,2|Opts:Stem=Down,Beam
+|Chord|Dur:8th,Slur|Pos:-2,3|Opts:Stem=Down,Beam
+|Chord|Dur:8th|Pos:-2,4|Opts:Stem=Down,Beam=End
+|Rest|Dur:4th,Dotted
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th,Slur|Pos:1,5|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th,Slur|Pos:1,5|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th,Slur|Pos:1,5|Opts:Stem=Down,Slur=Downward,Beam
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:-4^,3^,n5^
+|Chord|Dur:8th|Pos:-4,3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:-1^,6^
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:-2,6
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:0,5
+|Bar
+|Chord|Dur:Half|Pos:1^,5^
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-3,5
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:-3^,4^
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:n-3,6
+|Chord|Dur:8th|Pos:-3,7
+|Chord|Dur:8th|Pos:-3,8
+|Bar
+|Chord|Dur:Half|Pos:-2^,8^
+|Chord|Dur:8th|Pos:-2,8
+|Chord|Dur:8th|Pos:b-1,n4
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-2,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-2,b4
+|Bar
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First|Dur2:Half|Pos2:1^
+|Note|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam
+|Note|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam
+|TempoVariance|Style:Fermata|Pause:0|Pos:-6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:1,3|Opts:Stem=Up,Beam=End
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

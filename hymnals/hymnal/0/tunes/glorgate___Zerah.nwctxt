@@ -1,0 +1,153 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Zerah, CM"|Author:"Lowell Mason, 1837"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Psalter (Pittsburgh, Pennsylvania: United Presbyterian Board of Publication, 1912), # 318. Also in The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 71."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The glo-rious gates of right-eous-ness\nThrow o-pen un-to me,\nAnd I will en-ter them with praise,\nO Lord, my God, to Thee,\nAnd I will en-ter them with praise,\nO Lord, my God, to Thee.\n"
+|Lyric2|Text:"2._This is Thy tem-ple gate, O Lord,\nThe just shall en-ter there;\nMy Sav-ior, I will give Thee thanks,\nO Thou, that hear-est prayer,\nMy Sav-ior, I will give Thee thanks,\nO Thou, that hear-est prayer.\n"
+|Lyric3|Text:"3._The stone re-ject-ed and de-spised\nIs now the cor-ner-stone;\nHow won-drous are the ways of God,\nUn-fath-omed and un-known!\nHow won-drous are the ways of God,\nUn-fath-omed and un-known!\n"
+|Lyric4|Text:"4._In this the day that Thou hast made\nTri-um-phant-ly we sing;\nSend now pros-per-i-ty, O Lord,\nO Lord, sal-va-tion bring,\nSend now pros-per-i-ty, O Lord,\nO Lord, sal-va-tion bring.\n"
+|Lyric5|Text:"5._Ho-san-na! Ev-er blest be he\nThat com-eth in God’s name;\nThe bless-ing of Je-ho-vah’s house\nUp-on you we pro-claim;\nThe bless-ing of Je-ho-vah’s house\nUp-on you we pro-claim.\n"
+|Lyric6|Text:"6._The light of joy to shine on us\nThe Lord our God has made;\nNow be the pre-cious sac-ri-fice\nUp-on His al-tar laid;\nNow be the pre-cious sac-ri-fice\nUp-on His al-tar laid.\n"
+|Lyric7|Text:"7._O Lord, my God, I praise Thy name,\nAll oth-ers names a-bove;\nO give Him thanks, for He is good\nAnd bound-less is His love;\nO give Him thanks, for He is good\nAnd bound-less is His love.\n"
+|Lyric8|Text:"8._O praise the Lord, for He is good;\nLet all in Heav’n a-bove\nAnd all His saints on earth pro-claim\nHis ev-er-last-ing love;\nAnd all His saints on earth pro-claim\nHis ev-er-last-ing love.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:97|Pos:12|Justify:Center
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-7,-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-8,-6|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-8,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-8,-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-7|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-7
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,0|Opts:Stem=Up
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,0|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Zerah, CM"|Label:"Zerah, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:2
+|Chord|Dur:16th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0|Opts:Stem=Up
+|Note|Dur:8th|Pos:2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,n5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,7|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

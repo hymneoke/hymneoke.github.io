@@ -1,0 +1,231 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Toiling for Jesus"|Author:"William Augustine Ogden"|Lyricist:"William Augustine Ogden, 1880"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gates Ajar, edited by John H. Kurzenknabe (Harrisburg, Pennsylvania: J. H. Kurzenknabe & Sons, 1885), p. 55. Based on Proverbs 11:24."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:18|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Bright-ly, sweet-ly, toil-ing for the Mas-ter,\nGo we forth with will-ing hands to do\nWhat-so-e’er to us He hath ap-point-ed,\nFaith-ful-ly our mis-sion will pur-sue.\n\nToil-ing for Je-sus,\nJoy-ful-ly we go; joy-ful-ly we go,\nToil-ing for Je-sus\nIn His vine-yard here be-low.\n"
+|Lyric2|Text:"2._Glad-ly, sweet-ly, we will tell the sto-ry\nOf His love to mor-tals here be-low;\nChrist, the brigh-tness of the Fa-ther’s glo-ry,\nFree-ly here His bless-ing will bes-tow.\n\nToil-ing for Je-sus,\nJoy-ful-ly we go; joy-ful-ly we go,\nToil-ing for Je-sus\nIn His vine-yard here be-low.\n"
+|Lyric3|Text:"3._Meek-ly, meek-ly toil-ing for the Mas-ter,\nWalk-ing faith-ful-ly the path He trod;\nLead-ing wan-d’rers to the dear Re-deem-er,\nPoint-ing sin-ners to the Lamb of God.\n\nToil-ing for Je-sus,\nJoy-ful-ly we go; joy-ful-ly we go,\nToil-ing for Je-sus\nIn His vine-yard here be-low.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:F
+|Tempo|Tempo:102|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Text|Text:"Spirited"|Font:StaffItalic|Pos:10.5
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:Half|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-7,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,2
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:Half|Pos:-6,-1
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:9
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:3
+|Lyric1|Text:"Toil-ing, toil-ing for the Mas-ter,\nyes,\nToil-ing, toil-ing for the Mas-ter\n\nToil-ing for Je-sus,\nJoy-ful-ly we go; joy-ful-ly we go,\nToil-ing for Je-sus\nIn His vine-yard here be-low.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,2|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:-3,4|Opts:Lyric=Never
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:-3,4|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar|Style:Double
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4|Opts:Stem=Down
+|Spacer|Width:175
+|Bar
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,3|Opts:Lyric=Never
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Lyric=Never,Beam=First|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:0|Opts:Stem=Down,Lyric=Never,Beam=End
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Rest|Dur:8th
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-1,4
+|Spacer|Width:125
+|Bar
+|Boundary|Style:NewSize|Upper:11
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

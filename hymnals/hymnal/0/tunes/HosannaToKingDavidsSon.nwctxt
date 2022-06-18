@@ -1,0 +1,252 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:90|CaretPos:3
+|SongInfo|Title:"Hosanna to King David’s Son"|Author:"Henry Stephen Cutler (1825–1902)"|Lyricist:"Based on Isaac Watts, 1709"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Forms and Hymns for Christmas (Philadelphia, Pennsylvania: Heidelberg Press, 1906), # 4.\r\n\r\n"
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:1.78|Right:2.29|Bottom:1.78|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Ho-san-na to King Da-vid’s Son,\nDes-cend-ed from the heav’n-ly throne;\nIn Christ-mas songs we hail His birth,\nWho brought sal-va-tion to the earth.\nHo-san-na to King Da-vid’s Son,\nHo-san-na to King Da-vid’s Son,\n\nHo-san-na in the high-est.\n"
+|Lyric2|Text:"2._Ho-san-na to the new-born Child,\nOf vir-gin mo-ther, meek and mild!\nIn man-ger cra-dle see Him laid,\nBy whom the earth and heav’ns were made.\nHo-san-na to the Won-der-ful!\nHo-san-na to the Won-der-ful!\n\nHo-san-na in the high-est.\n"
+|Lyric3|Text:"3._Ho-san-na to th’In-car-nate Word,\nIn Beth-l’hem born! the might-y God!\nOur hearts and tongues with joy shall raise\nTheir glad ho-san-nas to His praise!\nHo-san-na to the might-y God!\nHo-san-na to the might-y God!\n\nHo-san-na in the high-est.\n"
+|Lyric4|Text:"4._With shep-herds on Ju-de-a’s plains,\nWith an-gels in their no-bler strains;\nLet our ho-san-nas joy-ful rise\nTo join the an-thems of the skies!\nHo-san-na, ev-er-last-ing Father!\nHo-san-na, ev-er-last-ing Father!\n\nHo-san-na in the high-est.\n"
+|Lyric5|Text:"5._Let ev-ery na-tion, ev-ery voice,\nIn mer-ry Christ-mas songs re-joice;\nBoth old and young with glad-ness sing,\nThat Christ is born to be our king!\nHo-san-na to the Prince of Peace!\nHo-san-na to the Prince of Peace!\n\nHo-san-na in the high-est.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:108|Pos:11.5|Justify:Right
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Note|Dur:8th|Pos:-5
+|Note|Dur:4th|Pos:-5
+|Spacer|Width:475
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:10.5
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Down
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Down|Dur2:4th|Pos2:-5
+|Instrument|Name:"Tubular Bells"|Patch:14|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15
+|Text|Text:"Chimes or Organ"|Font:StaffItalic|Pos:9
+|Note|Dur:4th|Pos:2|Opts:Lyric=Never
+|Bar
+|Note|Dur:4th|Pos:1|Opts:Lyric=Never
+|Note|Dur:4th|Pos:-1|Opts:Lyric=Never
+|Note|Dur:4th|Pos:-2|Opts:Lyric=Never
+|Note|Dur:4th|Pos:0|Opts:Lyric=Never
+|Bar
+|Note|Dur:4th|Pos:-1|Opts:Lyric=Never
+|Note|Dur:4th|Pos:-3|Opts:Lyric=Never
+|Note|Dur:4th|Pos:-5|Opts:Lyric=Never
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:10
+|Chord|Dur:4th|Pos:-5,2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up|Dur2:4th|Pos2:-5
+|Boundary|Style:NewSize|Lower:17
+|Note|Dur:4th|Pos:-5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Rest|Dur:4th
+|Instrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:15
+|Text|Text:"Chimes or Organ"|Font:StaffItalic|Pos:9
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-5
+|Note|Dur:4th|Pos:-5
+|Bar
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:0
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:2
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Hosanna to King David’s Son"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:Common
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down|Dur2:4th|Pos2:0
+|Spacer|Width:500
+|Bar
+|Chord|Dur:4th|Pos:7|Opts:Stem=Up|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Up|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Rest|Dur:4th
+|Bar
+|Note|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:5
+|Rest|Dur:4th
+|Bar
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Note|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:6|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:-6|Justify:Right|Placement:AtNextNote
+|Note|Dur:4th|Pos:7
+|Note|Dur:4th|Pos:5
+|Bar
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th|Pos:#3
+|Note|Dur:4th|Pos:4
+|Chord|Dur:4th|Pos:-3,4
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,n3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Bar|Style:Double
+|Chord|Dur:4th|Pos:0^,2
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up|Dur2:Whole|Pos2:0
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Rest|Dur:4th
+|Spacer|Width:225
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Half,Dotted
+|Chord|Dur:4th|Pos:2|Opts:Stem=Up|Dur2:Half|Pos2:0^
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Up|Dur2:Whole|Pos2:0
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Boundary|Style:NewSize|Upper:9
+|Note|Dur:4th|Pos:0
+|Bar
+|Chord|Dur:4th|Pos:7|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,b5
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Rest|Dur:Half
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Half,Dotted
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

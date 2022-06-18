@@ -1,0 +1,226 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Come, Sing to Me of Jesus’ Love"|Author:"Edward S. Fogg"|Lyricist:"Benjamin Helm, 1894"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Seed Sower. edited by A. F. Myers (Toledo, Ohio: W. W. Whitney Company, 1897), # 127."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.29|Top:2.54|Right:2.29|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:26|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"French Horn"|Patch:60|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Come sing to me of Je-sus’ love,\nFor life’s swift tide is ebb-ing still;\nSing how He came from Heav’n a-bove,\nTo save from sin and hu-man ill.\n\nSing of His love, won-der-ful love;\nHow He gave His life for me!\nSing of His love, won-der-ful love,\nHow He died to set me free!\n"
+|Lyric2|Text:"2._Draw near, and slow-ly sing to me\nHow thus on Him my sins were laid,\nThat I now in His cross may see\nThat all my debt is ful-ly paid.\n\nSing of His love, won-der-ful love;\nHow He gave His life for me!\nSing of His love, won-der-ful love,\nHow He died to set me free!\n"
+|Lyric3|Text:"3._Oh, sing a-gain of Cal-va-ry,\nWhere Je-sus died my soul to save;\nHow through His death and ag-o-ny\nThe Sav-ior tri-umphed o’er the grave.\n\nSing of His love, won-der-ful love;\nHow He gave His life for me!\nSing of His love, won-der-ful love,\nHow He died to set me free!\n"
+|Lyric4|Text:"4._Sing how tho’ now ex-alt-ed high\nAt His al-migh-ty Fa-ther’s side,\nIn death’s cold wave He still is nigh,\nTo safe-ly bear me o’er the tide.\n\nSing of His love, won-der-ful love;\nHow He gave His life for me!\nSing of His love, won-der-ful love,\nHow He died to set me free!\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:95|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Text|Text:"Duet. Con express."|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:575
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-3,-1
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Spacer|Width:375
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Slur|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,#-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Spacer|Width:325
+|Bar|Style:Double
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:16
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:10
+|Boundary|Style:NewSize|Lower:19
+|Chord|Dur:8th,Triplet=First|Pos:-1|Opts:Stem=Down|Dur2:8th|Pos2:-1
+|Chord|Dur:8th,Triplet|Pos:#-2,0|Opts:Stem=Down
+|Chord|Dur:8th,Triplet=End|Pos:n-2,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:8th,Triplet=First|Pos:-2,3
+|Chord|Dur:8th,Triplet|Pos:-3,2
+|Chord|Dur:8th,Triplet=End|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,-1
+|Chord|Dur:8th,Triplet=First|Pos:-1|Opts:Stem=Up|Dur2:8th|Pos2:-1
+|Chord|Dur:8th,Triplet|Pos:#-2,0
+|Chord|Dur:8th,Triplet=End|Pos:n-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:8th,Triplet=First|Pos:-2,3
+|Chord|Dur:8th,Triplet|Pos:-3,2
+|Chord|Dur:8th,Triplet=End|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Sing to Me of Jesus’ Love"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nHis won-der-ful love,\nHis won-der-ful love;\n_ _ _ _ _ _ _\nHis won-der-ful love,\nHis won-der-ful love;\n\nSing of His love, won-der-ful love;\nHow He gave His life for me!\nSing of His love, won-der-ful love,\nHow He died to set me free!\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Rest|Dur:4th
+|Bar
+|Note|Dur:4th|Pos:-7
+|Chord|Dur:4th|Pos:0,2,4
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:1,3,4,6
+|Bar
+|Note|Dur:4th,Slur|Pos:-7
+|Chord|Dur:4th,Slur|Pos:0,2,4
+|Chord|Dur:4th|Pos:0,2,4
+|Chord|Dur:4th|Pos:0,2,4
+|Bar
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:1,3,4,6
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:1,3,4,6
+|Bar
+|Note|Dur:4th,Slur|Pos:-7
+|Chord|Dur:4th,Slur|Pos:0,2,4
+|Chord|Dur:4th|Pos:0,2,4
+|Chord|Dur:4th|Pos:0,2,4
+|Bar
+|Note|Dur:4th|Pos:-7
+|Chord|Dur:4th|Pos:0,2,4
+|Note|Dur:4th|Pos:-3
+|Chord|Dur:4th|Pos:1,3,4,6
+|Bar
+|Note|Dur:4th,Slur|Pos:-5
+|Chord|Dur:4th,Slur|Pos:0,2,4
+|Chord|Dur:4th|Pos:0,2,4
+|Chord|Dur:4th|Pos:0,2,4
+|Bar
+|Note|Dur:4th|Pos:-6
+|Chord|Dur:4th|Pos:1,4,5
+|Note|Dur:4th|Pos:-6
+|Chord|Dur:4th|Pos:1,#3,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-10,-3
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:11
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th,Triplet=First|Pos:0,7
+|Chord|Dur:8th,Triplet|Pos:0,7
+|Chord|Dur:8th,Triplet=End|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th,Triplet=First|Pos:3,7
+|Chord|Dur:8th,Triplet|Pos:3,7
+|Chord|Dur:8th,Triplet=End|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th,Triplet=First|Pos:0,7
+|Chord|Dur:8th,Triplet|Pos:0,7
+|Chord|Dur:8th,Triplet=End|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th,Triplet=First|Pos:3,7
+|Chord|Dur:8th,Triplet|Pos:3,7
+|Chord|Dur:8th,Triplet=End|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,227 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Nachtlied, 10.10.10 D"|Author:"Henry Thomas Smart, 1872"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source:  The Hymnal (Philadelphia, Pennsylvania: Presbyterian Board of Publication & Sabbath-School Work, 1907), # 20."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The day is gen-tly sink-ing to a close,\nFaint-er and yet more faint the sun-light glows:\nO bright-ness of Thy Fa-ther’s glo-ry,\nThou e-ter-nal light of light, be with us now:\nWhere Thou art pre-sent dark-ness can-not be;\nMid-night is glo-rious noon, O Lord, with Thee.\n"
+|Lyric2|Text:"2._Our change-ful lives are ebb-ing to an end;\nOn-ward to dark-ness and to death we tend;\nO con-queror of the grave, be Thou our guide;\nBe Thou our light in death’s dark e-ven-tide;\nThen in our mor-tal hour will be no gloom,\nNo sting in death, no ter-ror in the tomb.\n"
+|Lyric3|Text:"3._Thou, who in dark-ness walk-ing didst ap-pear\nUp-on the waves, and Thy dis-ci-ples cheer,\nCome, Lord, in lone-some days, when storms as-sail,\nAnd earth-ly hopes and hu-man suc-cors fail;\nWhen all is dark, may we be-hold Thee nigh,\nAnd hear Thy voice, “Fear not, for it is I.”\n"
+|Lyric4|Text:"4._The wea-ry world is mold-ering to de-cay,\nIts glo-ries wane, its pag-eants fade a-way:\nIn that last sun-set, when the stars shall fall,\nMay we a-rise, a-wak-ened by Thy call,\nWith Thee, O Lord, for-ev-er to a-bide,\nIn that blest day which has no e-ven-tide.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:117|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-2
+|Chord|Dur:Half|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Note|Dur:4th|Pos:-5
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:Half,Slur|Pos:-5,-3
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:#-5,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:#-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:n-5,-3
+|Bar
+|Chord|Dur:Half|Pos:-5,-4
+|Chord|Dur:Half|Pos:-6,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:Half|Pos:-4,-1
+|Bar
+|Chord|Dur:Half,Slur|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:4th|Pos:#-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,#-2
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:#-2,2
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th,Slur|Pos:2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:#-1
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th,Slur|Pos:-4,0
+|Chord|Dur:4th|Pos:-5,#-2
+|Bar
+|Chord|Dur:Whole|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:0
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-2
+|Note|Dur:Half|Pos:2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-7,-3
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:4th|Pos:-7,-4
+|Bar
+|Chord|Dur:Half|Pos:-8,-5
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-5|Opts:Stem=Up,ArticulationsOnStem
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Nachtlied"|Label:"Nachtlied"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:Half|Pos:0,5
+|Chord|Dur:Half|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:n-1,2
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Whole|Pos2:4
+|Note|Dur:4th|Pos:3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2,n6
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:4,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-4,5
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Chord|Dur:Half|Pos:-1,4
+|Bar
+|Chord|Dur:Half,Slur|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:7
+|Note|Dur:4th|Pos:5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,7
+|Bar
+|Chord|Dur:4th|Pos:#3,7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:Half|Pos:0,8
+|Bar
+|Chord|Dur:Half|Pos:-1,8
+|Chord|Dur:Half|Pos:2,8
+|Bar
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,8
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:1,6
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:4,9
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:4,7|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:8|Opts:Stem=Up,Slur=Downward,ArticulationsOnStem|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,7
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half,Slur|Pos:-1,4
+|Chord|Dur:Half|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:8|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,7
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:#0,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-4,3
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

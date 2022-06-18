@@ -1,0 +1,217 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Bless This Hour of Prayer"|Author:"William Howard Doane"|Lyricist:"Frances Jane (Fanny) Crosby, 1868"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Silver Spray, by William Howard Doane (Cincinnati, Ohio: John Church & Company, 1868), # 37."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Come in our midst, O gra-cious Lord,\nUn-veil Thy smil-ing face,\nDis-til in ev-ery wait-ing heart,\nThe dew of heaven-ly grace;\nFrom earth-ly scenes we turn a-side,\nOn Thee we cast our care;\nWe wor-ship in Thy ho-ly name;\nO! bless this hour of prayer.\n"
+|Lyric2|Text:"2._Come in our midst, O gra-cious Lord,\nThy prom-ise we be-lieve,\nThat bids us seek and we shall find,\nAsk and we shall re-ceive;\nWe ga-ther at Thy mer-cy seat,\nOur on-ly hope is there,\nWe plead the mer-its of Thy blood;\nO! bless this hour of prayer.\n"
+|Lyric3|Text:"3._Come in our midst, O gra-cious Lord,\nE-tern-al King of kings,\nAnd fold the child-ren of the law\nBe-neath Thy might-y wings;\nSup-port the weak, the mourn-er cheer,\nHelp all their cross to bear;\nThou spring of joy, Thou source of life,\nO! bless this hour of prayer.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:105|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:#-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-8,-5
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:#-4,#-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-4^
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-8,-5
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:#-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:#-4,#-2|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-8^,-5^
+|Chord|Dur:4th|Pos:-8,-5
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Note|Dur:8th|Pos:-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-4^
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-8,-5
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:#-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:#-4,#-2|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th|Pos:-2,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-5^
+|Chord|Dur:4th|Pos:-7,-5
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Bless This Hour of Praye"|Label:"Bless This Hour of Praye"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:#3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,0,7
+|Chord|Dur:8th|Pos:-3,0,6
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:#3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th|Pos:0,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-3,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,2^|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,2|Opts:Slur=Downward
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-2,2|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:#4|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th|Pos:3,7|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:3,7|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:3
+|Note|Dur:8th|Pos:#4|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:8th|Pos:3,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,7|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:0,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:0,2|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:#3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,2^
+|Chord|Dur:4th|Pos:0,2
+|Rest|Dur:8th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

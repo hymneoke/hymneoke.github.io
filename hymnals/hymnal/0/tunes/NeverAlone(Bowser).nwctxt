@@ -1,0 +1,238 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Never Alone"|Author:"George Blackburn Holsinger"|Lyricist:"Addison Bartholomew Bowser, 1898"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Kingdom of Song, edited by Thomas M. Bowdish (Toledo, Ohio: W. W. Whitney, 1900), # 63."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Ne-ver a-lone, no, ne-ver a-lone,\nJe-sus is with me, Je-sus my own;\nCheered by His pre-sence, led by His hand,\nJoy-ous I march thro’ this de-sert land.\n\nNe-ver a-lone, no, ne-ver a-lone,\nJe-sus is with me, Je-sus my own,\nO what a com-fort dai-ly I know,\nJe-sus is with me wher-e’er I go.\n"
+|Lyric2|Text:"2._Ne-ver a-lone, when dan-ger is near,\nWalk-ing with Je-sus, why should I fear?\nTrust-ing in Him when pressed by the foe,\nI find a ref-uge from all my woe.\n\nNe-ver a-lone, no, ne-ver a-lone,\nJe-sus is with me, Je-sus my own,\nO what a com-fort dai-ly I know,\nJe-sus is with me wher-e’er I go.\n"
+|Lyric3|Text:"3._Ne-ver a-lone, when temp-ted and tried,\nSafe-ly He keeps me close to His side;\nLean-ing on Je-sus, Sav-ior di-vine,\nClaim-ing His prom-ise, vic-tory is mine.\n\nNe-ver a-lone, no, ne-ver a-lone,\nJe-sus is with me, Je-sus my own,\nO what a com-fort dai-ly I know,\nJe-sus is with me wher-e’er I go.\n"
+|Lyric4|Text:"4._Ne-ver a-lone, when death sha-dows come,\nO’er wea-ry eye-lids clos-ing in sleep;\nSweet-ly with Je-sus, when night is o’er,\nI shall a-wake on yon-der bright shore.\n\nNe-ver a-lone, no, ne-ver a-lone,\nJe-sus is with me, Je-sus my own,\nO what a com-fort dai-ly I know,\nJe-sus is with me wher-e’er I go.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:9/8
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:#-4,#-2
+|Chord|Dur:8th|Pos:n-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-1,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:#-4,#-2
+|Chord|Dur:8th|Pos:n-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-1,2
+|Chord|Dur:8th|Pos:#-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,2
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-1|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:-1
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Spacer|Width:300
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:14
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:#-2,0
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Dotted|Pos:-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:4th,Dotted|Pos:-2,-1
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Never Alone (Bowser)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nNe-ver a-lone, no, ne-ver a-lone,\nJe-sus is with me, Je-sus, yes, Je-sus my own,\nOh, what a com-fort dai-ly I know,\nJe-sus is with me wher-e’er I go.\n\nNe-ver a-lone, no, ne-ver a-lone,\nJe-sus is with me, Je-sus my own,\nO what a com-fort dai-ly I know,\nJe-sus is with me wher-e’er I go.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:9/8
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:2,7
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:4,8
+|Spacer|Width:325
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:2,7
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,7
+|Chord|Dur:4th,Dotted|Pos:2,7
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:8th|Pos:4,6
+|Spacer|Width:375
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,7
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:14
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Rest|Dur:4th
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,8
+|Bar
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th,Dotted|Pos:4,8
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:8th|Pos:4,8
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:-3,8
+|Chord|Dur:8th|Pos:-3,7
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

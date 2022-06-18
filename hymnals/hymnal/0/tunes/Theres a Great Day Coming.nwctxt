@@ -1,0 +1,235 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"There’s a Great Day Coming"|Author:"Will Lamartine Thompson"|Lyricist:"Will Lamartine Thompson, 1886"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Crusade Songs, edited by W. Hines Sims (Nashville, Tennessee: Broadman Press, 1954), # 106. Also in Sing to the Lord (Kansas City, Missouri: Lillenas Publishing Company, 1993), # 336. Publication date found at http://www.hymnary.org"
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-18
+|Lyric1|Text:"1._There’s a great day com-ing, a great day com-ing;\nThere’s a great day com-ing by and by,\nWhen the saints and the sin-ners shall be part-ed right and left,\nAre you rea-dy for that day to come?\n\nAre you rea-dy? Are you rea-dy?\nAre you rea-dy for the judg-ment day?\nAre you rea-dy? Are you rea-dy?\nFor the judg-ment day?\n"
+|Lyric2|Text:"2._There’s a bright day com-ing, a bright day com-ing;\nThere’s a bright day com-ing by and by.\nBut its bright-ness shall on-ly come to them that love the Lord.\nAre you rea-dy for that day to come?\n\nAre you rea-dy? Are you rea-dy?\nAre you rea-dy for the judg-ment day?\nAre you rea-dy? Are you rea-dy?\nFor the judg-ment day?\n"
+|Lyric3|Text:"3._There’s a sad day com-ing, a sad day com-ing;\nThere’s a sad day com-ing by and by,\nWhen the sin-ner shall hear his doom: “De-part, I know you not!”\nAre you rea-dy for that day to come?\n\nAre you rea-dy? Are you rea-dy?\nAre you rea-dy for the judg-ment day?\nAre you rea-dy? Are you rea-dy?\nFor the judg-ment day?\n"
+|Clef|Type:Treble
+|Tempo|Tempo:105|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Bar
+|Boundary|Style:NewSize|Lower:6
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:16th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-6^,-3^|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:16th|Pos:-6,-2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-8,-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:16th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-8,-6
+|Chord|Dur:8th|Pos:-8,-6|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-8,-6|Opts:Stem=Up
+|Bar
+|Chord|Dur:16th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6^,-3^
+|Chord|Dur:4th|Pos:-6,-3
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:2
+|Chord|Dur:4th,Dotted|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:n-7,-1
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:Half|Pos:-6,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Up
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,-1
+|Rest|Dur:4th
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Great Day Coming"|Label:"Great Day Coming"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:30|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:8
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nAre you rea-dy? Are you rea-dy?\nAre you rea-dy for the judg-ment day?\nAre you rea-dy? Are you rea-dy?\nFor the judg-ment day?\n\nAre you rea-dy? Are you rea-dy?\nAre you rea-dy for the judg-ment day?\nAre you rea-dy? Are you rea-dy?\nFor the judg-ment day?\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2^,4^
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:16th|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2^,4^
+|Chord|Dur:4th|Pos:2,4
+|Spacer|Width:175
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:22
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-5,4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:Half|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,6|Opts:Stem=Down
+|Rest|Dur:4th
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,6
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

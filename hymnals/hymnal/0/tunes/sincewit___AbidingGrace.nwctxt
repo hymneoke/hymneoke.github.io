@@ -1,0 +1,123 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Abiding Grace, CM"|Author:"John Spencer Camp, 1905"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Methodist Hymnal (New York: Methodist Book Concern, 1905), # 504."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Since with-out Thee we do no good,\nAnd with Thee do no ill,\nA-bide with us in weal and woe,\nIn ac-tion and in will.\n"
+|Lyric2|Text:"2._In weal, that while our lips con-fess\nThe Lord who gives, we may\nRe-mem-ber with a hum-ble thought\nThe Lord who takes a-way.\n"
+|Lyric3|Text:"3._In woe, that while to drown-ing tears\nOur hearts their joys re-sign,\nWe may re-mem-ber who can turn\nSuch wa-ter in-to wine.\n"
+|Lyric4|Text:"4._By hours of day, that when our feet\nO’er hill and val-ley run,\nWe still may think the light of truth\nMore wel-come than the sun.\n"
+|Lyric5|Text:"5._By hours of night, that when the air\nIts dew and shad-ow yields,\nWe still may hear the voice of God\nIn si-lence of the fields.\n"
+|Lyric6|Text:"6._A-bide with us, a-bide with us,\nWhile flesh and soul a-gree;\nAnd when our flesh is on-ly dust,\nA-bide our souls with Thee.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:106|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-2,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:n0
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Beam=End,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1|Opts:Stem=Down,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-2,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:#-3,2|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3|Opts:Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Abiding Grace, CM"|Label:"Abiding Grace, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,7|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Tie=Downward
+|Chord|Dur:8th,Slur|Pos:3,5|Opts:Stem=Down,Slur=Downward,Beam=First,Tie=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:5,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:4,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:3,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:b1,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Boundary|Style:NewSize|Upper:17
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:7
+|Note|Dur:8th|Pos:#2|Opts:Stem=Down,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:3,7|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,4|Opts:Tie=Downward
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

@@ -1,0 +1,230 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"When He Comes in Glory By and By"|Author:"Arthur A. Westbrook"|Lyricist:"Arthur A. Westbrook, 1911"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sacred Selections for the Church, 6th edition, edited by Ellis J. Crum (Kendallville, Indiana: Sacred Selections, 1960), # 342."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:19|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._O how sweet ’twill be to meet the Lord,\nWhen He comes in glo-ry, by and by;\nWhat a song of praise will be out-poured,\nWhen He comes in glo-ry, by and by.\n\nHow sweet! How sweet!\nWhen He comes in the sky!\nWhat joy! What joy!\nWhen He comes in glo-ry, by and by.\n"
+|Lyric2|Text:"2._We will have our robes all white as snow,\nWhen He comes in glo-ry, by and by;\nO be rea-dy with the Lord to go,\nWhen He comes in glo-ry, by and by.\n\nHow sweet! How sweet!\nWhen He comes in the sky!\nWhat joy! What joy!\nWhen He comes in glo-ry, by and by.\n"
+|Lyric3|Text:"3._I am long-ing for that hap-py day,\nWhen He comes in glo-ry, by and by;\nFor with Him I hope to soar a-way,\nWhen He comes in glo-ry, by and by.\n\nHow sweet! How sweet!\nWhen He comes in the sky!\nWhat joy! What joy!\nWhen He comes in glo-ry, by and by.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:105|Pos:11|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-4,-3
+|Chord|Dur:8th|Pos:-4,-3
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:10
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Down
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th,Slur|Pos:-6|Opts:Stem=Down
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th,Slur|Pos:#-3|Opts:Stem=Down
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:n-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Slur|Pos:n-4|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:4
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,0
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th,Slur|Pos:-2|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down
+|Boundary|Style:NewSize|Lower:12
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:3
+|Lyric1|Text:"’twill be! ’twill be!\nWhen He comes a-gain in the love-lit sky!\n’twill be! ’twill be!\n\nHow sweet! How sweet!\nWhen He comes in the sky!\nWhat joy! What joy!\nWhen He comes in glo-ry, by and by.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,5|Opts:Lyric=Never
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,2|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2|Opts:Lyric=Never
+|Bar|Style:Double
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-5,4
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:5,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:5,7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Chord|Dur:8th|Pos:5|Opts:Stem=Down|Dur2:8th|Pos2:5
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down|Dur2:8th|Pos2:2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

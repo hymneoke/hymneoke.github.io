@@ -1,0 +1,222 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"San Dimas, 10.7.10.7 D"|Author:"George Orlia Webster, 1904"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: International Gospel Hymns and Songs (Chicago, Illinois: Bilhorn Brothers, 1905), # 15."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Should the new dawn break-ing a bur-den bring,\nThat your soul deems hard to bear,\nSeek a boon of grace for a lit-tle space;\nThere is al-ways time for prayer.\n\nThere is al-ways time in the morn-ing’s prime,\nAnd the gold-en noon-tide fair;\nThere is al-ways time ’neath the e-ven chime,\nThere is al-ways time for prayer.\n"
+|Lyric2|Text:"2._With a lift of heart let the day be-gin,\nAnd a mo-ment res-pite spare,\nEre you press a-long with the toil-ing throng;\nThere is al-ways time for prayer.\n\nThere is al-ways time in the morn-ing’s prime,\nAnd the gold-en noon-tide fair;\nThere is al-ways time ’neath the e-ven chime,\nThere is al-ways time for prayer.\n"
+|Lyric3|Text:"3._When your wea-ry feet fal-ter on the path,\nTho’ to pause you do not dare,\nWould you find the stress of the noon grow less?\nThere is al-ways time for prayer.\n\nThere is al-ways time in the morn-ing’s prime,\nAnd the gold-en noon-tide fair;\nThere is al-ways time ’neath the e-ven chime,\nThere is al-ways time for prayer.\n"
+|Lyric4|Text:"4._When the late night dies with the set-ting sun,\nWould you taste a balm for care?\nWith a lift of heart let the day de-part;\nThere is al-ways time for prayer.\n\nThere is al-ways time in the morn-ing’s prime,\nAnd the gold-en noon-tide fair;\nThere is al-ways time ’neath the e-ven chime,\nThere is al-ways time for prayer.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:11|Justify:Center
+|TimeSig|Signature:6/8
+|Chord|Dur:16th|Pos:-6|Opts:Stem=Up|Dur2:16th|Pos2:-6
+|Chord|Dur:16th|Pos:-6,-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-5
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up|Dur2:8th|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-2^
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|DynamicVariance|Style:Crescendo|Pos:7|Justify:Center|Visibility:Never
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down,Crescendo
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down,Crescendo
+|DynamicVariance|Style:Decrescendo|Pos:7|Visibility:Never
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Down,Diminuendo
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th,Staccato|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,-2
+|TempoVariance|Style:Ritenuto|Pos:9
+|Chord|Dur:16th|Pos:-6|Opts:Stem=Up|Dur2:16th|Pos2:-6
+|Chord|Dur:16th|Pos:-7,-5
+|Bar
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-6^
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Down,Diminuendo
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down,Diminuendo
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,2
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-3,-2
+|Chord|Dur:16th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,1^
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,1
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,1
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|TempoVariance|Style:Ritenuto|Pos:9
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-7,-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-9^,-6^
+|Chord|Dur:4th|Pos:-9,-6
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"San Dimas, 10.7.10.7 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:6/8
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,2
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,6^
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:16th|Pos:1,3
+|Chord|Dur:16th|Pos:0,3
+|Bar
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,1^
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,3
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:8th|Pos:0,3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,6^
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:16th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Bar
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,1^
+|Chord|Dur:4th|Pos:-1,1
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

@@ -1,0 +1,137 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"St. John’s Highlands, LM"|Author:"Anonymous, before 1913"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Psalter (Pittsburgh, Pennsylvania: United Presbyterian Board of Publication, 1912), # 132. Also in the Psalter Hymnal (Grand Rapids Michigan: Board of Publications of the Christian Reformed Church, 1976), # 88."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Let mor-tal tongues at-tempt to sing,\nThe wars of Heav’n, when Mi-chael stood\nChief gen-eral of th’e-ter-nal King,\nAnd fought the bat-tles of our God.\n"
+|Lyric2|Text:"2._A-gainst the drag-on and his host\nThe ar-mies of the Lord pre-vail;\nIn vain they rage, in vain they boast,\nTheir cour-age sinks, their weap-ons fail.\n"
+|Lyric3|Text:"3._Down to the earth was Sa-tan thrown,\nDown to the earth his le-gions fell;\nThen was the trump of tri-umph blown,\nAnd shook the dread-ful deeps of hell.\n"
+|Lyric4|Text:"4._Now is the hour of dark-ness past,\nChrist has as-sumed His reign-ing power;\nBe-hold the great ac-cus-er cast\nDown from the skies, to rise no more.\n"
+|Lyric5|Text:"5._’Twas by Thy blood, im-mor-tal Lamb,\nThine ar-mies trod the tempt-er down;\n’Twas by Thy Word and power-ful name\nThey gained the bat-tle and re-nown.\n"
+|Lyric6|Text:"6._Re-joice, ye heav’ns; let eve-ry star\nShine with new glo-ries round the sky;\nSaints, while ye sing the heav’n-ly war,\nRaise your de-liv-erer’s name on high.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|Tempo|Tempo:160|Pos:12|Justify:Right
+|TimeSig|Signature:Common
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:n-4,n-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-1,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-2,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,-4|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-6,-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:n-4,n-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-2,1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Whole|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"St. John’s Highlands, LM"|Label:"St. John’s Highlands, LM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:Common
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,n4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:Half|Pos:n-4,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:-1,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,b6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-4,5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-4,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-3,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:Whole|Pos:0,2|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

@@ -1,0 +1,207 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:47|CaretPos:12
+|SongInfo|Title:"Charitas, 87.87 D"|Author:"John Bacchus Dykes, 1868"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source:  Hymns Ancient and Modern, standard edition (Norwich, England: Canterbury Press, 1994), # 367."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:1
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:1
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:1
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:1
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.29|Right:2.54|Bottom:2.29|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Lord of Glo-ry, who hast bought us\nWith Thy life-blood as the price,\nNev-er grudg-ing for the lost ones\nThat tre-men-dous sac-ri-fice;\nAnd with that hast free-ly giv-en\nBless-ings count-less as the sand,\nTo the_un-thank-ful and the e-vil\nWith Thine own un-spar-ing hand.\n"
+|Lyric2|Text:"2._Grant us hearts, dear Lord, to yield Thee\nGlad-ly, free-ly, of Thine own.\nWith the sun-shine of Thy good-ness\nMelt our thank-less hearts of stone.\nTill our cold and self-ish na-tures,\nWarmed by Thee, at length be-lieve\nThat more hap-py and more bless-èd\n’Tis to give than to re-ceive.\n"
+|Lyric3|Text:"3._Won-drous hon-or hast Thou giv-en\nTo our humbl-est char-i-ty.\nIn Thine own mys-te-rious sen-tence,\n“Ye have done it un-to Me.”\nCan it be, O gra-cious Mas-ter,\nThou dost deign for alms to sue,\nSay-ing by Thy poor and need-y,\n“Give as I have giv-en you”?\n"
+|Lyric4|Text:"4._Yes: the sor-row and the suf-fering,\nWhich on eve-ry hand we see,\nChan-nels are for tithes and of-ferings\nDue by sol-emn right to Thee;\nRight of which we may not rob Thee,\nDebt we may not choose but pay,\nLest that face of love and pit-y\nTurn from us an-oth-er day.\n"
+|Lyric5|Text:"5._Lord of Glo-ry, who hast bought us\nWith Thy life-blood as the price,\nNev-er grudg-ing for the lost ones\nThat tre-men-dous sac-ri-fice;\nGive us faith, to trust Thee bold-ly;\nHope, to stay our souls on Thee;\nBut O, best of all Thy grac-es,\nGive us Thine own char-i-ty.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-4,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Note|Dur:4th|Pos:-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-2|Opts:Slur=Upward
+|Note|Dur:4th|Pos:-6|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:#-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-3,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,Slur=Upward|Dur2:4th|Pos2:-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:Half|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:b-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:b3
+|Note|Dur:8th|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:b-1,b3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-1,2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:b-4,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-3,b2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,b-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:b-4,b3
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Charitas"|Label:"Charitas"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:7|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:4th|Pos:0,6
+|Bar
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:1,6
+|Boundary|Style:NewSize|Upper:15
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End
+|Boundary|Style:NewSize|Upper:13
+|Bar
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:Half|Pos:-1,6
+|Bar
+|Chord|Dur:4th|Pos:b1,5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,b4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:b1,3
+|Chord|Dur:4th|Pos:1,b8
+|Chord|Dur:4th,Dotted|Pos:b0,b4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:b0,b7
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:6|Opts:Stem=Up,Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Note|Dur:4th|Pos:6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:4,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:b1,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,5|Opts:Slur=Downward
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-3,6
+|Chord|Dur:4th|Pos:n-2,4
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:8th,Slur|Pos:n5|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th|Pos:-1,b5
+|Chord|Dur:Half|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

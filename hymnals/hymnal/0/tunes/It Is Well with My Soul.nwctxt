@@ -1,0 +1,222 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"It Is Well with my Soul"|Author:"Philip Paul Bliss, 1876"|Lyricist:"Horatio Gates Spafford, 1873"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing Company, 1974), # 401.  Also in The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 377."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:32|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._When peace, like a riv-er, at-tend-eth my way,\nWhen sor-rows like sea bil-lows roll;\nWhat-ev-er my lot, Thou has taught me to say,\nIt is well, it is well, with my soul.\n\nIt is well, it is well,\nIt is well, it is well, with my soul.\n"
+|Lyric2|Text:"2._Though Sa-tan should buf-fet, though tri-als should come,\nLet this blest as-sur-ance con-trol,\nThat Christ has re-gard-ed my help-less es-tate,\nAnd hath shed His own blood for my soul.\n\nIt is well, it is well,\nIt is well, it is well, with my soul.\n"
+|Lyric3|Text:"3._My sin, oh, the bliss of this glor-i-ous thought!\nMy sin, not in part but the whole,\nIs nailed to the cross, and I bear it no more,\nPraise the Lord, praise the Lord, O my soul!\n\nIt is well, it is well,\nIt is well, it is well, with my soul.\n"
+|Lyric4|Text:"4._And Lord, haste the day when my faith shall be sight,\nThe clouds be rolled back as a scroll;\nThe trump shall re-sound, and the Lord shall de-scend,\nEv-en so, it is well with my soul.\n\nIt is well, it is well,\nIt is well, it is well, with my soul.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Spacer|Width:675
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Note|Dur:4th|Pos:0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up
+|Spacer|Width:425
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Spacer|Width:350
+|Bar
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half|Pos:-3,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,n-2|Opts:Stem=Up
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,-1|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Down
+|Spacer|Width:125
+|Bar
+|Chord|Dur:Half|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:0
+|Chord|Dur:4th|Pos:-1,0|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:4th|Pos:n-2,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-1,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:Half|Pos:-1,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-5,2|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-4,2|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2|Opts:Stem=Down
+|Spacer|Width:225
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:24
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Slur|Pos:-1^|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-1
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:-4,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:Half,Slur|Pos:-1^|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-1
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Note|Dur:4th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-3,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-2,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Ville de Havre"|Label:"Ville de Havre"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nwith my soul, with my soul\n\nIt is well, it is well,\nIt is well, it is well, with my soul.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Note|Dur:8th|Pos:2|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:4th|Pos:3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-1,n4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,n7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:1,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:4,8|Opts:Stem=Down
+|Chord|Dur:4th|Pos:4,7|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Down,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:6
+|Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:Half|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4|Opts:Stem=Down
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:5
+|Rest|Dur:Half|Opts:Stem=Down
+|Bar
+|Rest|Dur:Half|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:4,6|Opts:Stem=Down
+|Rest|Dur:Half|Opts:Stem=Down
+|Bar
+|Rest|Dur:Half|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-3,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:0,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:4
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

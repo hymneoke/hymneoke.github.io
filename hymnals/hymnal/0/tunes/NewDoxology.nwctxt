@@ -1,0 +1,170 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"New Doxlogy"|Author:"Seeley D. Kinne"|Lyricist:"D. W. Griffin, 1910"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Psalms, Hymns and Songs Spiritual, by Charles A. Squire, Sarah L. Squire & Seeley D. Kinne (St. Louis, Missouri: Squire & Kinne, ca. 1910), # 1."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:29|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Come ev-ery soul be-neath the sky,\nAnd praise the Ma-jes-ty on high,\nWith all the saints and heav’n-ly host,\nPraise Fa-ther, Son and Ho-ly Ghost.\n"
+|Lyric2|Text:"2._With blaz-ing worlds be-yond the skies,\nBe-yond the reach of mor-tal eyes,\nSing prais-es to Al-might-y God,\nFor His all-wise cre-at-ing Word.\n"
+|Lyric3|Text:"3._Al-though it be with fee-ble breath,\nBe-gin to praise Him now by faith.\nAnd from a stream so faint and slow,\nWill burst an o-cean in its flow.\n"
+|Lyric4|Text:"4._O praise the Lord for all He’s done,\nFor all His bless-ings, one by one,\nAnd see His good-ness, mount-ains high,\nFill all the earth and sea and sky.\n"
+|Lyric5|Text:"5._With hearts and lips in ho-ly flame,\nO let us mag-ni-fy His name,\nTill all the earth re-stored a-gain,\nShall praise our God in glad re-frain.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:130|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Spacer|Width:575
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up|Dur2:Whole|Pos2:-5
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Up
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-5,-1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up|Dur2:Whole|Pos2:-2
+|Note|Dur:4th,Slur|Pos:#-1|Opts:Stem=Up
+|Note|Dur:Half|Pos:0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-2,1
+|Spacer|Width:250
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-2,0
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-5,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-5,-2
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Up|Dur2:Whole|Pos2:-2
+|Note|Dur:4th,Slur|Pos:#-1|Opts:Stem=Up
+|Note|Dur:Half|Pos:0|Opts:Stem=Up
+|Chord|Dur:Half|Pos:-2,1
+|Spacer|Width:125
+|Bar
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:Half|Pos:-2,0
+|Bar
+|Chord|Dur:Whole|Pos:-3,-1
+|Chord|Dur:Half|Pos:-5,2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:Half|Pos:-7,-5
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:#-6
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:#-6,0
+|Chord|Dur:Half|Pos:-6,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,#1
+|Bar
+|Chord|Dur:Whole|Pos:-3,2
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-1,2
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-6
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-6,-2
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th,Slur|Pos:-2,0|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-3,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"New Doxlogy"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:6
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/2
+|Chord|Dur:Half|Pos:3,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,Slur=Downward|Dur2:Whole|Pos2:3
+|Note|Dur:4th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward
+|Note|Dur:Half|Pos:5|Opts:Stem=Up
+|Chord|Dur:Half|Pos:3,6
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward|Dur2:Whole|Pos2:3
+|Note|Dur:4th,Slur|Pos:#6|Opts:Stem=Up,Slur=Downward
+|Note|Dur:Half|Pos:7|Opts:Stem=Up
+|Chord|Dur:Half|Pos:3,8
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,7
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:3,6
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:3,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:0,7
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,Slur=Downward|Dur2:Whole|Pos2:3
+|Note|Dur:4th,Slur|Pos:#6|Opts:Stem=Up,Slur=Downward
+|Note|Dur:Half|Pos:7|Opts:Stem=Up
+|Chord|Dur:Half|Pos:3,8
+|Bar
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:Half|Pos:2,7
+|Chord|Dur:Half|Pos:3,7
+|Spacer|Width:175
+|Bar
+|Chord|Dur:Whole|Pos:0,7
+|Chord|Dur:Half|Pos:0|Opts:Stem=Down|Dur2:Half|Pos2:0
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:Half,Slur|Pos:1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:4,7
+|Chord|Dur:4th|Pos:4,8
+|Bar
+|Chord|Dur:Whole|Pos:0,7
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:2,7
+|Bar
+|Chord|Dur:Half|Pos:3,6
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:Half,Slur|Pos:1,3|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Chord|Dur:Half|Pos:-3,4
+|Chord|Dur:Half|Pos:0,7
+|Bar
+|Chord|Dur:Half|Pos:0,6
+|Chord|Dur:Half|Pos:3,5
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

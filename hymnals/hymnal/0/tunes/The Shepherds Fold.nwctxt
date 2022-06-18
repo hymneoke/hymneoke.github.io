@@ -1,0 +1,233 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Shepherd’s Fold"|Author:"I. T. Davis"|Lyricist:"John Michael Bowman, 1904"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Best Gospel Songs and Their Composers, by Anthony J. Showalter (Dalton, Georgia: A. J. Showalter, 1904), # 175."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Far, far a-way from_the Shep-herd’s care,\nOut on the moun-tains cold and bare,\nThere one had strayed from_the shel-tering fold,\nAnd wan-dered far from_the gates of gold.\n\nThere ma-ny lay in the Shep-herd’s fold,\nWhile one was far from the gates of gold;\nOut on the des-ert, through sin’s dark night,\nWan-dered a-far till the morn-ing light.\n"
+|Lyric2|Text:"2._The Shep-herd said, “Though_the way is steep,\nI go to res-cue My lost sheep”;\nOut on the des-ert far a-way,\nHe hast-ens while ’tis yet to-day.\n\nThere ma-ny lay in the Shep-herd’s fold,\nWhile one was far from the gates of gold;\nOut on the des-ert, through sin’s dark night,\nWan-dered a-far till the morn-ing light.\n"
+|Lyric3|Text:"3._The Shep-herd found the lamb once lost,\nThat o’er the bar-ren hills had crossed;\nHe took it in His ten-der arms,\nAnd shel-tered it from des-ert storms.\n\nThere ma-ny lay in the Shep-herd’s fold,\nWhile one was far from the gates of gold;\nOut on the des-ert, through sin’s dark night,\nWan-dered a-far till the morn-ing light.\n"
+|Lyric4|Text:"4._A sin-ner out in_the des-ert cold,\nWas wan-dering far from_the Shep-herd’s fold;\nThrough chill-ing winds of sin’s long night,\nRe-deemed at last by Gos-pel light.\n\nThere ma-ny lay in the Shep-herd’s fold,\nWhile one was far from the gates of gold;\nOut on the des-ert, through sin’s dark night,\nWan-dered a-far till the morn-ing light.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:88|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Spacer|Width:250
+|Bar
+|Note|Dur:4th,Dotted|Pos:1
+|Note|Dur:16th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Spacer|Width:400
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:-1
+|Bar
+|Note|Dur:4th,Dotted|Pos:-2
+|Note|Dur:16th,Slur|Pos:0|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:0|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:#-2
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-2
+|Spacer|Width:175
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:16th,Slur|Pos:1|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:-1
+|Spacer|Width:350
+|Bar
+|Note|Dur:4th,Dotted|Pos:2
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:-3
+|Spacer|Width:350
+|Bar
+|Note|Dur:8th|Pos:0
+|Note|Dur:16th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Note|Dur:4th,Dotted|Pos:-1
+|Note|Dur:8th|Pos:-2
+|Bar
+|Note|Dur:4th,Dotted|Pos:-3
+|Spacer|Width:400
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:15
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-3,0
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:#-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2|Opts:Stem=Up|Dur2:16th|Pos2:-2
+|Chord|Dur:16th|Pos:-2|Opts:Stem=Up|Dur2:16th|Pos2:-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,n0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:16th|Pos:-3|Opts:Stem=Up|Dur2:16th|Pos2:-3
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"The Shepherd’s Fold"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:24|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2,4
+|Note|Dur:16th,Slur|Pos:6|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:6|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:4|Opts:Stem=Up|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:5|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2,6
+|Note|Dur:8th|Pos:6
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:8th|Pos:2,6
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-8,-1,5
+|Note|Dur:16th,Slur|Pos:7|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:7|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:6|Opts:Stem=Up|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:n5|Opts:Stem=Up
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2,6
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2,6
+|Chord|Dur:16th,Slur|Pos:4|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-3
+|Note|Dur:16th|Pos:4|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:3|Opts:Stem=Up|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Note|Dur:8th|Pos:5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:b1,4
+|Bar
+|Chord|Dur:8th|Pos:-2,0,2,7
+|Note|Dur:16th,Slur|Pos:6|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:6|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,2,4
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:8th|Pos:4,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:1,8
+|Chord|Dur:16th|Pos:1,8
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:0,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,3
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:n-2,#3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,7
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

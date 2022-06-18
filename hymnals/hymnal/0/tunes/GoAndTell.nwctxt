@@ -1,0 +1,261 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:77|CaretPos:-2
+|SongInfo|Title:"Go and Tell"|Author:"Arranged by Clarence R. Kohlmann"|Lyricist:"Charles Austin Miles, 1916"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The New Cokesbury Hymnal (Nashville, Tennessee: The Cokesbury Press, 1928), # 209."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Treble Clef"|Label:"Treble Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Go and tell un-to all the Gos-pel sto-ry,\nThey wait for the light of His Word;\nThey wait for the Mes-sen-ger of glo-ry,\nOf whom they as yet have not heard.\n\n_ _ _ _ _ _ _\nThe sto-ry of re-demp-tion ev-er new?\nO who will bring them to the fold?\nThe Lord is wait-ing for you.\n"
+|Lyric2|Text:"2._Tar-ry not, for the day-light hours are fleet-ing,\nThey shades of the night ga-ther fast;\nTo-day in-to yes-ter-day re-treat-ing,\nBut warns thee that time can-not last.\n\n_ _ _ _ _ _ _\nThe sto-ry of re-demp-tion ev-er new?\nO who will bring them to the fold?\nThe Lord is wait-ing for you.\n"
+|Lyric3|Text:"3._There is One who is stand-ing, wait-ing, plead-ing,\nHe points to His hands and His side;\nHis wounds for the world are in-ter-ced-ing,\nGo save them for whom He has died.\n\n_ _ _ _ _ _ _\nThe sto-ry of re-demp-tion ev-er new?\nO who will bring them to the fold?\nThe Lord is wait-ing for you.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#,G#|Tonic:A
+|Tempo|Tempo:105|Pos:13|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:#-4,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-8,-6
+|Chord|Dur:4th|Pos:-6,-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,#-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-4
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:#-4,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:Half|Pos:-8,-6
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:#-5,-3
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th|Pos:n-5,-2
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Spacer|Width:325
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:22
+|Rest|Dur:4th
+|Spacer|Width:500
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-8,-5,-3|Opts:Stem=Up
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-5,-3,-1|Opts:Stem=Up
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-3,-1,2|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-3,-1,2|Opts:Stem=Down,Beam=End
+|Rest|Dur:8th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-8,-6,-4|Opts:Stem=Down
+|Rest|Dur:8th|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-6,-4,-1|Opts:Stem=Down
+|Rest|Dur:8th|Opts:Stem=Down
+|Chord|Dur:8th,Slur|Pos:-4,-1,1|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-4,-1,1|Opts:Stem=Down,Beam=End
+|Text|Text:"Soprano and Alto"|Font:StaffItalic|Pos:9|Justify:Right
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Down
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,2
+|Chord|Dur:8th|Pos:-4,2
+|Bar
+|Chord|Dur:Half,Slur|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-1|Opts:Stem=Down
+|Text|Text:"All Unison"|Font:StaffItalic|Pos:9|Justify:Center
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-4
+|Chord|Dur:8th|Pos:-8,-6|Opts:Stem=Up
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-3
+|Chord|Dur:8th|Pos:-8,-5|Opts:Stem=Up
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th|Pos2:-1
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Dotted,Slur|Pos2:2
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-8,-5,-3|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-4
+|Chord|Dur:8th|Pos:-8,-6|Opts:Stem=Up
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Slur|Pos2:-1
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|RestChord|Dur:8th,Slur|Opts:Stem=Down,ArticulationsOnStem,HideRest|Dur2:4th,Dotted,Slur|Pos2:1
+|Chord|Dur:8th,Slur|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up
+|Text|Text:"Parts"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Go and Tell"|Label:"Go and Tell"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-7
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nO who will tell the sto-ry old,\n\n_ _ _ _ _ _ _ _\nThe sto-ry of re-demp-tion ev-er new?\nO who will bring them to the fold?\nThe Lord is wait-ing for you.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,x3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,4
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,4|Opts:Stem=Down
+|Bar|Style:Double
+|Text|Text:"Male Voices"|Font:StaffItalic|Pos:9|Justify:Right
+|Boundary|Style:NewSize|Upper:6
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th,Dotted|Pos:7
+|Note|Dur:8th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th,Dotted|Pos:6
+|Rest|Dur:8th
+|Bar
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:1
+|Bar
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:1
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th,Dotted|Pos:7
+|Note|Dur:8th|Pos:2
+|Bar
+|Note|Dur:4th|Pos:1
+|Note|Dur:4th|Pos:4
+|Note|Dur:4th,Dotted|Pos:6
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:8th,Slur|Pos:4|Opts:Stem=Up,Slur=Downward,Beam=First,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Slur=Downward,Beam=End
+|Note|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Slur=Downward,Beam=First
+|Note|Dur:8th,Slur|Pos:2|Opts:Stem=Up,Slur=Downward,Beam=End
+|Note|Dur:4th|Pos:1
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

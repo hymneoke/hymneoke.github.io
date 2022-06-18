@@ -1,0 +1,193 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Montego Bay, 87.87 D"|Author:"Harry Sanders, 1895"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Many Little Voices, by Asa Hull (New York: Asa Hull, 1900), # 4."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._The lit-tle ones, tho’ ver-y young,\nMay learn the sto-ry pre-cious;\nAnd ev-er-more may stand a-mong\nThe friends who wor-ship Je-sus.\n\nThen, lit-tle girls and lit-tle boys,\nCome in for lov-ing greet-ing;\nO come and share our Sab-bath joys,\nThe Bi-ble truths re-peat-ing.\n"
+|Lyric2|Text:"2._The lit-tle ones may sun-shine bring\nTo man-y hearts a-wea-ry;\nLike lit-tle birds up-on the wing\nLight up the path-ways drear-y.\n\nThen, lit-tle girls and lit-tle boys,\nCome in for lov-ing greet-ing;\nO come and share our Sab-bath joys,\nThe Bi-ble truths re-peat-ing.\n"
+|Lyric3|Text:"3._The lit-tle ones may please the Lord\nBy us-ing best en-deav-or,\nTo win their mates by deed and word\nTo love and serve Him ev-er.\n\nThen, lit-tle girls and lit-tle boys,\nCome in for lov-ing greet-ing;\nO come and share our Sab-bath joys,\nThe Bi-ble truths re-peat-ing.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:95|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up|Dur2:8th|Pos2:-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Diminuendo
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-6,-3|Opts:Diminuendo
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,Diminuendo|Dur2:4th|Pos2:1
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down|Dur2:8th|Pos2:1
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down|Dur2:4th|Pos2:1
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Diminuendo
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th,Dotted|Pos:-6,-3|Opts:Diminuendo
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Montego Bay, 87.87 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:3/4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Staccato|Pos:-5,2
+|Chord|Dur:4th,Staccato|Pos:-5,2
+|Chord|Dur:4th,Staccato|Pos:-5,2
+|Bar
+|Chord|Dur:8th|Pos:-1,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th,Staccato|Pos:-1,6
+|Chord|Dur:4th,Staccato|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:-3,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|DynamicVariance|Style:Diminuendo|Pos:-12|Visibility:Never
+|Chord|Dur:4th,Dotted|Pos:-1,6|Opts:Diminuendo
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Staccato|Pos:-5,2
+|Chord|Dur:4th,Staccato|Pos:-5,2
+|Chord|Dur:4th,Staccato|Pos:-5,2
+|Bar
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:8th|Pos:-1,5
+|DynamicVariance|Style:Diminuendo|Pos:-8|Visibility:Never
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Diminuendo
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,Diminuendo|Dur2:4th|Pos2:6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Chord|Dur:8th|Pos:6|Opts:Stem=Down|Dur2:8th|Pos2:6
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,Diminuendo|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,7|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:-2,7
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|DynamicVariance|Style:Diminuendo|Pos:-12|Visibility:Never
+|Chord|Dur:4th,Dotted|Pos:-1,6|Opts:Diminuendo
+|Chord|Dur:4th|Pos:-1,2
+|Bar
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:8th|Pos:2,9
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,9
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:8th|Pos:-1,5
+|DynamicVariance|Style:Diminuendo|Pos:-8|Visibility:Never
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Diminuendo
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

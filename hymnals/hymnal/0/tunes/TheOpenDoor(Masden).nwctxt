@@ -1,0 +1,262 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Open Door"|Author:"John Robson Sweney"|Lyricist:"C. P. Masden, 1876"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Gems of Praise, edited by John R. Sweney (Philadelphia, Pennsylvania: Methodist Episcopal Book Room, 1876), p. 135."
+|PgSetup|StaffSize:15.5|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.27|Right:2.54|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._My soul in pri-son lay,\nHeld fast by gall-ing chains,\nShut in from light of day,\nAnd all the Gos-pel claims;\nNo hu-man arm to save,\nWas ma-ni-fest to me;\nNo res-cue from the grave,\nNo hope of li-ber-ty.\n\nJe-sus, the o-pen Door,\nJe-sus the way to Heav’n;\nJe-sus now and ev-er-more;\nTo Him all praise be giv’n.\n"
+|Lyric2|Text:"2._While in this wretch-ed state,\nGod’s mes-sage came to me,\n“It is not yet too late”\nTo seek your li-ber-ty;\nRise up, and knock, and call,\nHis help at once im-plore;\nPros-trate be-fore Him fall:\nHe is the op-en Door.\n\nJe-sus, the o-pen Door,\nJe-sus the way to Heav’n;\nJe-sus now and ev-er-more;\nTo Him all praise be giv’n.\n"
+|Lyric3|Text:"3._I saw the bleed-ing Lamb,\nThe won-ders of the cross,\nI prayed the great “I AM”\nTo seek and save the lost;\nHe par-doned all my sin,\nHe gave me bound-less store;\nYes, Je-sus let me in,\nThe great and o-pen Door.\n\nJe-sus, the o-pen Door,\nJe-sus the way to Heav’n;\nJe-sus now and ev-er-more;\nTo Him all praise be giv’n.\n"
+|Lyric4|Text:"4._With-in that Door I stand\nA child of God and free,\nBound for the glo-ry land\nOf im-mor-tal-i-ty;\nWhat com-fort do I find,\nWhat pros-pects lie be-fore,\nWhat prom-is-es are mine,\nPlea-sures for-ev-er-more.\n\nJe-sus, the o-pen Door,\nJe-sus the way to Heav’n;\nJe-sus now and ev-er-more;\nTo Him all praise be giv’n.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:625
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Boundary|Style:NewSize|Lower:19
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,#-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,1
+|Chord|Dur:8th|Pos:-3,2
+|Marker|Pos:11|Target:Triplet
+|Chord|Dur:8th,Triplet=First,Slur|Pos:-2,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th,Triplet|Pos:-3,2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-4,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-4
+|Boundary|Style:NewSize|Lower:21
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:#-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,#-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-1
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:14
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-6,-1|Opts:StemLength=6.5
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up|Dur2:Half|Pos2:-5
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-6,0
+|Bar
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-4
+|Lyric1|Text:"Je-sus, the o-pen Door,\nJe-sus the way to Heav’n;\nJe-sus now and ev-er-more;\nTo Him all praise be giv’n.\n\nJe-sus, the o-pen Door,\nJe-sus the way to Heav’n;\nJe-sus now and ev-er-more;\nTo Him all praise be giv’n.\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,2|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Spacer|Width:475
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half|Pos:4,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:4
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:4th,Dotted|Pos2:4
+|Chord|Dur:8th|Pos:-3,4|Opts:Lyric=Never
+|Marker|Pos:8|Target:Triplet
+|Chord|Dur:4th,Triplet=First|Pos:-3,4|Opts:Lyric=Never
+|Chord|Dur:8th,Triplet=End|Pos:-3,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half|Pos:0,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Lyric=Never
+|Boundary|Style:NewSize|Upper:17
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:3,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:Half|Pos2:3
+|Chord|Dur:4th|Pos:3,7|Opts:Lyric=Never
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,8|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half|Pos:4,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:4
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half|Pos:4,6|Opts:Lyric=Never
+|Spacer|Width:375
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:11
+|Chord|Dur:4th|Pos:3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,3
+|Bar
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:8th|Pos:n-1,4
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,3
+|Chord|Dur:4th|Pos:#-4,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:Half|Pos:0,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

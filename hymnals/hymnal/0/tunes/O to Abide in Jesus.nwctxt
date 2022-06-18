@@ -1,0 +1,205 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"O to Abide in Jesus"|Author:"William James Kirkpatrick"|Lyricist:"Frances Jane (Franny) Crosby, 1896"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Love and Praise No. 3, edited by John R. Sweney, William J. Kirkpatrick & Henry L. Gilmour (Philadelphia, Pennsylvania: John J. Hood, 1896), # 5."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._O to a-bide in Je-sus,\nO to be His a-lone;\nClose to the fount of bless-ing,\nClose to my Sav-ior’s throne.\nO for an ear-nest long-ing,\nIn-to His life to grow;\nO for a deep-er yearn-ing,\nMore of its joy to know.\n"
+|Lyric2|Text:"2._O to a-bide in Je-sus,\nNe-ver to faint nor fall;\nCling-ing to Him who loves me,\nTrust-ing my all in all.\nO for a heart to praise Him,\nO for a tongue to sing\nGlo-ry to Him who saves me,\nJe-sus my Lord and king.\n"
+|Lyric3|Text:"3._O to be more like Je-sus,\nEar-nest when-e’er I pray;\nIn-to His per-fect like-ness\nGrow-ing from day to day,\nO for a faith to bear me,\nEv-er with tire-less wing,\nHome where the blest are wait-ing,\nHome where the an-gels sing.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/4
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,#-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,n-3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:Half|Pos:-7,-4
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,n-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,b-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4^,-2^
+|Chord|Dur:Half|Pos:-4,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,n-1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th|Pos:-4,1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:Half|Pos:-4,-2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5^,-3^
+|Chord|Dur:Half|Pos:-5,-3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:#-6,n-4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:Half|Pos:-2,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,n0
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2^,0^
+|Chord|Dur:Half|Pos:-2,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:Half|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:#-3,n-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-5,-1
+|Chord|Dur:4th|Pos:-7,-5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7^,-4^
+|Chord|Dur:Half|Pos:-7,-4
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"O to Abide in Jesus"|Label:"O to Abide in Jesus"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:6/4
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,n4
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half|Pos:1,6
+|Chord|Dur:4th|Pos:1,b6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:Half|Pos:1,3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,#2
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:Half|Pos:1,4
+|Chord|Dur:4th|Pos:1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1^,5^
+|Chord|Dur:Half|Pos:1,5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:1,#2
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:Half|Pos:1,5
+|Chord|Dur:4th|Pos:1,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3
+|Chord|Dur:Half|Pos:1,5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half|Pos:0,5
+|Chord|Dur:4th|Pos:1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2^,5^
+|Chord|Dur:Half|Pos:-2,5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5
+|Chord|Dur:Half|Pos:1,8
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,8
+|Chord|Dur:8th|Pos:4,7
+|Chord|Dur:4th|Pos:4,8
+|Bar
+|Chord|Dur:Half|Pos:4,6
+|Chord|Dur:4th|Pos:4,8
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1^,8^
+|Chord|Dur:Half|Pos:1,8
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:Half|Pos:b0,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:-10|Justify:Right|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:b-1,8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,8
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:Half|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1^,3^
+|Chord|Dur:Half|Pos:1,3
+|Rest|Dur:4th
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

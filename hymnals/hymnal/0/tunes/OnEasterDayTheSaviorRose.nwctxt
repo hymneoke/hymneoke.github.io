@@ -1,0 +1,187 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:6|CaretPos:11
+|SongInfo|Title:"On Easter Day the Savior Rose"|Author:"G. A. Schwedes"|Lyricist:"G. A. Schwedes, 1897"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Primary and Junior Hymnal, edited by Rufus W. Miller (Philadelphia, Pennsylvania: Heidelberg Press, 1909), # 55."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:20|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._On Eas-ter day the Sav-ior rose,\nSing a-loud ye child-ren all.\nEv-ery-where the li-ly grows,\nAnd bells to wor-ship call.\n\nHap-py, ho-ly Eas-ter Day,\nChrist is ris’n, the an-gels say,\nBless-ings with us al-way,\nO hap-py Eas-ter Day!\n"
+|Lyric2|Text:"2._The lit-tle flow-ers all a-round\nLift their ti-ny heads a-gain;\nSnows are melt-ed from the ground,\nAnd life decks hill and plain.\n\nHap-py, ho-ly Eas-ter Day,\nChrist is ris’n, the an-gels say,\nBless-ings with us al-way,\nO hap-py Eas-ter Day!\n"
+|Lyric3|Text:"3._The birds their grate-ful songs em-ploy,\nHim they praise, both great and small;\nEv-ery bird and flower and leaf—\nHe giv-eth life to all.\n\nHap-py, ho-ly Eas-ter Day,\nChrist is ris’n, the an-gels say,\nBless-ings with us al-way,\nO hap-py Eas-ter Day!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:98|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-7,-5
+|Bar
+|Text|Text:"Maestoso. Joyfully."|Font:StaffItalic|Pos:11
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-7,-5,-2
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:4th,Dotted|Pos:-7,-5
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th|Pos:-7,-5,-2
+|Chord|Dur:8th|Pos:-5,-3,-1
+|Chord|Dur:4th,Dotted|Pos:-5,-2,0
+|Spacer|Width:350
+|Bar
+|DynamicVariance|Style:Crescendo|Pos:11
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:4th|Pos:-6,-4|Opts:Diminuendo
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-7,-5,-2
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6,-4
+|Dynamic|Style:f|Opts:Velocity=0|Pos:9
+|Chord|Dur:8th|Pos:-2,3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-2,0,2
+|Chord|Dur:8th|Pos:-4,-2,1|Opts:Stem=Down,Diminuendo
+|Chord|Dur:4th|Pos:-5,-2,0
+|Chord|Dur:8th|Pos:-6,-3,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7^,-5^,-2^
+|Chord|Dur:4th|Pos:-7,-5,-2
+|Rest|Dur:8th
+|Spacer|Width:75
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:13
+|Chord|Dur:4th|Pos:-2,0,2
+|Chord|Dur:8th|Pos:-2,0,2
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Spacer|Width:225
+|Bar
+|Text|Text:"accel cres."|Font:StaffItalic|Pos:10
+|Chord|Dur:4th|Pos:-7,-5,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:-5,-3,-1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Text|Text:"Largo"|Font:StaffItalic|Pos:9|Justify:Right
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-4,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,#1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-5,-3,-1,2|Opts:Stem=Down
+|Spacer|Width:200
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-5,-3,-1,1|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"On Easter Day"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:2
+|Lyric1|Text:"\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Rest|Dur:8th
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Chord|Dur:4th|Pos:0,3,6
+|Chord|Dur:8th|Pos:0,4
+|Spacer|Width:275
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3^
+|Chord|Dur:4th|Pos:-1,3
+|Note|Dur:8th|Pos:-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,5^
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th|Pos:-7,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,0^,3^
+|Chord|Dur:4th|Pos:-4,0,3|Opts:Stem=Up
+|Rest|Dur:8th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:4th,Dotted|Pos:7|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4,7
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3
+|Chord|Dur:4th,Dotted|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3
+|Chord|Dur:4th,Dotted|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:#-1|Opts:Stem=Up|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up
+|Note|Dur:4th|Pos:1|Opts:Stem=Up
+|Note|Dur:8th|Pos:1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:0,2,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:8.5|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-7,0
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

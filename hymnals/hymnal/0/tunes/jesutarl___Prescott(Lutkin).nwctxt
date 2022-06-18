@@ -1,0 +1,114 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:2|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Prescott (Lutkin), CM"|Author:"Peter Christian Lutkin (1858-1931)"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Je-su, Thou all re-deem-ing Lord,\nThy bless-ing we im-plore;\nO-pen the door to preach Thy Word,\nThe great, ef-fec-tual door.\n"
+|Lyric2|Text:"2._Gath-er the out-casts in, and save\nFrom sin, and Sa-tan’s power;\nAnd let them now ac-cept-ance have,\nAnd know their gra-cious hour.\n"
+|Lyric3|Text:"3._O that to these poor Gen-tiles now\nThe door were o-pened wide,\nO that their stiff-necked souls might bow\nTo Je-sus cru-ci-fied!\n"
+|Lyric4|Text:"4._Lov-er of souls, Thou knowest to prize\nWhat Thou hast bought so dear:\nCome then, and in Thy peo-ple’s eyes\nWith all Thy wounds ap-pear.\n"
+|Lyric5|Text:"5._Ap-pear, as when of old con-fessed\nThe suf-fering Son of God,\nAnd let them see Thee in Thy vest:\nBut new-ly dipped in blood.\n"
+|Lyric6|Text:"6._The hard-ness of their hearts re-move,\nThou who for all hast died;\nShow them the to-kens of Thy love,\nThy feet, Thy hands, Thy side.\n"
+|Lyric7|Text:"7._Thy feet were nailed to yon-der tree\nTo tram-ple down their sin;\nThy hands they all stretched out may see,\nTo take the mur-derers in.\n"
+|Lyric8|Text:"8._Thy side an o-pen foun-tain is,\nWhere all may free-ly go,\nAnd drink the liv-ing streams of bliss,\nAnd wash them white as snow.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:n-7,-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-2
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:Whole|Pos:-6,-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:4th|Pos:#-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:#-3,-1
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-4
+|Bar
+|Chord|Dur:Whole|Pos:-8,-3
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Prescott (Lutkin), CM"|Label:"Prescott (Lutkin), CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,7
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,n5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:4th|Pos:2,5
+|Chord|Dur:4th|Pos:2,3
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:Whole|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:#2,6
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:3,5
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:4,6
+|Chord|Dur:8th|Pos:5,7
+|Chord|Dur:4th|Pos:5,7
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:-1,4
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,3
+|Bar
+|Chord|Dur:Whole|Pos:-5,2
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

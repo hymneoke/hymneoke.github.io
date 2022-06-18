@@ -1,0 +1,46 @@
+plugins {
+    id 'java'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+version 'unspecified'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile fileTree(dir: 'lib', include: '*.jar')
+
+    implementation 'org.jsoup:jsoup:1.13.1'
+    compileOnly 'org.projectlombok:lombok:1.18.20'
+    annotationProcessor 'org.projectlombok:lombok:1.18.20'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.3'
+    implementation 'commons-io:commons-io:2.10.0'
+
+    testCompileOnly 'org.projectlombok:lombok:1.18.20'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.20'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.2'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher:1.7.2'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.2'
+    testImplementation 'org.mockito:mockito-core:3.11.1'
+    testImplementation 'org.mockito:mockito-junit-jupiter:3.11.1'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+apply plugin: 'java'
+
+task generateHymnals(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'com.solafide.service.HymnalService'
+    args projectDir
+}
+
+build.dependsOn generateHymnals

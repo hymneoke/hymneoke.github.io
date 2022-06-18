@@ -1,0 +1,196 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:33|SelectIndex:34|CaretPos:0
+|SongInfo|Title:"Bovina, CMD"|Author:"Laura A. Tate, 1904"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Psalter (Pittsburgh, Pennsylvania: United Presbyterian board of Publication, 1912), # 51. Also in The Psalter Hymnal (Grand Rapids, Michigan: Board of Publications of the Christian Reformed Church, 1976), # 37."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._A-mid the throng-ing wor-shipp-ers\nJe-ho-vah will I bless,\nBe-fore my breth-ren, gath-ered there,\nHis name I will con-fess.\nCome, praise Him, ye that fear the Lord,\nYe chil-dren of His grace,\nWith rev-erence sound His glo-ries forth\nAnd bow be-fore His face.\n"
+|Lyric2|Text:"2._The bur-den of the sor-row-ful\nThe Lord will not de-spise;\nHe has not turned from those that mourn,\nHe heark-ens to their cries.\nHis good-ness makes me join the throng\nWhere saints His praise pro-claim,\nAnd there will I ful-fill my vows\n’Mid those who fear His name.\n"
+|Lyric3|Text:"3._He feeds with good the hum-ble soul\nAnd sat-is-fies the meek,\nAnd they shall live and praise the Lord\nWho for His mer-cy seek.\nThe ends of all the earth take thought,\nThe na-tions seek the Lord;\nThey wor-ship Him, the King of kings,\nIn earth and Heav’n a-dored.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:115|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-6
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-6
+|Chord|Dur:4th|Pos:-7,-5|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,-4|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-5|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-9,-7|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-6
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-6
+|Chord|Dur:4th|Pos:-7,-5|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,-4|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-7
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:8th|Pos:-3,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-5,-3|Opts:Stem=Up,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up,Beam=End,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-7,-5|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-1|Opts:Tie=Upward
+|Chord|Dur:8th|Pos:-4,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-6,#-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-2|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-3
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End,Tie=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:1
+|Note|Dur:8th|Pos:-1|Opts:Stem=Down,Beam=End,Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-2,0|Opts:Stem=Up,Beam=First,Tie=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=End,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:8th|Pos:-3,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1|Opts:Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Bovina, CMD"|Label:"Bovina, CMD"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-1,1|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,1|Opts:Tie=Downward
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:8th|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,1|Opts:Tie=Downward
+|Chord|Dur:8th,Slur|Pos:3|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam=End,Tie=Downward
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:4,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:6|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:6
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-4,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-2,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:8th|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-4,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:8th,Slur|Pos:5|Opts:Stem=Up,Beam=First,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:4|Opts:Stem=Up,Beam=End,Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Tie=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,3|Opts:Stem=Up,Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

@@ -1,0 +1,255 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Jesus Is Mighty to Save"|Author:"Lelia Naylor Morris"|Lyricist:"Lelia Naylor Morris, 1899"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Songs of Praise and Salvation, edited by George A. McLaughlin, Charles J. Fowler, William J. Kirkpatrick & Henry L. Gilmour (Chicago, Illinois & Boston, Massachusetts: Christian Witness Company, 1902), # 12."
+|PgSetup|StaffSize:15.5|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:1.27|Right:2.54|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._When the tem-pests rage and the storms beat high,\nThere is re-fuge near, and a shel-ter nigh;\nHe who calmed the winds and the roll-ing wave\nIs Je-ho-vah still, and is strong to save.\n\nMigh-ty to save and strong to de-liv-er,\nJe-sus is migh-ty to save;\nMigh-ty to save and strong to de-liv-er,\nJe-sus is migh-ty to save.\n"
+|Lyric2|Text:"2._Not a cloud so dark, but His love shines thro’,\nNot a shade so deep but His face we view;\nFor His arm is strong, and His heart is kind,\nAll who in Him trust shall a Sav-ior find.\n\nMigh-ty to save and strong to de-liv-er,\nJe-sus is migh-ty to save;\nMigh-ty to save and strong to de-liv-er,\nJe-sus is migh-ty to save.\n"
+|Lyric3|Text:"3._Not a tear-drop falls but the Sav-ior knows,\nAnd His great heart throbs with our bit-ter woes;\nFor He knows our flesh and our fee-ble frame,\nEv-ery pang we feel, He has known the same.\n\nMigh-ty to save and strong to de-liv-er,\nJe-sus is migh-ty to save;\nMigh-ty to save and strong to de-liv-er,\nJe-sus is migh-ty to save.\n"
+|Lyric4|Text:"4._Ne-ver yet in vain has a sin-ner cried,\nNe-ver yet in vain was the blood ap-plied;\nWho-so-ev-er will may in Him be blest,\nWho-so-ev-er will find a per-fect rest.\n\nMigh-ty to save and strong to de-liv-er,\nJe-sus is migh-ty to save;\nMigh-ty to save and strong to de-liv-er,\nJe-sus is migh-ty to save.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:102|Pos:11|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,0
+|Bar
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:16th|Pos:-3,-1
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-1,0
+|Chord|Dur:4th|Pos:0|Opts:Stem=Down|Dur2:4th|Pos2:0
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:0,1
+|Chord|Dur:16th|Pos:0,1
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:n-1,1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-1
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th|Pos2:n-1
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:Half|Pos:-5,0
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:15
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,0|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,0
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-5
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:-4|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-4
+|Boundary|Style:NewSize|Lower:13
+|Bar
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-1,0
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,0
+|Bar
+|Chord|Dur:4th|Pos:-1,0
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-1,2
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Bar
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:4th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Boundary|Style:NewSize|Lower:19
+|Chord|Dur:8th,Slur|Pos:-7|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:Half|Pos2:-4
+|Note|Dur:8th,Slur|Pos:-7|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-7|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-1
+|Lyric1|Text:"Migh-ty to save and strong to de-liv-er,\nJe-sus is migh-ty, yes, migh-ty to save;\nHe is\nJe-sus is migh-ty, yes, migh-ty to save.\n\nMigh-ty to save and strong to de-liv-er,\nJe-sus is migh-ty to save;\nMigh-ty to save and strong to de-liv-er,\nJe-sus is migh-ty to save.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:1,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,8|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:4,8|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:1,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:-2,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:1,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,8|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:4,8|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:4,8|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:3,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:4,8|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:3,n8|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,8|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,9|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,9|Opts:Lyric=Never
+|Boundary|Style:NewSize|Upper:18
+|Chord|Dur:8th,Slur|Pos:8|Opts:Stem=Up,Slur=Downward,Lyric=Never,Beam=First|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:6|Opts:Stem=Up,Lyric=Never,Beam=End
+|Boundary|Style:NewSize|Upper:16
+|Chord|Dur:8th|Pos:2,9|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,8|Opts:Lyric=Never
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th|Pos:2,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:-2,5|Opts:Lyric=Never
+|Spacer|Width:375
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th,Dotted|Pos:-2,7
+|Chord|Dur:16th|Pos:-2,7
+|Chord|Dur:4th,Dotted|Pos:1,8
+|Chord|Dur:8th|Pos:1,5
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:4,6
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:5
+|Note|Dur:8th,Dotted|Pos:5|Opts:Stem=Down
+|Note|Dur:16th|Pos:5|Opts:Stem=Down
+|Note|Dur:8th,Slur|Pos:5|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:3
+|Note|Dur:8th|Pos:2
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:-2,7|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:-2,7|Opts:Lyric=Never
+|Chord|Dur:4th,Dotted|Pos:1,9|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:-2,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:-2,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:4th|Pos:-2,5
+|Bar
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

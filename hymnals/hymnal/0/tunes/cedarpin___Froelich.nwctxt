@@ -1,0 +1,225 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:46|CaretPos:5
+|SongInfo|Title:"Froelich, 98.98 D"|Author:"Gideon Froelich, 1885"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Happy Greetings, by Asa Hull (New York: Asa Hull, 1888), p. 139."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Treble Clef"|Label:"Treble Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._In the tops of the ce-dars and pines,\nA whis-per was heard sweet and low;\nAnd each branch as it hears and in-clines,\nShakes off its fair bur-den of snow.\n“List!” the whis-per says, “Christ-mas is near”;\nThe pines and the ce-dars all know\nThat they’ll aid in the joy and the cheer,\nFor this day they flour-ish and grow.\n"
+|Lyric2|Text:"2._They have heard that their branch-es so green,\nAll lad-ened with sil-ver and gold,\nTo en-liv-en the fair-y-like scene\nTinted can-dles a-bun-dant will hold.\nWhile their fruits far more pre-cious and rare,\nThan sum-mer or au-tumn can bring\nCause the chil-dren, so hap-py and fair,\nTheir prais-es to shout and to sing.\n"
+|Lyric3|Text:"3._Then the whis-per-ing turns to a song,\nAnd catch-ing the wel-com-ing cheer,\nThey, too, for _ the Christ-mas-day long,\nAnd joy to leave for-ests so drear.\nAs the eve of the year nears its close,\nWhen ver-dure and flow-ers seem dead,\nThen the ev-er-green calm in re-pose,\nTo Christ-mas and glad-ness is wed.\n"
+|Clef|Type:Treble|AutoSys:N
+|Key|Signature:F#|Tonic:G
+|Tempo|Tempo:90|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-5
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-4
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,0^
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:16th,Slur|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2^
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:n-3,-2
+|Chord|Dur:16th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,-2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,-1
+|Chord|Dur:16th|Pos:-2,-1
+|Chord|Dur:8th|Pos:-2,-1
+|Chord|Dur:8th|Pos:-2,-1
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,2^
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-5
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:-5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-2
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-4,-1
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:8th|Pos:-5,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,-1
+|Chord|Dur:8th|Pos:-5,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2^
+|Chord|Dur:4th|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Froelich, 98.98 D"|Label:"Froelich, 98.98 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-1^,6
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:16th|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:3
+|Chord|Dur:16th|Pos:3,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,3^
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:16th,Slur|Pos:-1,3|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-1,3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^,5^
+|Chord|Dur:4th|Pos:-4,3,5
+|Chord|Dur:16th|Pos:3,6
+|Chord|Dur:16th|Pos:3,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1^,3^
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:#-1,4
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,4^
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:3
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:-1^,6
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-1,3
+|Bar
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,2
+|Chord|Dur:8th|Pos:0,3
+|Chord|Dur:8th|Pos:0,6
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^,5^
+|Chord|Dur:4th|Pos:-4,3,5
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

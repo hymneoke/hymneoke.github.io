@@ -1,0 +1,135 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:49|SelectIndex:50|CaretPos:-2
+|SongInfo|Title:"Angel’s Song (Pilgrimage), 87.87"|Author:"Possibly by Horace Lorenzo Hastings, 1861"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Song of Pilgrimage, edited by Horace Lorenzo Hastings (Boston, Massachusetts: Scriptural Tract Repository, 1888), p. 280."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._As the world a-round was sleep-ing,\nIn the calm and si-lent night;\nWhile the shep-herds watch were keep-ing\nCame an an-gel robed in light.\n"
+|Lyric2|Text:"2._Gaz-ing on his match-less splen-dor,\nThey were trou-bled and dis-mayed;\nBut in ac-cents kind and ten-der,\nSoon He said, “Be not a-fraid.”\n"
+|Lyric3|Text:"3._“Lo! to you I bring good tid-ings,\nWords of peace to all your race;\nFor in Beth-le-hem a-bid-ing\nNow is born the Prince of Grace.”\n"
+|Lyric4|Text:"4._“Would you know the roy-al Stran-ger?\nBy this sign you may be sure:\nYe shall find Him in a man-ger,\nWrapped in swad-dling gar-ments poor.”\n"
+|Lyric5|Text:"5._Hark! Heaven’s hosts take up the sto-ry,\nPrais-ing God o’er Beth-lehem’s plain;\n“Glo-ry in the high-est, glo-ry;\nPeace on earth, good will to men.”\n"
+|Lyric6|Text:"6._We would join the rap-turous sto-ry,\nSwell the an-gels’ loft-y strain,\nGlo-ry in the high-est, glo-ry;\nWor-thy is the Lamb once slain.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:102|Pos:11|Justify:Center
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-6|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-6
+|Chord|Dur:16th,Slur|Pos:-6|Opts:Stem=Up,Beam=First|Dur2:16th|Pos2:-6
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Up,Beam=End|Dur2:16th|Pos2:-4
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:16th,Slur|Pos:-4,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,2|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:16th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-3
+|Note|Dur:16th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-2
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-7,-5
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:16th,Slur|Pos:-4,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,2|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:16th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-2
+|Note|Dur:16th|Pos:3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:16th,Slur|Pos:2|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-3
+|Note|Dur:16th|Pos:1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:16th,Slur|Pos:-4,1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-2,2|Opts:Stem=Up,Beam=End
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:5.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|TempoVariance|Style:Fermata|Pause:0|Pos:10|Placement:AtNextNote
+|Chord|Dur:16th,Slur|Pos:-2|Opts:Stem=Down,Beam=First|Dur2:8th|Pos2:2
+|Note|Dur:16th|Pos:-3|Opts:Stem=Down,Beam=End
+|TempoVariance|Style:Fermata|Pause:0|Pos:5.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Angel’s Song (Pilgrimage)"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|TimeSig|Signature:4/4
+|Chord|Dur:4th,Dotted|Pos:-1,1
+|Chord|Dur:16th,Slur|Pos:1|Opts:Stem=Up,Beam=First|Dur2:8th|Pos2:-1
+|Note|Dur:16th|Pos:3|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:16th,Slur|Pos:4,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:16th,Slur|Pos:4,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:16th,Slur|Pos:1|Opts:Stem=Down,Beam=First|Dur2:8th|Pos2:6
+|Note|Dur:16th|Pos:-1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,5
+|Chord|Dur:8th|Pos:3,6
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th,Dotted|Pos:2,6
+|Chord|Dur:16th,Slur|Pos:4,6|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th,Dotted|Pos:4,6
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:8th|Pos:3,5
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:Half|Pos:-1,6
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

@@ -1,0 +1,226 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"I’m Going There"|Author:"Charles Austin Miles"|Lyricist:"Charles Austin Miles, 1910"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Soul Stirring Songs (Nashville, Tennessee: John T. Benson, circa 1944), # 1."
+|PgSetup|StaffSize:15|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._There is a land of wond-rous beau-ty,\nWhere the “liv-ing wa-ters” flow,\nThe Word of God to all has said it,\nAnd it sure-ly must be so.\n\nAnd I’m go-ing there some day,\nSome day, some day,\nI am go-ing there to stay\nWith Je-sus.\n"
+|Lyric2|Text:"2._No tears are there, no blight-ing sor-row,\nFrom the cru-el hand of death;\nNo flow-ers fade, no sum-mers per-ish\nBy the win-ter’s chill-ing breath.\n\nAnd I’m go-ing there some day,\nSome day, some day,\nI am go-ing there to stay\nWith Je-sus.\n"
+|Lyric3|Text:"3._There ran-somed souls will give me wel-come\nWith a “Hal-le-lu-jah” shout!\nAnd I shall en-ter in that ci-ty,\nNev-er, nev-er to go out.\n\nAnd I’m go-ing there some day,\nSome day, some day,\nI am go-ing there to stay\nWith Je-sus.\n"
+|Lyric4|Text:"4._I’ve loved ones there who passed be-fore me,\nThey’ll re-joice to see me come,\nBut best of all, I’ll see my Sav-ior,\nWho will bid me “Wel-come home.”\n\nAnd I’m go-ing there some day,\nSome day, some day,\nI am go-ing there to stay\nWith Je-sus.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:113|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Spacer|Width:600
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-4,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-2,1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,n0|Opts:Slur=Upward
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,1|Opts:Slur=Upward
+|Spacer|Width:450
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Down,Slur=Upward
+|Spacer|Width:200
+|Bar
+|Chord|Dur:8th|Pos:-4,-1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:Half|Pos2:-2
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Slur=Upward,Beam=End
+|Spacer|Width:150
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th,Slur|Pos:-3|Opts:Stem=Up,Slur=Upward,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up,Slur=Upward,Beam=End
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=First
+|Note|Dur:8th,Slur|Pos:-6|Opts:Stem=Down,Slur=Upward,Beam=End
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:0,2|Opts:Slur=Upward
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Slur|Pos:-2|Opts:Stem=Down
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Bar
+|Chord|Dur:8th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:8th,Slur|Pos:-3,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Slur=Upward
+|Spacer|Width:400
+|Bar
+|Chord|Dur:Half,Slur|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3|Opts:Slur=Upward
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"I’m Going There"|Label:"I’m Going There"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _\ngo-ing there _ some day,\n_ _\ngo-ing there, _ _ some day,\n_ _ _ _ _ _ _\nsome day\n\nAnd I’m go-ing there some day,\nSome day, some day,\nI am go-ing there to stay\nWith Je-sus.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th|Pos:3,6|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:3,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,8|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:3,7|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6|Opts:Slur=Downward
+|Boundary|Style:NewSize|Upper:1
+|Bar|Style:Double
+|Chord|Dur:8th|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-1,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-1,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-1,5|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-1,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Boundary|Style:NewSize|Upper:8
+|Chord|Dur:8th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:-1,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Slur|Pos:6|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:2
+|Note|Dur:8th|Pos:9|Opts:Stem=Up,Slur=Downward,Beam=End
+|Chord|Dur:4th|Pos:2,9|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,9|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,7|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-1
+|Note|Dur:Half|Pos:5|Opts:Stem=Up,Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

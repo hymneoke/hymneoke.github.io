@@ -1,0 +1,250 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"How Beautiful Heaven Must Be"|Author:"Andy Pickens Bland"|Lyricist:"Cordelia J. Whiteside Bridgewater, 1920"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sacred Selections for the Church, 6th Edition, by Ellis J. Crumm (Kendallville, Indiana: Sacred Selections, 1960), # 357."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._We read of a place that’s called Hea-ven,\nIt’s made for the pure and the free;\nThese truths in God’s word He has giv-en,\nHow beau-ti-ful Hea-ven must be.\n\nHow beau-ti-ful Hea-ven must be,\nSweet home of the hap-py and free;\nFair ha-ven of rest for the wea-ry,\nHow beau-ti-ful Hea-ven must be.\n"
+|Lyric2|Text:"2._In Hea-ven, no droop-ing nor pin-ing,\nNo wish-ing for else-where to be;\nGod’s light is for-ev-er there shin-ing,\nHow beau-ti-ful Hea-ven must be.\n\nHow beau-ti-ful Hea-ven must be,\nSweet home of the hap-py and free;\nFair ha-ven of rest for the wea-ry,\nHow beau-ti-ful Hea-ven must be.\n"
+|Lyric3|Text:"3._Pure wa-ters of life there are flow-ing,\nAnd all who will drink may be free;\nRare jew-els of splen-dor are glow-ing,\nHow beau-ti-ful Hea-ven must be.\n\nHow beau-ti-ful Hea-ven must be,\nSweet home of the hap-py and free;\nFair ha-ven of rest for the wea-ry,\nHow beau-ti-ful Hea-ven must be.\n"
+|Lyric4|Text:"4._The an-gels so sweet-ly are sing-ing,\nUp there by the beau-ti-ful sea;\nThe song of re-demp-tion is ring-ing,\nHow beau-ti-ful Hea-ven must be.\n\nHow beau-ti-ful Hea-ven must be,\nSweet home of the hap-py and free;\nFair ha-ven of rest for the wea-ry,\nHow beau-ti-ful Hea-ven must be.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:90|Pos:11|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-2,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,-1^
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:425
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-7,-2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,0
+|Chord|Dur:8th|Pos:#-5,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:n-5,0
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2^
+|Chord|Dur:4th|Pos:-5,-2
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:17
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-7,-5
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-5,-2
+|Chord|Dur:16th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,Slur=Upward|Dur2:4th,Dotted|Pos2:-2^
+|Note|Dur:8th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,-1^
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-2,0
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-7,-2
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5,0
+|Chord|Dur:8th|Pos:#-5,-1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6.5|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:n-5,0
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Up|Dur2:8th|Pos2:-2
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-5,-1
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5^,-2^
+|Chord|Dur:4th|Pos:-5,-2
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Bass"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:21|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-2
+|Lyric1|Text:"must be,\n\nHow beau-ti-ful Hea-ven must be,\nSweet home of the hap-py and free;\nFair ha-ven of rest for the wea-ry,\nHow beau-ti-ful Hea-ven must be.\n"
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Spacer|Width:500
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,7^|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:4th|Pos2:3
+|Chord|Dur:8th|Pos:2,4|Opts:Lyric=Never
+|TempoVariance|Style:Fermata|Pause:0|Pos:7.5|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:0,6|Opts:Lyric=Never
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3^,5^|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Never
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down,Lyric=Never|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:16th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,7|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:3,5|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:2,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Up,Lyric=Never|Dur2:4th,Dotted|Pos2:3^
+|Note|Dur:8th|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:3,5|Opts:Lyric=Always
+|Boundary|Style:NewSize|Upper:9
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0^,7^
+|Chord|Dur:4th|Pos:0,7
+|Chord|Dur:8th|Pos:3,7
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down|Dur2:4th|Pos2:3
+|Chord|Dur:8th|Pos:2,4
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th|Pos:3|Opts:Stem=Down|Dur2:8th|Pos2:3
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:3,7
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th|Pos:0,7
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th|Pos:0,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,3^,5^
+|Chord|Dur:4th|Pos:-4,3,5
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

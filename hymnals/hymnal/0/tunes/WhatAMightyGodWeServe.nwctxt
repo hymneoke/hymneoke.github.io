@@ -1,0 +1,224 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"What a Mighty God We Serve!"|Author:"Barney Elliott Warren"|Lyricist:"Clara McAlister Brooks,1907"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Worship the Lord (Anderson, Indiana: Warner Press, 1989), # 46."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Our Fa-ther’s won-drous works we see\nIn the earth and sea and sky;\nHe rules o’er all in maj-es-ty,\nFrom His roy-al throne on high.\n\nWhat a might-y God we serve!\nWhat a might-y God we serve!\nReign-ing now a-bove on His throne of love,\nWhat a might-y God we serve!\n"
+|Lyric2|Text:"2._The rag-ing winds and waves are calm,\nWhen He says to them, “Be still”;\nThe heav-ens praise Him in a psalm,\nAnd the an-gels do His will.\n\nWhat a might-y God we serve!\nWhat a might-y God we serve!\nReign-ing now a-bove on His throne of love,\nWhat a might-y God we serve!\n"
+|Lyric3|Text:"3._He mak-eth worlds by His com-mand,\nWeighs the moun-tains great and high;\nCre-ates the wa-ters in His hand,\nSpans the loft-y, star-lit sky.\n\nWhat a might-y God we serve!\nWhat a might-y God we serve!\nReign-ing now a-bove on His throne of love,\nWhat a might-y God we serve!\n"
+|Lyric4|Text:"4._Our God, to save from sin’s con-trol,\nGave His Son a sac-ri-fice;\nHis grace, a-bound-ing in the soul,\nMakes the earth a par-a-dise.\n\nWhat a might-y God we serve!\nWhat a might-y God we serve!\nReign-ing now a-bove on His throne of love,\nWhat a might-y God we serve!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:107|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:350
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:Half|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Spacer|Width:250
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:Half|Pos:-3,1
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:17
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th,Dotted|Pos:-6,-3
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:8th,Dotted|Pos:-6,-3
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-1
+|Note|Dur:4th,Slur|Pos:-5|Opts:Stem=Down
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,n0
+|Chord|Dur:4th|Pos:-3,0
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down|Dur2:Whole|Pos2:1
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Down
+|Note|Dur:Half|Pos:-2|Opts:Stem=Down
+|Boundary|Style:NewSize|Lower:15
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,1
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-3
+|Chord|Dur:16th|Pos:-6,-3
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-2
+|Chord|Dur:Half|Pos:-3|Opts:Stem=Up|Dur2:Half|Pos2:-3
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:0,2
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-2,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-4,-2
+|Spacer|Width:150
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"What a Mighty God"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-4
+|Lyric1|Text:"What a might-y God we serve!\nWhat a might-y God we serve!\nReign-ing now a-bove on His throne of love,\nWhat a might-y God we serve!\n\nWhat a might-y God we serve!\nWhat a might-y God we serve!\nReign-ing now a-bove on His throne of love,\nWhat a might-y God we serve!\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:2,4|Opts:Lyric=Never
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:16th|Pos:2,5|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:16th|Pos:2,6|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:4th|Pos:4,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,5|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:2,4|Opts:Lyric=Never
+|Chord|Dur:Half|Pos:2,4|Opts:Lyric=Never
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:16th|Pos:2,5|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:16th|Pos:-2,7|Opts:Stem=Down,Lyric=Never
+|Chord|Dur:4th|Pos:-1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-1,5|Opts:Lyric=Never
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2,4|Opts:Lyric=Never
+|Rest|Dur:4th
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,6
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,6
+|Chord|Dur:8th,Dotted|Pos:2,7
+|Chord|Dur:16th|Pos:2,7
+|Chord|Dur:4th|Pos:3,7
+|Chord|Dur:4th|Pos:3,7
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up|Dur2:Whole|Pos2:-1
+|Note|Dur:4th,Slur|Pos:7|Opts:Stem=Up
+|Note|Dur:Half|Pos:8|Opts:Stem=Up
+|Boundary|Style:NewSize|Upper:12
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,9
+|Chord|Dur:16th|Pos:2,9
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4
+|Chord|Dur:16th|Pos:2,4
+|Chord|Dur:8th,Dotted|Pos:-1,6
+|Chord|Dur:16th|Pos:-1,5
+|Chord|Dur:Half|Pos:2,4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,9
+|Chord|Dur:16th|Pos:2,9
+|Chord|Dur:8th,Dotted|Pos:2,9
+|Chord|Dur:16th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2,4
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

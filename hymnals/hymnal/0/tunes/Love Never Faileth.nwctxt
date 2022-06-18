@@ -1,0 +1,195 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:3|SelectIndex:4|CaretPos:0
+|SongInfo|Title:"Love Never Faileth"|Author:"George Bennard"|Lyricist:"George Bennard, 1915"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Voice of Joy, compiled by Timothy Conjurske & Ezra Brainard (Rhinelander, Wisconsin: Conjurske Publications, 2014), # 262."
+|PgSetup|StaffSize:16|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.03|Right:2.54|Bottom:2.03|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Hammond Organ"|Patch:16|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._Love ne-ver fail-eth, love will stand the test,\nLove ne-ver fail-eth, love will give its best;\nLove a-bid-eth ev-er, things of time shall flee.\nBut love will last through all e-ter-ni-ty\n"
+|Lyric2|Text:"2._Love ne-ver fail-eth, won-drous love di-vine,\nLove ne-ver fail-eth, match-less and sub-lime;\nGifts and pow’r shall van-ish, earth shall pass a-way,\nBut love will last through Heav’n’s e-ter-nal day.\n"
+|Lyric3|Text:"3._Love ne-ver fail-eth, love will keep you true,\nLove ne-ver fail-eth, love will see you through.\nLove will bear your bur-dens, make your jour-ney sweet,\nBring you at last with joy your Lord to greet.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|Tempo|Tempo:135|Pos:12|Justify:Right
+|TimeSig|Signature:6/4
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-3
+|Chord|Dur:4th,Slur|Pos:-10,-8,-5|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-10,-8,-5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-10,-5
+|Chord|Dur:4th|Pos:-9,-4
+|Spacer|Width:175
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-3
+|Chord|Dur:4th,Slur|Pos:-10,-8,-5|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-10,-8,-5|Opts:Stem=Down
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-5
+|Chord|Dur:4th,Slur|Pos:-10,-8|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-10,-8|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-7,-2
+|Chord|Dur:4th|Pos:-7,-2
+|Chord|Dur:Half|Pos:-7,-2
+|Chord|Dur:4th|Pos:-7,-2
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-3^
+|Chord|Dur:4th,Slur|Pos:-10,-8,-5|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-10,-8,-5|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-10,-8,-5|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-3
+|Rest|Dur:Half|Opts:Stem=Down
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-3
+|Chord|Dur:4th,Slur|Pos:-10,-8,-5|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-10,-8,-5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-10,-5
+|Chord|Dur:4th|Pos:-9,-4
+|Spacer|Width:175
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-3
+|Chord|Dur:4th,Slur|Pos:-10,-8,-5|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-10,-8,-5|Opts:Stem=Down
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-3
+|Chord|Dur:4th,Slur|Pos:-10,-8,-5|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-10,-8,-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-7,n-2
+|Chord|Dur:4th|Pos:-3,-2
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:4th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Slur|Pos:-6|Opts:Stem=Down|Dur2:Half,Dotted|Pos2:-1^
+|Chord|Dur:4th,Slur|Pos:-5,-4,n-2|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-8,b-2,-1
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Slur|Pos2:-3
+|Chord|Dur:4th,Slur|Pos:-10,-8,-5|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-10,-8,-5,-3|Opts:Lyric=Always
+|Chord|Dur:Half|Pos:-10,-5
+|Chord|Dur:4th|Pos:-9,-4
+|Spacer|Width:275
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-3
+|Chord|Dur:4th,Slur|Pos:-10,-8,-5|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-10,-8,-5|Opts:Stem=Down
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-3
+|Chord|Dur:4th,Slur|Pos:-10,-8,-5|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-10,-8,-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:4th|Pos:b-6,-1
+|Chord|Dur:Half|Pos:-7,-2
+|Chord|Dur:4th|Pos:n-8,-3
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Whole,Dotted|Pos:-7,-2
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-3
+|Chord|Dur:4th,Slur|Pos:-10,-8,-5|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-10,-8,-5|Opts:Stem=Down
+|Chord|Dur:Half|Pos:-10,-5
+|Chord|Dur:4th|Pos:-9,-4
+|Spacer|Width:225
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-3
+|Chord|Dur:4th,Slur|Pos:-10,-8,-5|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-10,-8,-5|Opts:Stem=Down
+|Chord|Dur:Half,Dotted|Pos:-7,-2
+|Spacer|Width:500
+|Bar
+|Chord|Dur:Half|Pos:-8,-3
+|Chord|Dur:4th|Pos:-9,-6,-4
+|Chord|Dur:Half|Pos:-10,-8,-5
+|Chord|Dur:4th|Pos:-9,-8,-6
+|Bar
+|Chord|Dur:Whole|Pos:-10,-8,-5
+|Rest|Dur:Half
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"From the Cyber Hymnal™"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:19|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:110|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Church Organ"|Patch:19|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-2
+|Lyric1|Text:"\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db,Gb|Tonic:D
+|TimeSig|Signature:6/4
+|Chord|Dur:Half,Dotted|Pos:-7,0
+|Note|Dur:Half,Dotted|Pos:0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,0
+|Note|Dur:Half,Dotted|Pos:0
+|Bar
+|RestChord|Dur:4th,Slur|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Dotted,Slur|Pos2:-4
+|Chord|Dur:4th|Pos:0,3|Opts:Stem=Up
+|Chord|Dur:4th|Pos:0,3|Opts:Stem=Up
+|RestChord|Dur:4th|Opts:Stem=Up,ArticulationsOnStem,HideRest|Dur2:Half,Dotted|Pos2:-4
+|Chord|Dur:Half|Pos:0,3|Opts:Stem=Up
+|Spacer|Width:550
+|Spacer|Width:175
+|Bar
+|Note|Dur:4th,Slur|Pos:-7
+|Note|Dur:4th,Slur|Pos:-5
+|Note|Dur:4th,Slur|Pos:-3
+|Note|Dur:Half,Dotted|Pos:0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,0
+|Note|Dur:Half,Dotted|Pos:0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,0
+|Note|Dur:Half,Dotted|Pos:0
+|Bar
+|Chord|Dur:Half|Pos:-6,1
+|Note|Dur:4th|Pos:1
+|Note|Dur:Half|Pos:1
+|Note|Dur:4th|Pos:1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:Half,Slur|Pos:-10,-3|Opts:Slur=Upward
+|Chord|Dur:4th,Slur|Pos:-9,-2|Opts:Slur=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Placement:AtNextNote
+|Chord|Dur:Half,Dotted|Pos:-8,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,0
+|Note|Dur:Half,Dotted|Pos:0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,0
+|Note|Dur:Half,Dotted|Pos:0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,0
+|Chord|Dur:Half,Dotted|Pos:-4,3
+|Bar
+|Note|Dur:4th,Slur|Pos:-4|Opts:Slur=Upward
+|Note|Dur:4th,Slur|Pos:-2|Opts:Slur=Upward
+|Note|Dur:4th,Slur|Pos:0|Opts:Slur=Upward
+|Note|Dur:Half,Dotted|Pos:3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,0
+|Note|Dur:Half,Dotted|Pos:0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,0
+|Chord|Dur:Half,Dotted|Pos:-4,3
+|Bar
+|Note|Dur:Half|Pos:-3
+|Note|Dur:4th|Pos:-3
+|Note|Dur:Half|Pos:-3
+|Note|Dur:4th|Pos:-3
+|Bar
+|Chord|Dur:Whole|Pos:-7,0
+|Rest|Dur:Half
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

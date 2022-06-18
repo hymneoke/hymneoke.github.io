@@ -1,0 +1,220 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:67|SelectIndex:68|CaretPos:1
+|SongInfo|Title:"Cidenton, 87.87 D"|Author:"Ira Allan Sankey, 1907"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Hallowed Hymns New and Old, by I. Allan Sankey (Chicago, Illinois: Biglow & Main, 1908), # 72."
+|PgSetup|StaffSize:21|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:1
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:1
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:1
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:1
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Treble Clef"|Label:"Treble Clef"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:16|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Dost thou know, O tri-fling mor-tal,\nWhere to-mor-row will be spent?\nHast thou hope be-yond death’s por-tal\nShould swift call for thee be sent?\n\nOne more hour to seek the Sav-ior,\nHis once of-fered love to grasp;\nWhat were worlds be-side the fa-vor\nOf Thy lov-ing hand to clasp?\n"
+|Lyric2|Text:"2._Think what un-a-vail-ing sor-row\nWhen that mor-row is to-day;\nWhat wouldst thou not give to bor-row\nOne brief hour from life’s lost day!\n\nOne more hour to seek the Sav-ior,\nHis once of-fered love to grasp;\nWhat were worlds be-side the fa-vor\nOf Thy lov-ing hand to clasp?\n"
+|Lyric3|Text:"3._Now that love is wait-ing for thee,\nThat pierced hand held out to save;\nAll His cru-el wounds im-plore you,\n“Come, My life for you I gave!”\n\nOne more hour to seek the Sav-ior,\nHis once of-fered love to grasp;\nWhat were worlds be-side the fa-vor\nOf Thy lov-ing hand to clasp?\n"
+|Lyric4|Text:"4._There may be no more to-mor-row,\nNo more suns for thee may rise;\nThine no more earth’s joys and sor-rows,\nSmil-ing morn, or eve-ning skies.\n\nOne more hour to seek the Sav-ior,\nHis once of-fered love to grasp;\nWhat were worlds be-side the fa-vor\nOf Thy lov-ing hand to clasp?\n"
+|Lyric5|Text:"5._Oh, how long-er can you grieve Him,\nHow His mer-cy turn a-way?\nCome, with thank-ful tears re-ceive Him;\nCome to Je-sus, come to-day!\n\nOne more hour to seek the Sav-ior,\nHis once of-fered love to grasp;\nWhat were worlds be-side the fa-vor\nOf Thy lov-ing hand to clasp?\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:12|Justify:Center
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:#-6,n-4
+|Bar
+|Chord|Dur:Half|Pos:#-6^,-2^
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-4,-3^
+|Chord|Dur:8th|Pos:n-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:n-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-2,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:#-6,n-4
+|Bar
+|Chord|Dur:Half|Pos:#-6^,-2^
+|Chord|Dur:8th|Pos:-6,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:n-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-6,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:Half|Pos:-5^,-3^
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,n0
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-5,0
+|Chord|Dur:4th|Pos:-3,2
+|Rest|Dur:4th
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,0
+|Bar
+|Chord|Dur:Half,Slur|Pos:0|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-3
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-4,-3
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:Half|Pos:-5^,-3^
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-2,3
+|Chord|Dur:8th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:n-4,1
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th|Pos:#-6,-1
+|Chord|Dur:8th|Pos:-6,-2
+|Bar
+|Chord|Dur:Half|Pos:-5^,-3^|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Down
+|TempoVariance|Style:Ritardando|Pos:8
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"Cidenton, 87.87 D"|Label:"Cidenton, 87.87 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-2^,n1^
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-4,n5
+|Chord|Dur:8th|Pos:-4,5
+|Bar
+|Chord|Dur:Half|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,5
+|Bar
+|Chord|Dur:Half|Pos:2^,4^
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,3
+|Bar
+|Chord|Dur:Half|Pos:-2^,n1^
+|Chord|Dur:8th|Pos:-2,1
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Bar
+|Chord|Dur:Half|Pos:-1,5
+|Chord|Dur:4th|Pos:-1,5
+|Chord|Dur:8th|Pos:n1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:2^,5^
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:-5,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,#3
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:Half|Pos:-2,2,5
+|Chord|Dur:4th|Pos:-2,5
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:8th|Pos:0,n5
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:n1,#6
+|Bar
+|Chord|Dur:Half|Pos:7|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:2
+|Note|Dur:4th|Pos:6|Opts:Stem=Up
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:8th|Pos:-2,5
+|Rest|Dur:4th,Dotted
+|Bar
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:-1,5
+|Chord|Dur:8th|Pos:n1,5
+|Chord|Dur:8th|Pos:1,5
+|Bar
+|Chord|Dur:Half|Pos:2^,5^
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,5
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:8th|Pos:-5,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,2
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

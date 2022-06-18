@@ -1,0 +1,225 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Builded on the Rock"|Author:"Mrs. Caroline Rice"|Lyricist:"Mrs. Caroline Rice, 1918"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source:  Evangel Songs (Springfield, Missouri: Gospel Publishing House, 1931), # 6. Also in Melodies of Praise (Springfield, Missouri: Gospel Publishing House, 1957), # 109. Publication date found at http://www.hymnary.org"
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:34|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._I builded on_the Rock, on_the Rock of God,\nBuild-ed on the Rock, Christ Je-sus;\nI dug down deep and builded on_the Rock,\nBuild-ed on the Rock of God.\n\nI hold not the Rock, but the Rock holds me,\nThe Rock holds me, the Rock holds me;\nI rest on the Rock, and the Rock holds me,\nRest-ing on the Rock of God.\n"
+|Lyric2|Text:"2._Why should I fear when_the winds sweep by?\nBuild-ed on the Rock, Christ Je-sus;\nOr shak-en be when_the waves roll high?\nBuild-ed on the Rock of God.\n\nI hold not the Rock, but the Rock holds me,\nThe Rock holds me, the Rock holds me;\nI rest on the Rock, and the Rock holds me,\nRest-ing on the Rock of God.\n"
+|Lyric3|Text:"3._Hush, rag-ing bil-lows_at His com-mand,\nBuild-ed on the Rock, Christ Je-sus;\nOh, peace be still ’neath His loving hand!\nBuild-ed on the Rock of God.\n\nI hold not the Rock, but the Rock holds me,\nThe Rock holds me, the Rock holds me;\nI rest on the Rock, and the Rock holds me,\nRest-ing on the Rock of God.\n"
+|Lyric4|Text:"4._Praise God for our found-a-tion sure!\nBuild-ed on the Rock, Christ Je-sus;\nNo storms can harm our home se-cure,\nBuild-ed on the Rock of God.\n\nI hold not the Rock, but the Rock holds me,\nThe Rock holds me, the Rock holds me;\nI rest on the Rock, and the Rock holds me,\nRest-ing on the Rock of God.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:100|Pos:11|Justify:Center
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th,Dotted,Slur|Pos:-3,-1
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-7,-5|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-6,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th,Dotted,Slur|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-5|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:16th|Pos2:-5
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3|Opts:Slur=Upward
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:8|Justify:Right
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-3,1|Opts:Stem=Down,Slur=Upward,XNoteSpace=1
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-7,-5|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-6
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:8th|Pos2:-6
+|Bar
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th|Pos:-3,-1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th|Pos:-3,1|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-7,-5|Opts:Slur=Upward
+|Chord|Dur:Half|Pos:-6|Opts:Stem=Up,Slur=Upward,ArticulationsOnStem|Dur2:Half|Pos2:-6
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-6,-3|Opts:Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Slur=Upward
+|Chord|Dur:16th|Pos:-5,-2|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Slur=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-3|Opts:Slur=Upward
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"Builded on the Rock"|Label:"Builded on the Rock"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:11|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-13
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nI hold not the Rock, but the Rock holds me,\nThe Rock holds me, the Rock holds me;\nI rest on the Rock, and the Rock holds me,\nRest-ing on the Rock of God.\n\nI hold not the Rock, but the Rock holds me,\nThe Rock holds me, the Rock holds me;\nI rest on the Rock, and the Rock holds me,\nRest-ing on the Rock of God.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:2,6|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:16th|Pos:2,6|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted,Slur|Pos:-1,5|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:16th|Pos:-1,5|Opts:Stem=Down,Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted,Slur|Pos:-1,5|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:16th|Pos:-1,5|Opts:Stem=Down,Slur=Downward
+|Bar
+|Chord|Dur:8th,Dotted,Slur|Pos:-2,5|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:16th|Pos:-2,5|Opts:Stem=Down,Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-2,2|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Slur=Downward
+|Bar|Style:Double
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward,XNoteSpace=1
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:-1,5|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,5|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Chord|Dur:4th,Dotted|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th|Pos:2,6|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:-1,5|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-2,2|Opts:Slur=Downward
+|Chord|Dur:Half|Pos:2,4|Opts:Slur=Downward
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-3,4|Opts:Slur=Downward
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Slur=Downward
+|Chord|Dur:16th|Pos:-2,2|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:-1,5|Opts:Slur=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:2,4|Opts:Slur=Downward
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

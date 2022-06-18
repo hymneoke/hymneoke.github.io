@@ -1,0 +1,224 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"In the Hollow of His Hand"|Author:"Samuel William Beazley"|Lyricist:"Florence Jones Hadley, circa 1914"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Zion’s Golden Jubilee, edited & compiled by Will M. Ramsey (Atlanta, Georgia: Morris-Henson Company, 1929), p. 41."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:29|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._In the hol-low of His hand He will hide me\nWh-en doubt and sin draw near,\nThough no earth-ly friend may walk be-side me,\nI rest se-cure from fear.\n\nI know what-e’er be-tide me,\nHis hand will safe-ly guide me,\nHis love will ev-er hide me\nIn the hol-low of His hand.\n"
+|Lyric2|Text:"2._In the hol-low of His hand He will hide me\nWhen the storm is on the deep,\nAnd I know what-ev-er may be-tide me,\nHis vig-il He will keep.\n\nI know what-e’er be-tide me,\nHis hand will safe-ly guide me,\nHis love will ev-er hide me\nIn the hol-low of His hand.\n"
+|Lyric3|Text:"3._In the hol-low of His hand He will hide me\nWhen the storms of life sweep by,\nTo the har-bor sa-fe He will guide me,\nWhere_His bless-èd is-lands lie.\n\nI know what-e’er be-tide me,\nHis hand will safe-ly guide me,\nHis love will ev-er hide me\nIn the hol-low of His hand.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Text|Text:"Male Chorus or Quartet"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Down
+|Bar
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:8th,Dotted|Pos:-1,2
+|Chord|Dur:16th|Pos:-1,2
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:Half|Pos:-4,-1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,3
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:4th,Slur|Pos:2|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:0,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:4th|Pos:-2,1
+|Chord|Dur:4th|Pos:-2,1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:Half|Pos:-1,4
+|Chord|Dur:8th,Dotted|Pos:n-1^,3^
+|Chord|Dur:16th|Pos:-1,3
+|Spacer|Width:300
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,n2
+|Chord|Dur:8th|Pos:-1,0
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:0,2
+|Spacer|Width:325
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:11|Placement:AtNextNote
+|Chord|Dur:4th,Slur|Pos:0|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:4th,Slur|Pos:1|Opts:Slur=Downward
+|TempoVariance|Style:Fermata|Pause:0|Pos:11|Justify:Center|Placement:AtNextNote
+|Note|Dur:4th|Pos:2
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:20
+|Chord|Dur:4th|Pos:1,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:Half|Pos:-2,0
+|Chord|Dur:8th,Slur|Pos:1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:4th|Pos2:-2
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:-1,2
+|Bar
+|Chord|Dur:4th|Pos:-1,2
+|Chord|Dur:Half|Pos:-1,1
+|Chord|Dur:4th|Pos:1,3
+|Spacer|Width:175
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,n3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,b3
+|Bar
+|Chord|Dur:4th|Pos:0,n2
+|Chord|Dur:Half|Pos:0,2
+|Chord|Dur:8th,Dotted|Pos:n0,2
+|Chord|Dur:16th|Pos:0,2
+|Bar
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th,Dotted|Pos:1,3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Spacer|Width:200
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-1,1
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"The Hollow of His Hand"|Label:"The Hollow of His Hand"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Bar
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,2
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:Half|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:1
+|Chord|Dur:8th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:1
+|Chord|Dur:4th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Chord|Dur:4th|Pos:0,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1,1
+|Chord|Dur:4th,Slur|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-3,1
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-1,n1
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th|Pos:-5,2
+|Chord|Dur:Half|Pos:-5,2
+|Chord|Dur:8th,Dotted|Pos:-5^,2^
+|Chord|Dur:16th|Pos:-5,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-2,n1
+|Chord|Dur:4th|Pos:-2,n0
+|Chord|Dur:4th|Pos:-2,4
+|Boundary|Style:NewSize|Upper:12
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:-8|Justify:Right|Placement:AtNextNote
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:1
+|Note|Dur:4th,Slur|Pos:4|Opts:Stem=Up
+|TempoVariance|Style:Fermata|Pause:0|Pos:-8|Justify:Right|Placement:AtNextNote
+|Note|Dur:4th|Pos:5|Opts:Stem=Up
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:4
+|Chord|Dur:4th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:1
+|Chord|Dur:Half|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Chord|Dur:4th|Pos:n1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:1,b3
+|Chord|Dur:4th|Pos:0,2
+|Chord|Dur:4th|Pos:0,2
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,1
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:4th|Pos:2,n4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th|Pos:-2,4
+|Chord|Dur:Half|Pos:-2,4
+|Chord|Dur:8th,Dotted|Pos:b2,4
+|Chord|Dur:16th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th,Dotted|Pos:1,4
+|Chord|Dur:4th|Pos:-6,1,3
+|Chord|Dur:4th|Pos:-6,1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

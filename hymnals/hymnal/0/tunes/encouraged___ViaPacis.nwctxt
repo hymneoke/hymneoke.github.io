@@ -1,0 +1,149 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Via Pacis, 66.66.88"|Author:"Joseph Barnby, 1889"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The New Psalms and Hymns (Richmond, Virginia: Presbyterian Committee of Publication, 1901), # 16."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._En-cour-aged by Thy word\nOf prom-ise to the poor;\nBe-hold, a beg-gar, Lord,\nWaits at Thy mer-cy’s door!\nNo hand, no heart, O Lord, but Thine,\nCan help or pit-y wants like mine.\n"
+|Lyric2|Text:"2._The beg-gar’s u-sual plea\nRe-lief from men to gain,\nIf of-fered un-to Thee,\nI know Thou would’st dis-dain:\nAnd pleas which move Thy gra-cious ear,\nAre such as men would scorn to hear.\n"
+|Lyric3|Text:"3._I have no right to say\nThat though I now am poor,\nYet once there was a day\nWhen I pos-sess-èd more:\nThou know’st that from my ver-y birth,\nI’ve been the poor-est wretch on earth.\n"
+|Lyric4|Text:"4._Nor can I dare pro-fess,\nAs beg-gars of-ten do,\nThough great is my dis-tress,\nMy wants have been but few:\nIf Thou shouldst leave my soul to starve,\nIt would be what I well de-serve.\n"
+|Lyric5|Text:"5._’Twere fol-ly to pre-tend\nI nev-er begged be-fore;\nOr if Thou now be-friend,\nI’ll trou-ble Thee no more:\nThou of-ten hast re-lieved my pain,\nAnd of-ten I must come a-gain.\n"
+|Lyric6|Text:"6._Though crumbs are much too good\nFor such a dog as I;\nNo less than chil-dren’s food\nMy soul can sat-is-fy:\nO do not frown and bid me go,\nI must have all Thou canst be-stow.\n"
+|Lyric7|Text:"7._Nor can I will-ing be\nThy boun-ty to con-ceal\nFrom oth-ers, who like me,\nTheir wants and hun-ger feel:\nI’ll tell them of Thy mer-cy’s store,\nAnd try to send a thou-sand more.\n"
+|Lyric8|Text:"8._Thy thoughts, Thou on-ly wise!\nOur thoughts and ways tran-scend,\nFar as the arch-èd skies\nA-bove the earth ex-tend:\nSuch pleas as mine men would not bear,\nBut God re-ceives a beg-gar’s prayer.\n"
+|Clef|Type:Treble
+|Key|Signature:F#,C#|Tonic:D
+|Tempo|Tempo:110|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th,Dotted|Pos:n-6,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-2
+|Chord|Dur:4th|Pos:-8,-3
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Note|Dur:4th|Pos:-5
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5,-4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,0
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:#-4,#-2
+|Bar
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Chord|Dur:4th|Pos:#-4,#-2
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:Half|Pos:-4,1
+|Chord|Dur:Half|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-1
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:4th|Pos:-1,2
+|Note|Dur:4th|Pos:-3
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,#-1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:4th|Pos:-5,n-1
+|Bar
+|Chord|Dur:4th|Pos:-5,-2
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-5,-4
+|Chord|Dur:4th|Pos:-5,0
+|Bar
+|Chord|Dur:Half|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:-5
+|Chord|Dur:Half|Pos:-6,-4
+|Bar
+|Chord|Dur:Whole|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:Whole|Pos2:-5
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Via Pacis, 66.66.88"|Label:"Via Pacis, 66.66.88"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#,C#|Tonic:D
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:0,2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,3
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,3
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,7
+|Chord|Dur:8th|Pos:-2,7
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:5,6
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:4th|Pos:#3,5
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:-2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:2|Opts:Stem=Up
+|Chord|Dur:Half|Pos:1,#3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:3,6
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:4th|Pos:2,7
+|Note|Dur:4th|Pos:2
+|Bar
+|Chord|Dur:4th|Pos:1,#4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:4th|Pos:n-1,2
+|Bar
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:4th|Pos:-4,5
+|Chord|Dur:4th|Pos:-4,1
+|Bar
+|Chord|Dur:Half|Pos:-3,2
+|Chord|Dur:Half|Pos:-3,3
+|Bar
+|Chord|Dur:Whole|Pos:0,2
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End

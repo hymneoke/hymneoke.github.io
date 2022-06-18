@@ -1,0 +1,196 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Blood-Washed Throng"|Author:"Fanny Crosby"|Lyricist:"Frances Jane (Fanny) Crosby, 1906"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Tune name: “Simi Valley.”"
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:29|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._There is a blood-washed mul-ti-tude, a might-y arm-y strong;\nThe Lord of hosts their right-eous-ness, re-deem-ing love their song.\nThey fol-low Christ whose name they bear, to yon-der por-tals bright,\nWhere He has said His faith-ful ones shall walk with Him in white.\n"
+|Lyric2|Text:"2._That pre-cious name their guid-ing star, its beams will o’er them cast,\nAnd through its power their trust-ing souls shall o-ver-come at last.\nThe glor-y cloud will bring them safe to yon-der pal-ace bright,\nWhere they shall see Him eye to eye and walk with Him in white.\n"
+|Lyric3|Text:"3._March on! O blood-washed mul-ti-tude, for lo! the hour draws nigh,\nWhen we shall hail the King of kings tri-umph-ant in the sky.\nWhen songs of praise to Him we love, shall fill the courts of light,\nAnd they that o-ver-come the world, shall walk with Him in white.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:55|Pos:12|Justify:Center
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:2/4
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Spacer|Width:550
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up
+|Chord|Dur:16th,Slur|Pos:-1|Opts:Stem=Up,Beam=First,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Note|Dur:16th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-4
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-6,-1|Opts:Stem=Up
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-7,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-7,-5|Opts:Stem=Up
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Up
+|Spacer|Width:300
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:b-3,-1|Opts:Stem=Up
+|Bar
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,#1|Opts:Stem=Up
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up
+|Spacer|Width:400
+|Bar
+|Chord|Dur:8th|Pos:-1,b1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Up
+|Spacer|Width:475
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Spacer|Width:325
+|Bar
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-4,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,1|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,1|Opts:Stem=Up
+|Spacer|Width:225
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,0|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-5
+|Spacer|Width:450
+|Bar
+|Chord|Dur:8th|Pos:-6,-4|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-5,-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Up
+|Spacer|Width:250
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-2,0|Opts:Stem=Up
+|Note|Dur:8th|Pos:-2|Opts:Stem=Up
+|Chord|Dur:8th|Pos:-2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:-1
+|Spacer|Width:225
+|Bar
+|Chord|Dur:8th|Pos:-2,0|Opts:Stem=Up
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up
+|Chord|Dur:8th,Dotted|Pos:-3,-1|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-5,-2|Opts:Stem=Up
+|Bar
+|Chord|Dur:Half|Pos:-5,-2|Opts:Stem=Up
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"The Blood-Washed Throng"|Label:"The Blood-Washed Throng"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:2/4
+|Note|Dur:8th|Pos:3|Opts:Stem=Down
+|Bar
+|Note|Dur:8th|Pos:3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,7|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:16th,Slur|Pos:-1,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:1,#3|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-3,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,2|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,3|Opts:Stem=Down
+|Note|Dur:8th|Pos:3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:b3,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:4,7|Opts:Stem=Down
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Note|Dur:8th|Pos:4|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,7|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:16th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,8|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,4|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th,Dotted|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:3,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,8|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:0,7|Opts:Stem=Down
+|Chord|Dur:8th|Pos:0,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:0,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:3,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

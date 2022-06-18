@@ -1,0 +1,247 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:89|CaretPos:1
+|SongInfo|Title:"The Eden Above"|Author:"Willard W. Whitney"|Lyricist:"Willard W. Whitney, 1872"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Sacred Songs & Solos, 888 Pieces, by Ira D. Sankey (London: Morgan & Scott Ld., late 19th Century), # 27. Publication date found at http://www.hymnary.org."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff 1"|Label:"Staff 1"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._We_shall meet in the E-den a-bove,\nIn_that beau-ti-ful land of the blest;\nAll_our tri-als and pains will be o’er,\nWhen_we en-ter that man-sion of rest.\n\nIn the E-den a-bove,\nIn the E-den a-bove,\n\nAll_our tri-als and pains will be o’er,\nWhen_we en-ter that man-sion of rest.\n"
+|Lyric2|Text:"2._When_we meet in the E-den a-bove,\nWhen_we en-ter that bliss-ful a-bode,\nAll_the good who have passed on be-fore,\nWe_shall meet in the Ci-ty of God.\n\nIn the E-den a-bove,\nIn the E-den a-bove,\n\nAll_the good who have passed on be-fore,\nWe_shall meet in the Ci-ty of God.\n"
+|Lyric3|Text:"3._The saints of all ag-es are there,\nThe pro-phets and mar-tyrs of old;\nThe child-ren whose voic-es on earth_are_still,\nNow sing in that ci-ty of gold.\n\nIn the E-den a-bove,\nIn the E-den a-bove,\n\nThe child-ren whose voic-es on earth_are_still,\nNow sing in that ci-ty of gold.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:113|Pos:12|Justify:Right
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted,Slur|Pos:-6,-1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:16th|Pos:-6,0|Opts:Stem=Up,Beam=End
+|Spacer|Width:600
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-5,-3
+|Chord|Dur:16th|Pos:-5,-2
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1
+|Chord|Dur:8th,Dotted,Slur|Pos:-4,-1|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-4,0|Opts:Stem=Up,Beam=End
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-4,3
+|Chord|Dur:8th,Dotted|Pos:-4,3
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,0
+|Chord|Dur:8th,Dotted,Slur|Pos:-3,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-3,1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,-2|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:-5,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Dotted,Slur|Pos:-6,-1|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Stem=Down
+|Spacer|Width:125
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th,Dotted|Pos:-6,-1|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Down
+|Spacer|Width:200
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:1
+|Text|Text:"Repeat softly"|Font:StaffItalic|Pos:10
+|Note|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,Slur=Downward,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:-4
+|Note|Dur:8th,Dotted,Slur|Pos:-6|Opts:Stem=Down,Slur=Downward,Beam=First
+|Note|Dur:16th,Slur|Pos:-6|Opts:Stem=Down,Slur=Downward,Beam=End
+|Note|Dur:4th|Pos:-6|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-6,-1
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:3
+|Note|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-4,3
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half,Dotted|Pos2:0
+|Note|Dur:8th,Dotted,Slur|Pos:-4|Opts:Stem=Down,Beam=First
+|Note|Dur:16th,Slur|Pos:-4|Opts:Stem=Down,Beam=End
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted,Slur|Pos:-3,0|Opts:Stem=Up,Beam=First
+|Chord|Dur:16th|Pos:-3,1|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-3,2
+|Chord|Dur:16th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,0
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4,-2|Opts:Slur=Downward
+|Chord|Dur:4th,Slur|Pos:-5,-1|Opts:Slur=Upward
+|Chord|Dur:4th|Pos:-5,0
+|Chord|Dur:8th,Dotted,Slur|Pos:-6,-1|Opts:Stem=Up,Slur=Downward,Beam=First
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Up,Beam=End
+|Spacer|Width:375
+|Bar
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-6,-4
+|Chord|Dur:16th|Pos:-6,-4
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-5,0
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"The Eden Above"|Label:"The Eden Above"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:14|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-4
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nIn the beau-ti-ful, beau-ti-ful E-den a-bove,\nIn the beau-ti-ful, beau-ti-ful E-den a-bove,\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:4/4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th,Dotted|Pos:1|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:1
+|Chord|Dur:16th|Pos:1|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,1
+|Chord|Dur:8th,Dotted|Pos:-1,4
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:4th|Pos2:4
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Stem=Down
+|Chord|Dur:8th,Dotted,Slur|Pos:0,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-1,n4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-1,n4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:n0,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,5
+|Chord|Dur:4th,Slur|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:8th,Dotted,Slur|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:0,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:Double
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:0,4
+|Chord|Dur:16th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,4
+|Chord|Dur:16th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Up,ArticulationsOnStem|Dur2:16th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Dotted,Slur|Pos:0,5|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-1,n4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-1,n4
+|Chord|Dur:4th|Pos:0,5
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:n0,5
+|Bar
+|Chord|Dur:4th,Slur|Pos:1,5
+|Chord|Dur:4th,Slur|Pos:1,4|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:8th,Dotted,Slur|Pos:2,4|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:0,4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th,Dotted|Pos:1,4
+|Chord|Dur:16th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

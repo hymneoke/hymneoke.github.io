@@ -1,0 +1,195 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Adoro Te, 88.88.88"|Author:"Joseph Barnby, 1872"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 355."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._While mid-night shades the earth o’er-spread,\nAnd veil the bos-om of the deep,\nNa-ture re-clines her wea-ry head,\nAnd care re-spires and sor-rows sleep;\nMy soul still aims at nobl-er rest,\nAs-pir-ing to her Sav-ior’s breast.\n"
+|Lyric2|Text:"2._Aid me, ye hov-ering spir-its near,\nAn-gels and min-is-ters of grace;\nWho ev-er, while you guard us here,\nBe-hold your heaven-ly Fa-ther’s face!\nGen-tly my rap-tured soul con-vey\nTo re-gions of e-ter-nal day.\n"
+|Lyric3|Text:"3._Fain would I leave this earth be-low,\nOf pain and sin the dark a-bode;\nWhere shad-owy joy, or sol-id woe,\nAl-lures, or tears me from my God:\nDoubt-ful and in-se-cure of bliss,\nSince death a-lone con-firms me His.\n"
+|Lyric4|Text:"4._Till then, to sor-row born, I sigh,\nAnd gasp, and lan-guish af-ter home;\nUp-ward I send my stream-ing eye,\nEx-pect-ing till the Bride-groom come:\nCome quick-ly, Lord! Thy own re-ceive;\nNow let me see Thy face, and live.\n"
+|Lyric5|Text:"5._Ab-sent from Thee, my ex-iled soul\nDeep in a flesh-ly dun-geon groans;\nA-round me clouds of dark-ness roll,\nAnd la-boring si-lence speaks my moans:\nCome quick-ly, Lord! Thy face dis-play,\nAnd look my mid-night in-to day.\n"
+|Lyric6|Text:"6._Er-ror, and sin, and death are o’er,\nIf Thou re-verse the crea-ture’s doom;\nSad Ra-chel weeps her loss no more,\nIf Thou, the God, the Sav-ior come:\nOf Thee poss-est, in Thee we prove\nThe light, the life, the heaven of love.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-7,-2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-6,-2|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-3|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-7,-4|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,-2|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-3,0|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,n-1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-5|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-2|Opts:Stem=Down,Tie=Upward
+|Chord|Dur:4th|Pos:#-3,n-1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,0|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-5,0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,3|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:n-4|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:-3|Opts:Stem=Down,Tie=Upward
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-2
+|Bar
+|Chord|Dur:Half|Pos:-2,0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3,-1|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-1,1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-3|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:Half|Pos:b-5,-3|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:b-5
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up,Tie=Upward
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-5
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-6,-1|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-1|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-1
+|Chord|Dur:4th|Pos:-2|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-2
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:Half|Pos:-4|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-4|Opts:Stem=Down,Slur=Upward,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-4
+|Note|Dur:4th|Pos:-5|Opts:Stem=Down,Tie=Upward
+|Chord|Dur:4th|Pos:-6,-4|Opts:Stem=Up,Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-7,-4|Opts:Stem=Up,Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:6
+|AddStaff|Name:"Adoro Te, 88.88.88"|Label:"Adoro Te, 88.88.88"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-3,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-2,3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:3,7|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:7|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:-1
+|Note|Dur:4th|Pos:3|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:-1,6|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:0,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:0,6|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:3,5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-2,4|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:1,3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:8
+|Note|Dur:4th|Pos:2|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:3,b7|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:4,6|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:4
+|Bar
+|Chord|Dur:4th,Slur|Pos:-1|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:0|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:n1,6|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:2,6|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:2,6|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:5|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,4|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-2,5|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:4|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:1,3|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,4|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:4
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Chord|Dur:4th|Pos:2|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:2
+|Bar
+|Chord|Dur:Half|Pos:1|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:1
+|Chord|Dur:4th|Pos:1|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:1
+|Bar
+|Chord|Dur:4th,Slur|Pos:6|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:5|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:-3,4|Opts:Stem=Down,Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:1,3|Opts:Stem=Down,Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:6
+!NoteWorthyComposer-End

@@ -1,0 +1,202 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Let the Lower Lights Be Burning"|Author:"Philip Paul Bliss"|Lyricist:"Philip Paul Bliss, 1871"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Tabernacle Hymns Number Five (Chicago, Illinois: Tabernacle Publishing, 1955), # 60."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:28|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Bright-ly beams our Fa-ther’s mer-cy from His light-house ev-er-more,\nBut to us He gives the keep-ing of the lights a-long the shore.\nLet the low-er lights be burn-ing! Send a gleam a-cross the wave!\nFor to us He gives the keep-ing of the lights a-long the shore.\n"
+|Lyric2|Text:"2._Dark the night of sin has set-tled, loud the an-gry bil-lows roar;\nEa-ger eyes are watch-ing, long-ing, for the lights a-long the shore.\nLet the low-er lights be burn-ing! Send a gleam a-cross the wave!\nEa-ger eyes are watch-ing, long-ing, for the lights a-long the shore.\n"
+|Lyric3|Text:"3._Trim your fee-ble lamp, my bro-ther, some poor sail-or temp-est tossed,\nTry-ing now to make the har-bor, in the dark-ness may be lost.\nLet the low-er lights be burn-ing! Send a gleam a-cross the wave!\nTry-ing now to make the ha-rbor, some poor sai-lor may be lost.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb|Tonic:B
+|Tempo|Tempo:100|Pos:12|Justify:Right
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Slur=Upward
+|Spacer|Width:350
+|Bar
+|Chord|Dur:8th|Pos:-3,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-4,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-4,-1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-4,0|Opts:Stem=Up,Slur=Upward
+|Spacer|Width:300
+|Bar
+|Boundary|Style:NewSize|Lower:27
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:16th|Pos:-2,1|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:16th|Pos:-6,-1|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-5,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:16th|Pos:-5,0|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-2,3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:16th|Pos:-2,3|Opts:Stem=Down,Slur=Upward
+|Bar
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-3,2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:16th|Pos:-3,2|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:n-4,2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:16th|Pos:-4,1|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-3|Opts:Stem=Down,ArticulationsOnStem|Dur2:Half|Pos2:1
+|Note|Dur:4th|Pos:-4|Opts:Stem=Down,Slur=Upward
+|Boundary|Style:NewSize|Lower:23
+|Chord|Dur:8th,Dotted|Pos:-5,-3|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:16th|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-3,2|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:8th|Pos:-2,3|Opts:Stem=Down,Slur=Upward
+|Chord|Dur:4th,Dotted|Pos:-4,-2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-2,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:16th|Pos:-2,1|Opts:Stem=Up,Slur=Upward
+|Spacer|Width:275
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th|Pos:-5,0|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:8th,Dotted|Pos:-4,1|Opts:Stem=Up,Slur=Upward
+|Chord|Dur:16th|Pos:-6,-1|Opts:Stem=Up,Slur=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Stem=Up,Slur=Upward
+|Bar|Style:LocalRepeatClose|Repeat:3
+|AddStaff|Name:"Lower Lights"|Label:"Lower Lights"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:13|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb|Tonic:B
+|TimeSig|Signature:3/4
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:1,3|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,3|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5|Opts:Stem=Down
+|Note|Dur:8th|Pos:2|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Boundary|Style:NewSize|Upper:11
+|Chord|Dur:8th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:5
+|Note|Dur:16th|Pos:5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:8th|Pos:-2,5
+|Chord|Dur:4th,Dotted|Pos:-2,5
+|Chord|Dur:8th,Dotted|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th,Dotted|Pos2:5
+|Chord|Dur:16th|Pos:5|Opts:Stem=Down,ArticulationsOnStem|Dur2:16th|Pos2:5
+|Boundary|Style:NewSize|Upper:8
+|Bar
+|Chord|Dur:4th,Dotted|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:8th|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:3,6|Opts:Stem=Down
+|Chord|Dur:16th|Pos:3,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-2,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:4th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:8th,Dotted|Pos:1,5|Opts:Stem=Down
+|Chord|Dur:16th|Pos:1,5|Opts:Stem=Down
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,5|Opts:Stem=Down
+|Chord|Dur:8th|Pos:2|Opts:Stem=Down,ArticulationsOnStem|Dur2:8th|Pos2:2
+|Chord|Dur:8th,Dotted|Pos:2,4|Opts:Stem=Down
+|Chord|Dur:16th|Pos:2,6|Opts:Stem=Down
+|Bar
+|Chord|Dur:Half|Pos:-2,5|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:3
+!NoteWorthyComposer-End

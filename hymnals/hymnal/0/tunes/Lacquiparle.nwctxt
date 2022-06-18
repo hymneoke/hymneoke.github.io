@@ -1,0 +1,196 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"Many and Great, O God"|Author:"American Indian Tune"|Lyricist:"Joseph R. Renville, 1842 "|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Book of Hymns (Nashville, Tennessee: United Methodist Publishing House, 1964), # 40."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Staff"|Label:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._Ma-ny and great, O God, are Thy things,\nMak-er of earth and sky;\nThy hands have set the heav-ens_with stars;\nThy fin-gers spread the mount-ains_and plains.\nLo, at Thy Word the wa-ters_were formed;\nDeep seas o-bey Thy voice.\n"
+|Lyric2|Text:"2._Grant un-to us com-mun-ion with Thee,\nThou star a-bid-ing One;\nCome un-to us and dwell with us;\nWith Thee are found the gifts of life,\nBless us with life that has no end,\nE-tern-al life with Thee.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Tempo|Tempo:130|Pos:12|Justify:Right
+|TimeSig|Signature:2/2
+|Text|Text:"Unison"|Font:StaffItalic|Pos:9
+|Note|Dur:Half|Pos:-6
+|Note|Dur:4th|Pos:-6
+|Note|Dur:4th|Pos:-6
+|Spacer|Width:200
+|Bar
+|Note|Dur:Half,Dotted|Pos:-2
+|Note|Dur:4th|Pos:-1
+|Spacer|Width:250
+|Bar
+|Note|Dur:Half|Pos:-2
+|Note|Dur:4th|Pos:-2
+|Note|Dur:4th|Pos:-3
+|Spacer|Width:275
+|Bar
+|Note|Dur:Whole|Pos:-4
+|Spacer|Width:425
+|Bar
+|Note|Dur:Half|Pos:-3
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Bar
+|Note|Dur:Half|Pos:-6
+|Note|Dur:Half|Pos:-5
+|Spacer|Width:200
+|Bar
+|Note|Dur:Whole|Pos:-6
+|Spacer|Width:250
+|Bar
+|Note|Dur:Half|Pos:-6
+|Note|Dur:4th|Pos:-6
+|Note|Dur:4th|Pos:-6
+|Spacer|Width:300
+|Bar
+|Note|Dur:Half,Dotted|Pos:1
+|Note|Dur:4th|Pos:2
+|Spacer|Width:200
+|Bar
+|Note|Dur:Half|Pos:1
+|Note|Dur:4th,Slur|Pos:1
+|Note|Dur:4th|Pos:0
+|Spacer|Width:400
+|Bar
+|Note|Dur:Whole|Pos:-2
+|Spacer|Width:300
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-2
+|Spacer|Width:250
+|Bar
+|Note|Dur:Half,Dotted|Pos:-2
+|Note|Dur:4th|Pos:-4
+|Spacer|Width:150
+|Bar
+|Note|Dur:Half|Pos:-3
+|Note|Dur:4th,Slur|Pos:-3|Opts:Slur=Upward
+|Note|Dur:4th|Pos:-5
+|Spacer|Width:375
+|Bar
+|Note|Dur:Whole|Pos:-6
+|Spacer|Width:400
+|Bar
+|Note|Dur:Half|Pos:-6
+|Note|Dur:4th|Pos:-6
+|Note|Dur:4th|Pos:-6
+|Spacer|Width:275
+|Bar
+|Note|Dur:Half,Dotted|Pos:-2
+|Note|Dur:4th|Pos:-1
+|Spacer|Width:225
+|Bar
+|Note|Dur:Half|Pos:-2
+|Note|Dur:4th,Slur|Pos:-2|Opts:Slur=Upward
+|Note|Dur:4th|Pos:-3
+|Spacer|Width:450
+|Bar
+|Note|Dur:Whole|Pos:-4
+|Spacer|Width:525
+|Bar
+|Note|Dur:Half|Pos:-3
+|Note|Dur:4th|Pos:-3
+|Note|Dur:4th|Pos:-5
+|Bar
+|Note|Dur:Half|Pos:-6
+|Note|Dur:Half|Pos:-5
+|Spacer|Width:300
+|Bar
+|Note|Dur:Whole|Pos:-6
+|Bar|Style:LocalRepeatClose|Repeat:2
+|AddStaff|Name:"Lacquiparle"|Label:"Lacquiparle"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:2/2
+|Note|Dur:Half|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:Half,Dotted|Pos:3
+|Note|Dur:4th|Pos:4
+|Bar
+|Note|Dur:Half|Pos:3
+|Note|Dur:4th|Pos:3
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:Whole|Pos:1
+|Bar
+|Note|Dur:Half|Pos:2
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:Half|Pos:-1
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Note|Dur:Whole|Pos:-1
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:Half,Dotted|Pos:6
+|Note|Dur:4th|Pos:7
+|Bar
+|Note|Dur:Half|Pos:6
+|Note|Dur:4th|Pos:6
+|Note|Dur:4th|Pos:5
+|Bar
+|Note|Dur:Whole|Pos:3
+|Bar
+|Note|Dur:Half|Pos:6
+|Note|Dur:4th|Pos:6
+|Note|Dur:4th|Pos:5
+|Bar
+|Note|Dur:Half,Dotted|Pos:3
+|Note|Dur:4th|Pos:1
+|Bar
+|Note|Dur:Half|Pos:2
+|Note|Dur:4th|Pos:2
+|Chord|Dur:4th|Pos:-4,0
+|Bar
+|Note|Dur:Whole|Pos:-1
+|Bar
+|Note|Dur:Half|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Note|Dur:4th|Pos:-1
+|Bar
+|Note|Dur:Half,Dotted|Pos:3
+|Note|Dur:4th|Pos:4
+|Bar
+|Note|Dur:Half|Pos:3
+|Note|Dur:4th|Pos:3
+|Note|Dur:4th|Pos:2
+|Bar
+|Note|Dur:Whole|Pos:1
+|Bar
+|Note|Dur:Half|Pos:2
+|Note|Dur:4th|Pos:2
+|Note|Dur:4th|Pos:0
+|Bar
+|Note|Dur:Half|Pos:-1
+|Chord|Dur:Half|Pos:-4,0
+|Bar
+|Note|Dur:Whole|Pos:-1
+|Bar|Style:LocalRepeatClose|Repeat:2
+!NoteWorthyComposer-End

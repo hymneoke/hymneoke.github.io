@@ -1,0 +1,231 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"The Tomb Is Empty Now"|Author:"Franklin Lycurgus Eiland"|Lyricist:"Eden Reeder Latta, 1892"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: Song Crown, by Austin Taylor et al. (Austin, Texas: Firm Foundation Publishing, 1912), # 54."
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:23|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"String Ensemble 1"|Patch:48|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._A-dieu to ev-ery fear!\nThe tomb is emp-ty now!\nYe need not seek Him here!\nThe tomb is emp-ty now!\n\nHe reigns, He reigns in Heav’n,\nIn Heav’n to-day, to-day;\nA crown up-on His brow!\nHis brow! The sha-dows flee,\nThe sha-dows flee a-way!\nA-way! The tomb is emp-ty now!\n"
+|Lyric2|Text:"2._In death He closed His eyes!\nThe tomb is emp-ty now!\nBy faith I see Him rise!\nThe tomb is emp-ty now!\n\nHe reigns, He reigns in Heav’n,\nIn Heav’n to-day, to-day;\nA crown up-on His brow!\nHis brow! The sha-dows flee,\nThe sha-dows flee a-way!\nA-way! The tomb is emp-ty now!\n"
+|Lyric3|Text:"3._Be-hold where He was laid!\nThe tomb is emp-ty now!\nOur debt of sin He paid!\nThe tomb is emp-ty now!\n\nHe reigns, He reigns in Heav’n,\nIn Heav’n to-day, to-day;\nA crown up-on His brow!\nHis brow! The sha-dows flee,\nThe sha-dows flee a-way!\nA-way! The tomb is emp-ty now!\n"
+|Lyric4|Text:"4._In Him our hopes we place!\nThe tomb is emp-ty now!\nAnd we shall see His face!\nThe tomb is emp-ty now!\n\nHe reigns, He reigns in Heav’n,\nIn Heav’n to-day, to-day;\nA crown up-on His brow!\nHis brow! The sha-dows flee,\nThe sha-dows flee a-way!\nA-way! The tomb is emp-ty now!\n"
+|Clef|Type:Treble
+|Tempo|Tempo:110|Pos:12|Justify:Center
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:6/8
+|Text|Text:"Duet"|Font:StaffItalic|Pos:9
+|Note|Dur:8th|Pos:-4
+|Spacer|Width:350
+|Bar
+|Text|Text:"With expression"|Font:StaffItalic|Pos:9
+|Note|Dur:4th|Pos:-1|Opts:Stem=Down
+|Note|Dur:8th|Pos:0
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th|Pos:0
+|Spacer|Width:225
+|Bar
+|Note|Dur:4th,Dotted|Pos:-1^
+|Note|Dur:4th|Pos:-1
+|Text|Text:"Semi-Chorus"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-1,3
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th|Pos:-2,0
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,0^
+|Chord|Dur:4th|Pos:-2,0
+|Text|Text:"Duet"|Font:StaffItalic|Pos:9
+|Note|Dur:8th|Pos:-4
+|Bar
+|Note|Dur:4th|Pos:-1
+|Note|Dur:8th|Pos:0
+|Note|Dur:4th|Pos:1
+|Note|Dur:8th|Pos:2
+|Spacer|Width:275
+|Bar
+|Note|Dur:4th,Dotted|Pos:1^
+|Note|Dur:4th|Pos:1
+|Text|Text:"Semi-Chorus"|Font:StaffItalic|Pos:9
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up|Dur2:8th|Pos2:-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0|Opts:Stem=Down
+|Chord|Dur:8th|Pos:-1|Opts:Stem=Up|Dur2:8th|Pos2:-1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-1^
+|Chord|Dur:4th|Pos:-4,-1
+|Bar|Style:Double
+|Boundary|Style:NewSize|Lower:15
+|Instrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127|Pos:10|Visibility:Never
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:1^
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:0^
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:1^
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Spacer|Width:450
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-3,0
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Spacer|Width:425
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6^,-4^
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-4
+|Bar
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:-1^
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-6,-1
+|Chord|Dur:8th|Pos:-5,0
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:1^
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,2
+|Spacer|Width:325
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:1^
+|Note|Dur:8th|Pos:-4|Opts:Stem=Down
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,-1
+|Spacer|Width:400
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-1^
+|Chord|Dur:4th|Pos:-4,-1
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"The Tomb Is Empty Now"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:-4
+|Lyric1|Text:"He reigns, He reigns in Heav’n,\nIn Heav’n to-day, to-day;\nA crown up-on His brow!\nHis brow! The sha-dows flee,\nThe sha-dows flee a-way!\nA-way! The tomb is emp-ty now!\n\nHe reigns, He reigns in Heav’n,\nIn Heav’n to-day, to-day;\nA crown up-on His brow!\nHis brow! The sha-dows flee,\nThe sha-dows flee a-way!\nA-way! The tomb is emp-ty now!\n"
+|Clef|Type:Bass
+|Key|Signature:F#,C#,G#|Tonic:A
+|TimeSig|Signature:6/8
+|Note|Dur:8th|Pos:-3|Opts:Lyric=Never
+|Bar
+|Note|Dur:4th|Pos:-1|Opts:Lyric=Never
+|Note|Dur:8th|Pos:1|Opts:Lyric=Never
+|Note|Dur:4th|Pos:4|Opts:Lyric=Never
+|Note|Dur:8th|Pos:1|Opts:Lyric=Never
+|Bar
+|Note|Dur:4th,Dotted|Pos:-3^|Opts:Lyric=Never
+|Note|Dur:4th|Pos:-3|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:4,6|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th|Pos:1,6|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,8|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1^,8^|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Note|Dur:8th|Pos:1|Opts:Lyric=Never
+|Spacer|Width:275
+|Bar
+|Note|Dur:4th|Pos:-1|Opts:Lyric=Never
+|Note|Dur:8th|Pos:1|Opts:Lyric=Never
+|Note|Dur:4th|Pos:4|Opts:Lyric=Never
+|Note|Dur:8th|Pos:4|Opts:Lyric=Never
+|Bar
+|Note|Dur:4th,Dotted|Pos:4^|Opts:Lyric=Never
+|Note|Dur:4th|Pos:4|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:4,6|Opts:Lyric=Never
+|Spacer|Width:250
+|Bar
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,6|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:1,8|Opts:Lyric=Never
+|Chord|Dur:8th|Pos:1,7|Opts:Lyric=Never
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,6^|Opts:Lyric=Never
+|Chord|Dur:4th|Pos:-3,6|Opts:Lyric=Never
+|Bar|Style:Double
+|Boundary|Style:NewSize|Upper:12
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:0,4
+|Chord|Dur:8th|Pos:0,4
+|Bar
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,4
+|Bar
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,1
+|Chord|Dur:4th|Pos:-3,1
+|Chord|Dur:8th|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:-1,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th|Pos:1,4
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,6^
+|Chord|Dur:4th|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

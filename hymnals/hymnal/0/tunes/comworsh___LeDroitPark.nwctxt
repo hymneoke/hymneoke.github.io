@@ -1,0 +1,202 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"LeDroit Park, 87.87 D"|Author:"Phoebe Palmer Knapp, 1885"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Epworth Hymnal (New York: Hunt & Eaton, 1885), # 7."
+|PgSetup|StaffSize:22|Zoom:4|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._An-gel voic-es breath-ing ev-er,\nSongs of praise to God on high,\nThro’ the gates of light and glo-ry,\nCall us now from yon-der sky.\n\nCome and wor-ship, come and wor-ship,\nWor-ship Christ our Lord and king;\nCome and wor-ship, come and wor-ship,\nWor-ship Christ our Lord and king.\n"
+|Lyric2|Text:"2._O’er the love-ly realm of na-ture\nBy her spar-kling foun-tains clear,\nThro’ the for-est and the val-ley,\nStill the ear-nest call we hear.\n\nCome and wor-ship, come and wor-ship,\nWor-ship Christ our Lord and king;\nCome and wor-ship, come and wor-ship,\nWor-ship Christ our Lord and king.\n"
+|Lyric3|Text:"3._When the morn-ing in its beau-ty\nWakes the earth from sleep pro-found,\nIn the mu-sic of the song bird\nWe can hear the grate-ful sound.\n\nCome and wor-ship, come and wor-ship,\nWor-ship Christ our Lord and king;\nCome and wor-ship, come and wor-ship,\nWor-ship Christ our Lord and king.\n"
+|Lyric4|Text:"4._In the whis-per of the twi-light,\nWhen the zeph-yrs mur-mur low,\nIn the sigh-ing of the leaf-let,\nWe can hear wher-e’er we go.\n\nCome and wor-ship, come and wor-ship,\nWor-ship Christ our Lord and king;\nCome and wor-ship, come and wor-ship,\nWor-ship Christ our Lord and king.\n"
+|Lyric5|Text:"5._Come and wor-ship our cre-a-tor,\nHim whose mer-cy we a-dore;\nCome and wor-ship our Re-deem-er,\nSing and praise for-ev-er-more.\n\nCome and wor-ship, come and wor-ship,\nWor-ship Christ our Lord and king;\nCome and wor-ship, come and wor-ship,\nWor-ship Christ our Lord and king.\n"
+|Clef|Type:Treble
+|Tempo|Tempo:93|Pos:12|Justify:Center
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Chord|Dur:8th,Triplet=First,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th,Triplet|Pos:n-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Triplet=First,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th,Triplet|Pos:2|Opts:Stem=Up,Beam=End
+|Note|Dur:8th,Triplet=End|Pos:1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-7,-4
+|Chord|Dur:16th|Pos:-5,-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th,Dotted|Pos:-4,1
+|Chord|Dur:16th|Pos:-4,0
+|Bar
+|Chord|Dur:Half|Pos:-5,-3
+|Chord|Dur:8th,Triplet=First,Slur|Pos:0|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th,Triplet|Pos:n-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-4,0
+|Bar
+|Chord|Dur:4th|Pos:-4,1
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:8th,Triplet=First,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th,Triplet|Pos:2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:-4,1
+|Bar
+|Chord|Dur:4th|Pos:-4,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,0
+|Chord|Dur:16th|Pos:-4,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2,2
+|Chord|Dur:8th|Pos:-5,-2
+|Chord|Dur:8th,Dotted|Pos:#-3,0
+|Chord|Dur:16th|Pos:-3,n-1
+|Bar
+|Chord|Dur:Half|Pos:-2|Opts:Stem=Up|Dur2:Half|Pos2:-2
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:n-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-5,-3
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:#-3,n-1
+|Bar
+|Chord|Dur:4th|Pos:-2,0
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-3,0
+|Chord|Dur:16th|Pos:-3,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,2
+|Chord|Dur:8th|Pos:-3,4
+|Chord|Dur:8th,Dotted|Pos:-3,3
+|Chord|Dur:16th|Pos:n-1,1
+|Bar
+|Chord|Dur:Half|Pos:0|Opts:Stem=Down|Dur2:Half|Pos2:0
+|Chord|Dur:8th,Dotted|Pos:-2,3
+|Chord|Dur:16th|Pos:-2,0
+|Bar
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-2,0
+|Chord|Dur:16th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-7,-4
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th,Dotted|Pos:-7,-4
+|Chord|Dur:16th|Pos:-4|Opts:Stem=Down|Dur2:16th|Pos2:-4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6|Opts:Stem=Up|Dur2:8th|Pos2:-6
+|Chord|Dur:8th,Dotted|Pos:-7,-5
+|Chord|Dur:16th|Pos:-8,-3
+|Bar
+|Chord|Dur:Half|Pos:-7,-4
+|Bar|Style:LocalRepeatClose|Repeat:5
+|AddStaff|Name:"LeDroit Park, 87.87 D"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:22|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|Chord|Dur:8th,Triplet=First,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th,Triplet|Pos:#2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Triplet=First,Slur|Pos:6|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th,Triplet|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:1,4
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,3
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:1,5
+|Chord|Dur:8th|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:4|Opts:Stem=Down|Dur2:8th,Dotted|Pos2:4
+|Chord|Dur:16th|Pos:3,5
+|Bar
+|Chord|Dur:Half|Pos:5|Opts:Stem=Down|Dur2:Half|Pos2:5
+|Chord|Dur:8th,Triplet=First,Slur|Pos:3|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th,Triplet|Pos:#2|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:1,3
+|Bar
+|Chord|Dur:4th|Pos:1,4
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:8th,Triplet=First,Slur|Pos:6|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:1
+|Note|Dur:8th,Triplet|Pos:5|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Triplet=End|Pos:1,4
+|Bar
+|Boundary|Style:NewSize|Upper:13
+|Chord|Dur:4th|Pos:1,3
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:3,5
+|Chord|Dur:16th|Pos:1,3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,5
+|Chord|Dur:8th|Pos:0,5
+|Chord|Dur:8th,Dotted|Pos:0,6
+|Chord|Dur:16th|Pos:0,6
+|Bar
+|Chord|Dur:Half|Pos:3,5
+|Chord|Dur:8th,Dotted|Pos:-2,5
+|Chord|Dur:16th|Pos:-2,5
+|Bar
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:4th|Pos:5|Opts:Stem=Down|Dur2:4th|Pos2:5
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,6
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:0,5
+|Chord|Dur:16th|Pos:2,n4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:5|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:5
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:8th,Dotted|Pos:2,n4
+|Chord|Dur:16th|Pos:2,8
+|Bar
+|Chord|Dur:Half|Pos:5,7
+|Chord|Dur:8th,Dotted|Pos:1,5
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:8th,Dotted|Pos:1,8
+|Chord|Dur:16th|Pos:1,5
+|Bar
+|Chord|Dur:4th|Pos:1,3
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:-1,3
+|Chord|Dur:8th,Dotted|Pos:-4,3
+|Chord|Dur:16th|Pos:-4,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,4
+|Chord|Dur:8th|Pos:-3,2
+|Chord|Dur:8th,Dotted|Pos:-2,2|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-2,4
+|Bar
+|Chord|Dur:Half|Pos:1,3
+|Bar|Style:LocalRepeatClose|Repeat:5
+!NoteWorthyComposer-End

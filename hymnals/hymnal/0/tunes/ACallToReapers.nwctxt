@@ -1,0 +1,260 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"A Call to Reapers"|Author:"James Edmond Thomas"|Lyricist:"William I. Feazell, 1905"|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: New Hosannas, by J. E. Thomas et al. (Fort Worth, Texas: Quartet Music Company, 1906), # 60."
+|PgSetup|StaffSize:14|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:9|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:5|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Soprano"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:25|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-8
+|Lyric1|Text:"1._The har-vest is white and the reap-ers are few,\nWhile thou-sands are dy-ing in sin,\nAnd the Sav-ior a-bove is call-ing for you,\nTo ga-ther the lost ones in.\n\nGa-ther them in, the gold-en grain,\nGo ga-ther from fields of sin;\nThe har-vest is white and the glean-ers are few,\nO reap-ers!\nGa-ther the last ones in.\n"
+|Lyric2|Text:"2._The Lord of the har-vest ap-peals un-to you,\nTo go out in the fields of sin,\nAnd tell to the world this Gos-pel so true,\nAnd win-ning the lost ones to Him.\n\nGa-ther them in, the gold-en grain,\nGo ga-ther from fields of sin;\nThe har-vest is white and the glean-ers are few,\nO reap-ers!\nGa-ther the last ones in.\n"
+|Lyric3|Text:"3._The Sav-ior is with us, so bur-y your fears;\nYour la-bors will not be in vain;\nIn the morn-ing sow seed and bathe them in tears,\nRe-turn-ing at eve with grain.\n\nGa-ther them in, the gold-en grain,\nGo ga-ther from fields of sin;\nThe har-vest is white and the glean-ers are few,\nO reap-ers!\nGa-ther the last ones in.\n"
+|Lyric4|Text:"4._When life’s work is done and we ga-ther at home,\nWith mil-lions now wait-ing us there,\nEv-ery soul we have won will add a bright star\nTo_the beau-ti-ful crown_we shall wear.\n\nGa-ther them in, the gold-en grain,\nGo ga-ther from fields of sin;\nThe har-vest is white and the glean-ers are few,\nO reap-ers!\nGa-ther the last ones in.\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|Tempo|Tempo:80|Pos:12|Justify:Right
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:16th,Slur|Pos:-1,1|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Rest|Dur:8th
+|Chord|Dur:16th|Pos:b-2,-1
+|Chord|Dur:16th|Pos:-2,-1
+|Bar
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:16th,Slur|Pos:-6,-4|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:16th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:8th,Dotted|Pos:-1,1
+|Chord|Dur:16th|Pos:-4,0
+|Chord|Dur:8th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-2^,3^
+|Chord|Dur:4th|Pos:-2,3
+|Chord|Dur:16th|Pos:-1,1
+|Chord|Dur:16th|Pos:-1,2
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th,Slur|Pos:-1,1|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-1,1|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:b-2,-1
+|Bar
+|Chord|Dur:16th|Pos:-3,0
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:16th,Slur|Pos:-6,-4|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:16th|Pos:-6,-4|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th,Slur|Pos:-4,1|Opts:Stem=Up,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:-4,1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4^,-1^
+|Chord|Dur:4th|Pos:-4,-1
+|Rest|Dur:8th
+|Bar|Style:Double
+|Text|Text:"Refrain"|Font:StaffItalic|Pos:9
+|Boundary|Style:NewSize|Lower:18
+|Chord|Dur:8th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-4,-2
+|Chord|Dur:8th|Pos:-3,-1
+|Rest|Dur:8th
+|Chord|Dur:8th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th|Pos:-4,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-6,-4
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|Chord|Dur:8th|Pos:-5,0
+|Chord|Dur:8th|Pos:-6,-1
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Up,Beam=First|Dur2:4th|Pos2:-4
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Slur|Pos:-2|Opts:Stem=Down|Dur2:4th,Dotted|Pos2:3^
+|Note|Dur:8th,Slur|Pos:-1|Opts:Stem=Down
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:0,3
+|Chord|Dur:8th|Pos:-4,1
+|Bar
+|Chord|Dur:8th,Dotted|Pos:-1,3
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:8th|Pos:-1,3
+|Chord|Dur:8th|Pos:-4,1
+|Rest|Dur:8th
+|Chord|Dur:16th|Pos:-4,-1
+|Chord|Dur:16th|Pos:n-4,-1
+|Bar
+|Chord|Dur:16th|Pos:-3,-1
+|Chord|Dur:8th,Dotted|Pos:-3,-1
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:8th|Pos:-6,-4
+|Rest|Dur:8th
+|TempoVariance|Style:Fermata|Pause:0|Pos:8|Placement:AtNextNote
+|Chord|Dur:8th|Pos:-6,-1
+|Bar
+|Chord|Dur:8th|Pos:-4,1
+|TempoVariance|Style:Fermata|Pause:0|Pos:6|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:b-2,3
+|Rest|Dur:4th,Dotted
+|Bar
+|Chord|Dur:8th|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,0
+|Chord|Dur:8th|Pos:-4,-1
+|Chord|Dur:4th|Pos:-1,1
+|Chord|Dur:8th|Pos:-4,0
+|Bar
+|Chord|Dur:8th,Slur|Pos:-1|Opts:Stem=Down,Slur=Upward,Beam=First|Dur2:4th,Dotted|Pos2:-1^
+|Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Down,Slur=Upward,Beam
+|Note|Dur:8th,Slur|Pos:-3|Opts:Stem=Down,Slur=Upward,Beam=End
+|Chord|Dur:4th|Pos:-4,-1|Opts:Stem=Down
+|Bar|Style:LocalRepeatClose|Repeat:4
+|AddStaff|Name:"A Call to Reapers"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:23|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:5
+|StaffInstrument|Name:"Pad 4 (choir)"|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Top|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nGa-ther the\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nreap-ers!\n_ _ _ _ _ _\nga-ther them_in.\n\nGa-ther them in, the gold-en grain,\nGo ga-ther from fields of sin;\nThe har-vest is white and the glean-ers are few,\nO reap-ers!\nGa-ther the last ones in.\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab,Db|Tonic:A
+|TimeSig|Signature:6/8
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,7
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:16th,Slur|Pos:4,8|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:16th|Pos:4,8|Opts:Stem=Down,Beam=End
+|Rest|Dur:8th
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:16th|Pos:4,6
+|Bar
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:16th,Slur|Pos:4|Opts:Stem=Down,Beam=First|Dur2:16th|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down,Beam=End|Dur2:16th|Pos2:4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,6
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th,Dotted|Pos:4,8
+|Chord|Dur:16th|Pos:3,8
+|Chord|Dur:8th|Pos:2,n7
+|Bar
+|Chord|Dur:4th,Dotted,Slur|Pos:1^,8|Opts:Slur=Downward
+|Chord|Dur:4th|Pos:1,5
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down|Dur2:16th|Pos2:4
+|Chord|Dur:16th|Pos:4,5
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,7
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:4th|Pos:4,8
+|Chord|Dur:8th|Pos:4,6
+|Bar
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,4|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,4
+|Chord|Dur:16th,Slur|Pos:4|Opts:Stem=Down,Beam=First|Dur2:16th|Pos2:4
+|Chord|Dur:16th|Pos:4|Opts:Stem=Down,Beam=End|Dur2:16th|Pos2:4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:2,6
+|Chord|Dur:16th|Pos:2,5
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:8th,Slur|Pos:1,4|Opts:Stem=Down,Slur=Downward,Beam=First
+|Chord|Dur:8th|Pos:1,4|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3^,4^,6^
+|Chord|Dur:4th|Pos:-3,4,6
+|Rest|Dur:8th
+|Bar|Style:Double
+|Rest|Dur:4th,Dotted
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:8th|Pos:2,7
+|Chord|Dur:8th|Pos:3,8
+|Bar
+|Chord|Dur:4th|Pos:4,6
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:4th|Pos:4|Opts:Stem=Down|Dur2:4th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Chord|Dur:8th,Slur|Pos:4,6|Opts:Stem=Down,Slur=Upward,Beam=First
+|Chord|Dur:8th|Pos:3,5|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Slur|Pos:5|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:1^
+|Note|Dur:8th,Slur|Pos:6|Opts:Stem=Up
+|Chord|Dur:4th|Pos:1,6
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Bar
+|Chord|Dur:8th,Dotted|Pos:4,6
+|Chord|Dur:16th|Pos:4,7
+|Chord|Dur:8th|Pos:4,6
+|Chord|Dur:8th|Pos:4|Opts:Stem=Down|Dur2:8th|Pos2:4
+|Rest|Dur:8th|Opts:Stem=Up
+|Chord|Dur:16th|Pos:-1,4
+|Chord|Dur:16th|Pos:-1,4
+|Bar
+|Chord|Dur:16th|Pos:0,7
+|Chord|Dur:8th,Dotted|Pos:0,7
+|Chord|Dur:8th|Pos:0,4
+|Chord|Dur:8th|Pos:-4,4
+|Rest|Dur:4th
+|Bar
+|Rest|Dur:4th,Dotted
+|Chord|Dur:8th|Pos:2,6
+|TempoVariance|Style:Fermata|Pause:0|Pos:7|Justify:Center|Placement:AtNextNote
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:8th|Pos:1,8
+|Chord|Dur:8th|Pos:1,7
+|Chord|Dur:8th|Pos:1,6
+|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:8th|Pos:1,7
+|Bar
+|Chord|Dur:8th|Pos:6|Opts:Stem=Up|Dur2:4th,Dotted|Pos2:-3^
+|Note|Dur:8th|Pos:8|Opts:Stem=Up
+|Note|Dur:8th|Pos:7|Opts:Stem=Up
+|Chord|Dur:4th|Pos:-3,6
+|Bar|Style:LocalRepeatClose|Repeat:4
+!NoteWorthyComposer-End

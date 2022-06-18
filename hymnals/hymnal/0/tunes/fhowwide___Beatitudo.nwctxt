@@ -1,0 +1,128 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:23|CaretPos:1
+|SongInfo|Title:"Beatitudo, CM"|Author:"John Bacchus Dykes, 1875"|Lyricist:""|Copyright1:"Public Domain"|Copyright2:"Courtesy of the Cyber Hymnal™"|Comments:"Source: The Psalter (Pittsburgh, Pennsylvania: United Presbyterian Board of Publication, 1912), # 195. Also in the Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 259."
+|PgSetup|StaffSize:22|Zoom:5|TitlePage:Y|JustifyVertically:N|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:20|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:20|BoundaryBottom:8|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-50
+|Lyric1|Text:"1._Fa-ther, how wide Thy glo-ries shine!\nHow high Thy won-ders rise!\nKnown through the earth by thou-sand signs,\nBy thou-sand through the skies.\n"
+|Lyric2|Text:"2._Those might-y orbs pro-claim Thy power,\nTheir mo-tions speak Thy skill,\nAnd on the wings of eve-ry hour\nWe read Thy pa-tience still.\n"
+|Lyric3|Text:"3._Part of thy Name di-vine-ly stands\nOn all Thy crea-tures writ,\nThey show the la-bor of Thine hands,\nOr im-press of Thy feet.\n"
+|Lyric4|Text:"4._But when we view Thy strange de-sign\nTo save re-bel-lious worms,\nWhere venge-ance and com-pas-sion join\nIn their di-vin-est forms;\n"
+|Lyric5|Text:"5._Our thoughts are lost in rev-erent awe;\nWe love and we a-dore;\nThe first arch-an-gel nev-er saw\nSo much of God be-fore.\n"
+|Lyric6|Text:"6._Here the whole De-i-ty is known,\nNor dares a crea-ture guess\nWhich of the glo-ries bright-est shone,\nThe jus-tice or the grace.\n"
+|Lyric7|Text:"7._When sin-ners broke the Fa-ther’s laws,\nThe dy-ing Son a-tones;\nOh the dear mys-teries of His cross!\nThe tri-umph of His groans!\n"
+|Lyric8|Text:"8._Now the full glo-ries of the Lamb\nA-dorn the heav’n-ly plains;\nSweet cher-ubs learn Im-man-uel’s name,\nAnd try their choic-est strains.\n"
+|Clef|Type:Treble
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th,Slur|Pos:-6|Opts:Stem=Down,ArticulationsOnStem,Tie=Upward|Dur2:Half|Pos2:-2
+|Note|Dur:4th|Pos:-7|Opts:Stem=Down,Tie=Upward
+|Chord|Dur:4th|Pos:-4,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-4|Opts:Stem=Up,ArticulationsOnStem,Tie=Upward|Dur2:4th|Pos2:-4
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:#-6,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,-2|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:#-5,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,-2|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-3,-1|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-5,0|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-4,0|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half|Pos:-4,1|Opts:Tie=Upward
+|Chord|Dur:4th|Pos:-5,-3|Opts:Tie=Upward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,-2|Opts:Tie=Upward
+|Bar|Style:LocalRepeatClose|Repeat:8
+|AddStaff|Name:"Beatitudo, CM"|Label:"Beatitudo, CM"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:17|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Bass
+|Key|Signature:F#|Tonic:G
+|TimeSig|Signature:3/4
+|Chord|Dur:4th|Pos:3,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:4th|Pos2:3
+|Bar
+|Chord|Dur:Half|Pos:-2,3|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:1|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:3
+|Note|Dur:4th|Pos:0|Opts:Stem=Down,Tie=Downward
+|Chord|Dur:4th|Pos:-1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:3,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:1,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th,Slur|Pos:3|Opts:Stem=Up,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:-3
+|Note|Dur:4th|Pos:2|Opts:Stem=Up,Tie=Downward
+|Chord|Dur:4th|Pos:-3,1|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:0,2|Opts:Tie=Downward
+|Bar
+|Chord|Dur:4th|Pos:0,7|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:2,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:3
+|Chord|Dur:4th|Pos:1,3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-2,2|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:#0,5|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:1,5|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,7|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:3|Opts:Stem=Down,ArticulationsOnStem,Tie=Downward|Dur2:Half|Pos2:3
+|Chord|Dur:4th|Pos:1,#3|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half|Pos:-3,4|Opts:Tie=Downward
+|Chord|Dur:4th|Pos:0,4|Opts:Tie=Downward
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-4,5|Opts:Tie=Downward
+|Bar|Style:LocalRepeatClose|Repeat:8
+!NoteWorthyComposer-End
